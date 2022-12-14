@@ -1,7 +1,7 @@
 {
   "name": "technical-company-tests",
   "version": "1.0.0",
-  "description": "Requested technical skills that measure the developer's knowledge during the selection process for a job position in a company.",
+  "description": "Aptitude technical skills that measure the developer's knowledge during the selection process for a job position in a company.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
