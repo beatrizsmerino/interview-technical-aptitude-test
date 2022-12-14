@@ -6,6 +6,7 @@
 	"scripts": {
 		"install:clean": "rm -rf node_modules package-lock.json",
 		"preinstall": "npm run install:clean",
+		"postinstall": "npm run lint",
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"prettier:fix": "prettier --write \"./**/*.{js,json}\"",
 		"eslint:fix": "eslint \"**/*.{js,json}\" --fix --ignore-path .eslintignore",
