@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"install:clean": "rm -rf node_modules package-lock.json",
-		"preinstall": "npm run install:clean",
+		"preinstall": "npm run install:clean && npm install --package-lock-only --ignore-scripts && npx npm-force-resolutions",
 		"postinstall": "npm run lint",
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"prettier:fix": "prettier --write \"./**/*.{js,json}\"",
@@ -39,5 +39,6 @@
 		"eslint-plugin-json": "^3.1.0",
 		"eslint-plugin-prettier": "^4.2.1",
 		"prettier": "^2.8.1"
-	}
+	},
+	"resolutions": {}
 }
