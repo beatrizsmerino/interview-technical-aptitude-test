@@ -11,6 +11,15 @@
     "url": "https://github.com/beatrizsmerino/technical-company-tests.git"
   },
   "homepage": "https://github.com/beatrizsmerino/technical-company-tests#readme",
+  "keywords": [
+    "technical",
+    "company",
+    "tests",
+    "skills",
+    "knowledge",
+    "job position",
+    "selection process"
+  ],
   "author": "Beatriz Sopeña Merino <beatrizsmerino@gmail.com>",
   "license": "ISC"
 }
