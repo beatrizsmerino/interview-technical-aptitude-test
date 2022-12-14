@@ -1,32 +1,32 @@
 {
-  "name": "interview-technical-aptitude-test",
-  "version": "1.0.0",
-  "description": "Aptitude technical skills that measure the developer's knowledge during the selection process for a job position in a company.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-	"prettier:fix": "prettier --write \"./**/*.{js,json}\"",
-	"lint": "npm run prettier:fix"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/beatrizsmerino/interview-technical-aptitude-test.git"
-  },
-  "homepage": "https://github.com/beatrizsmerino/interview-technical-aptitude-test#readme",
-  "keywords": [
-    "technical",
-    "company",
-    "tests",
-    "aptitude",
-    "skills",
-    "knowledge",
-    "job position",
-    "selection process",
-	"interview"
-  ],
-  "author": "Beatriz Sopeña Merino <beatrizsmerino@gmail.com>",
-  "license": "ISC",
-  "devDependencies": {
-    "prettier": "^2.8.1"
-  }
+	"name": "interview-technical-aptitude-test",
+	"version": "1.0.0",
+	"description": "Aptitude technical skills that measure the developer's knowledge during the selection process for a job position in a company.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"prettier:fix": "prettier --write \"./**/*.{js,json}\"",
+		"lint": "npm run prettier:fix"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/beatrizsmerino/interview-technical-aptitude-test.git"
+	},
+	"homepage": "https://github.com/beatrizsmerino/interview-technical-aptitude-test#readme",
+	"keywords": [
+		"technical",
+		"company",
+		"tests",
+		"aptitude",
+		"skills",
+		"knowledge",
+		"job position",
+		"selection process",
+		"interview"
+	],
+	"author": "Beatriz Sopeña Merino <beatrizsmerino@gmail.com>",
+	"license": "ISC",
+	"devDependencies": {
+		"prettier": "^2.8.1"
+	}
 }
