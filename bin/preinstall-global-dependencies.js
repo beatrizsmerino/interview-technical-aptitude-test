@@ -1,4 +1,4 @@
-"use strict";
+'use strict'
 
 const { execSync } = require('child_process')
 const fs = require('fs')
@@ -141,7 +141,8 @@ async function installGlobalDependencies() {
 
 			if (!found) {
 				execSync(
-					`${usingMacOS ? 'sudo' : ''
+					`${
+						usingMacOS ? 'sudo' : ''
 					} volta install ${dependenceNameToInstall}@${dependenceVersionToInstall}`,
 				)
 				console.log(
@@ -178,7 +179,8 @@ async function installGlobalDependencies() {
 
 			if (!found) {
 				execSync(
-					`${usingMacOS ? 'sudo' : ''
+					`${
+						usingMacOS ? 'sudo' : ''
 					} npm i -g ${dependenceNameToInstall}@${dependenceVersionToInstall}`,
 				)
 				console.log(
