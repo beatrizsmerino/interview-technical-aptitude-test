@@ -15,10 +15,12 @@
     "technical",
     "company",
     "tests",
+    "aptitude",
     "skills",
     "knowledge",
     "job position",
-    "selection process"
+    "selection process",
+	"interview"
   ],
   "author": "Beatriz Sopeña Merino <beatrizsmerino@gmail.com>",
   "license": "ISC"
