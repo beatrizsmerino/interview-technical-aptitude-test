@@ -23,5 +23,8 @@
 	"interview"
   ],
   "author": "Beatriz Sopeña Merino <beatrizsmerino@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.8.1"
+  }
 }
