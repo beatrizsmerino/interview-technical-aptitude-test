@@ -1,11 +1,11 @@
 {
   "name": "technical-company-tests",
   "version": "1.0.0",
-  "description": "",
+  "description": "Requested technical skills that measure the developer's knowledge during the selection process for a job position in a company.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Beatriz Sopeña Merino <beatrizsmerino@gmail.com>",
   "license": "ISC"
 }
