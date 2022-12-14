@@ -125,13 +125,17 @@ async function installGlobalDependencies() {
 			const dependenceVersionToInstall = toInstall[
 				dependenceNameToInstall
 			]
+				.toString()
 				.replace('~', '')
+				.toString()
 				.replace('^', '')
 			const found = Object.entries(installedVOLTA).find(
 				([dependenceNameInstalled, dependenceVersionInstalled]) =>
 					dependenceNameInstalled === dependenceNameToInstall &&
 					dependenceVersionInstalled
+						.toString()
 						.replace('~', '')
+						.toString()
 						.replace('^', '') === dependenceVersionToInstall,
 			)
 
@@ -158,13 +162,17 @@ async function installGlobalDependencies() {
 			const dependenceVersionToInstall = toInstall[
 				dependenceNameToInstall
 			]
+				.toString()
 				.replace('~', '')
+				.toString()
 				.replace('^', '')
 			const found = Object.entries(installedNVM).find(
 				([dependenceNameInstalled, dependenceVersionInstalled]) =>
 					dependenceNameInstalled === dependenceNameToInstall &&
 					dependenceVersionInstalled
+						.toString()
 						.replace('~', '')
+						.toString()
 						.replace('^', '') === dependenceVersionToInstall,
 			)
 
