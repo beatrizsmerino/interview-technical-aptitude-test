@@ -4,8 +4,9 @@
 	"description": "Aptitude technical skills that measure the developer's knowledge during the selection process for a job position in a company.",
 	"main": "index.js",
 	"scripts": {
+		"install:global": "node ./bin/preinstall-global-dependencies.js",
 		"install:clean": "rm -rf node_modules package-lock.json",
-		"preinstall": "npm run install:clean && npm install --package-lock-only --ignore-scripts && npx npm-force-resolutions",
+		"preinstall": "npm run install:clean && npm run install:global && npm install --package-lock-only --ignore-scripts && npx npm-force-resolutions",
 		"postinstall": "npm run lint",
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"prettier:fix": "prettier --write \"./**/*.{js,json}\"",
@@ -40,5 +41,6 @@
 		"eslint-plugin-prettier": "^4.2.1",
 		"prettier": "^2.8.1"
 	},
+	"globalDependencies": {},
 	"resolutions": {}
 }
