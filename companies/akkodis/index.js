@@ -31,7 +31,7 @@ const getCategoryNumber = categoryName => {
 };
 
 const getCategoryPath = (categories, categoryName) => {
-	const path = null;
+	const path = categoryName;
 	const categoryNumber = getCategoryNumber(categoryName);
 
 	console.log(categoryNumber);
