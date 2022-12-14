@@ -4,6 +4,8 @@
 	"description": "Aptitude technical skills that measure the developer's knowledge during the selection process for a job position in a company.",
 	"main": "index.js",
 	"scripts": {
+		"install:clean": "rm -rf node_modules package-lock.json",
+		"preinstall": "npm run install:clean",
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"prettier:fix": "prettier --write \"./**/*.{js,json}\"",
 		"eslint:fix": "eslint \"**/*.{js,json}\" --fix --ignore-path .eslintignore",
