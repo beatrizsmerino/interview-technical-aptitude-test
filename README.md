@@ -1,6 +1,6 @@
 # Technical company tests
 
-![Technical aptitude tests](./README/images/What-Next_-7.png)
+![Technical aptitude tests](./README/images/technical-company-tests.png)
 
 ## Description
 
