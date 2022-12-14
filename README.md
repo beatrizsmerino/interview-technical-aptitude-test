@@ -1,6 +1,6 @@
-# Technical company tests
+# Technical aptitude tests for interviews
 
-![Technical aptitude tests](./README/images/technical-company-tests.png)
+![Technical aptitude tests](./README/images/interview-technical-aptitude-test.png)
 
 ## Description
 

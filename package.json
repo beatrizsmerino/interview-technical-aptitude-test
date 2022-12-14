@@ -1,5 +1,5 @@
 {
-  "name": "technical-company-tests",
+  "name": "interview-technical-aptitude-test",
   "version": "1.0.0",
   "description": "Aptitude technical skills that measure the developer's knowledge during the selection process for a job position in a company.",
   "main": "index.js",
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/beatrizsmerino/technical-company-tests.git"
+    "url": "https://github.com/beatrizsmerino/interview-technical-aptitude-test.git"
   },
-  "homepage": "https://github.com/beatrizsmerino/technical-company-tests#readme",
+  "homepage": "https://github.com/beatrizsmerino/interview-technical-aptitude-test#readme",
   "keywords": [
     "technical",
     "company",
