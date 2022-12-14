@@ -30,6 +30,12 @@ function checkVolta() {
 	return false
 }
 
+function removeSignDependencieVersion(dependenceVersion) {
+	const result = dependenceVersion.toString().replace(/[~^<>=]/gu, '')
+
+	return result
+}
+
 function getGlobalDependenciesInstalledNVM() {
 	const dependenceListInstalled = JSON.parse(
 		execSync(`npm list -g --depth 0 --json`).toString(),
@@ -122,21 +128,14 @@ async function installGlobalDependencies() {
 
 		console.groupCollapsed('🚀 Preinstall global dependencies:')
 		Object.keys(toInstall).forEach(dependenceNameToInstall => {
-			const dependenceVersionToInstall = toInstall[
-				dependenceNameToInstall
-			]
-				.toString()
-				.replace('~', '')
-				.toString()
-				.replace('^', '')
+			const dependenceVersionToInstall = removeSignDependencieVersion(
+				toInstall[dependenceNameToInstall],
+			)
 			const found = Object.entries(installedVOLTA).find(
 				([dependenceNameInstalled, dependenceVersionInstalled]) =>
 					dependenceNameInstalled === dependenceNameToInstall &&
-					dependenceVersionInstalled
-						.toString()
-						.replace('~', '')
-						.toString()
-						.replace('^', '') === dependenceVersionToInstall,
+					removeSignDependencieVersion(dependenceVersionInstalled) ===
+						dependenceVersionToInstall,
 			)
 
 			if (!found) {
@@ -160,21 +159,14 @@ async function installGlobalDependencies() {
 
 		console.groupCollapsed('🚀 Dependencies:')
 		Object.keys(toInstall).forEach(dependenceNameToInstall => {
-			const dependenceVersionToInstall = toInstall[
-				dependenceNameToInstall
-			]
-				.toString()
-				.replace('~', '')
-				.toString()
-				.replace('^', '')
+			const dependenceVersionToInstall = removeSignDependencieVersion(
+				toInstall[dependenceNameToInstall],
+			)
 			const found = Object.entries(installedNVM).find(
 				([dependenceNameInstalled, dependenceVersionInstalled]) =>
 					dependenceNameInstalled === dependenceNameToInstall &&
-					dependenceVersionInstalled
-						.toString()
-						.replace('~', '')
-						.toString()
-						.replace('^', '') === dependenceVersionToInstall,
+					removeSignDependencieVersion(dependenceVersionInstalled) ===
+						dependenceVersionToInstall,
 			)
 
 			if (!found) {
