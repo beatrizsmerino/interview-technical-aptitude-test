@@ -1,5 +1,7 @@
 # Akkodis / Ejercicio JS BERSHKA
 
+## Description
+
 ```javascript
 const categories = [
     {
