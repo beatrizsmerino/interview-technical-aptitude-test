@@ -1,9 +1,9 @@
-/** @module methods */
-/** @requires module:methods.getCategoryPath */
-/** @requires module:data~categories */
+/** @module methods/checkCategoryPath */
 
-const { getCategoryPath } = require("./getCategoryPath.js");
+/** @requires module:data.categories */
+/** @requires module:methods.getCategoryPath */
 const { categories } = require("../data/categories.js");
+const { getCategoryPath } = require("./getCategoryPath.js");
 
 /** will be module:methods.checkCategoryPath */
 /** @description Output samples of the use `getCategoryPath` */
