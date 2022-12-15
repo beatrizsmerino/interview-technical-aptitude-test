@@ -1,11 +1,11 @@
-/** @module tests */
-/** @requires module:functions.getCategoryPath */
+/** @module methods */
+/** @requires module:methods.getCategoryPath */
 /** @requires module:data~categories */
 
-const { getCategoryPath } = require("./functions.js");
-const { categories } = require("./data.js");
+const { getCategoryPath } = require("./getCategoryPath.js");
+const { categories } = require("../data/index.js");
 
-/** will be module:tests.checkCategoryPath */
+/** will be module:methods.checkCategoryPath */
 /** @description Output samples of the use `getCategoryPath` */
 const checkCategoryPath = () => {
 	/** @example should output: '/category1/category3/category4' **/

@@ -1,6 +1,6 @@
-/** @module functions */
+/** @module methods */
 
-/** will be module:functions.getCategoryPath */
+/** will be module:methods.getCategoryPath */
 // eslint-disable-next-line multiline-comment-style
 /**
  * @param {array} categories List of categories
