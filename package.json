@@ -41,6 +41,9 @@
 		"eslint-plugin-prettier": "^4.2.1",
 		"prettier": "^2.8.1"
 	},
+	"dependencies": {
+		"jsdoc": "^4.0.0"
+	},
 	"globalDependencies": {},
 	"resolutions": {}
 }
