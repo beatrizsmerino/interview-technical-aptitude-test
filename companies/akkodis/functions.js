@@ -4,7 +4,7 @@ const getCategoryPath = (categories, categoryName) => {
 
 	categories.forEach(category => {
 		if (category.name != categoryName) {
-			if (typeof category.subcategories != "undefined") {
+			if (category.subcategories) {
 				const subcategory = getCategoryPath(
 					category.subcategories,
 					categoryName
