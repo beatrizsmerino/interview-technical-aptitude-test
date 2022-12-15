@@ -1,27 +1,6 @@
-const categories = [
-	{
-		name: "category1",
-		subcategories: [
-			{
-				name: "category2",
-				subcategories: []
-			},
-			{
-				name: "category3",
-				subcategories: [
-					{
-						name: "category4",
-						subcategories: []
-					}
-				]
-			}
-		]
-	},
-	{
-		name: "category5",
-		subcategories: []
-	}
-];
+const categories = require("./data.js");
+
+console.log(categories);
 
 // TO-DO: Implement this function
 const getCategoryNumber = categoryName => {
