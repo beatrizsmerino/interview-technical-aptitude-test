@@ -1,4 +1,4 @@
-/** @requires module:tests.tests */
-const { tests } = require("./tests.js");
+/** @requires module:tests.checkCategoryPath */
+const { checkCategoryPath } = require("./tests.js");
 
-tests();
+checkCategoryPath();

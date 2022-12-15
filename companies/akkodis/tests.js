@@ -5,9 +5,9 @@
 const { getCategoryPath } = require("./functions.js");
 const { categories } = require("./data.js");
 
-/** will be module:tests.tests */
+/** will be module:tests.checkCategoryPath */
 /** @description Output samples of the use `getCategoryPath` */
-const tests = () => {
+const checkCategoryPath = () => {
 	/** @example should output: '/category1/category3/category4' **/
 	console.log(getCategoryPath(categories, "category4"));
 
@@ -19,5 +19,5 @@ const tests = () => {
 };
 
 module.exports = {
-	tests
+	checkCategoryPath
 };
