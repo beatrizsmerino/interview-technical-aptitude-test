@@ -7,10 +7,26 @@ const getCategoryNumber = categoryName => {
 };
 
 const getCategoryPath = (categories, categoryName) => {
-	const path = categoryName;
+	let path = "";
 
 	const categoryNumber = getCategoryNumber(categoryName);
 	console.log(categoryNumber);
+
+	categories.forEach(category => {
+		if (category.name != categoryName) {
+			if (typeof category.subcategories != "undefined") {
+				const subcategory = getCategoryPath(
+					category.subcategories,
+					categoryName
+				);
+				if (subcategory) {
+					path += `/${category.name}${subcategory}`;
+				}
+			}
+		} else {
+			path = `/${category.name}`;
+		}
+	});
 
 	return path;
 };
