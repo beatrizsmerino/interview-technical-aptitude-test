@@ -1,3 +1,6 @@
+/** @module data */
+
+/** will be module:data~categories */
 const categories = [
 	{
 		name: "category1",

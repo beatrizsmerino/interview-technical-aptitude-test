@@ -1,4 +1,13 @@
-// TO-DO: Implement this function
+/** @module functions */
+
+/** will be module:functions.getCategoryPath */
+// eslint-disable-next-line multiline-comment-style
+/**
+ * @param {array} categories List of categories
+ * @param {string} categoryName Category selected
+ * @returns {string}
+ * @description Obtain a path with the parent categories and parent subcategories of the selected category, whose data is in a nested array object.
+ **/
 const getCategoryPath = (categories, categoryName) => {
 	let path = "";
 
