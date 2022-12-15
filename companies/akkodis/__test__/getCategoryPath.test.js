@@ -10,7 +10,15 @@ describe("Get full category path including parent and subcategories", () => {
 		expect(getCategoryPath(categories, "category2")).toBe("/category1/category2");
 	});
 
+	it("should return '/category1/category3' with 'category3'", () => {
+		expect(getCategoryPath(categories, "category3")).toBe("/category1/category3");
+	});
+
 	it("should return '/category5' with 'category5'", () => {
 		expect(getCategoryPath(categories, "category5")).toBe("/category5");
+	});
+
+	it("should return '/category1' with 'category1'", () => {
+		expect(getCategoryPath(categories, "category1")).toBe("/category1");
 	});
 });
