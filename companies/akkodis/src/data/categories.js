@@ -1,6 +1,7 @@
-/** @module data */
+/** @module data/categories */
 
-/** will be module:data~categories */
+/** will be module:data.categories */
+/** @constant {Array} categories List of categories */
 const categories = [
 	{
 		name: "category1",

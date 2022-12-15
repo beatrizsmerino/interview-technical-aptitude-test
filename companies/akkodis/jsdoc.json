@@ -1,7 +1,7 @@
 {
 	"source": {
 		"include": [
-			"./companies/akkodis/"
+			"./companies/akkodis/src"
 		],
 		"includePattern": ".+\\.js(doc|x)?$",
 		"exclude": [
