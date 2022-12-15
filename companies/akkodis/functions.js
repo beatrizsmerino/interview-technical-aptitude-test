@@ -8,8 +8,8 @@ const getCategoryNumber = categoryName => {
 
 const getCategoryPath = (categories, categoryName) => {
 	const path = categoryName;
-	const categoryNumber = getCategoryNumber(categoryName);
 
+	const categoryNumber = getCategoryNumber(categoryName);
 	console.log(categoryNumber);
 
 	return path;
