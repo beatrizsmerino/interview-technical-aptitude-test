@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const { getCategoryPath } = require("../functions.js");
 const { categories } = require("../data.js");
 
