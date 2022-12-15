@@ -9,6 +9,7 @@
 		"preinstall": "npm run install:clean && npm run install:global && npm install --ignore-scripts && npx npm-force-resolutions",
 		"postinstall": "npm run lint",
 		"test:akkodis": "node ./companies/akkodis/index.js",
+		"jsdocs:akkodis": "jsdoc -c ./companies/akkodis/jsdoc.json",
 		"prettier:fix": "prettier --write \"./**/*.{js,json}\"",
 		"eslint:fix": "eslint \"**/*.{js,json}\" --fix --ignore-path .eslintignore",
 		"lint": "npm run prettier:fix && npm run eslint:fix"
