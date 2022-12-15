@@ -46,13 +46,13 @@ console.log(getCategoryPath(categories, 'category5')); // should output: '/categ
 
 1. Run the `npm install` command to install the project dependencies:
 
-- `prettier` and `eslint` packages: formatter and linter code.
-- `jest` package: create test to check the code.
-- `jsdoc` package: generates code documentation.
+- __*`prettier`*__ and __*`eslint`*__ packages: formatter and linter code.
+- __*`jest`*__ package: create test to check the code.
+- __*`jsdoc`*__ package: generates code documentation.
 
 2. Use the next commands of npm
 
-- `lint`: to fix and format code
-- `test:akkodis`: to check with `console.log` the `getCategoryPath` function.
-- `jest:akkodis`: to check with `jest`  the `getCategoryPath` function.
-- `jsdocs:akkodis`: to generate the `JSDOC` documentation
+- __*`lint`*__: to fix and format code
+- __*`test:akkodis`*__: to check with `console.log` the `getCategoryPath` function.
+- __*`jest:akkodis`*__: to check with `jest`  the `getCategoryPath` function.
+- __*`jsdocs:akkodis`*__: to generate the `JSDOC` documentation
