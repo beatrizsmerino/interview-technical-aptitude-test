@@ -3,7 +3,7 @@
 /** @requires module:data~categories */
 
 const { getCategoryPath } = require("./getCategoryPath.js");
-const { categories } = require("../data/index.js");
+const { categories } = require("../data/categories.js");
 
 /** will be module:methods.checkCategoryPath */
 /** @description Output samples of the use `getCategoryPath` */
