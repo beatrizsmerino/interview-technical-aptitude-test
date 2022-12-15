@@ -5,6 +5,7 @@
 # FOLDERS
 .git
 dist
+*/**/jsdocs
 
 # FILES
 .gitignore

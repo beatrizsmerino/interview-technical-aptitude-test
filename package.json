@@ -8,7 +8,9 @@
 		"install:global": "node ./bin/preinstall-global-dependencies.js",
 		"preinstall": "npm run install:clean && npm run install:global && npm install --ignore-scripts && npx npm-force-resolutions",
 		"postinstall": "npm run lint",
-		"test": "echo \"Error: no test specified\" && exit 1",
+		"test:akkodis": "node ./companies/akkodis/src/index.js",
+		"jest:akkodis": "jest",
+		"jsdocs:akkodis": "jsdoc -c ./companies/akkodis/jsdoc.json",
 		"prettier:fix": "prettier --write \"./**/*.{js,json}\"",
 		"eslint:fix": "eslint \"**/*.{js,json}\" --fix --ignore-path .eslintignore",
 		"lint": "npm run prettier:fix && npm run eslint:fix"
@@ -39,7 +41,11 @@
 		"eslint-config-prettier": "^8.5.0",
 		"eslint-plugin-json": "^3.1.0",
 		"eslint-plugin-prettier": "^4.2.1",
+		"jest": "^29.3.1",
 		"prettier": "^2.8.1"
+	},
+	"dependencies": {
+		"jsdoc": "^4.0.0"
 	},
 	"globalDependencies": {},
 	"resolutions": {}
