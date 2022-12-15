@@ -1,11 +1,8 @@
 const { getCategoryPath } = require("./functions.js");
 const { categories } = require("./data.js");
 
-console.log(categories);
-
+// OUTPUT SAMPLES
 const tests = () => {
-	// OUTPUT SAMPLES
-
 	// should output: '/category1/category3/category4'
 	console.log(getCategoryPath(categories, "category4"));
 

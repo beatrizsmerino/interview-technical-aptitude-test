@@ -1,5 +1,4 @@
 // TO-DO: Implement this function
-
 const getCategoryPath = (categories, categoryName) => {
 	let path = "";
 
