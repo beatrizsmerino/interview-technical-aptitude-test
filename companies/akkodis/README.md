@@ -46,9 +46,9 @@ console.log(getCategoryPath(categories, 'category5')); // should output: '/categ
 
 1. Run the `npm install` command to install the project dependencies:
 
-- packages `prettier` and `eslint`: code formatter and linter
-- package `jest`: run the test to check the code
--`jsdoc`package: generates code documentation
+- `prettier` and `eslint` packages: formatter and linter code.
+- `jest` package: create test to check the code.
+- `jsdoc` package: generates code documentation.
 
 2. Use the next commands of npm
 
