@@ -1,4 +1,4 @@
-# Akkodis / Ejercicio JS BERSHKA
+# Akkodis - BERSHKA / ExecerciseJS
 
 ## Description
 
