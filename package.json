@@ -8,9 +8,9 @@
 		"install:global": "node ./bin/preinstall-global-dependencies.js",
 		"preinstall": "npm run install:clean && npm run install:global && npm install --ignore-scripts && npx npm-force-resolutions",
 		"postinstall": "npm run lint",
-		"test:akkodis": "node ./companies/akkodis/src/index.js",
+		"test:akkodis": "node ./companies/akkodis/practice/src/index.js",
 		"jest:akkodis": "jest",
-		"jsdocs:akkodis": "jsdoc -c ./companies/akkodis/jsdoc.json",
+		"jsdocs:akkodis": "jsdoc -c ./companies/akkodis/practice/jsdoc.json",
 		"prettier:fix": "prettier --write \"./**/*.{js,json}\"",
 		"eslint:fix": "eslint \"**/*.{js,json}\" --fix --ignore-path .eslintignore",
 		"lint": "npm run prettier:fix && npm run eslint:fix"

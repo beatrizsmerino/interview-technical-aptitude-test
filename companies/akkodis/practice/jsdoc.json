@@ -1,7 +1,7 @@
 {
 	"source": {
 		"include": [
-			"./companies/akkodis/src"
+			"./companies/akkodis/practice/src"
 		],
 		"includePattern": ".+\\.js(doc|x)?$",
 		"exclude": [
@@ -24,8 +24,8 @@
 		"monospaceLinks": false
 	},
 	"opts": {
-		"destination": "./companies/akkodis/jsdocs/",
+		"destination": "./companies/akkodis/practice/jsdocs/",
 		"recurse": true,
-		"readme": "./companies/akkodis/README.md"
+		"readme": "./companies/akkodis/practice/README.md"
 	}
 }
