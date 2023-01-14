@@ -9,5 +9,5 @@ To reinforce the concepts, in this same file I will present the oral questions t
 ## Questions and answers
 
 - [¿Qué es el DOM?](./what-is-the-DOM.md)
-- ¿Qué es el Server Side Rendering?
+- [¿Qué es el Server Side Rendering?](./what-is-the-SSR.md)
 - ¿Como funciona el estado en Vuex?
