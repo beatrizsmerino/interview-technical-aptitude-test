@@ -1,9 +1,11 @@
-###
-# Place your Prettier ignore content here
+# path/to/project/root/.stylelint.config.js
+# /node_modules/* and /bower_components/* in the project root are ignored by default
 
 ###
-# .gitignore content is duplicated here due to https://github.com/prettier/prettier/issues/8506
+# .gitignore content is duplicated here due
 .gitignore
+
+# Place your Stylelint ignore content here
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Node template

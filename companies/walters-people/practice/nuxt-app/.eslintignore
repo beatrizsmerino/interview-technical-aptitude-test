@@ -1,8 +1,11 @@
-###
-# Place your Prettier ignore content here
+# path/to/project/root/.eslintignore
+# /node_modules/* and /bower_components/* in the project root are ignored by default
 
 ###
-# .gitignore content is duplicated here due to https://github.com/prettier/prettier/issues/8506
+# Place your EsLint ignore content here
+
+###
+# .gitignore content is duplicated here due
 .gitignore
 
 # Created by .ignore support plugin (hsz.mobi)
@@ -94,4 +97,4 @@ sw.*
 .DS_Store
 
 # Vim swap files
-*.swp
+*.swap

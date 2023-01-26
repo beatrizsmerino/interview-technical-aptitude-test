@@ -31,6 +31,17 @@ export default {
     '@nuxtjs/stylelint-module',
   ],
 
+  eslint: {
+    fix: true,
+    cache: true,
+    emitWarning: true
+  },
+  stylelint: {
+    fix: true,
+    cache: true,
+    emitWarning: true
+  },
+
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
