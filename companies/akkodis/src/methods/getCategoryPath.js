@@ -9,27 +9,27 @@
  * @description Obtain a path with the parent categories and parent subcategories of the selected category, whose data is in a nested array object.
  **/
 const getCategoryPath = (categories, categoryName) => {
-	let path = "";
+	let path = ''
 
 	categories.forEach(category => {
 		if (category.name != categoryName) {
 			if (category.subcategories) {
 				const subcategory = getCategoryPath(
 					category.subcategories,
-					categoryName
-				);
+					categoryName,
+				)
 				if (subcategory) {
-					path += `/${category.name}${subcategory}`;
+					path += `/${category.name}${subcategory}`
 				}
 			}
 		} else {
-			path = `/${category.name}`;
+			path = `/${category.name}`
 		}
-	});
+	})
 
-	return path;
-};
+	return path
+}
 
 module.exports = {
-	getCategoryPath
-};
+	getCategoryPath,
+}
