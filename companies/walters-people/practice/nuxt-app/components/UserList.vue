@@ -97,13 +97,13 @@
 						type="primary"
 						icon="el-icon-edit"
 						size="medium"
-						@click="handleEdit(scope.$index, scope.row)"
+						@click="handleEditUser(scope.$index, scope.row)"
 					/>
 					<el-button
 						type="danger"
 						icon="el-icon-delete"
 						size="medium"
-						@click="handleDelete(scope.$index, scope.row)"
+						@click="handleDeleteUser(scope.$index, scope.row)"
 					/>
 				</template>
 			</el-table-column>
@@ -124,11 +124,11 @@
 		},
 		methods: {
 			...mapActions(['fetchUserList']),
-			handleEdit(index, row) {
-				console.log(index, row);
+			handleEditUser(userIndex, user) {
+				console.log(userIndex, user);
 			},
-			handleDelete(index, row) {
-				console.log(index, row);
+			handleDeleteUser(userIndex, user) {
+				console.log(userIndex, user);
 			}
 		}
 	};

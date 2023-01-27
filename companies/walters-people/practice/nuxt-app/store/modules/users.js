@@ -9,9 +9,7 @@ const state = {
 }
 
 const getters = {
-	getUserList(state) {
-		return state.userList
-	},
+	getUserList: state => state.userList
 }
 
 const actions = {
@@ -24,7 +22,7 @@ const actions = {
 }
 
 const mutations = {
-	setUserList: (state, items) => (state.userList = items),
+	setUserList: (state, payload) => (state.userList = payload),
 }
 
 export default {
