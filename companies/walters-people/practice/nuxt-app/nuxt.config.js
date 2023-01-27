@@ -18,7 +18,7 @@ export default {
 	},
 
 	// Global CSS: https://go.nuxtjs.dev/config-css
-	css: [],
+	css: ['element-theme-default/lib/index.css'],
 
 	// Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
 	plugins: [],
@@ -59,6 +59,7 @@ export default {
 				baseURL: '/',
 			},
 		],
+		'nuxt-element-ui',
 	],
 
 	// Build Configuration: https://go.nuxtjs.dev/config-build
