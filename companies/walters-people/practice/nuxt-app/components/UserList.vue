@@ -1,33 +1,22 @@
 <template>
 	<div>
-		<pre>{{ getUsers }}</pre>
+		<pre>{{ getUserList }}</pre>
 	</div>
 </template>
 
 <script>
-export default {
-	name: 'UserList',
-	data() {
-		return {
-			users: [],
-		}
-	},
-	computed: {
-		getUsers() {
-			return this.users
-		},
-	},
-	mounted() {
-		this.fetchUsers()
-	},
-	methods: {
-		async fetchUsers() {
-			const response = await this.$axios.$get(
-				'http://jsonplaceholder.typicode.com/users',
-			)
+	import { mapActions, mapGetters } from 'vuex';
 
-			this.users = response
+	export default {
+		name: 'UserList',
+		computed: {
+			...mapGetters(['getUserList'])
 		},
-	},
-}
+		methods: {
+			...mapActions(['fetchUserList'])
+		},
+		mounted() {
+			this.fetchUserList();
+		}
+	};
 </script>

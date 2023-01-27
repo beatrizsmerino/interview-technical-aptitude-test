@@ -217,7 +217,12 @@ module.exports = {
 		'no-self-compare': 2,
 		'no-sequences': 2,
 		'no-setter-return': 2,
-		'no-shadow': 2,
+		'no-shadow': [
+			2,
+			{
+				allow: ['state'],
+			},
+		],
 		'no-spaced-func': 2,
 		'no-sync': 1,
 		'no-tabs': 0,
