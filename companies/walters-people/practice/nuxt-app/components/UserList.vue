@@ -123,11 +123,15 @@
 			this.fetchUserList();
 		},
 		methods: {
-			...mapActions(['fetchUserList']),
+			...mapActions([
+				'fetchUserList',
+				'deleteUser'
+			]),
 			handleEditUser(userIndex, user) {
 				console.log(userIndex, user);
 			},
 			handleDeleteUser(userIndex, user) {
+				this.deleteUser(user);
 				console.log(userIndex, user);
 			}
 		}
