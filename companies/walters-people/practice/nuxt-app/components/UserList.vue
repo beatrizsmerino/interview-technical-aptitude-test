@@ -87,6 +87,26 @@
 					width="180px"
 				/>
 			</el-table-column>
+			<el-table-column
+				label="Acciones"
+				fixed="right"
+				width="150px"
+			>
+				<template slot-scope="scope">
+					<el-button
+						type="primary"
+						icon="el-icon-edit"
+						size="medium"
+						@click="handleEdit(scope.$index, scope.row)"
+					/>
+					<el-button
+						type="danger"
+						icon="el-icon-delete"
+						size="medium"
+						@click="handleDelete(scope.$index, scope.row)"
+					/>
+				</template>
+			</el-table-column>
 		</el-table>
 	</div>
 </template>
@@ -103,7 +123,13 @@
 			this.fetchUserList();
 		},
 		methods: {
-			...mapActions(['fetchUserList'])
+			...mapActions(['fetchUserList']),
+			handleEdit(index, row) {
+				console.log(index, row);
+			},
+			handleDelete(index, row) {
+				console.log(index, row);
+			}
 		}
 	};
 </script>
