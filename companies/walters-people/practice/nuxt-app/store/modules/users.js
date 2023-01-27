@@ -5,29 +5,27 @@
  */
 
 const state = {
-	userList: [],
-}
+	userList: []
+};
 
 const getters = {
 	getUserList: state => state.userList
-}
+};
 
 const actions = {
 	async fetchUserList({ commit }) {
-		const response = await this.$axios.$get(
-			'http://jsonplaceholder.typicode.com/users',
-		)
-		commit('setUserList', response)
-	},
-}
+		const response = await this.$axios.$get('http://jsonplaceholder.typicode.com/users');
+		commit('setUserList', response);
+	}
+};
 
 const mutations = {
-	setUserList: (state, payload) => (state.userList = payload),
-}
+	setUserList: (state, payload) => (state.userList = payload)
+};
 
 export default {
 	state,
 	getters,
 	actions,
-	mutations,
-}
+	mutations
+};
