@@ -2,7 +2,6 @@
 	<div>
 		<PageNav />
 		<Tutorial />
-		<UserList />
 	</div>
 </template>
 
@@ -10,10 +9,8 @@
 	import PageNav from '@/components/PageNav';
 	import Tutorial from '@/components/Tutorial';
 
-	import UserList from '@/components/UserList';
 	export default {
-		Tutorial,
-		UserList,
-		PageNav
+		PageNav,
+		Tutorial
 	};
 </script>
