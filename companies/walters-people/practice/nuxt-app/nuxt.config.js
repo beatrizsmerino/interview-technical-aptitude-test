@@ -65,6 +65,7 @@ export default {
 				baseURL: '/',
 			},
 		],
+		'@nuxtjs/style-resources',
 		'nuxt-element-ui',
 	],
 
