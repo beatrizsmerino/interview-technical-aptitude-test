@@ -5,7 +5,7 @@ module.exports = {
 		'stylelint-config-recommended-vue',
 		'stylelint-config-prettier',
 		'stylelint-config-sass-guidelines',
-		'stylelint-config-property-sort-order-smacss',
+		'stylelint-config-property-sort-order-smacss'
 	],
 	plugins: ['stylelint-scss'],
 
@@ -17,9 +17,12 @@ module.exports = {
 		'at-rule-empty-line-before': [
 			'always',
 			{
-				except: ['blockless-after-same-name-blockless', 'first-nested'],
-				ignore: ['after-comment'],
-			},
+				except: [
+					'blockless-after-same-name-blockless',
+					'first-nested'
+				],
+				ignore: ['after-comment']
+			}
 		],
 		'at-rule-name-case': 'lower',
 		'at-rule-name-space-after': 'always-single-line',
@@ -40,17 +43,23 @@ module.exports = {
 			'always',
 			{
 				except: ['first-nested'],
-				ignore: ['stylelint-commands'],
-			},
+				ignore: ['stylelint-commands']
+			}
 		],
 		'comment-no-empty': true,
 		'comment-whitespace-inside': 'always',
 		'custom-property-empty-line-before': [
 			'always',
 			{
-				except: ['after-custom-property', 'first-nested'],
-				ignore: ['after-comment', 'inside-single-line-block'],
-			},
+				except: [
+					'after-custom-property',
+					'first-nested'
+				],
+				ignore: [
+					'after-comment',
+					'inside-single-line-block'
+				]
+			}
 		],
 		'declaration-bang-space-after': 'never',
 		'declaration-bang-space-before': 'always',
@@ -58,8 +67,8 @@ module.exports = {
 		'declaration-block-no-duplicate-properties': [
 			true,
 			{
-				ignore: ['consecutive-duplicates-with-different-values'],
-			},
+				ignore: ['consecutive-duplicates-with-different-values']
+			}
 		],
 		'declaration-block-no-shorthand-property-overrides': true,
 		'declaration-block-semicolon-newline-after': 'always-multi-line',
@@ -73,9 +82,15 @@ module.exports = {
 		'declaration-empty-line-before': [
 			'always',
 			{
-				except: ['after-declaration', 'first-nested'],
-				ignore: ['after-comment', 'inside-single-line-block'],
-			},
+				except: [
+					'after-declaration',
+					'first-nested'
+				],
+				ignore: [
+					'after-comment',
+					'inside-single-line-block'
+				]
+			}
 		],
 		'font-family-no-duplicate-names': true,
 		'font-family-no-missing-generic-family-keyword': true,
@@ -89,13 +104,13 @@ module.exports = {
 		'function-no-unknown': [
 			true,
 			{
-				ignoreFunctions: ['mix'],
-			},
+				ignoreFunctions: ['mix']
+			}
 		],
 		'function-parentheses-newline-inside': 'always-multi-line',
 		'function-parentheses-space-inside': 'never-single-line',
 		'function-whitespace-after': 'always',
-		indentation: 'tab',
+		'indentation': 'tab',
 		'keyframe-declaration-no-important': true,
 		'length-zero-no-unit': true,
 		'max-empty-lines': 1,
@@ -129,8 +144,8 @@ module.exports = {
 			'always-multi-line',
 			{
 				except: ['first-nested'],
-				ignore: ['after-comment'],
-			},
+				ignore: ['after-comment']
+			}
 		],
 		'scss/at-rule-no-unknown': true,
 		'selector-attribute-brackets-space-inside': 'never',
@@ -145,8 +160,11 @@ module.exports = {
 		'selector-no-qualifying-type': [
 			true,
 			{
-				ignore: ['attribute', 'class'],
-			},
+				ignore: [
+					'attribute',
+					'class'
+				]
+			}
 		],
 		'selector-max-compound-selectors': null,
 		'selector-max-empty-lines': 0,
@@ -155,8 +173,11 @@ module.exports = {
 		'selector-pseudo-class-no-unknown': [
 			true,
 			{
-				ignorePseudoClasses: ['v-deep', 'deep'],
-			},
+				ignorePseudoClasses: [
+					'v-deep',
+					'deep'
+				]
+			}
 		],
 		'selector-pseudo-class-parentheses-space-inside': 'never',
 		'selector-pseudo-element-case': 'lower',
@@ -164,15 +185,18 @@ module.exports = {
 		'selector-pseudo-element-no-unknown': [
 			true,
 			{
-				ignorePseudoElements: ['v-deep', 'deep'],
-			},
+				ignorePseudoElements: [
+					'v-deep',
+					'deep'
+				]
+			}
 		],
 		'selector-type-case': 'lower',
 		'selector-type-no-unknown': [
 			true,
 			{
-				ignore: ['custom-elements'],
-			},
+				ignore: ['custom-elements']
+			}
 		],
 		'string-no-newline': true,
 		'unit-case': 'lower',
@@ -181,6 +205,6 @@ module.exports = {
 		'value-list-comma-newline-after': 'always-multi-line',
 		'value-list-comma-space-after': 'always-single-line',
 		'value-list-comma-space-before': 'never',
-		'value-list-max-empty-lines': 0,
-	},
-}
+		'value-list-max-empty-lines': 0
+	}
+};

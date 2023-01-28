@@ -4,6 +4,6 @@
  */
 
 /** @requires module:methods.checkCategoryPath */
-const { checkCategoryPath } = require('./methods/checkCategoryPath.js')
+const { checkCategoryPath } = require("./methods/checkCategoryPath.js");
 
-checkCategoryPath()
+checkCategoryPath();

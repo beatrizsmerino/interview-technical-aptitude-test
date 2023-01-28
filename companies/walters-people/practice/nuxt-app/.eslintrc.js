@@ -1,13 +1,13 @@
 module.exports = {
 	root: true,
 	env: {
-		browser: true,
+		'browser': true,
 		'jest/globals': true,
-		node: true,
+		'node': true
 	},
 	parserOptions: {
 		parser: '@babel/eslint-parser',
-		requireConfigFile: false,
+		requireConfigFile: false
 	},
 	extends: [
 		'@nuxtjs',
@@ -15,9 +15,14 @@ module.exports = {
 		'plugin:vue/recommended',
 		'prettier',
 		'eslint:recommended',
-		'plugin:json/recommended',
+		'plugin:json/recommended'
 	],
-	plugins: ['vue', 'nuxt', 'prettier', 'jest'],
+	plugins: [
+		'vue',
+		'nuxt',
+		'prettier',
+		'jest'
+	],
 
 	// Add your custom rules here
 	rules: {
@@ -26,20 +31,23 @@ module.exports = {
 		'array-bracket-spacing': 2,
 		'array-callback-return': 1,
 		'array-element-newline': 2,
-		'arrow-body-style': [1, 'as-needed'],
+		'arrow-body-style': [
+			1,
+			'as-needed'
+		],
 		'arrow-parens': 0,
 		'arrow-spacing': 2,
 		'block-scoped-var': 2,
 		'block-spacing': 2,
 		'brace-style': 0,
 		'callback-return': 2,
-		camelcase: [
+		'camelcase': [
 			2,
 			{
 				properties: 'always',
 				ignoreDestructuring: false,
-				ignoreImports: false,
-			},
+				ignoreImports: false
+			}
 		],
 		'capitalized-comments': 0,
 		'class-methods-use-this': 2,
@@ -50,27 +58,33 @@ module.exports = {
 				objects: 'never',
 				imports: 'never',
 				exports: 'never',
-				functions: 'never',
-			},
+				functions: 'never'
+			}
 		],
 		'comma-spacing': 2,
 		'comma-style': 2,
-		complexity: [2, { max: 4 }],
+		'complexity': [
+			2,
+			{ max: 4 }
+		],
 		'computed-property-spacing': 2,
 		'consistent-return': 2,
 		'consistent-this': 1,
-		curly: 2,
+		'curly': 2,
 		'default-case': 2,
 		'default-param-last': 2,
 		'dot-location': 2,
 		'dot-notation': 2,
 		'eol-last': 2,
-		eqeqeq: 0,
+		'eqeqeq': 0,
 		'func-call-spacing': 2,
 		'func-name-matching': 2,
 		'func-names': 0,
 		'func-style': 0,
-		'function-call-argument-newline': [2, 'consistent'],
+		'function-call-argument-newline': [
+			2,
+			'consistent'
+		],
 		'function-paren-newline': 2,
 		'generator-star-spacing': 0,
 		'global-require': 2,
@@ -81,14 +95,20 @@ module.exports = {
 		'id-length': [
 			2,
 			{
-				min: 1,
-			},
+				min: 1
+			}
 		],
 		'id-match': 2,
 		'implicit-arrow-linebreak': 2,
-		indent: [2, 'tab'],
+		'indent': [
+			2,
+			'tab'
+		],
 		'init-declarations': 2,
-		'jsx-quotes': [2, 'prefer-double'],
+		'jsx-quotes': [
+			2,
+			'prefer-double'
+		],
 		'key-spacing': 2,
 		'keyword-spacing': 2,
 		'line-comment-position': 2,
@@ -98,8 +118,8 @@ module.exports = {
 			{
 				allowBlockStart: true,
 				beforeBlockComment: true,
-				beforeLineComment: true,
-			},
+				beforeLineComment: true
+			}
 		],
 		'lines-around-directive': 2,
 		'lines-between-class-members': 2,
@@ -111,22 +131,22 @@ module.exports = {
 			{
 				max: 500,
 				skipComments: true,
-				skipBlankLines: true,
-			},
+				skipBlankLines: true
+			}
 		],
 		'max-lines-per-function': [
 			1,
 			{
-				max: 100,
-			},
+				max: 100
+			}
 		],
 		'max-nested-callbacks': 2,
 		'max-params': 2,
 		'max-statements': [
 			1,
 			{
-				max: 10,
-			},
+				max: 10
+			}
 		],
 		'max-statements-per-line': 2,
 		'multiline-comment-style': 2,
@@ -197,8 +217,8 @@ module.exports = {
 		'no-param-reassign': [
 			1,
 			{
-				props: false,
-			},
+				props: false
+			}
 		],
 		'no-path-concat': 2,
 		'no-plusplus': 0,
@@ -220,8 +240,8 @@ module.exports = {
 		'no-shadow': [
 			2,
 			{
-				allow: ['state'],
-			},
+				allow: ['state']
+			}
 		],
 		'no-spaced-func': 2,
 		'no-sync': 1,
@@ -242,8 +262,8 @@ module.exports = {
 			2,
 			{
 				functions: false,
-				classes: true,
-			},
+				classes: true
+			}
 		],
 		'no-useless-call': 1,
 		'no-useless-computed-key': 1,
@@ -261,22 +281,25 @@ module.exports = {
 		'object-property-newline': [
 			2,
 			{
-				allowAllPropertiesOnSameLine: true,
-			},
+				allowAllPropertiesOnSameLine: true
+			}
 		],
 		'object-shorthand': 2,
 		'one-var': 0,
 		'one-var-declaration-per-line': 0,
 		'operator-assignment': 2,
 		'operator-linebreak': 2,
-		'padded-blocks': [1, 'never'],
+		'padded-blocks': [
+			1,
+			'never'
+		],
 		'padding-line-between-statements': 2,
 		'prefer-arrow-callback': [
 			0,
 			{
 				allowNamedFunctions: false,
-				allowUnboundThis: false,
-			},
+				allowUnboundThis: false
+			}
 		],
 		'prefer-const': 1,
 		'prefer-destructuring': 0,
@@ -290,21 +313,30 @@ module.exports = {
 		'prefer-rest-params': 2,
 		'prefer-spread': 2,
 		'prefer-template': 2,
-		'quote-props': [2, 'consistent'],
-		quotes: [
+		'quote-props': [
+			2,
+			'consistent'
+		],
+		'quotes': [
 			2,
 			'single',
 			{
 				avoidEscape: true,
-				allowTemplateLiterals: true,
-			},
+				allowTemplateLiterals: true
+			}
 		],
-		radix: [2, 'as-needed'],
+		'radix': [
+			2,
+			'as-needed'
+		],
 		'require-atomic-updates': 2,
 		'require-await': 2,
 		'require-unicode-regexp': 2,
 		'rest-spread-spacing': 2,
-		semi: [2, 'always'],
+		'semi': [
+			2,
+			'always'
+		],
 		'semi-spacing': 2,
 		'semi-style': 2,
 		'sort-imports': 0,
@@ -316,24 +348,27 @@ module.exports = {
 			{
 				anonymous: 'never',
 				named: 'never',
-				asyncArrow: 'always',
-			},
+				asyncArrow: 'always'
+			}
 		],
 		'space-in-parens': 2,
 		'space-infix-ops': 2,
 		'space-unary-ops': 2,
 		'spaced-comment': 2,
-		strict: 2,
+		'strict': 2,
 		'switch-colon-spacing': 2,
 		'symbol-description': 2,
 		'template-curly-spacing': 2,
 		'template-tag-spacing': 2,
-		'unicode-bom': [2, 'never'],
+		'unicode-bom': [
+			2,
+			'never'
+		],
 		'vars-on-top': 2,
 		'wrap-iife': 2,
 		'wrap-regex': 2,
 		'yield-star-spacing': 2,
-		yoda: 2,
+		'yoda': 2,
 
 		// VUE
 		'vue/html-closing-bracket-spacing': 0,
@@ -341,8 +376,8 @@ module.exports = {
 			2,
 			{
 				singleline: 'never',
-				multiline: 'always',
-			},
+				multiline: 'always'
+			}
 		],
 		'vue/html-indent': [
 			2,
@@ -352,18 +387,21 @@ module.exports = {
 				baseIndent: 1,
 				closeBracket: 0,
 				alignAttributesVertically: true,
-				ignores: [],
-			},
+				ignores: []
+			}
 		],
 		'vue/max-attributes-per-line': [
 			2,
 			{
 				singleline: 1,
-				multiline: 1,
-			},
+				multiline: 1
+			}
 		],
 		'vue/multi-word-component-names': 0,
-		'vue/component-name-in-template-casing': [2, 'PascalCase'],
+		'vue/component-name-in-template-casing': [
+			2,
+			'PascalCase'
+		],
 		'vue/no-v-html': 0,
 		'vue/no-reserved-component-names': 0,
 		'vue/script-indent': [
@@ -372,28 +410,28 @@ module.exports = {
 			{
 				baseIndent: 1,
 				switchCase: 0,
-				ignores: [],
-			},
+				ignores: []
+			}
 		],
 		'vue/singleline-html-element-content-newline': [
 			2,
 			{
 				ignoreWhenEmpty: true,
-				ignores: ['pre'],
-			},
+				ignores: ['pre']
+			}
 		],
 		'vue/no-side-effects-in-computed-properties': 0,
 		'vue/require-default-prop': 0,
 
 		// NUXT
-		'nuxt/no-cjs-in-config': 1,
+		'nuxt/no-cjs-in-config': 1
 	},
 	overrides: [
 		{
 			files: ['*.vue'],
 			rules: {
-				indent: 'off',
-			},
-		},
-	],
-}
+				indent: 'off'
+			}
+		}
+	]
+};
