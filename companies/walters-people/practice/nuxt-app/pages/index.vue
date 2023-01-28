@@ -1,7 +1,13 @@
 <template>
-	<div>
-		<PageNav />
-		<Tutorial />
+	<div class="common-layout">
+		<el-container>
+			<el-header>
+				<PageNav />
+			</el-header>
+			<el-main>
+				<Tutorial />
+			</el-main>
+		</el-container>
 	</div>
 </template>
 

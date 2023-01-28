@@ -1,16 +1,16 @@
 <template>
-	<div>
-		<PageNav />
-		<el-header class="page-head">
-			<h1 class="text-3xl leading-7 font-semibold">
-				User list
-			</h1>
-		</el-header>
-		<el-row>
-			<el-col :span="24">
+	<div class="common-layout">
+		<el-container>
+			<el-header>
+				<PageNav />
+			</el-header>
+			<el-main class="page-main">
+				<h1 class="page-head text-3xl leading-7 font-semibold">
+					User list
+				</h1>
 				<UserList />
-			</el-col>
-		</el-row>
+			</el-main>
+		</el-container>
 	</div>
 </template>
 
@@ -32,5 +32,10 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	padding: 2rem 0;
+}
+
+.page-main {
+	padding: 0 2rem;
 }
 </style>
