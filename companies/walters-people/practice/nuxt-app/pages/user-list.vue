@@ -15,16 +15,16 @@
 </template>
 
 <script>
-	import PageNav from '@/components/PageNav';
-	import UserList from '@/components/UserList';
+import PageNav from '@/components/PageNav'
+import UserList from '@/components/UserList'
 
-	export default {
-		name: 'PageUserList',
-		components: {
-			PageNav,
-			UserList
-		}
-	};
+export default {
+	name: 'PageUserList',
+	components: {
+		PageNav,
+		UserList,
+	},
+}
 </script>
 
 <style lang="css" scope>

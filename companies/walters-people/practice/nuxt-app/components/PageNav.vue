@@ -20,39 +20,37 @@
 </template>
 
 <script>
-export default {
-	name: 'PageNav',
-	data() {
-		return {
-			linkList: [
-				{
-					id: '1',
-					name: 'index',
-					title: 'Home',
-					path: '/',
-				},
-				{
-					id: '2',
-					name: 'user-list',
-					title: 'User list',
-					path: '/user-list',
-				},
-			],
-			linkDefaultActive: null,
-		}
-	},
-	mounted() {
-		this.setLinkIDDefaultActive()
-	},
-	methods: {
-		setLinkIDDefaultActive() {
-			const currentLink = this.linkList.filter(
-				item => item.name === this.$route.name,
-			)[0]
-			this.linkDefaultActive = currentLink.id
+	export default {
+		name: 'PageNav',
+		data() {
+			return {
+				linkList: [
+					{
+						id: '1',
+						name: 'index',
+						title: 'Home',
+						path: '/'
+					},
+					{
+						id: '2',
+						name: 'user-list',
+						title: 'User list',
+						path: '/user-list'
+					}
+				],
+				linkDefaultActive: null
+			};
 		},
-	},
-}
+		mounted() {
+			this.setLinkIDDefaultActive();
+		},
+		methods: {
+			setLinkIDDefaultActive() {
+				const currentLink = this.linkList.filter(item => item.name === this.$route.name)[0];
+				this.linkDefaultActive = currentLink.id;
+			}
+		}
+	};
 </script>
 
 <style lang="css" scoped>
