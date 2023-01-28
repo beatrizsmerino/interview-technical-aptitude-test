@@ -63,14 +63,16 @@
 	};
 </script>
 
-<style lang="css" scoped>
-.logo-nuxt--symbol {
-	width: 45px;
-	height: 30px;
-}
+<style lang="scss" scoped>
+.logo-nuxt {
+	&--symbol {
+		width: 45px;
+		height: 30px;
+	}
 
-.logo-nuxt--imagotype {
-	width: 159px;
-	height: 30px;
+	&--imagotype {
+		width: 159px;
+		height: 30px;
+	}
 }
 </style>

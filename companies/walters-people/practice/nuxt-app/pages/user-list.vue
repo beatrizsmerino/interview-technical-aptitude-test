@@ -27,7 +27,7 @@ export default {
 }
 </script>
 
-<style lang="css" scope>
+<style lang="scss" scope>
 .page-head {
 	display: flex;
 	align-items: center;

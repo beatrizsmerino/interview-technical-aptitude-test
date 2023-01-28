@@ -30,9 +30,11 @@
 	};
 </script>
 
-<style lang="css" scoped>
-.logo-github--symbol {
-	width: 24px;
-	height: 24px;
+<style lang="scss" scoped>
+.logo-github {
+	&--symbol {
+		width: 24px;
+		height: 24px;
+	}
 }
 </style>

@@ -53,7 +53,7 @@
 	};
 </script>
 
-<style lang="css" scoped>
+<style lang="scss" scoped>
 .page-nav {
 	display: flex;
 	justify-content: flex-end;

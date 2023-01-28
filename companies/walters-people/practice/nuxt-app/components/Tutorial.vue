@@ -72,24 +72,26 @@
 	};
 </script>
 
-<style lang="css" scoped>
-.tutorial:deep(.logo-nuxt--imagotype) {
-	width: 218px;
-	height: 45px;
-}
+<style lang="scss" scoped>
+.tutorial {
+	&:deep(.logo-nuxt--imagotype) {
+		width: 218px;
+		height: 45px;
+	}
 
-.tutorial:deep(.logo-nuxt--symbol) {
-	width: 80px;
-	height: 80px;
-}
+	&:deep(.logo-nuxt--symbol) {
+		width: 80px;
+		height: 80px;
+	}
 
-.tutorial:deep(.logo-twitter--symbol) {
-	width: 32px;
-	height: 32px;
-}
+	&:deep(.logo-twitter--symbol) {
+		width: 32px;
+		height: 32px;
+	}
 
-.tutorial:deep(.logo-github--symbol) {
-	width: 32px;
-	height: 32px;
+	&:deep(.logo-github--symbol) {
+		width: 32px;
+		height: 32px;
+	}
 }
 </style>
