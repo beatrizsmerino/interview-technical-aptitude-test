@@ -15,13 +15,15 @@ module.exports = {
 		'plugin:vue/recommended',
 		'prettier',
 		'eslint:recommended',
+		'plugin:prettier/recommended',
 		'plugin:json/recommended'
 	],
 	plugins: [
 		'vue',
 		'nuxt',
+		'jest',
 		'prettier',
-		'jest'
+		'json'
 	],
 
 	// Add your custom rules here

@@ -15,11 +15,12 @@ module.exports = {
 	extends: [
 		"prettier",
 		"eslint:recommended",
+		'plugin:prettier/recommended',
 		"plugin:json/recommended"
 	],
 	plugins: [
-		"json",
-		"prettier"
+		"prettier",
+		"json"
 	],
 	rules: {
 		"accessor-pairs": 2,
