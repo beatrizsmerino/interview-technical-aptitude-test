@@ -3,6 +3,9 @@
 	"version": "1.0.0",
 	"private": true,
 	"scripts": {
+		"install:clean": "rm -rf node_modules package-lock.json",
+		"preinstall": "npm run install:clean && npm install --ignore-scripts && npx npm-force-resolutions",
+		"postinstall": "npm run lint",
 		"dev": "nuxt",
 		"build": "nuxt build",
 		"start": "nuxt start",
@@ -51,5 +54,10 @@
 		"stylelint-config-sass-guidelines": "^9.0.1",
 		"stylelint-config-standard": "^28.0.0",
 		"vue-jest": "^3.0.7"
+	},
+	"resolutions": {
+		"glob-parent": ">=5.1.2",
+		"json5": ">=2.2.2",
+		"nth-check": ">=2.0.1"
 	}
 }
