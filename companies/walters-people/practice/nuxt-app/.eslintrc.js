@@ -13,17 +13,18 @@ module.exports = {
 		'@nuxtjs',
 		'plugin:nuxt/recommended',
 		'plugin:vue/recommended',
-		'prettier',
 		'eslint:recommended',
 		'plugin:prettier/recommended',
-		'plugin:json/recommended'
+		'plugin:json/recommended',
+		'plugin:sort/recommended'
 	],
 	plugins: [
 		'vue',
 		'nuxt',
 		'jest',
 		'prettier',
-		'json'
+		'json',
+		'sort'
 	],
 
 	// Add your custom rules here
