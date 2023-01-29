@@ -13,9 +13,9 @@ module.exports = {
 		"sourceType": "module",
 	},
 	"extends": [
+		"prettier",
 		"eslint:recommended",
 		"plugin:json/recommended",
-		"prettier",
 	],
 	"plugins": [
 		"prettier",
@@ -50,8 +50,8 @@ module.exports = {
 		"arrow-spacing": 2,
 		"block-scoped-var": 2,
 		"block-spacing": 2,
-		"callback-return": 2,
 		"brace-style": 2,
+		"callback-return": 2,
 		"camelcase": [
 			2,
 			{
@@ -108,11 +108,11 @@ module.exports = {
 		"id-match": 2,
 		"implicit-arrow-linebreak": 2,
 		"import/no-named-as-default": 0,
-		"init-declarations": 2,
 		"indent": [
 			2,
 			"tab",
 		],
+		"init-declarations": 2,
 		"jsx-quotes": [
 			2,
 			"prefer-double",
@@ -185,10 +185,11 @@ module.exports = {
 		// Allow console.log during development only
 		"no-console": process.env.NODE_ENV === "production" ? 2 : "off",
 
-		// Allow debugger during development only
-		"no-debugger": process.env.NODE_ENV === "production" ? 2 : "off",
 		"no-constructor-return": 2,
 		"no-continue": 2,
+
+		// Allow debugger during development only
+		"no-debugger": process.env.NODE_ENV === "production" ? 2 : "off",
 		"no-div-regex": 2,
 		"no-dupe-else-if": 2,
 		"no-duplicate-imports": 2,
@@ -217,6 +218,7 @@ module.exports = {
 		"no-magic-numbers": 0,
 		"no-mixed-operators": 0,
 		"no-mixed-requires": 2,
+		"no-mixed-spaces-and-tabs": 2,
 		"no-multi-assign": 2,
 		"no-multi-spaces": 2,
 		"no-multi-str": 2,
@@ -258,7 +260,6 @@ module.exports = {
 		"no-spaced-func": 2,
 		"no-sync": 0,
 		"no-tabs": 0,
-		"no-mixed-spaces-and-tabs": 2,
 		"no-template-curly-in-string": 2,
 		"no-ternary": 0,
 		"no-throw-literal": 2,
@@ -269,7 +270,6 @@ module.exports = {
 		"no-underscore-dangle": 1,
 		"no-unmodified-loop-condition": 1,
 		"no-unneeded-ternary": 1,
-		"no-unused-vars": 1,
 		"no-unused-expressions": [
 			1,
 			{
@@ -277,6 +277,7 @@ module.exports = {
 				"allowTernary": true,
 			},
 		],
+		"no-unused-vars": 1,
 		"no-use-before-define": [
 			2,
 			{

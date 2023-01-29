@@ -7,22 +7,22 @@ module.exports = {
 	},
 	"parserOptions": {
 		"parser": "@babel/eslint-parser",
-		"requireConfigFile": false,
 		"ecmaFeatures": {
 			"jsx": true,
 		},
 		"ecmaVersion": "latest",
 		"sourceType": "module",
+		"requireConfigFile": false,
 	},
 	"extends": [
+		"@nuxtjs",
 		"prettier",
 		"eslint:recommended",
-		"plugin:json/recommended",
 		"plugin:vue/recommended",
 		"plugin:nuxt/recommended",
-		"@nuxtjs",
+		"plugin:json/recommended",
 	],
-	"plugins": ["prettier", "vue", "nuxt", "jest", "json"],
+	"plugins": ["vue", "nuxt", "prettier", "json", "jest"],
 
 	// Add your custom rules here
 	"rules": {
@@ -48,8 +48,8 @@ module.exports = {
 		"arrow-spacing": 2,
 		"block-scoped-var": 2,
 		"block-spacing": 2,
-		"callback-return": 2,
 		"brace-style": 2,
+		"callback-return": 2,
 		"camelcase": [
 			2,
 			{
@@ -100,8 +100,8 @@ module.exports = {
 		"id-match": 2,
 		"implicit-arrow-linebreak": 2,
 		"import/no-named-as-default": 0,
-		"init-declarations": 2,
 		"indent": [2, "tab"],
+		"init-declarations": 2,
 		"jsx-quotes": [2, "prefer-double"],
 		"key-spacing": 2,
 		"keyword-spacing": 2,
@@ -168,10 +168,11 @@ module.exports = {
 		// Allow console.log during development only
 		"no-console": process.env.NODE_ENV === "production" ? 2 : "off",
 
-		// Allow debugger during development only
-		"no-debugger": process.env.NODE_ENV === "production" ? 2 : "off",
 		"no-constructor-return": 2,
 		"no-continue": 2,
+
+		// Allow debugger during development only
+		"no-debugger": process.env.NODE_ENV === "production" ? 2 : "off",
 		"no-div-regex": 2,
 		"no-dupe-else-if": 2,
 		"no-duplicate-imports": 2,
@@ -200,6 +201,7 @@ module.exports = {
 		"no-magic-numbers": 0,
 		"no-mixed-operators": 0,
 		"no-mixed-requires": 2,
+		"no-mixed-spaces-and-tabs": 2,
 		"no-multi-assign": 2,
 		"no-multi-spaces": 2,
 		"no-multi-str": 2,
@@ -246,7 +248,6 @@ module.exports = {
 		"no-spaced-func": 2,
 		"no-sync": 0,
 		"no-tabs": 0,
-		"no-mixed-spaces-and-tabs": 2,
 		"no-template-curly-in-string": 2,
 		"no-ternary": 0,
 		"no-throw-literal": 2,
@@ -257,7 +258,6 @@ module.exports = {
 		"no-underscore-dangle": 1,
 		"no-unmodified-loop-condition": 1,
 		"no-unneeded-ternary": 1,
-		"no-unused-vars": 1,
 		"no-unused-expressions": [
 			1,
 			{
@@ -265,6 +265,7 @@ module.exports = {
 				"allowTernary": true,
 			},
 		],
+		"no-unused-vars": 1,
 		"no-use-before-define": [
 			2,
 			{
@@ -382,8 +383,11 @@ module.exports = {
 		"yield-star-spacing": 2,
 		"yoda": 2,
 
+		// NUXT
+		"nuxt/no-cjs-in-config": 1,
+
 		// VUE
-		"vue/html-closing-bracket-spacing": 0,
+		"vue/component-name-in-template-casing": [2, "PascalCase"],
 		"vue/html-closing-bracket-newline": [
 			2,
 			{
@@ -391,6 +395,7 @@ module.exports = {
 				"multiline": "always",
 			},
 		],
+		"vue/html-closing-bracket-spacing": 0,
 		"vue/html-indent": [
 			2,
 			"tab",
@@ -410,9 +415,10 @@ module.exports = {
 			},
 		],
 		"vue/multi-word-component-names": 0,
-		"vue/component-name-in-template-casing": [2, "PascalCase"],
-		"vue/no-v-html": 0,
 		"vue/no-reserved-component-names": 0,
+		"vue/no-side-effects-in-computed-properties": 0,
+		"vue/no-v-html": 0,
+		"vue/require-default-prop": 0,
 		"vue/script-indent": [
 			2,
 			"tab",
@@ -429,11 +435,6 @@ module.exports = {
 				"ignores": ["pre"],
 			},
 		],
-		"vue/no-side-effects-in-computed-properties": 0,
-		"vue/require-default-prop": 0,
-
-		// NUXT
-		"nuxt/no-cjs-in-config": 1,
 	},
 	"overrides": [
 		{
