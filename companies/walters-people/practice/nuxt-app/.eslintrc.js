@@ -7,33 +7,48 @@ module.exports = {
 	},
 	parserOptions: {
 		parser: '@babel/eslint-parser',
-		requireConfigFile: false
+		requireConfigFile: false,
+		ecmaFeatures: {
+			jsx: true
+		},
+		ecmaVersion: 'latest',
+		sourceType: 'module'
 	},
 	extends: [
-		'@nuxtjs',
-		'plugin:nuxt/recommended',
-		'plugin:vue/recommended',
-		'eslint:recommended',
-		'plugin:prettier/recommended',
-		'plugin:json/recommended',
-		'plugin:sort/recommended'
+		"prettier",
+		"eslint:recommended",
+		"plugin:json/recommended",
+		"plugin:vue/recommended",
+		"plugin:nuxt/recommended",
+		"@nuxtjs",
 	],
 	plugins: [
+		'prettier',
 		'vue',
 		'nuxt',
 		'jest',
-		'prettier',
-		'json',
-		'sort'
+		'json'
 	],
 
 	// Add your custom rules here
 	rules: {
 		'accessor-pairs': 2,
-		'array-bracket-newline': 2,
-		'array-bracket-spacing': 2,
+		'array-bracket-newline': [
+			2,
+			{
+				'multiline': true,
+				'minItems': 1
+			}
+		],
+		'array-bracket-spacing': [2, 'always'],
 		'array-callback-return': 1,
-		'array-element-newline': 2,
+		'array-element-newline': [
+			2,
+			{
+				'multiline': true,
+				'minItems': 1
+			}
+		],
 		'arrow-body-style': [
 			1,
 			'as-needed'
@@ -42,13 +57,13 @@ module.exports = {
 		'arrow-spacing': 2,
 		'block-scoped-var': 2,
 		'block-spacing': 2,
-		'brace-style': 0,
 		'callback-return': 2,
+		'brace-style': 2,
 		'camelcase': [
 			2,
 			{
 				properties: 'always',
-				ignoreDestructuring: false,
+				ignoreDestructuring: true,
 				ignoreImports: false
 			}
 		],
@@ -56,13 +71,7 @@ module.exports = {
 		'class-methods-use-this': 2,
 		'comma-dangle': [
 			2,
-			{
-				arrays: 'never',
-				objects: 'never',
-				imports: 'never',
-				exports: 'never',
-				functions: 'never'
-			}
+			'always-multiline'
 		],
 		'comma-spacing': 2,
 		'comma-style': 2,
@@ -103,11 +112,12 @@ module.exports = {
 		],
 		'id-match': 2,
 		'implicit-arrow-linebreak': 2,
+		'import/no-named-as-default': 0,
+		'init-declarations': 2,
 		'indent': [
 			2,
 			'tab'
 		],
-		'init-declarations': 2,
 		'jsx-quotes': [
 			2,
 			'prefer-double'
@@ -145,16 +155,25 @@ module.exports = {
 		],
 		'max-nested-callbacks': 2,
 		'max-params': 2,
-		'max-statements': [
-			1,
+		'max-statements': 1,
+		'max-statements-per-line': [
+			2,
 			{
-				max: 10
+				max: 1
 			}
 		],
-		'max-statements-per-line': 2,
-		'multiline-comment-style': 2,
+		'multiline-comment-style': [
+			2,
+			'separate-lines'
+		],
 		'multiline-ternary': 0,
-		'new-cap': 2,
+		'new-cap': [
+			2,
+			{
+				newIsCap: true,
+				capIsNew: true
+			}
+		],
 		'new-parens': 2,
 		'newline-after-var': 0,
 		'newline-before-return': 2,
@@ -169,10 +188,10 @@ module.exports = {
 		'no-confusing-arrow': 2,
 
 		// Allow console.log during development only
-		'no-console': process.env.NODE_ENV === 'production' ? 'error' : 'off',
+		'no-console': process.env.NODE_ENV === 'production' ? 2 : 'off',
 
 		// Allow debugger during development only
-		'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off',
+		'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 'off',
 		'no-constructor-return': 2,
 		'no-continue': 2,
 		'no-div-regex': 2,
@@ -247,8 +266,9 @@ module.exports = {
 			}
 		],
 		'no-spaced-func': 2,
-		'no-sync': 1,
+		'no-sync': 0,
 		'no-tabs': 0,
+		'no-mixed-spaces-and-tabs': 2,
 		'no-template-curly-in-string': 2,
 		'no-ternary': 0,
 		'no-throw-literal': 2,
@@ -260,7 +280,13 @@ module.exports = {
 		'no-unmodified-loop-condition': 1,
 		'no-unneeded-ternary': 1,
 		'no-unused-vars': 1,
-		'no-unused-expressions': 1,
+		'no-unused-expressions': [
+			1,
+			{
+				allowShortCircuit: true,
+				allowTernary: true
+			}
+		],
 		'no-use-before-define': [
 			2,
 			{
@@ -279,13 +305,34 @@ module.exports = {
 		'no-warning-comments': 2,
 		'no-whitespace-before-property': 2,
 		'nonblock-statement-body-position': 2,
-		'object-curly-newline': 2,
-		'object-curly-spacing': 2,
-		'object-property-newline': [
+		'object-curly-newline': [
 			2,
 			{
-				allowAllPropertiesOnSameLine: true
+				ObjectExpression: {
+					multiline: true,
+					minProperties: 1
+				},
+				ObjectPattern: {
+					multiline: true,
+					minProperties: 1
+				},
+				ImportDeclaration: {
+					multiline: true,
+					minProperties: 1
+				},
+				ExportDeclaration: {
+					multiline: true,
+					minProperties: 3
+				}
 			}
+		],
+		'object-curly-spacing': [
+			2,
+			'always'
+		],
+		'object-property-newline': [
+			2,
+			{ 'allowAllPropertiesOnSameLine': false },
 		],
 		'object-shorthand': 2,
 		'one-var': 0,
@@ -318,11 +365,11 @@ module.exports = {
 		'prefer-template': 2,
 		'quote-props': [
 			2,
-			'consistent'
+			'always'
 		],
 		'quotes': [
 			2,
-			'single',
+			'double',
 			{
 				avoidEscape: true,
 				allowTemplateLiterals: true
