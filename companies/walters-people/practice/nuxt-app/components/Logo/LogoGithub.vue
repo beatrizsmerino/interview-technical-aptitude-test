@@ -20,21 +20,21 @@
 
 <script>
 	export default {
-		name: 'LogoGithub',
+		name: "LogoGithub",
 		props: {
 			logoType: {
 				type: String,
-				default: 'symbol'
-			}
-		}
+				default: "symbol",
+			},
+		},
 	};
 </script>
 
 <style lang="scss" scoped>
-.logo-github {
-	&--symbol {
-		width: 24px;
-		height: 24px;
+	.logo-github {
+		&--symbol {
+			width: 24px;
+			height: 24px;
+		}
 	}
-}
 </style>

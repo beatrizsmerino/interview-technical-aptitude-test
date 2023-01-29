@@ -12,11 +12,11 @@
 </template>
 
 <script>
-import PageNav from '@/components/PageNav'
-import Tutorial from '@/components/Tutorial'
+	import PageNav from "@/components/PageNav";
+	import Tutorial from "@/components/Tutorial";
 
-export default {
-	PageNav,
-	Tutorial,
-}
+	export default {
+		PageNav,
+		Tutorial,
+	};
 </script>

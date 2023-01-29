@@ -59,39 +59,39 @@
 </template>
 
 <script>
-	import LogoNuxt from '@/components/Logo/LogoNuxt';
-	import LogoGithub from '@/components/Logo/LogoGithub';
-	import LogoTwitter from '@/components/Logo/LogoTwitter';
+	import LogoNuxt from "@/components/Logo/LogoNuxt";
+	import LogoGithub from "@/components/Logo/LogoGithub";
+	import LogoTwitter from "@/components/Logo/LogoTwitter";
 	export default {
-		name: 'NuxtTutorial',
+		name: "NuxtTutorial",
 		components: {
 			LogoNuxt,
 			LogoGithub,
-			LogoTwitter
-		}
+			LogoTwitter,
+		},
 	};
 </script>
 
 <style lang="scss" scoped>
-.tutorial {
-	&:deep(.logo-nuxt--imagotype) {
-		width: 218px;
-		height: 45px;
-	}
+	.tutorial {
+		&:deep(.logo-nuxt--imagotype) {
+			width: 218px;
+			height: 45px;
+		}
 
-	&:deep(.logo-nuxt--symbol) {
-		width: 80px;
-		height: 80px;
-	}
+		&:deep(.logo-nuxt--symbol) {
+			width: 80px;
+			height: 80px;
+		}
 
-	&:deep(.logo-twitter--symbol) {
-		width: 32px;
-		height: 32px;
-	}
+		&:deep(.logo-twitter--symbol) {
+			width: 32px;
+			height: 32px;
+		}
 
-	&:deep(.logo-github--symbol) {
-		width: 32px;
-		height: 32px;
+		&:deep(.logo-github--symbol) {
+			width: 32px;
+			height: 32px;
+		}
 	}
-}
 </style>

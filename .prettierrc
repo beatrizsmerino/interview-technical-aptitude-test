@@ -18,17 +18,13 @@
 	"useTabs": true,
 	"overrides": [
 		{
-			"files": [
-				".prettierrc"
-			],
+			"files": [".prettierrc"],
 			"options": {
 				"parser": "json"
 			}
 		},
 		{
-			"files": [
-				"*.json"
-			],
+			"files": ["*.json"],
 			"options": {
 				"printWidth": 0
 			}

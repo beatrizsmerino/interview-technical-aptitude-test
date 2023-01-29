@@ -20,21 +20,21 @@
 
 <script>
 	export default {
-		name: 'LogoTwitter',
+		name: "LogoTwitter",
 		props: {
 			logoType: {
 				type: String,
-				default: 'symbol'
-			}
-		}
+				default: "symbol",
+			},
+		},
 	};
 </script>
 
 <style lang="scss" scoped>
-.logo-nuxt {
-	&--symbol {
-		width: 24px;
-		height: 24px;
+	.logo-nuxt {
+		&--symbol {
+			width: 24px;
+			height: 24px;
+		}
 	}
-}
 </style>

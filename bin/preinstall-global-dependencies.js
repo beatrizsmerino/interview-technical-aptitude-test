@@ -1,4 +1,6 @@
-const { execSync } = require("child_process");
+const {
+	execSync,
+} = require("child_process");
 const fs = require("fs");
 const packageFile = JSON.parse(fs.readFileSync("package.json"));
 
@@ -68,16 +70,15 @@ function getGlobalDependenciesInstalledVolta() {
 		}
 
 		return {
-			[dependenceNameInstalled]: dependenceVersionInstalled
+			[dependenceNameInstalled]: dependenceVersionInstalled,
 		};
 	});
 	dependenceListInstalled = dependenceListInstalled.reduce(
 		(previousItem, currentItem) => ({
 			...previousItem,
-			...currentItem
+			...currentItem,
 		}),
-		{
-		}
+		{},
 	);
 
 	Object.keys(dependenceListInstalled).forEach(dependenceName => {
@@ -120,7 +121,7 @@ async function installGlobalDependencies() {
 			const dependenceVersionToInstall = removeSignDependencieVersion(toInstall[dependenceNameToInstall]);
 			const found = Object.entries(installedVOLTA).find(([
 				dependenceNameInstalled,
-				dependenceVersionInstalled
+				dependenceVersionInstalled,
 			]) => dependenceNameInstalled === dependenceNameToInstall &&
 					removeSignDependencieVersion(dependenceVersionInstalled) ===
 						dependenceVersionToInstall);
@@ -143,7 +144,7 @@ async function installGlobalDependencies() {
 			const dependenceVersionToInstall = removeSignDependencieVersion(toInstall[dependenceNameToInstall]);
 			const found = Object.entries(installedNVM).find(([
 				dependenceNameInstalled,
-				dependenceVersionInstalled
+				dependenceVersionInstalled,
 			]) => dependenceNameInstalled === dependenceNameToInstall &&
 					removeSignDependencieVersion(dependenceVersionInstalled) ===
 						dependenceVersionToInstall);

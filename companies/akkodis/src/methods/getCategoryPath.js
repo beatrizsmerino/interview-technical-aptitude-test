@@ -16,7 +16,7 @@ const getCategoryPath = (categories, categoryName) => {
 			if (category.subcategories) {
 				const subcategory = getCategoryPath(
 					category.subcategories,
-					categoryName
+					categoryName,
 				);
 				if (subcategory) {
 					path += `/${category.name}${subcategory}`;
@@ -31,5 +31,5 @@ const getCategoryPath = (categories, categoryName) => {
 };
 
 module.exports = {
-	getCategoryPath
+	getCategoryPath,
 };

@@ -1,6 +1,10 @@
 /* eslint-disable no-undef */
-const { getCategoryPath } = require("../src/methods/getCategoryPath.js");
-const { categories } = require("../src/data/categories.js");
+const {
+	getCategoryPath,
+} = require("../src/methods/getCategoryPath.js");
+const {
+	categories,
+} = require("../src/data/categories.js");
 
 describe("Get full category path including parent and subcategories", () => {
 	it("should return '/category1/category3/category4' with category4'", () => {

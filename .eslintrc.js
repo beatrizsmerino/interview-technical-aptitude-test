@@ -1,47 +1,50 @@
 module.exports = {
-	root: true,
-	env: {
-		browser: true,
-		node: true
+	"root": true,
+	"env": {
+		"browser": true,
+		"node": true,
 	},
-	parserOptions: {
-		parser: "@babel/eslint-parser",
-		ecmaFeatures: {
-			jsx: true
+	"parserOptions": {
+		"parser": "@babel/eslint-parser",
+		"ecmaFeatures": {
+			"jsx": true,
 		},
-		ecmaVersion: "latest",
-		sourceType: "module"
+		"ecmaVersion": "latest",
+		"sourceType": "module",
 	},
-	extends: [
+	"extends": [
 		"eslint:recommended",
 		"plugin:json/recommended",
 		"prettier",
 	],
-	plugins: [
+	"plugins": [
 		"prettier",
-		"json"
+		"json",
 	],
-	rules: {
+	"rules": {
 		"accessor-pairs": 2,
 		"array-bracket-newline": [
 			2,
 			{
 				"multiline": true,
-				"minItems": 1
-			}
+				"minItems": 1,
+			},
 		],
-		"array-bracket-spacing": [2, "always"],
+		"array-bracket-spacing": [
+			2,
+			"always",
+		],
 		"array-callback-return": 1,
 		"array-element-newline": [
 			2,
 			{
 				"multiline": true,
-				"minItems": 1
-			}
+				"minItems": 1,
+			},
 		],
 		"arrow-body-style": [
 			1,
-			"as-needed"
+			"as-needed",
 		],
 		"arrow-parens": 0,
 		"arrow-spacing": 2,
@@ -52,22 +55,24 @@ module.exports = {
 		"camelcase": [
 			2,
 			{
-				properties: "always",
-				ignoreDestructuring: true,
-				ignoreImports: false
-			}
+				"properties": "always",
+				"ignoreDestructuring": true,
+				"ignoreImports": false,
+			},
 		],
 		"capitalized-comments": 0,
 		"class-methods-use-this": 2,
 		"comma-dangle": [
 			2,
-			"always-multiline"
+			"always-multiline",
 		],
 		"comma-spacing": 2,
 		"comma-style": 2,
 		"complexity": [
 			2,
-			{ max: 4 }
+			{
+				"max": 4,
+			},
 		],
 		"computed-property-spacing": 2,
 		"consistent-return": 2,
@@ -85,7 +90,7 @@ module.exports = {
 		"func-style": 0,
 		"function-call-argument-newline": [
 			2,
-			"consistent"
+			"consistent",
 		],
 		"function-paren-newline": 2,
 		"generator-star-spacing": 0,
@@ -97,8 +102,8 @@ module.exports = {
 		"id-length": [
 			2,
 			{
-				min: 1
-			}
+				"min": 1,
+			},
 		],
 		"id-match": 2,
 		"implicit-arrow-linebreak": 2,
@@ -106,11 +111,11 @@ module.exports = {
 		"init-declarations": 2,
 		"indent": [
 			2,
-			"tab"
+			"tab",
 		],
 		"jsx-quotes": [
 			2,
-			"prefer-double"
+			"prefer-double",
 		],
 		"key-spacing": 2,
 		"keyword-spacing": 2,
@@ -119,10 +124,10 @@ module.exports = {
 		"lines-around-comment": [
 			1,
 			{
-				allowBlockStart: true,
-				beforeBlockComment: true,
-				beforeLineComment: true
-			}
+				"allowBlockStart": true,
+				"beforeBlockComment": true,
+				"beforeLineComment": true,
+			},
 		],
 		"lines-around-directive": 2,
 		"lines-between-class-members": 2,
@@ -132,16 +137,16 @@ module.exports = {
 		"max-lines": [
 			1,
 			{
-				max: 500,
-				skipComments: true,
-				skipBlankLines: true
-			}
+				"max": 500,
+				"skipComments": true,
+				"skipBlankLines": true,
+			},
 		],
 		"max-lines-per-function": [
 			1,
 			{
-				max: 100
-			}
+				"max": 100,
+			},
 		],
 		"max-nested-callbacks": 2,
 		"max-params": 2,
@@ -149,20 +154,20 @@ module.exports = {
 		"max-statements-per-line": [
 			2,
 			{
-				max: 1
-			}
+				"max": 1,
+			},
 		],
 		"multiline-comment-style": [
 			2,
-			"separate-lines"
+			"separate-lines",
 		],
 		"multiline-ternary": 0,
 		"new-cap": [
 			2,
 			{
-				newIsCap: true,
-				capIsNew: true
-			}
+				"newIsCap": true,
+				"capIsNew": true,
+			},
 		],
 		"new-parens": 2,
 		"newline-after-var": 0,
@@ -229,8 +234,8 @@ module.exports = {
 		"no-param-reassign": [
 			1,
 			{
-				props: false
-			}
+				"props": false,
+			},
 		],
 		"no-path-concat": 2,
 		"no-plusplus": 0,
@@ -268,16 +273,16 @@ module.exports = {
 		"no-unused-expressions": [
 			1,
 			{
-				allowShortCircuit: true,
-				allowTernary: true
-			}
+				"allowShortCircuit": true,
+				"allowTernary": true,
+			},
 		],
 		"no-use-before-define": [
 			2,
 			{
-				functions: false,
-				classes: true
-			}
+				"functions": false,
+				"classes": true,
+			},
 		],
 		"no-useless-call": 1,
 		"no-useless-computed-key": 1,
@@ -293,31 +298,33 @@ module.exports = {
 		"object-curly-newline": [
 			2,
 			{
-				ObjectExpression: {
-					multiline: true,
-					minProperties: 1
+				"ObjectExpression": {
+					"multiline": true,
+					"minProperties": 1,
 				},
-				ObjectPattern: {
-					multiline: true,
-					minProperties: 1
+				"ObjectPattern": {
+					"multiline": true,
+					"minProperties": 1,
 				},
-				ImportDeclaration: {
-					multiline: true,
-					minProperties: 1
+				"ImportDeclaration": {
+					"multiline": true,
+					"minProperties": 1,
 				},
-				ExportDeclaration: {
-					multiline: true,
-					minProperties: 3
-				}
-			}
+				"ExportDeclaration": {
+					"multiline": true,
+					"minProperties": 3,
+				},
+			},
 		],
 		"object-curly-spacing": [
 			2,
-			"always"
+			"always",
 		],
 		"object-property-newline": [
 			2,
-			{ "allowAllPropertiesOnSameLine": false },
+			{
+				"allowAllPropertiesOnSameLine": false,
+			},
 		],
 		"object-shorthand": 2,
 		"one-var": 0,
@@ -326,15 +333,15 @@ module.exports = {
 		"operator-linebreak": 2,
 		"padded-blocks": [
 			1,
-			"never"
+			"never",
 		],
 		"padding-line-between-statements": 2,
 		"prefer-arrow-callback": [
 			0,
 			{
-				allowNamedFunctions: false,
-				allowUnboundThis: false
-			}
+				"allowNamedFunctions": false,
+				"allowUnboundThis": false,
+			},
 		],
 		"prefer-const": 1,
 		"prefer-destructuring": 0,
@@ -350,19 +357,19 @@ module.exports = {
 		"prefer-template": 2,
 		"quote-props": [
 			2,
-			"always"
+			"always",
 		],
 		"quotes": [
 			2,
 			"double",
 			{
-				avoidEscape: true,
-				allowTemplateLiterals: true
-			}
+				"avoidEscape": true,
+				"allowTemplateLiterals": true,
+			},
 		],
 		"radix": [
 			2,
-			"as-needed"
+			"as-needed",
 		],
 		"require-atomic-updates": 2,
 		"require-await": 2,
@@ -370,7 +377,7 @@ module.exports = {
 		"rest-spread-spacing": 2,
 		"semi": [
 			2,
-			"always"
+			"always",
 		],
 		"semi-spacing": 2,
 		"semi-style": 2,
@@ -381,10 +388,10 @@ module.exports = {
 		"space-before-function-paren": [
 			2,
 			{
-				anonymous: "never",
-				named: "never",
-				asyncArrow: "always"
-			}
+				"anonymous": "never",
+				"named": "never",
+				"asyncArrow": "always",
+			},
 		],
 		"space-in-parens": 2,
 		"space-infix-ops": 2,
@@ -397,12 +404,12 @@ module.exports = {
 		"template-tag-spacing": 2,
 		"unicode-bom": [
 			2,
-			"never"
+			"never",
 		],
 		"vars-on-top": 2,
 		"wrap-iife": 2,
 		"wrap-regex": 2,
 		"yield-star-spacing": 2,
-		"yoda": 2
-	}
+		"yoda": 2,
+	},
 };

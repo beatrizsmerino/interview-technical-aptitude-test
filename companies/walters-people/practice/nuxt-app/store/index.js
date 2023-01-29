@@ -1,6 +1,6 @@
-import Vue from 'vue';
-import Vuex from 'vuex';
-import users from './modules/users';
+import Vue from "vue";
+import Vuex from "vuex";
+import users from "./modules/users";
 
 // LOAD VUEX
 Vue.use(Vuex);
@@ -19,16 +19,17 @@ const actions = {};
 
 // MODULES
 const modules = {
-	users
+	users,
 };
 
 // CREATE STORE
-const createStore = () => new Vuex.Store({
-	state,
-	getters,
-	mutations,
-	actions,
-	modules
-});
+const createStore = () =>
+	new Vuex.Store({
+		state,
+		getters,
+		mutations,
+		actions,
+		modules,
+	});
 
 export default createStore;

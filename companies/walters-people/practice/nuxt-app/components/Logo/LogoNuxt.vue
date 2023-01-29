@@ -53,26 +53,26 @@
 
 <script>
 	export default {
-		name: 'LogoNuxt',
+		name: "LogoNuxt",
 		props: {
 			logoType: {
 				type: String,
-				default: 'symbol'
-			}
-		}
+				default: "symbol",
+			},
+		},
 	};
 </script>
 
 <style lang="scss" scoped>
-.logo-nuxt {
-	&--symbol {
-		width: 45px;
-		height: 30px;
-	}
+	.logo-nuxt {
+		&--symbol {
+			width: 45px;
+			height: 30px;
+		}
 
-	&--imagotype {
-		width: 159px;
-		height: 30px;
+		&--imagotype {
+			width: 159px;
+			height: 30px;
+		}
 	}
-}
 </style>

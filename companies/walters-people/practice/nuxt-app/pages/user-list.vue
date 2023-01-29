@@ -15,27 +15,27 @@
 </template>
 
 <script>
-import PageNav from '@/components/PageNav'
-import UserList from '@/components/UserList'
+	import PageNav from "@/components/PageNav";
+	import UserList from "@/components/UserList";
 
-export default {
-	name: 'PageUserList',
-	components: {
-		PageNav,
-		UserList,
-	},
-}
+	export default {
+		name: "PageUserList",
+		components: {
+			PageNav,
+			UserList,
+		},
+	};
 </script>
 
 <style lang="scss" scope>
-.page-head {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	padding: 2rem 0;
-}
+	.page-head {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		padding: 2rem 0;
+	}
 
-.page-main {
-	padding: 0 2rem;
-}
+	.page-main {
+		padding: 0 2rem;
+	}
 </style>
