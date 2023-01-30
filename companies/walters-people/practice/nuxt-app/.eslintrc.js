@@ -134,7 +134,12 @@ module.exports = {
 		],
 		"max-nested-callbacks": 2,
 		"max-params": 2,
-		"max-statements": 1,
+		"max-statements": [
+			1,
+			{
+				"max": 10,
+			},
+		],
 		"max-statements-per-line": [
 			2,
 			{
@@ -348,7 +353,7 @@ module.exports = {
 		"semi": [2, "always"],
 		"semi-spacing": 2,
 		"semi-style": 2,
-		"sort-imports": 0,
+		"sort-imports": 1,
 		"sort-keys": 0,
 		"sort-vars": 2,
 		"space-before-blocks": 2,
@@ -399,11 +404,23 @@ module.exports = {
 		"vue/max-attributes-per-line": [
 			2,
 			{
-				"singleline": 1,
-				"multiline": 1,
+				"singleline": {
+					"max": 1,
+				},
+				"multiline": {
+					"max": 1,
+				},
 			},
 		],
 		"vue/multi-word-component-names": 0,
+		"vue/multiline-html-element-content-newline": [
+			2,
+			{
+				"ignoreWhenEmpty": true,
+				"ignores": ["pre", "textarea"],
+				"allowEmptyLines": false,
+			},
+		],
 		"vue/no-reserved-component-names": 0,
 		"vue/no-side-effects-in-computed-properties": 0,
 		"vue/no-v-html": 0,

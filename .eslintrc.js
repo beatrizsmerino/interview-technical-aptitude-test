@@ -11,6 +11,7 @@ module.exports = {
 		},
 		"ecmaVersion": "latest",
 		"sourceType": "module",
+		"requireConfigFile": false,
 	},
 	"extends": [
 		"prettier",
@@ -150,7 +151,12 @@ module.exports = {
 		],
 		"max-nested-callbacks": 2,
 		"max-params": 2,
-		"max-statements": 1,
+		"max-statements": [
+			1,
+			{
+				"max": 10,
+			},
+		],
 		"max-statements-per-line": [
 			2,
 			{
@@ -377,7 +383,7 @@ module.exports = {
 		],
 		"semi-spacing": 2,
 		"semi-style": 2,
-		"sort-imports": 0,
+		"sort-imports": 1,
 		"sort-keys": 0,
 		"sort-vars": 2,
 		"space-before-blocks": 2,
