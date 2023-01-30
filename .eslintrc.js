@@ -181,14 +181,9 @@ module.exports = {
 		"no-caller": 2,
 		"no-catch-shadow": 2,
 		"no-confusing-arrow": 2,
-
-		// Allow console.log during development only
 		"no-console": process.env.NODE_ENV === "production" ? 2 : "off",
-
 		"no-constructor-return": 2,
 		"no-continue": 2,
-
-		// Allow debugger during development only
 		"no-debugger": process.env.NODE_ENV === "production" ? 2 : "off",
 		"no-div-regex": 2,
 		"no-dupe-else-if": 2,

@@ -23,8 +23,6 @@ module.exports = {
 		"plugin:json/recommended",
 	],
 	"plugins": ["vue", "nuxt", "prettier", "json", "jest"],
-
-	// Add your custom rules here
 	"rules": {
 		"accessor-pairs": 2,
 		"array-bracket-newline": [
@@ -164,14 +162,9 @@ module.exports = {
 		"no-caller": 2,
 		"no-catch-shadow": 2,
 		"no-confusing-arrow": 2,
-
-		// Allow console.log during development only
 		"no-console": process.env.NODE_ENV === "production" ? 2 : "off",
-
 		"no-constructor-return": 2,
 		"no-continue": 2,
-
-		// Allow debugger during development only
 		"no-debugger": process.env.NODE_ENV === "production" ? 2 : "off",
 		"no-div-regex": 2,
 		"no-dupe-else-if": 2,
@@ -382,11 +375,7 @@ module.exports = {
 		"wrap-regex": 2,
 		"yield-star-spacing": 2,
 		"yoda": 2,
-
-		// NUXT
 		"nuxt/no-cjs-in-config": 1,
-
-		// VUE
 		"vue/component-name-in-template-casing": [2, "PascalCase"],
 		"vue/html-closing-bracket-newline": [
 			2,
