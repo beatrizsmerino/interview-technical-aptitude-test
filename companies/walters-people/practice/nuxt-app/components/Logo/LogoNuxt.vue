@@ -53,11 +53,11 @@
 
 <script>
 	export default {
-		name: "LogoNuxt",
-		props: {
-			logoType: {
-				type: String,
-				default: "symbol",
+		"name": "LogoNuxt",
+		"props": {
+			"logoType": {
+				"type": String,
+				"default": "symbol",
 			},
 		},
 	};

@@ -20,11 +20,11 @@
 
 <script>
 	export default {
-		name: "LogoGithub",
-		props: {
-			logoType: {
-				type: String,
-				default: "symbol",
+		"name": "LogoGithub",
+		"props": {
+			"logoType": {
+				"type": String,
+				"default": "symbol",
 			},
 		},
 	};

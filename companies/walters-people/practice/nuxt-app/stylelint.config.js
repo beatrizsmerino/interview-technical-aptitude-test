@@ -7,7 +7,9 @@ module.exports = {
 		"stylelint-config-sass-guidelines",
 		"stylelint-config-property-sort-order-smacss",
 	],
-	"plugins": ["stylelint-scss"],
+	"plugins": [
+		"stylelint-scss",
+	],
 
 	// add your custom config here
 	// https://stylelint.io/user-guide/configuration
@@ -19,7 +21,9 @@ module.exports = {
 					"blockless-after-same-name-blockless",
 					"first-nested",
 				],
-				"ignore": ["after-comment"],
+				"ignore": [
+					"after-comment",
+				],
 			},
 		],
 		"at-rule-name-case": "lower",
@@ -40,8 +44,12 @@ module.exports = {
 		"comment-empty-line-before": [
 			"always",
 			{
-				"except": ["first-nested"],
-				"ignore": ["stylelint-commands"],
+				"except": [
+					"first-nested",
+				],
+				"ignore": [
+					"stylelint-commands",
+				],
 			},
 		],
 		"comment-no-empty": true,
@@ -49,8 +57,14 @@ module.exports = {
 		"custom-property-empty-line-before": [
 			"always",
 			{
-				"except": ["after-custom-property", "first-nested"],
-				"ignore": ["after-comment", "inside-single-line-block"],
+				"except": [
+					"after-custom-property",
+					"first-nested",
+				],
+				"ignore": [
+					"after-comment",
+					"inside-single-line-block",
+				],
 			},
 		],
 		"declaration-bang-space-after": "never",
@@ -59,7 +73,9 @@ module.exports = {
 		"declaration-block-no-duplicate-properties": [
 			true,
 			{
-				"ignore": ["consecutive-duplicates-with-different-values"],
+				"ignore": [
+					"consecutive-duplicates-with-different-values",
+				],
 			},
 		],
 		"declaration-block-no-shorthand-property-overrides": true,
@@ -74,8 +90,14 @@ module.exports = {
 		"declaration-empty-line-before": [
 			"always",
 			{
-				"except": ["after-declaration", "first-nested"],
-				"ignore": ["after-comment", "inside-single-line-block"],
+				"except": [
+					"after-declaration",
+					"first-nested",
+				],
+				"ignore": [
+					"after-comment",
+					"inside-single-line-block",
+				],
 			},
 		],
 		"font-family-no-duplicate-names": true,
@@ -90,7 +112,9 @@ module.exports = {
 		"function-no-unknown": [
 			true,
 			{
-				"ignoreFunctions": ["mix"],
+				"ignoreFunctions": [
+					"mix",
+				],
 			},
 		],
 		"function-parentheses-newline-inside": "always-multi-line",
@@ -129,8 +153,12 @@ module.exports = {
 		"rule-empty-line-before": [
 			"always-multi-line",
 			{
-				"except": ["first-nested"],
-				"ignore": ["after-comment"],
+				"except": [
+					"first-nested",
+				],
+				"ignore": [
+					"after-comment",
+				],
 			},
 		],
 		"scss/at-rule-no-unknown": true,
@@ -146,7 +174,10 @@ module.exports = {
 		"selector-no-qualifying-type": [
 			true,
 			{
-				"ignore": ["attribute", "class"],
+				"ignore": [
+					"attribute",
+					"class",
+				],
 			},
 		],
 		"selector-max-compound-selectors": null,
@@ -156,7 +187,10 @@ module.exports = {
 		"selector-pseudo-class-no-unknown": [
 			true,
 			{
-				"ignorePseudoClasses": ["v-deep", "deep"],
+				"ignorePseudoClasses": [
+					"v-deep",
+					"deep",
+				],
 			},
 		],
 		"selector-pseudo-class-parentheses-space-inside": "never",
@@ -165,14 +199,19 @@ module.exports = {
 		"selector-pseudo-element-no-unknown": [
 			true,
 			{
-				"ignorePseudoElements": ["v-deep", "deep"],
+				"ignorePseudoElements": [
+					"v-deep",
+					"deep",
+				],
 			},
 		],
 		"selector-type-case": "lower",
 		"selector-type-no-unknown": [
 			true,
 			{
-				"ignore": ["custom-elements"],
+				"ignore": [
+					"custom-elements",
+				],
 			},
 		],
 		"string-no-newline": true,

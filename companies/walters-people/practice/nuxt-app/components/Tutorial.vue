@@ -26,7 +26,7 @@
 					</a>
 					, whether you are new or have previous experience with the
 					framework.
-					<br />
+					<br >
 				</p>
 				<p class="mt-4 pt-4 text-gray-800 border-t border-dashed">
 					To get started, remove
@@ -63,8 +63,8 @@
 	import LogoGithub from "@/components/Logo/LogoGithub";
 	import LogoTwitter from "@/components/Logo/LogoTwitter";
 	export default {
-		name: "NuxtTutorial",
-		components: {
+		"name": "NuxtTutorial",
+		"components": {
 			LogoNuxt,
 			LogoGithub,
 			LogoTwitter,

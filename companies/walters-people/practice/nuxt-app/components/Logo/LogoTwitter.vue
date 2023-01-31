@@ -20,11 +20,11 @@
 
 <script>
 	export default {
-		name: "LogoTwitter",
-		props: {
-			logoType: {
-				type: String,
-				default: "symbol",
+		"name": "LogoTwitter",
+		"props": {
+			"logoType": {
+				"type": String,
+				"default": "symbol",
 			},
 		},
 	};

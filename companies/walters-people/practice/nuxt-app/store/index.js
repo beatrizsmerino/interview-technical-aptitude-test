@@ -23,13 +23,12 @@ const modules = {
 };
 
 // CREATE STORE
-const createStore = () =>
-	new Vuex.Store({
-		state,
-		getters,
-		mutations,
-		actions,
-		modules,
-	});
+const createStore = () => new Vuex.Store({
+	state,
+	getters,
+	mutations,
+	actions,
+	modules,
+});
 
 export default createStore;

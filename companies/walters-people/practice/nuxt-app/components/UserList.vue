@@ -113,18 +113,25 @@
 </template>
 
 <script>
-	import { mapActions, mapGetters } from "vuex";
+	import {
+		mapActions, mapGetters,
+	} from "vuex";
 
 	export default {
-		name: "UserList",
-		computed: {
-			...mapGetters(["getUserList"]),
+		"name": "UserList",
+		"computed": {
+			...mapGetters([
+				"getUserList",
+			]),
 		},
 		mounted() {
 			this.fetchUserList();
 		},
-		methods: {
-			...mapActions(["fetchUserList", "deleteUser"]),
+		"methods": {
+			...mapActions([
+				"fetchUserList",
+				"deleteUser",
+			]),
 			handleEditUser(userIndex, user) {
 				console.log(userIndex, user);
 			},

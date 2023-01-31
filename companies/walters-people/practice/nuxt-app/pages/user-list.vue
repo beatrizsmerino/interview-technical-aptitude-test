@@ -19,8 +19,8 @@
 	import UserList from "@/components/UserList";
 
 	export default {
-		name: "PageUserList",
-		components: {
+		"name": "PageUserList",
+		"components": {
 			PageNav,
 			UserList,
 		},

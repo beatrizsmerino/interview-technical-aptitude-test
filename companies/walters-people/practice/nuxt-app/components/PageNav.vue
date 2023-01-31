@@ -21,34 +21,32 @@
 
 <script>
 	export default {
-		name: "PageNav",
+		"name": "PageNav",
 		data() {
 			return {
-				linkList: [
+				"linkList": [
 					{
-						id: "1",
-						name: "index",
-						title: "Home",
-						path: "/",
+						"id": "1",
+						"name": "index",
+						"title": "Home",
+						"path": "/",
 					},
 					{
-						id: "2",
-						name: "user-list",
-						title: "User list",
-						path: "/user-list",
+						"id": "2",
+						"name": "user-list",
+						"title": "User list",
+						"path": "/user-list",
 					},
 				],
-				linkDefaultActive: null,
+				"linkDefaultActive": null,
 			};
 		},
 		mounted() {
 			this.setLinkIDDefaultActive();
 		},
-		methods: {
+		"methods": {
 			setLinkIDDefaultActive() {
-				const currentLink = this.linkList.filter(
-					item => item.name === this.$route.name,
-				)[0];
+				const currentLink = this.linkList.filter(item => item.name === this.$route.name)[0];
 				this.linkDefaultActive = currentLink.id;
 			},
 		},
