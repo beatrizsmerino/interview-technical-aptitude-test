@@ -16,17 +16,59 @@
 				prop="name"
 				label="Name"
 				width="200px"
-			/>
+			>
+				<template slot-scope="scope">
+					<el-input
+						v-if="scope.row.id == editUserSelected?.id"
+						v-model="scope.row.name"
+						maxlength="30"
+						placeholder="Name"
+						type="text"
+						clearable
+					/>
+					<p v-else>
+						{{ scope.row.name }}
+					</p>
+				</template>
+			</el-table-column>
 			<el-table-column
 				prop="username"
 				label="Username"
 				width="180px"
-			/>
+			>
+				<template slot-scope="scope">
+					<el-input
+						v-if="scope.row.id == editUserSelected?.id"
+						v-model="scope.row.username"
+						maxlength="20"
+						placeholder="Username"
+						type="text"
+						clearable
+					/>
+					<p v-else>
+						{{ scope.row.username }}
+					</p>
+				</template>
+			</el-table-column>
 			<el-table-column
 				prop="email"
 				label="Email"
-				width="250px"
-			/>
+				width="280px"
+			>
+				<template slot-scope="scope">
+					<el-input
+						v-if="scope.row.id == editUserSelected?.id"
+						v-model="scope.row.email"
+						maxlength="30"
+						placeholder="Email"
+						type="text"
+						clearable
+					/>
+					<p v-else>
+						{{ scope.row.email }}
+					</p>
+				</template>
+			</el-table-column>
 			<el-table-column label="Address">
 				<el-table-column
 					prop="address.street"
@@ -94,18 +136,47 @@
 				width="150px"
 			>
 				<template slot-scope="scope">
-					<el-button
-						type="primary"
-						icon="el-icon-edit"
-						size="medium"
-						@click="handleEditUser(scope.$index, scope.row)"
-					/>
-					<el-button
-						type="danger"
-						icon="el-icon-delete"
-						size="medium"
-						@click="handleDeleteUser(scope.$index, scope.row)"
-					/>
+					<template
+						v-if="
+							editUserSelected?.id &&
+								editUserSelected?.id === scope.row.id
+						"
+					>
+						<el-button
+							type="success"
+							icon="el-icon-check"
+							size="small"
+							circle
+							@click="handleSaveEditUser(scope.$index, scope.row)"
+						/>
+						<el-button
+							type="warning"
+							icon="el-icon-close"
+							size="small"
+							circle
+							@click="
+								handleCancelEditUser(scope.$index, scope.row)
+							"
+						/>
+					</template>
+					<template v-else>
+						<el-button
+							type="primary"
+							icon="el-icon-edit"
+							size="small"
+							circle
+							@click="
+								handleSelectEditUser(scope.$index, scope.row)
+							"
+						/>
+						<el-button
+							type="danger"
+							icon="el-icon-delete"
+							size="small"
+							circle
+							@click="handleDeleteUser(scope.$index, scope.row)"
+						/>
+					</template>
 				</template>
 			</el-table-column>
 		</el-table>
@@ -119,6 +190,11 @@
 
 	export default {
 		"name": "UserList",
+		data() {
+			return {
+				"editUserSelected": null,
+			};
+		},
 		"computed": {
 			...mapGetters([
 				"getUserList",
@@ -131,9 +207,19 @@
 			...mapActions([
 				"fetchUserList",
 				"deleteUser",
+				"editUser",
 			]),
-			handleEditUser(userIndex, user) {
+			handleSelectEditUser(userIndex, user) {
+				this.editUserSelected = user;
 				console.log(userIndex, user);
+			},
+			handleSaveEditUser(userIndex, user) {
+				this.editUser(user);
+				this.editUserSelected = null;
+				console.log(userIndex, user);
+			},
+			handleCancelEditUser() {
+				this.editUserSelected = null;
 			},
 			handleDeleteUser(userIndex, user) {
 				this.deleteUser(user);

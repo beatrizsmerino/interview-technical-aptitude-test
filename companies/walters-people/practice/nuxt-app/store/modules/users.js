@@ -22,12 +22,20 @@ const actions = {
 	}, userId) {
 		commit("deleteUserByID", userId);
 	},
+	editUser({
+		commit,
+	}, userId) {
+		commit("editUserByID", userId);
+	},
 };
 
 const mutations = {
 	"setUserList": (state, payload) => (state.userList = payload),
 	deleteUserByID(state, payload) {
 		state.userList = state.userList.filter(item => item.id !== payload.id);
+	},
+	editUserByID(state, payload) {
+		state.userList = state.userList.map(item => (item.id === payload.id ? payload : item));
 	},
 };
 
