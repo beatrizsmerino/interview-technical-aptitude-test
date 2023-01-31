@@ -11,8 +11,8 @@
 		"test:akkodis": "node ./companies/akkodis/src/index.js",
 		"jest:akkodis": "jest",
 		"jsdocs:akkodis": "jsdoc -c ./companies/akkodis/jsdoc.json",
-		"prettier:fix": "prettier --write \"./**/*.{js,json}\" .prettierrc",
-		"eslint:fix": "eslint \"**/*.{js,json}\" --fix --ignore-path .eslintignore",
+		"prettier:fix": "prettier --write \"./**/*.{js,json}\" ./.prettierrc",
+		"eslint:fix": "eslint \"./**/*.{js,json}\" --fix --ignore-path ./.eslintignore",
 		"lint": "npm run prettier:fix && npm run eslint:fix"
 	},
 	"repository": {
