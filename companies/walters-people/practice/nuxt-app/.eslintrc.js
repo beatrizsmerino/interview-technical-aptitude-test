@@ -117,7 +117,17 @@ module.exports = {
 		"lines-between-class-members": 2,
 		"max-classes-per-file": 1,
 		"max-depth": 1,
-		"max-length": 0,
+		"max-len": [
+			1,
+			{
+				"code": 200,
+				"tabWidth": 4,
+				"comments": 80,
+				"ignoreTemplateLiterals": true,
+				"ignoreUrls": true,
+				"ignoreStrings": true,
+			},
+		],
 		"max-lines": [
 			1,
 			{
