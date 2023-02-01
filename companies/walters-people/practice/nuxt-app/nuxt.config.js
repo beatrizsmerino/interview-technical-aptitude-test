@@ -87,6 +87,7 @@ export default {
 		],
 		"@nuxtjs/style-resources",
 		"nuxt-element-ui",
+		['nuxt-leaflet', { /* module options */ }],
 	],
 
 	// Build Configuration: https://go.nuxtjs.dev/config-build
