@@ -9,7 +9,7 @@ En este documento encontrarás la información de tu prueba técnica para el pue
 - [x] Almacenar datos en Vuex.
 - [x] Mostrado de datos.
 - [x] Componentes reutilizables.
-- [ ] Refactorización de código.
+- [x] Refactorización de código.
 
 1. Instalación de Nuxt v.2.  
 Crear un proyecto con el framework de Vue, **Nuxt**, en su versión 2.
