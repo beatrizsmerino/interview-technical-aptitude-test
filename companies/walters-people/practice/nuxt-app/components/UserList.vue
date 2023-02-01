@@ -3,7 +3,7 @@
 		<el-table
 			class="user-list__table"
 			:data="getUserList"
-			style="width: 100%;"
+			style="width: 100%"
 			height="370"
 		>
 			<el-table-column
