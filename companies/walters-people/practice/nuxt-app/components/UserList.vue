@@ -209,19 +209,16 @@
 			]),
 			handleSelectEditUser(userIndex, user) {
 				this.editUserSelected = user;
-				console.log(userIndex, user);
 			},
 			handleSaveEditUser(userIndex, user) {
 				this.editUser(user);
 				this.editUserSelected = null;
-				console.log(userIndex, user);
 			},
 			handleCancelEditUser() {
 				this.editUserSelected = null;
 			},
 			handleDeleteUser(userIndex, user) {
 				this.deleteUser(user);
-				console.log(userIndex, user);
 			},
 		},
 	};
