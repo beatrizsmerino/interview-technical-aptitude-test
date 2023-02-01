@@ -4,11 +4,11 @@
 
 En este documento encontrarás la información de tu prueba técnica para el puesto de **Desarrollador Front-end** en **ISID**.
 
-- [ ] Instalación de Nuxt v.2.
-- [ ] Conexión API con Axios.
-- [ ] Almacenar datos en Vuex.
-- [ ] Mostrado de datos.
-- [ ] Componentes reutilizables.
+- [x] Instalación de Nuxt v.2.
+- [x] Conexión API con Axios.
+- [x] Almacenar datos en Vuex.
+- [x] Mostrado de datos.
+- [x] Componentes reutilizables.
 - [ ] Refactorización de código.
 
 1. Instalación de Nuxt v.2.  
