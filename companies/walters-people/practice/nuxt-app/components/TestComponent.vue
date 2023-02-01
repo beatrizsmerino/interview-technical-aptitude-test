@@ -13,7 +13,7 @@
 		<!-- MAP -->
 		<client-only>
 			<l-map
-				style="height: 350px"
+				style="height: 350px;"
 				:zoom="zoom"
 				:center="center"
 			>
@@ -46,10 +46,12 @@
 						"coordinates": [],
 					},
 				},
+
+				// Example coordinates.
 				"markerLatLng": [
 					40.4357604633955,
 					-3.6865084995701385,
-				], // Example coordinates.
+				],
 			};
 		},
 		"methods": {
@@ -59,8 +61,15 @@
 				this.markerLatLng[1] = coordinates.lng;
 
 				this.form.position.coordinates = this.markerLatLng;
-				console.log(this.markerLatLng); // Detect the change and display the array with the new coordinates.
-				console.log(this.form.position.coordinates); // Detects the change and displays the changed value.
+
+				console.log(
+					"Detect the change and display the array with the new coordinates.",
+					this.markerLatLng,
+				);
+				console.log(
+					"Detects the change and displays the changed value.",
+					this.form.position.coordinates,
+				);
 			},
 		},
 	};
