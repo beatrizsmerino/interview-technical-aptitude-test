@@ -1,19 +1,16 @@
 <template>
 	<div>
-		<!-- Coordinates input-->
 		<el-input
-			v-model="form.coordinates[0]"
+			v-model="latitude"
 			placeholder="Latitude"
 		/>
 		<el-input
-			v-model="form.coordinates[1]"
+			v-model="altitude"
 			placeholder="Altitude"
 		/>
-
-		<!-- MAP -->
 		<client-only>
 			<l-map
-				style="height: 350px"
+				style="height: 350px;"
 				:zoom="zoom"
 				:center="center"
 			>
@@ -21,11 +18,10 @@
 					:url="url"
 					:attribution="attribution"
 				/>
-
 				<l-marker
 					draggable
-					:lat-lng="markerLatLng"
-					@dragend="getMarkerPosition"
+					:lat-lng="getCoords"
+					@dragend="setCoords"
 				>
 					<l-tooltip>Hello!</l-tooltip>
 				</l-marker>
@@ -39,28 +35,23 @@
 		"name": "TestComponent",
 		data() {
 			return {
-				"form": {
-					"name": "",
-					"position": {
-						"type": "",
-						"coordinates": [],
-					},
-				},
-				"markerLatLng": [
-					40.4357604633955,
-					-3.6865084995701385,
-				], // Example coordinates.
+				"latitude": 40.4357604633955,
+				"altitude": -3.6865084995701385,
 			};
 		},
+		"computed": {
+			getCoords() {
+				return [
+					this.latitude,
+					this.altitude,
+				];
+			},
+		},
 		"methods": {
-			getMarkerPosition(e) {
-				const coordinates = e.target.getLatLng();
-				this.markerLatLng[0] = coordinates.lat;
-				this.markerLatLng[1] = coordinates.lng;
-
-				this.form.position.coordinates = this.markerLatLng;
-				console.log(this.markerLatLng); // Detect the change and display the array with the new coordinates.
-				console.log(this.form.position.coordinates); // Detects the change and displays the changed value.
+			setCoords(e) {
+				const currentCoords = e.target.getLatLng();
+				this.latitude = currentCoords.lat;
+				this.altitude = currentCoords.lng;
 			},
 		},
 	};
