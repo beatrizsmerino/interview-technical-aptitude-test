@@ -46,8 +46,8 @@
 						"coordinates": [],
 					},
 				},
-				"zoom": "",
-				"center": "",
+				"zoom": 12,
+				"center": [],
 				"url": "",
 				"attribution": "",
 
@@ -57,6 +57,10 @@
 					-3.6865084995701385,
 				],
 			};
+		},
+		mounted() {
+			this.center = this.markerLatLng;
+			this.form.position.coordinates = this.markerLatLng;
 		},
 		"methods": {
 			getMarkerPosition(e) {
