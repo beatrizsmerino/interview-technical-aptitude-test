@@ -2,11 +2,11 @@
 	<div>
 		<!-- Coordinates input-->
 		<el-input
-			v-model="form.coordinates[0]"
+			v-model="form.position.coordinates[0]"
 			placeholder="Latitude"
 		/>
 		<el-input
-			v-model="form.coordinates[1]"
+			v-model="form.position.coordinates[1]"
 			placeholder="Altitude"
 		/>
 
@@ -46,6 +46,10 @@
 						"coordinates": [],
 					},
 				},
+				"zoom": "",
+				"center": "",
+				"url": "",
+				"attribution": "",
 
 				// Example coordinates.
 				"markerLatLng": [
