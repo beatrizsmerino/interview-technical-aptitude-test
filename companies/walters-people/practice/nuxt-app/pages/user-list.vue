@@ -9,6 +9,7 @@
 					User list
 				</h1>
 				<UserList />
+				<TestComponent />
 			</el-main>
 		</el-container>
 	</div>
@@ -16,6 +17,7 @@
 
 <script>
 	import PageNav from "@/components/PageNav";
+	import TestComponent from "@/components/TestComponent";
 	import UserList from "@/components/UserList";
 
 	export default {
@@ -23,6 +25,7 @@
 		"components": {
 			PageNav,
 			UserList,
+			TestComponent,
 		},
 	};
 </script>
