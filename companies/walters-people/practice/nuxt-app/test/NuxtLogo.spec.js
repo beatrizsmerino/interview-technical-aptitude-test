@@ -1,6 +1,4 @@
-import {
-	mount,
-} from "@vue/test-utils";
+import { mount } from "@vue/test-utils";
 import LogoNuxt from "~/components/Logo/LogoNuxt.vue";
 
 describe("LogoNuxt", () => {

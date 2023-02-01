@@ -1,6 +1,4 @@
-const {
-	execSync,
-} = require("child_process");
+const { execSync } = require("child_process");
 const fs = require("fs");
 const packageFile = JSON.parse(fs.readFileSync("package.json"));
 

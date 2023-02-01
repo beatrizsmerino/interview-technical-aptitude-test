@@ -11,20 +11,14 @@ const getters = {
 };
 
 const actions = {
-	async fetchUserList({
-		commit,
-	}) {
+	async fetchUserList({ commit }) {
 		const response = await this.$axios.$get("http://jsonplaceholder.typicode.com/users");
 		commit("setUserList", response);
 	},
-	deleteUser({
-		commit,
-	}, userId) {
+	deleteUser({ commit }, userId) {
 		commit("deleteUserByID", userId);
 	},
-	editUser({
-		commit,
-	}, userId) {
+	editUser({ commit }, userId) {
 		commit("editUserByID", userId);
 	},
 };
