@@ -39,6 +39,7 @@
 	}
 
 	.page-main {
+		margin-bottom: 4rem;
 		padding: 0 2rem;
 	}
 </style>
