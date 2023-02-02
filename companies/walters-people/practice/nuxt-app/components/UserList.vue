@@ -136,12 +136,7 @@
 				width="150px"
 			>
 				<template slot-scope="scope">
-					<template
-						v-if="
-							editUserSelected?.id &&
-								editUserSelected?.id === scope.row.id
-						"
-					>
+					<template v-if="editUserSelected?.id && editUserSelected?.id === scope.row.id">
 						<el-button
 							type="success"
 							icon="el-icon-check"
@@ -154,9 +149,7 @@
 							icon="el-icon-close"
 							size="small"
 							circle
-							@click="
-								handleCancelEditUser(scope.$index, scope.row)
-							"
+							@click="handleCancelEditUser(scope.$index, scope.row)"
 						/>
 					</template>
 					<template v-else>
@@ -165,9 +158,7 @@
 							icon="el-icon-edit"
 							size="small"
 							circle
-							@click="
-								handleSelectEditUser(scope.$index, scope.row)
-							"
+							@click="handleSelectEditUser(scope.$index, scope.row)"
 						/>
 						<el-button
 							type="danger"

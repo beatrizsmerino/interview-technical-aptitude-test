@@ -1,8 +1,6 @@
 <!-- Please remove this file from your project -->
 <template>
-	<div
-		class="tutorial relative flex items-top justify-center min-h-screen bg-gray-100 sm:items-center sm:pt-0"
-	>
+	<div class="tutorial relative flex items-top justify-center min-h-screen bg-gray-100 sm:items-center sm:pt-0">
 		<div class="max-w-4xl mx-auto sm:px-6 lg:px-8">
 			<a
 				class="flex justify-center pt-8 sm:pt-0"
@@ -24,8 +22,7 @@
 					>
 						Nuxt Documentation
 					</a>
-					, whether you are new or have previous experience with the
-					framework.
+					, whether you are new or have previous experience with the framework.
 					<br >
 				</p>
 				<p class="mt-4 pt-4 text-gray-800 border-t border-dashed">

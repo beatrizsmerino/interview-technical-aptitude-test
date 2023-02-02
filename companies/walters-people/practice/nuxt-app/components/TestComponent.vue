@@ -47,9 +47,7 @@
 				"zoom": 12,
 				"center": [],
 				"url": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-				"attribution":
-					'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-
+				"attribution": '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
 				"latitude": 40.4357604633955,
 				"altitude": -3.6865084995701385,
 			};
