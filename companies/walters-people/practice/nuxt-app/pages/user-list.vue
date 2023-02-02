@@ -30,7 +30,7 @@
 	};
 </script>
 
-<style lang="scss" scope>
+<style lang="scss" scoped>
 	.page-head {
 		display: flex;
 		align-items: center;
