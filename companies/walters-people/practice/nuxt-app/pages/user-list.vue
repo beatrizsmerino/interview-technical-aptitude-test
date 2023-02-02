@@ -17,8 +17,8 @@
 
 <script>
 	import PageNav from "@/components/PageNav";
-	import TestComponent from "@/components/TestComponent";
 	import TableUserList from "@/components/TableUserList";
+	import TestComponent from "@/components/TestComponent";
 
 	export default {
 		"name": "UserList",
