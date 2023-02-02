@@ -8,7 +8,7 @@
 				<h1 class="page-head text-3xl leading-7 font-semibold">
 					User list
 				</h1>
-				<UserList />
+				<TableUserList />
 				<TestComponent />
 			</el-main>
 		</el-container>
@@ -18,13 +18,13 @@
 <script>
 	import PageNav from "@/components/PageNav";
 	import TestComponent from "@/components/TestComponent";
-	import UserList from "@/components/UserList";
+	import TableUserList from "@/components/TableUserList";
 
 	export default {
-		"name": "PageUserList",
+		"name": "UserList",
 		"components": {
 			PageNav,
-			UserList,
+			TableUserList,
 			TestComponent,
 		},
 	};
