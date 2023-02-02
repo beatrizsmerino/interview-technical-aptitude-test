@@ -1,16 +1,14 @@
 <template>
 	<div>
-		<!-- Coordinates input-->
 		<el-input
-			v-model="form.position.coordinates[0]"
+			v-model="latitude"
 			placeholder="Latitude"
 		/>
 		<el-input
-			v-model="form.position.coordinates[1]"
+			v-model="altitude"
 			placeholder="Altitude"
 		/>
 
-		<!-- MAP -->
 		<client-only>
 			<l-map
 				style="height: 350px;"
@@ -24,8 +22,8 @@
 
 				<l-marker
 					draggable
-					:lat-lng="markerLatLng"
-					@dragend="getMarkerPosition"
+					:lat-lng="getCoords"
+					@dragend="setCoords"
 				>
 					<l-tooltip>Hello!</l-tooltip>
 				</l-marker>
@@ -52,33 +50,26 @@
 				"attribution":
 					'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
 
-				// Example coordinates.
-				"markerLatLng": [
-					40.4357604633955,
-					-3.6865084995701385,
-				],
+				"latitude": 40.4357604633955,
+				"altitude": -3.6865084995701385,
 			};
 		},
+		"computed": {
+			getCoords() {
+				return [
+					this.latitude,
+					this.altitude,
+				];
+			},
+		},
 		mounted() {
-			this.center = this.markerLatLng;
-			this.form.position.coordinates = this.markerLatLng;
+			this.center = this.getCoords;
 		},
 		"methods": {
-			getMarkerPosition(e) {
-				const coordinates = e.target.getLatLng();
-				this.markerLatLng[0] = coordinates.lat;
-				this.markerLatLng[1] = coordinates.lng;
-
-				this.form.position.coordinates = this.markerLatLng;
-
-				console.log(
-					"Detect the change and display the array with the new coordinates.",
-					this.markerLatLng,
-				);
-				console.log(
-					"Detects the change and displays the changed value.",
-					this.form.position.coordinates,
-				);
+			setCoords(e) {
+				const currentCoords = e.target.getLatLng();
+				this.latitude = currentCoords.lat;
+				this.altitude = currentCoords.lng;
 			},
 		},
 	};
