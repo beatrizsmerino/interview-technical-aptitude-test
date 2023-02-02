@@ -6,7 +6,7 @@
 	"htmlWhitespaceSensitivity": "ignore",
 	"insertPragma": false,
 	"jsxSingleQuote": false,
-	"printWidth": 80,
+	"printWidth": 150,
 	"proseWrap": "always",
 	"quoteProps": "preserve",
 	"requirePragma": false,
@@ -16,6 +16,7 @@
 	"tabWidth": 4,
 	"trailingComma": "all",
 	"useTabs": true,
+	"vueIndentScriptAndStyle": true,
 	"overrides": [
 		{
 			"files": [".prettierrc"],

@@ -19,5 +19,5 @@ const checkCategoryPath = () => {
 };
 
 module.exports = {
-	checkCategoryPath
+	checkCategoryPath,
 };

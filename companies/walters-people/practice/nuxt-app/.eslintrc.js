@@ -2,6 +2,7 @@ module.exports = {
 	"root": true,
 	"env": {
 		"browser": true,
+		"jest/globals": true,
 		"node": true,
 	},
 	"parserOptions": {
@@ -14,13 +15,19 @@ module.exports = {
 		"requireConfigFile": false,
 	},
 	"extends": [
+		"@nuxtjs",
 		"prettier",
 		"eslint:recommended",
+		"plugin:vue/recommended",
+		"plugin:nuxt/recommended",
 		"plugin:json/recommended",
 	],
 	"plugins": [
+		"vue",
+		"nuxt",
 		"prettier",
 		"json",
+		"jest",
 	],
 	"rules": {
 		"accessor-pairs": 2,
@@ -267,7 +274,14 @@ module.exports = {
 		"no-self-compare": 2,
 		"no-sequences": 2,
 		"no-setter-return": 2,
-		"no-shadow": 0,
+		"no-shadow": [
+			2,
+			{
+				"allow": [
+					"state",
+				],
+			},
+		],
 		"no-spaced-func": 2,
 		"no-sync": 0,
 		"no-tabs": 0,
@@ -409,5 +423,84 @@ module.exports = {
 		"wrap-regex": 2,
 		"yield-star-spacing": 2,
 		"yoda": 2,
+		"nuxt/no-cjs-in-config": 1,
+		"vue/component-name-in-template-casing": [
+			2,
+			"PascalCase",
+		],
+		"vue/html-closing-bracket-newline": [
+			2,
+			{
+				"singleline": "never",
+				"multiline": "always",
+			},
+		],
+		"vue/html-closing-bracket-spacing": 0,
+		"vue/html-indent": [
+			2,
+			"tab",
+			{
+				"attribute": 1,
+				"baseIndent": 1,
+				"closeBracket": 0,
+				"alignAttributesVertically": true,
+				"ignores": [],
+			},
+		],
+		"vue/max-attributes-per-line": [
+			2,
+			{
+				"singleline": {
+					"max": 1,
+				},
+				"multiline": {
+					"max": 1,
+				},
+			},
+		],
+		"vue/multi-word-component-names": 0,
+		"vue/multiline-html-element-content-newline": [
+			2,
+			{
+				"ignoreWhenEmpty": true,
+				"ignores": [
+					"pre",
+					"textarea",
+				],
+				"allowEmptyLines": false,
+			},
+		],
+		"vue/no-reserved-component-names": 0,
+		"vue/no-side-effects-in-computed-properties": 0,
+		"vue/no-v-html": 0,
+		"vue/require-default-prop": 0,
+		"vue/script-indent": [
+			2,
+			"tab",
+			{
+				"baseIndent": 1,
+				"switchCase": 0,
+				"ignores": [],
+			},
+		],
+		"vue/singleline-html-element-content-newline": [
+			2,
+			{
+				"ignoreWhenEmpty": true,
+				"ignores": [
+					"pre",
+				],
+			},
+		],
 	},
+	"overrides": [
+		{
+			"files": [
+				"*.vue",
+			],
+			"rules": {
+				"indent": "off",
+			},
+		},
+	],
 };
