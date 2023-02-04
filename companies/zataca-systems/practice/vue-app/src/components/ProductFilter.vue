@@ -100,9 +100,26 @@
 			display: flex;
 			flex-direction: column;
 			align-items: flex-start;
+			transition: all 0.5s ease-in-out;
+
+			@include media('md') {
+				flex: 1;
+			}
 
 			&:not(:last-child) {
 				margin-right: 2rem;
+
+				@include media('md') {
+					margin-right: 1rem;
+				}
+			}
+
+			> * {
+				transition: all 0.5s ease-in-out;
+
+				@include media('md') {
+					width: 100%;
+				}
 			}
 		}
 
@@ -114,15 +131,21 @@
 			min-width: 5rem;
 			min-height: 1rem;
 			margin: 0;
-			padding: 0.5rem 2rem 0.5rem 0.5rem;
+			padding: 0.5rem 2.5rem 0.5rem 0.5rem;
+			transition: all 0.5s ease-in-out;
 			border: 0.15rem solid $color-brand-2;
 			border-radius: 0.5rem;
 			outline: none;
 			box-shadow: -0.1rem 0.1rem $color-brand-2;
 			appearance: none;
+
+			@include media('md') {
+				width: 100%;
+			}
 		}
 
 		&__field-wrapper {
+			display: flex;
 			position: relative;
 		}
 
@@ -130,12 +153,12 @@
 			display: flex;
 			position: absolute;
 			top: calc(50% - 1rem / 2);
-			right: 0.5rem;
+			right: 0.8rem;
 			pointer-events: none;
 		}
 
 		&__search {
-			width: 15rem;
+			min-width: 15rem;
 		}
 	}
 </style>

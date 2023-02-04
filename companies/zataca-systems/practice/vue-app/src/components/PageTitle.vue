@@ -23,7 +23,6 @@
 
 		:deep(.page-title__highlight) {
 			background-clip: text;
-			background-clip: text;
 			background-color: $color-brand-1;
 			background-image: linear-gradient(45deg, $color-brand-2, $color-brand-1, #F3EC78);
 			background-repeat: repeat;

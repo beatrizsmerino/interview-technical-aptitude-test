@@ -50,12 +50,21 @@
 
 		&__header {
 			padding: 1rem 2rem;
+
+			@include media('md') {
+				padding: 0.5rem 1.5rem;
+			}
 		}
 
 		&__body {
 			padding: 2rem;
+			transition: all 0.5s ease-in-out;
 			border-radius: 0 0.8rem 0.8rem;
 			background: $color-ghost;
+
+			@include media('md') {
+				padding: 1.5rem;
+			}
 
 			> * {
 				&:not(:last-child) {
@@ -70,16 +79,29 @@
 			font-style: italic;
 			font-weight: 400;
 			text-align: right;
+
+			@include media('md') {
+				font-size: 1.5rem;
+			}
 		}
 
 		&__title {
 			display: inline-block;
 
 			span {
-				font-size: 1.7rem;
+				transition: all 0.5s ease-in-out;
+				font-size: 1.5rem;
 				font-weight: 500;
 				letter-spacing: 0.1rem;
 				text-transform: uppercase;
+
+				@include media('xl') {
+					font-size: 1.4rem;
+				}
+
+				@include media('md') {
+					font-size: 1.2rem;
+				}
 			}
 		}
 
@@ -89,6 +111,11 @@
 			height: 180px;
 			margin: 0;
 			overflow: hidden;
+			transition: all 0.5s ease-in-out;
+
+			@include media('md') {
+				height: auto;
+			}
 
 			&:after {
 				content: '';
