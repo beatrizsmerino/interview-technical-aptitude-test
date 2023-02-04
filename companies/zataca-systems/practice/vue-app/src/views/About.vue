@@ -10,12 +10,12 @@ import PageTitle from "@/components/PageTitle";
 export default {
 	name: "About",
 	components: {
-		PageTitle
+		PageTitle,
 	},
 	data() {
 		return {
-			pageTitle: "This is an about page"
-		}
+			pageTitle: "This is an about page",
+		};
 	},
-}
+};
 </script>

@@ -7,18 +7,18 @@
 
 <script>
 import PageTitle from "@/components/PageTitle";
-import ProductList from "@/components/ProductList"
+import ProductList from "@/components/ProductList";
 
 export default {
 	name: "Products",
 	components: {
 		PageTitle,
-		ProductList
+		ProductList,
 	},
 	data() {
 		return {
-			pageTitle: "This is an products page"
-		}
+			pageTitle: "This is an products page",
+		};
 	},
-}
+};
 </script>

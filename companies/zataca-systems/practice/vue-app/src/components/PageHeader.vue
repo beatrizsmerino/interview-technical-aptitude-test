@@ -2,8 +2,15 @@
 	<header class="page-header">
 		<nav class="nav">
 			<ul class="nav__list">
-				<li class="nav__item" v-for="link in getLinkList" :key="link.id">
-					<router-link class="nav__link" :to="link.path">
+				<li
+					class="nav__item"
+					v-for="link in getLinkList"
+					:key="link.id"
+				>
+					<router-link
+						class="nav__link"
+						:to="link.path"
+					>
 						{{ link.name }}
 					</router-link>
 				</li>

@@ -1,6 +1,9 @@
 <template>
 	<div class="home">
-		<img alt="Vue logo" src="../assets/logo.png" />
+		<img
+			alt="Vue logo"
+			src="../assets/logo.png"
+		/>
 		<HelloWorld :page-title="pageTitle" />
 	</div>
 </template>
@@ -16,12 +19,11 @@ export default {
 	},
 	data() {
 		return {
-			pageTitle: "Welcome to Your Vue.js App"
-		}
+			pageTitle: "Welcome to Your Vue.js App",
+		};
 	},
 };
 </script>
-
 
 <style lang="scss">
 .home {
