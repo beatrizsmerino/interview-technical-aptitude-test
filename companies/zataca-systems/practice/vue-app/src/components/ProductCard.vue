@@ -54,7 +54,7 @@ export default {
 
 	&__body {
 		padding: 2rem;
-		background: #fbfbfb;
+		background: $color-ghost;
 		border-radius: 0 0.8rem 0.8rem 0.8rem;
 
 		> * {
@@ -69,7 +69,7 @@ export default {
 		font-style: italic;
 		font-weight: 400;
 		text-align: right;
-		color: #ffffff;
+		color: $color-white;
 	}
 
 	&__title {
@@ -101,8 +101,8 @@ export default {
 			z-index: 9;
 			background: linear-gradient(
 				180deg,
-				rgba(251, 251, 251, 0) 0%,
-				rgba(251, 251, 251, 1) 100%
+				rgba($color-ghost, 0) 0%,
+				rgba($color-ghost, 1) 100%
 			);
 		}
 	}
@@ -113,7 +113,7 @@ export default {
 			padding: 0.2rem 0.6rem;
 			display: inline-block;
 			font-weight: 500;
-			background-color: #ededed;
+			background-color: $color-light;
 			border-radius: 0.2rem;
 		}
 	}

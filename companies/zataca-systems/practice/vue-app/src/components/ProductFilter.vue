@@ -113,9 +113,9 @@ export default {
 		min-width: 5rem;
 		min-height: 1rem;
 		padding: 0.5rem 2rem 0.5rem 0.5rem;
-		border: 0.15rem solid #2c3e50;
+		border: 0.15rem solid $color-brand-2;
 		border-radius: 0.5rem;
-		box-shadow: -0.1rem 0.1rem #2c3e50;
+		box-shadow: -0.1rem 0.1rem $color-brand-2;
 	}
 
 	&__field-wrapper {

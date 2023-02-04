@@ -24,8 +24,13 @@ export default {
 	:deep(.page-title__highlight) {
 		font-size: 4rem;
 		font-weight: 900;
-		background-color: #42b983;
-		background-image: linear-gradient(45deg, #2c3e50, #42b983, #f3ec78);
+		background-color: $color-brand-1;
+		background-image: linear-gradient(
+			45deg,
+			$color-brand-2,
+			$color-brand-1,
+			#f3ec78
+		);
 		background-size: 100%;
 		background-repeat: repeat;
 		-webkit-background-clip: text;

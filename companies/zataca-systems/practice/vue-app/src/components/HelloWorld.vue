@@ -184,6 +184,6 @@ li {
 }
 
 a {
-	color: #42b983;
+	color: $color-brand-1;
 }
 </style>

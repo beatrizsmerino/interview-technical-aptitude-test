@@ -110,23 +110,23 @@ export default {
 		width: calc(32% - (0.4rem * 2));
 		margin-bottom: 2rem;
 		border-radius: 0.8rem;
-		box-shadow: -0.6rem 0.8rem #2c3e50;
+		box-shadow: -0.6rem 0.8rem $color-brand-2;
 
 		&:nth-child(3n + 2) {
 			margin-left: 2%;
 			margin-right: 2%;
 			border-width: 0.4rem 0.4rem 0 0;
 			border-style: solid;
-			border-color: mix(#000000, #42b983, 15%);
-			background-color: mix(#000000, #42b983, 15%);
+			border-color: mix($color-black, $color-brand-1, 15%);
+			background-color: mix($color-black, $color-brand-1, 15%);
 		}
 
 		&:nth-child(3n + 1),
 		&:nth-child(3n) {
 			border-width: 0.4rem 0.4rem 0 0;
 			border-style: solid;
-			border-color: mix(#ffffff, #42b983, 15%);
-			background-color: mix(#ffffff, #42b983, 15%);
+			border-color: mix($color-white, $color-brand-1, 15%);
+			background-color: mix($color-white, $color-brand-1, 15%);
 		}
 
 		&:nth-last-child(-n + 3) {

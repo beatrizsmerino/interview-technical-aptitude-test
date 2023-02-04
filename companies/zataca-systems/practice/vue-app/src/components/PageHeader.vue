@@ -77,10 +77,10 @@ export default {
 
 	&__link {
 		font-weight: bold;
-		color: #2c3e50;
+		color: $color-brand-2;
 
 		&.router-link-exact-active {
-			color: #42b983;
+			color: $color-brand-1;
 		}
 	}
 }

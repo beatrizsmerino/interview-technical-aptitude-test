@@ -7,7 +7,10 @@ module.exports = {
 				sassOptions: {
 					fiber: require("fibers"),
 				},
-			}
+			},
+			scss: {
+				additionalData: `@import "@/assets/scss/styles.scss";`,
+			},
 		},
 	},
 };
