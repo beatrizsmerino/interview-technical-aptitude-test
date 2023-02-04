@@ -137,8 +137,5 @@
 		&__search {
 			width: 15rem;
 		}
-
-		&__select {
-		}
 	}
 </style>

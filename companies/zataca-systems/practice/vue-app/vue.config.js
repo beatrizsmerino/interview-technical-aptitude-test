@@ -1,3 +1,5 @@
+const SASS = require("sass");
+const Fibers = require("fibers");
 const ESLintPlugin = require("eslint-webpack-plugin");
 const StyleLintPlugin = require("stylelint-webpack-plugin");
 
@@ -7,9 +9,9 @@ module.exports = {
 	"css": {
 		"loaderOptions": {
 			"sass": {
-				"implementation": require("sass"),
+				"implementation": SASS,
 				"sassOptions": {
-					"fiber": require("fibers"),
+					"fiber": Fibers,
 				},
 			},
 			"scss": {
