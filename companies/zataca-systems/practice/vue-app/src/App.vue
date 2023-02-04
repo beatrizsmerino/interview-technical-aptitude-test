@@ -27,4 +27,9 @@
 	.page-main {
 		margin: 0 5% 4rem;
 	}
+
+	a {
+		color: $color-brand-1;
+		font-weight: bold;
+	}
 </style>

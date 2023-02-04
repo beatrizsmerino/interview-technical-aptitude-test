@@ -70,14 +70,16 @@
 				&:after {
 					content: '|';
 					display: inline-block;
-					margin: 0 0.3rem;
+					margin: 0 0.5rem;
 				}
 			}
 		}
 
 		&__link {
+			padding: 0.5rem;
 			color: $color-brand-2;
 			font-weight: bold;
+			text-decoration: none;
 
 			&.router-link-exact-active {
 				color: $color-brand-1;
