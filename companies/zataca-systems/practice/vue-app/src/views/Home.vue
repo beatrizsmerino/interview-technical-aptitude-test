@@ -4,7 +4,9 @@
 			alt="Vue logo"
 			src="../assets/logo.png"
 		>
-		<HelloWorld :page-title="pageTitle" />
+		<section>
+			<HelloWorld :page-title="pageTitle" />
+		</section>
 	</div>
 </template>
 

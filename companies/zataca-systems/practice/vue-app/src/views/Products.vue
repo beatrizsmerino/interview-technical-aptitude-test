@@ -1,16 +1,18 @@
 <template>
 	<div class="products">
 		<PageTitle :title="pageTitle" />
-		<ProductFilter
-			:product-list="getProductList"
-			@sendProductFilterTitle="setProductFilterTitle"
-			@sendProductFilterUserId="setProductFilterUserId"
-		/>
-		<ProductList
-			:product-filter-title="productFilter.title"
-			:product-filter-user-id="productFilter.userId"
-			@sendProductList="setProductList"
-		/>
+		<section>
+			<ProductFilter
+				:product-list="getProductList"
+				@sendProductFilterTitle="setProductFilterTitle"
+				@sendProductFilterUserId="setProductFilterUserId"
+			/>
+			<ProductList
+				:product-filter-title="productFilter.title"
+				:product-filter-user-id="productFilter.userId"
+				@sendProductList="setProductList"
+			/>
+		</section>
 	</div>
 </template>
 

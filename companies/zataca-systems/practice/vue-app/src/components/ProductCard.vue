@@ -1,5 +1,5 @@
 <template>
-	<div class="product-card">
+	<article class="product-card">
 		<div class="product-card__inner">
 			<div class="product-card__header">
 				<div class="product-card__id">
@@ -26,7 +26,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</article>
 </template>
 
 <script>
