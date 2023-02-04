@@ -5,17 +5,17 @@
 </template>
 
 <script>
-import PageTitle from "@/components/PageTitle";
+	import PageTitle from "@/components/PageTitle";
 
-export default {
-	name: "About",
-	components: {
-		PageTitle,
-	},
-	data() {
-		return {
-			pageTitle: `This is an <span class="page-title__highlight">${this.$route.name}</span> page`,
-		};
-	},
-};
+	export default {
+		"name": "About",
+		"components": {
+			PageTitle,
+		},
+		data() {
+			return {
+				"pageTitle": `This is an <span class="page-title__highlight">${this.$route.name}</span> page`,
+			};
+		},
+	};
 </script>

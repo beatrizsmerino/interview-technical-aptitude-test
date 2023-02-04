@@ -8,25 +8,25 @@ Vue.use(VueRouter);
 
 const routes = [
 	{
-		path: "/",
-		name: "Home",
-		component: Home,
+		"path": "/",
+		"name": "Home",
+		"component": Home,
 	},
 	{
-		path: "/about",
-		name: "About",
-		component: About,
+		"path": "/about",
+		"name": "About",
+		"component": About,
 	},
 	{
-		path: "/products",
-		name: "Products",
-		component: Products,
+		"path": "/products",
+		"name": "Products",
+		"component": Products,
 	},
 ];
 
 const router = new VueRouter({
-	mode: "history",
-	base: process.env.BASE_URL,
+	"mode": "history",
+	"base": process.env.BASE_URL,
 	routes,
 });
 

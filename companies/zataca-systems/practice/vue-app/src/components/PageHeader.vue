@@ -3,9 +3,9 @@
 		<nav class="nav">
 			<ul class="nav__list">
 				<li
-					class="nav__item"
 					v-for="link in getLinkList"
 					:key="link.id"
+					class="nav__item"
 				>
 					<router-link
 						class="nav__link"
@@ -20,68 +20,68 @@
 </template>
 
 <script>
-export default {
-	name: "PageHeader",
-	data() {
-		return {
-			linkList: [
-				{
-					name: "Home",
-					path: "/",
-				},
-				{
-					name: "About",
-					path: "/about",
-				},
-				{
-					name: "Products",
-					path: "/products",
-				},
-			],
-		};
-	},
-	computed: {
-		getLinkList() {
-			return this.linkList;
+	export default {
+		"name": "PageHeader",
+		data() {
+			return {
+				"linkList": [
+					{
+						"name": "Home",
+						"path": "/",
+					},
+					{
+						"name": "About",
+						"path": "/about",
+					},
+					{
+						"name": "Products",
+						"path": "/products",
+					},
+				],
+			};
 		},
-	},
-};
+		"computed": {
+			getLinkList() {
+				return this.linkList;
+			},
+		},
+	};
 </script>
 
 <style lang="scss" scoped>
-.nav {
-	padding: 30px;
+	.nav {
+		padding: 30px;
 
-	&__list {
-		margin: 0;
-		padding: 0;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		list-style: none;
-	}
+		&__list {
+			margin: 0;
+			padding: 0;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			list-style: none;
+		}
 
-	&__item {
-		display: flex;
-		align-items: center;
-		justify-content: center;
+		&__item {
+			display: flex;
+			align-items: center;
+			justify-content: center;
 
-		&:not(:last-child) {
-			&:after {
-				content: "|";
-				display: inline-block;
-				margin: 0 0.3rem;
+			&:not(:last-child) {
+				&:after {
+					content: "|";
+					display: inline-block;
+					margin: 0 0.3rem;
+				}
+			}
+		}
+
+		&__link {
+			font-weight: bold;
+			color: $color-brand-2;
+
+			&.router-link-exact-active {
+				color: $color-brand-1;
 			}
 		}
 	}
-
-	&__link {
-		font-weight: bold;
-		color: $color-brand-2;
-
-		&.router-link-exact-active {
-			color: $color-brand-1;
-		}
-	}
-}
 </style>

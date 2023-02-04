@@ -30,92 +30,88 @@
 </template>
 
 <script>
-export default {
-	name: "ProductCard",
-	props: {
-		product: {
-			type: Object,
-			required: true,
+	export default {
+		"name": "ProductCard",
+		"props": {
+			"product": {
+				"type": Object,
+				"required": true,
+			},
 		},
-	},
-};
+	};
 </script>
 
 <style lang="scss" scoped>
-.product-card {
-	&__inner {
-		display: flex;
-		flex-direction: column;
-	}
+	.product-card {
+		&__inner {
+			display: flex;
+			flex-direction: column;
+		}
 
-	&__header {
-		padding: 1rem 2rem;
-	}
+		&__header {
+			padding: 1rem 2rem;
+		}
 
-	&__body {
-		padding: 2rem;
-		background: $color-ghost;
-		border-radius: 0 0.8rem 0.8rem 0.8rem;
+		&__body {
+			padding: 2rem;
+			background: $color-ghost;
+			border-radius: 0 0.8rem 0.8rem 0.8rem;
 
-		> * {
-			&:not(:last-child) {
-				margin-bottom: 1rem;
+			> * {
+				&:not(:last-child) {
+					margin-bottom: 1rem;
+				}
+			}
+		}
+
+		&__id {
+			font-size: 2rem;
+			font-style: italic;
+			font-weight: 400;
+			text-align: right;
+			color: $color-white;
+		}
+
+		&__title {
+			display: inline-block;
+
+			span {
+				font-size: 1.7rem;
+				font-weight: 500;
+				letter-spacing: 0.1rem;
+				text-transform: uppercase;
+			}
+		}
+
+		&__description {
+			margin: 0;
+			display: inline-block;
+			position: relative;
+			height: 180px;
+			overflow: hidden;
+
+			&:after {
+				content: "";
+				display: inline-block;
+				width: 100%;
+				height: 3rem;
+				position: absolute;
+				bottom: 0;
+				left: 0;
+				z-index: 9;
+				background: linear-gradient(180deg, rgba($color-ghost, 0) 0%, rgba($color-ghost, 1) 100%);
+			}
+		}
+
+		&__user-id {
+			span {
+				margin: 0.5rem;
+				padding: 0.2rem 0.6rem;
+				display: inline-block;
+				font-weight: 500;
+				background-color: $color-light;
+				border-radius: 0.2rem;
 			}
 		}
 	}
-
-	&__id {
-		font-size: 2rem;
-		font-style: italic;
-		font-weight: 400;
-		text-align: right;
-		color: $color-white;
-	}
-
-	&__title {
-		display: inline-block;
-
-		span {
-			font-size: 1.7rem;
-			font-weight: 500;
-			letter-spacing: 0.1rem;
-			text-transform: uppercase;
-		}
-	}
-
-	&__description {
-		margin: 0;
-		display: inline-block;
-		position: relative;
-		height: 180px;
-		overflow: hidden;
-
-		&:after {
-			content: "";
-			display: inline-block;
-			width: 100%;
-			height: 3rem;
-			position: absolute;
-			bottom: 0;
-			left: 0;
-			z-index: 9;
-			background: linear-gradient(
-				180deg,
-				rgba($color-ghost, 0) 0%,
-				rgba($color-ghost, 1) 100%
-			);
-		}
-	}
-
-	&__user-id {
-		span {
-			margin: 0.5rem;
-			padding: 0.2rem 0.6rem;
-			display: inline-block;
-			font-weight: 500;
-			background-color: $color-light;
-			border-radius: 0.2rem;
-		}
-	}
-}
 </style>
