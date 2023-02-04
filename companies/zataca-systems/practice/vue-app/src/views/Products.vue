@@ -28,7 +28,7 @@ export default {
 	},
 	data() {
 		return {
-			pageTitle: "This is an products page",
+			pageTitle: `This is an <span class="page-title__highlight">${this.$route.name}</span> page`,
 			productList: [],
 			productFilter: {
 				title: "",

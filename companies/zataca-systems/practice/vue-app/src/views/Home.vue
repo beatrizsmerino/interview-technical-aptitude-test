@@ -19,7 +19,7 @@ export default {
 	},
 	data() {
 		return {
-			pageTitle: "Welcome to Your Vue.js App",
+			pageTitle: `Welcome to Your<br><span class="page-title__highlight">Vue.js App</span>`,
 		};
 	},
 };
