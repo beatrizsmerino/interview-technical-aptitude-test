@@ -1,6 +1,6 @@
 <template>
 	<div class="hello">
-		<h1>{{ msg }}</h1>
+		<PageTitle :title="pageTitle" />
 		<p>
 			For a guide and recipes on how to configure / customize this
 			project,
@@ -98,10 +98,15 @@
 </template>
 
 <script>
+import PageTitle from "@/components/PageTitle"
+
 export default {
 	name: "HelloWorld",
+	components: {
+		PageTitle
+	},
 	props: {
-		msg: String,
+		pageTitle: String,
 	},
 };
 </script>
