@@ -1,19 +1,19 @@
 <template>
 	<div id="app">
-		<PageHeader/>
+		<PageHeader />
 		<router-view />
 	</div>
 </template>
 
 <script>
-import PageHeader from "@/components/PageHeader"
+import PageHeader from "@/components/PageHeader";
 
 export default {
 	name: "app",
 	components: {
-		PageHeader
-	}
-}
+		PageHeader,
+	},
+};
 </script>
 
 <style lang="scss">

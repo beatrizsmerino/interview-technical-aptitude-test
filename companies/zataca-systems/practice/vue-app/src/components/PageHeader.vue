@@ -20,24 +20,24 @@ export default {
 			linkList: [
 				{
 					name: "Home",
-					path: "/"
+					path: "/",
 				},
 				{
 					name: "About",
-					path: "/about"
+					path: "/about",
 				},
 				{
 					name: "Products",
-					path: "/products"
-				}
-			]
-		}
+					path: "/products",
+				},
+			],
+		};
 	},
 	computed: {
 		getLinkList() {
 			return this.linkList;
-		}
-	}
+		},
+	},
 };
 </script>
 
@@ -61,7 +61,7 @@ export default {
 
 		&:not(:last-child) {
 			&:after {
-				content: '|';
+				content: "|";
 				display: inline-block;
 				margin: 0 0.3rem;
 			}
