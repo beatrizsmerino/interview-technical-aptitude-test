@@ -18,6 +18,16 @@ export default {
 	components: {
 		ProductCard,
 	},
+	props: {
+		productFilterTitle: {
+			type: String,
+			default: "",
+		},
+		productFilterUserId: {
+			type: Number,
+			default: 0,
+		},
+	},
 	data() {
 		return {
 			productList: [],
@@ -25,7 +35,34 @@ export default {
 	},
 	computed: {
 		getProductList() {
-			return this.productList;
+			let filteredList = this.productList;
+			if (this.productFilterUserId !== 0) {
+				filteredList = filteredList.filter(
+					product => product.userId === this.productFilterUserId,
+				);
+			}
+
+			if (this.productFilterTitle !== "") {
+				filteredList = filteredList.filter(product =>
+					product.title.includes(this.productFilterTitle),
+				);
+			}
+
+			return filteredList;
+		},
+		getProductListFilterByTitle() {
+			return this.productList.filter(product => {
+				return product.title
+					.toLowerCase()
+					.includes(this.productFilterTitle.toLowerCase());
+			});
+		},
+		getProductListFilterByUserId() {
+			return this.productList.filter(product => {
+				return product.userId
+					.toString()
+					.includes(this.productFilterUserId.toString());
+			});
 		},
 	},
 	methods: {
@@ -48,9 +85,13 @@ export default {
 				);
 			}
 		},
+		emitProductList() {
+			this.$emit("sendProductList", this.productList);
+		},
 	},
-	mounted() {
-		this.fetchProductList();
+	async mounted() {
+		await this.fetchProductList();
+		await this.emitProductList();
 	},
 };
 </script>
@@ -66,7 +107,7 @@ export default {
 	justify-content: space-between;
 
 	&__item {
-		width: 32%;
+		width: calc(32% - (0.4rem * 2));
 		margin-bottom: 2rem;
 		border-radius: 0.8rem;
 		box-shadow: -0.6rem 0.8rem #2c3e50;
@@ -74,11 +115,17 @@ export default {
 		&:nth-child(3n + 2) {
 			margin-left: 2%;
 			margin-right: 2%;
+			border-width: 0.4rem 0.4rem 0 0;
+			border-style: solid;
+			border-color: mix(#000000, #42b983, 15%);
 			background-color: mix(#000000, #42b983, 15%);
 		}
 
 		&:nth-child(3n + 1),
 		&:nth-child(3n) {
+			border-width: 0.4rem 0.4rem 0 0;
+			border-style: solid;
+			border-color: mix(#ffffff, #42b983, 15%);
 			background-color: mix(#ffffff, #42b983, 15%);
 		}
 

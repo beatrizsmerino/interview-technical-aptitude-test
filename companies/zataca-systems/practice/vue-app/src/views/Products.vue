@@ -1,24 +1,56 @@
 <template>
 	<div class="products">
 		<PageTitle :title="pageTitle" />
-		<ProductList />
+		<ProductFilter
+			:product-list="getProductList"
+			@sendProductFilterTitle="setProductFilterTitle"
+			@sendProductFilterUserId="setProductFilterUserId"
+		/>
+		<ProductList
+			:product-filter-title="productFilter.title"
+			:product-filter-user-id="productFilter.userId"
+			@sendProductList="setProductList"
+		/>
 	</div>
 </template>
 
 <script>
 import PageTitle from "@/components/PageTitle";
+import ProductFilter from "@/components/ProductFilter";
 import ProductList from "@/components/ProductList";
 
 export default {
 	name: "Products",
 	components: {
 		PageTitle,
+		ProductFilter,
 		ProductList,
 	},
 	data() {
 		return {
 			pageTitle: "This is an products page",
+			productList: [],
+			productFilter: {
+				title: "",
+				userId: 0,
+			},
 		};
+	},
+	computed: {
+		getProductList() {
+			return this.productList;
+		},
+	},
+	methods: {
+		setProductList(data) {
+			this.productList = data;
+		},
+		setProductFilterTitle(data) {
+			this.productFilter.title = data;
+		},
+		setProductFilterUserId(data) {
+			this.productFilter.userId = data;
+		},
 	},
 };
 </script>

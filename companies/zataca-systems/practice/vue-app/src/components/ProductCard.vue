@@ -21,7 +21,7 @@
 				<div class="product-card__info">
 					<div class="product-card__user-id">
 						<strong>User ID:</strong>
-						<span>#{{ product.userId }}</span>
+						<span>{{ product.userId }}</span>
 					</div>
 				</div>
 			</div>
@@ -43,8 +43,6 @@ export default {
 
 <style lang="scss" scoped>
 .product-card {
-	padding: 0.5rem;
-
 	&__inner {
 		display: flex;
 		flex-direction: column;
@@ -56,8 +54,8 @@ export default {
 
 	&__body {
 		padding: 2rem;
-		background: #fff;
-		border-radius: 0.8rem;
+		background: #fbfbfb;
+		border-radius: 0 0.8rem 0.8rem 0.8rem;
 
 		> * {
 			&:not(:last-child) {
@@ -69,7 +67,9 @@ export default {
 	&__id {
 		font-size: 2rem;
 		font-style: italic;
+		font-weight: 400;
 		text-align: right;
+		color: #ffffff;
 	}
 
 	&__title {
@@ -101,13 +101,21 @@ export default {
 			z-index: 9;
 			background: linear-gradient(
 				180deg,
-				rgba(255, 255, 255, 0) 0%,
-				rgba(255, 255, 255, 1) 100%
+				rgba(251, 251, 251, 0) 0%,
+				rgba(251, 251, 251, 1) 100%
 			);
 		}
 	}
 
 	&__user-id {
+		span {
+			margin: 0.5rem;
+			padding: 0.2rem 0.6rem;
+			display: inline-block;
+			font-weight: 500;
+			background-color: #ededed;
+			border-radius: 0.2rem;
+		}
 	}
 }
 </style>
