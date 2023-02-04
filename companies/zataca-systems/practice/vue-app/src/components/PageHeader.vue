@@ -53,11 +53,11 @@
 		padding: 30px;
 
 		&__list {
-			margin: 0;
-			padding: 0;
 			display: flex;
 			align-items: center;
 			justify-content: center;
+			margin: 0;
+			padding: 0;
 			list-style: none;
 		}
 
@@ -68,7 +68,7 @@
 
 			&:not(:last-child) {
 				&:after {
-					content: "|";
+					content: '|';
 					display: inline-block;
 					margin: 0 0.3rem;
 				}
@@ -76,8 +76,8 @@
 		}
 
 		&__link {
-			font-weight: bold;
 			color: $color-brand-2;
+			font-weight: bold;
 
 			&.router-link-exact-active {
 				color: $color-brand-1;

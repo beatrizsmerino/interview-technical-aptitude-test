@@ -54,8 +54,8 @@
 
 		&__body {
 			padding: 2rem;
+			border-radius: 0 0.8rem 0.8rem;
 			background: $color-ghost;
-			border-radius: 0 0.8rem 0.8rem 0.8rem;
 
 			> * {
 				&:not(:last-child) {
@@ -65,11 +65,11 @@
 		}
 
 		&__id {
+			color: $color-white;
 			font-size: 2rem;
 			font-style: italic;
 			font-weight: 400;
 			text-align: right;
-			color: $color-white;
 		}
 
 		&__title {
@@ -84,33 +84,33 @@
 		}
 
 		&__description {
-			margin: 0;
 			display: inline-block;
 			position: relative;
 			height: 180px;
+			margin: 0;
 			overflow: hidden;
 
 			&:after {
-				content: "";
+				content: '';
 				display: inline-block;
-				width: 100%;
-				height: 3rem;
 				position: absolute;
+				z-index: 9;
 				bottom: 0;
 				left: 0;
-				z-index: 9;
+				width: 100%;
+				height: 3rem;
 				background: linear-gradient(180deg, rgba($color-ghost, 0) 0%, rgba($color-ghost, 1) 100%);
 			}
 		}
 
 		&__user-id {
 			span {
+				display: inline-block;
 				margin: 0.5rem;
 				padding: 0.2rem 0.6rem;
-				display: inline-block;
-				font-weight: 500;
-				background-color: $color-light;
 				border-radius: 0.2rem;
+				background-color: $color-light;
+				font-weight: 500;
 			}
 		}
 	}

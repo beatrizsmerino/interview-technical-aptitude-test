@@ -81,13 +81,13 @@
 
 <style lang="scss" scoped>
 	.product-list {
-		margin: 0;
-		padding: 0;
-		list-style: none;
 		display: flex;
 		flex-wrap: wrap;
 		align-items: flex-start;
 		justify-content: space-between;
+		margin: 0;
+		padding: 0;
+		list-style: none;
 
 		&__item {
 			width: calc(32% - (0.4rem * 2));
@@ -96,8 +96,8 @@
 			box-shadow: -0.6rem 0.8rem $color-brand-2;
 
 			&:nth-child(3n + 2) {
-				margin-left: 2%;
 				margin-right: 2%;
+				margin-left: 2%;
 				border-width: 0.4rem 0.4rem 0 0;
 				border-style: solid;
 				border-color: mix($color-black, $color-brand-1, 15%);

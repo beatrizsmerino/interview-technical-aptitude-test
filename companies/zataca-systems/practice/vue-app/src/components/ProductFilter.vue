@@ -92,9 +92,9 @@
 
 <style lang="scss" scoped>
 	.product-filter {
-		margin-bottom: 2rem;
 		display: flex;
 		justify-content: flex-end;
+		margin-bottom: 2rem;
 
 		&__item {
 			display: flex;
@@ -111,15 +111,15 @@
 		}
 
 		&__field {
-			margin: 0;
-			appearance: none;
-			outline: none;
 			min-width: 5rem;
 			min-height: 1rem;
+			margin: 0;
 			padding: 0.5rem 2rem 0.5rem 0.5rem;
 			border: 0.15rem solid $color-brand-2;
 			border-radius: 0.5rem;
+			outline: none;
 			box-shadow: -0.1rem 0.1rem $color-brand-2;
+			appearance: none;
 		}
 
 		&__field-wrapper {
@@ -129,8 +129,8 @@
 		&__icon {
 			display: flex;
 			position: absolute;
-			right: 0.5rem;
 			top: calc(50% - 1rem / 2);
+			right: 0.5rem;
 			pointer-events: none;
 		}
 
