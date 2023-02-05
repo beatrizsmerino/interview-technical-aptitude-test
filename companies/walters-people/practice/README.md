@@ -1,34 +1,34 @@
-# Walters People / Ejercicio NUXT ISID
+# Walters People / Exercise NUXT ISID
 
 ## Description
 
-En este documento encontrarás la información de tu prueba técnica para el puesto de **Desarrollador Front-end** en **ISID**.
+In this document you will find the information of your technical test for the **Front-end Developer** position at **ISID**.
 
-- [x] Instalación de Nuxt v.2.
-- [x] Conexión API con Axios.
-- [x] Almacenar datos en Vuex.
-- [x] Mostrado de datos.
-- [x] Componentes reutilizables.
-- [x] Refactorización de código.
+- [x] Nuxt v.2 installation.
+- [x] API connection with Axios.
+- [x] Storing data in Vuex.
+- [x] Data display.
+- [x] Reusable components.
+- [x] Code refactoring.
 
-1. Instalación de Nuxt v.2.  
-Crear un proyecto con el framework de Vue, **Nuxt**, en su versión 2.
+1. Nuxt v.2 installation.  
+Create a project with the Vue framework, **Nuxt**, in its version 2.
 
-2. Conexión API con Axios.  
-Deberás realizar una conexión API con la librería **Axios**. Te damos libertad de utilizar cualquier API con la que te sientas cómod@. No obstante, te dejamos la siguiente URL una API de datos de usuario ficticios: [https://jsonplaceholder.typicode.com/users/](https://jsonplaceholder.typicode.com/users/)
+2. API connection with Axios.  
+You will need to make an API connection to the **Axios** library. You are free to use any API you are comfortable with. However, we leave you the following URL for a fictitious user data API: [https://jsonplaceholder.typicode.com/users/](https://jsonplaceholder.typicode.com/users/)
 
-3. Almacenamiento en Vuex.  
-Instala la librería **Vuex** y almacena en su store todos los datos de usuario recibidos en la API.
+3. Storing data in Vuex.  
+Installs the **Vuex** library and stores in its store all user data received in the API.
 
-4. Mostrado de datos.  
-Muestra los datos de usuarios desde la store en una tabla generada con la librería de CSS **Element UI**.
+4. Data display.  
+Displays user data from the store in a table generated with the CSS library **Element UI**.
 
-5. Componentes reutilizables.  
-Crea un componente reutilizable **Button**.
-Deberás crear con el dos instancias. Un "editar" y un "eliminar".
-La tabla (punto 4) deberá tener una columna llamada **“Acciones”** en el que utilizarás estas instancias.
+5. Reusable components.  
+Create a reusable **Button** component.
+You will have to create two instances with it. An "edit" and a "delete".
+The table (point 4) should have a column called **"Actions "** in which you will use these instances.
 
-6. Refactorización de código.  
-Explica brevemente **cómo refactorizarías** el siguiente código.
+6. Code refactoring.  
+Briefly explain **how you would refactor** the following code.
 
 ![Exercise 6](./README/prueba_tecnica_ISID-exercise-6.png)

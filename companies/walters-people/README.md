@@ -1,4 +1,4 @@
-# Walters People / Ejercicio NUXT ISID
+# Walters People / Exercise NUXT ISID
 
 ## Aptitude tests
 

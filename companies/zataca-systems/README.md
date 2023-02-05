@@ -1,4 +1,4 @@
-# Zataca Systems / Ejercicio VUE+SCSS
+# Zataca Systems / Exercise VUE+SCSS
 
 ## Aptitude tests
 

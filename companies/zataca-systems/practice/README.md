@@ -1,24 +1,24 @@
-# Zataca Systems / Ejercicio VUE+SCSS
+# Zataca Systems / Exercise VUE+SCSS
 
 ## Description
 
-### ¡Bienvenido al desafío de hoy!
+### Welcome to today's challenge!
 
-En esta prueba tendrás la oportunidad de demostrar tus habilidades en `Vue.js` y `SCSS`. La prueba tendrá una duración de **1 hora aproximadamente** y se enfocará en evaluar tus habilidades para crear una aplicación sencilla pero funcional, así como tus conocimientos.
+In this test you will have the opportunity to demonstrate your skills in `Vue.js` and `SCSS`. The test will last **approximately 1 hour** and will focus on evaluating your skills to create a simple but functional application, as well as your knowledge.
 
-A continuación, te proporcionaremos las tareas que debes realizar durante la prueba:
+Below, we will provide you with the tasks to perform during the test:
 
-1. Crear una aplicación de `Vue.js` desde cero con `Vue CLI`.
-2. Crear un **componente de tarjeta** que muestre información de un producto, utilizando `SCSS` para su estilización. Para la parte del diseño, queremos ver tu creatividad. La tarjeta debe constar de un **título** y una **descripción**.
-3. Dicho componente se usará de forma recursiva en un **grid de productos** que se cargue mediante una llamada a una API para recuperar los datos y los muestre en la aplicación. La `API` a utilizar es [https://jsonplaceholder.typicode.com/posts](https://jsonplaceholder.typicode.com/posts).
-4. Una vez creado este grid, debemos incluir un **buscador** en la parte superior que permita filtrar dichos cards buscando coincidencias en **título** y/o **descripción**.
-5. Comprime los archivos y envíalos a [captacion.talento@zataca.com](captacion.talento@zataca.com) o súbelos a tu Git y pásanos el enlace, ¡como más cómodo os parezca! De una forma u otra, especifícanos en el asunto del correo **“Prueba de nivel FrontEnd – Nombre y apellidos”** para poder saber que eres tú.
+1. Create a `Vue.js` application from scratch with `Vue CLI`.
+2. Create a **card component** that displays information about a product, using `SCSS` for styling. For the design part, we want to see your creativity. The card should consist of a **title** and a **description**.
+3. Such a component will be used recursively in a **product grid** that is loaded by calling an API to retrieve the data and display it in the application. The `API` to be used is [https://jsonplaceholder.typicode.com/posts](https://jsonplaceholder.typicode.com/posts).
+4. Once this grid is created, we must include a **search** engine at the top that allows us to filter these cards looking for matches in **title** and/or **description**.
+5. Compress the files and send them to [captacion.talento@zataca.com](captacion.talento@zataca.com) or upload them to your Git and send us the link, as you see fit! One way or another, specify us in the subject of the mail **"FrontEnd level test - Name and surname"** so we can know it's you.
 
-Se valorará cualquier añadido que consideréis que mejorará la usabilidad, así como la optimización de `UX/UI` con loadings, estructuración de header/footer, etc.
+Any additions that you think will improve usability, as well as `UX/UI` optimization with loadings, `header/footer` structuring, etc. will be appreciated.
 
-Recuerda que esta prueba es solo una forma de evaluar tus habilidades en este momento. Siempre es posible seguir aprendiendo y mejorando.
+Remember that this test is just a way to evaluate your skills at the moment. It's always possible to keep learning and improving.
 
-¡Mucha suerte, y nos vemos al otro lado! 😊
+Best of luck, and see you on the other side! 😊
 
 ## Reference
 
