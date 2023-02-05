@@ -11,9 +11,13 @@
 		"prettier:fix": "prettier --write \"./**/*.{vue,js,json}\" ./.prettierrc",
 		"eslint:fix": "vue-cli-service lint \"./**/*.{vue,js,json}\" --fix --ignore-path ./.eslintignore",
 		"stylelint:fix": "stylelint \"./**/*.{css,scss,sass,vue}\" --fix --ignore-path ./.stylelintignore",
-		"lint": "npm run prettier:fix && npm run eslint:fix && npm run stylelint:fix"
+		"lint": "npm run prettier:fix && npm run eslint:fix && npm run stylelint:fix",
+		"deploy": "node gh-pages-deploy.js"
 	},
 	"dependencies": {
+		"chalk": "^4.1.2",
+		"execa": "^5.1.1",
+		"node-emoji": "^1.11.0",
 		"@fortawesome/fontawesome-svg-core": "^6.2.1",
 		"@fortawesome/free-solid-svg-icons": "^6.2.1",
 		"@fortawesome/vue-fontawesome": "^2.0.10",
