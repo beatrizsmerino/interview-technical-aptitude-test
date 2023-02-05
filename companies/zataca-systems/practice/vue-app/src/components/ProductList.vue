@@ -1,21 +1,25 @@
 <template>
-	<ul class="product-list">
-		<li
-			v-for="product in getProductList"
-			:key="product.id"
-			class="product-list__item"
-		>
-			<ProductCard :product="product" />
-		</li>
-	</ul>
+	<Loader :is-loading="loader.isLoading">
+		<ul class="product-list">
+			<li
+				v-for="product in getProductList"
+				:key="product.id"
+				class="product-list__item"
+			>
+				<ProductCard :product="product" />
+			</li>
+		</ul>
+	</Loader>
 </template>
 
 <script>
+	import Loader from "@/components/Loader";
 	import ProductCard from "@/components/ProductCard";
 
 	export default {
 		"name": "ProductList",
 		"components": {
+			Loader,
 			ProductCard,
 		},
 		"props": {
@@ -30,6 +34,10 @@
 		},
 		data() {
 			return {
+				"loader": {
+					"isLoading": false,
+					"timeDelay": 2000,
+				},
 				"productList": [],
 			};
 		},
@@ -59,6 +67,9 @@
 		},
 		"methods": {
 			async fetchProductList() {
+				this.loader.isLoading = true;
+				const currentThis = this;
+
 				try {
 					const response = await fetch("https://jsonplaceholder.typicode.com/posts");
 
@@ -67,9 +78,17 @@
 					}
 
 					const data = await response.json();
-					this.productList = data;
+
+					setTimeout(function() {
+						currentThis.productList = data;
+						currentThis.loader.isLoading = false;
+					}, currentThis.loader.timeDelay);
 				} catch (error) {
 					console.error("There was a problem with the fetch operation:", error);
+
+					setTimeout(function() {
+						currentThis.loader.isLoading = false;
+					}, currentThis.loader.timeDelay);
 				}
 			},
 			emitProductList() {
