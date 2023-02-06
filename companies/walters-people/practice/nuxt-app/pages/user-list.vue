@@ -16,7 +16,7 @@
 </template>
 
 <script>
-	import PageNav from "@/components/PageNav";
+	import PageNav from "@/components/Page/PageNav";
 	import TableUserList from "@/components/TableUserList";
 	import TestComponent from "@/components/TestComponent";
 
