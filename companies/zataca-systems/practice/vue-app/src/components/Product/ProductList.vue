@@ -62,8 +62,8 @@
 			},
 		},
 		"watch": {
-			"loader.isLoading"(newValue, oldValue) {
-				if (newValue !== oldValue) {
+			"productList"(newValue, oldValue) {
+				if (newValue !== oldValue && newValue.length > 0) {
 					this.emitProductList();
 				}
 			},
