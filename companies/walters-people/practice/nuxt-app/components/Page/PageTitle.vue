@@ -17,4 +17,11 @@
 	};
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+	.page-title {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		padding: 2rem 0;
+	}
+</style>

@@ -27,13 +27,6 @@
 </script>
 
 <style lang="scss" scoped>
-	.page-head {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		padding: 2rem 0;
-	}
-
 	.page-main {
 		&__inner {
 			margin-bottom: 4rem;
