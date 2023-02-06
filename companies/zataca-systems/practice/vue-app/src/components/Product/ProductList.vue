@@ -61,9 +61,15 @@
 				return this.productList.filter(product => product.userId.toString().includes(this.productFilterUserId.toString()));
 			},
 		},
+		"watch": {
+			"loader.isLoading"(newValue, oldValue) {
+				if (newValue !== oldValue) {
+					this.emitProductList();
+				}
+			},
+		},
 		async mounted() {
 			await this.fetchProductList();
-			await this.emitProductList();
 		},
 		"methods": {
 			async fetchProductList() {
