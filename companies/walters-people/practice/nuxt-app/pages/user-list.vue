@@ -1,27 +1,20 @@
 <template>
-	<div class="common-layout">
-		<el-container>
-			<PageHeader />
-			<el-main class="page-main">
-				<h1 class="page-head text-3xl leading-7 font-semibold">
-					User list
-				</h1>
-				<TableUserList />
-				<TestComponent />
-			</el-main>
-		</el-container>
+	<div class="page-main__inner">
+		<h1 class="page-head text-3xl leading-7 font-semibold">
+			User list
+		</h1>
+		<TableUserList />
+		<TestComponent />
 	</div>
 </template>
 
 <script>
-	import PageHeader from "@/components/Page/PageHeader";
 	import TableUserList from "@/components/TableUserList";
 	import TestComponent from "@/components/TestComponent";
 
 	export default {
 		"name": "UserList",
 		"components": {
-			PageHeader,
 			TableUserList,
 			TestComponent,
 		},
@@ -37,7 +30,9 @@
 	}
 
 	.page-main {
-		margin-bottom: 4rem;
-		padding: 0 2rem;
+		&__inner {
+			margin-bottom: 4rem;
+			padding: 0 2rem;
+		}
 	}
 </style>
