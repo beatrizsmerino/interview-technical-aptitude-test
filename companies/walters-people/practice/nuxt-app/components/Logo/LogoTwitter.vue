@@ -31,7 +31,7 @@
 </script>
 
 <style lang="scss" scoped>
-	.logo-nuxt {
+	.logo-twitter {
 		&--symbol {
 			width: 24px;
 			height: 24px;
