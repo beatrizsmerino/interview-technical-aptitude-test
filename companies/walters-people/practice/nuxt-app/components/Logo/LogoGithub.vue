@@ -2,7 +2,7 @@
 	<span class="logo-github">
 		<svg
 			v-if="logoType == 'symbol'"
-			class="logo-github--symbol w-6 h-6 text-gray-600 hover:text-gray-800 button--github"
+			class="logo-github--symbol"
 			xmlns="http://www.w3.org/2000/svg"
 			xmlns:xlink="http://www.w3.org/1999/xlink"
 			aria-hidden="true"

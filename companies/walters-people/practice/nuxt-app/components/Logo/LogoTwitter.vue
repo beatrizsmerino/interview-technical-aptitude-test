@@ -2,7 +2,7 @@
 	<span class="logo-twitter">
 		<svg
 			v-if="logoType == 'symbol'"
-			class="logo-twitter--symbol w-6 h-6 text-gray-600 hover:text-gray-800"
+			class="logo-twitter--symbol"
 			xmlns="http://www.w3.org/2000/svg"
 			xmlns:xlink="http://www.w3.org/1999/xlink"
 			aria-hidden="true"
