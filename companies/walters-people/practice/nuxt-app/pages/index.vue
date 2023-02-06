@@ -1,22 +1,16 @@
 <template>
-	<div class="common-layout">
-		<el-container>
-			<el-header>
-				<PageNav />
-			</el-header>
-			<el-main>
-				<Tutorial />
-			</el-main>
-		</el-container>
+	<div class="page-main__inner">
+		<Tutorial />
 	</div>
 </template>
 
 <script>
-	import PageNav from "@/components/PageNav";
 	import Tutorial from "@/components/Tutorial";
 
 	export default {
-		PageNav,
-		Tutorial,
+		"name": "Home",
+		"components": {
+			Tutorial,
+		},
 	};
 </script>
