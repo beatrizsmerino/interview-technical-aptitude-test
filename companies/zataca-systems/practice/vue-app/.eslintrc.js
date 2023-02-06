@@ -79,7 +79,7 @@ module.exports = {
 		],
 		"computed-property-spacing": 2,
 		"consistent-return": 2,
-		"consistent-this": 1,
+		"consistent-this": 0,
 		"curly": 2,
 		"default-case": 2,
 		"default-param-last": 2,

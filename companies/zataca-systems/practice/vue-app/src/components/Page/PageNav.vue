@@ -1,27 +1,25 @@
 <template>
-	<header class="page-header">
-		<nav class="nav">
-			<ul class="nav__list">
-				<li
-					v-for="link in getLinkList"
-					:key="link.id"
-					class="nav__item"
+	<nav class="page-nav">
+		<ul class="page-nav__list">
+			<li
+				v-for="link in getLinkList"
+				:key="link.id"
+				class="page-nav__item"
+			>
+				<router-link
+					class="page-nav__link"
+					:to="link.path"
 				>
-					<router-link
-						class="nav__link"
-						:to="link.path"
-					>
-						{{ link.name }}
-					</router-link>
-				</li>
-			</ul>
-		</nav>
-	</header>
+					{{ link.name }}
+				</router-link>
+			</li>
+		</ul>
+	</nav>
 </template>
 
 <script>
 	export default {
-		"name": "PageHeader",
+		"name": "PageNav",
 		data() {
 			return {
 				"linkList": [
@@ -49,9 +47,7 @@
 </script>
 
 <style lang="scss" scoped>
-	.nav {
-		padding: 30px;
-
+	.page-nav {
 		&__list {
 			display: flex;
 			align-items: center;

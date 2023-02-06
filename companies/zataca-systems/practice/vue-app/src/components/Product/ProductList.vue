@@ -13,8 +13,8 @@
 </template>
 
 <script>
-	import Loader from "@/components/Loader";
-	import ProductCard from "@/components/ProductCard";
+	import Loader from "@/components/UI/Loader";
+	import ProductCard from "@/components/Product/ProductCard";
 
 	export default {
 		"name": "ProductList",
@@ -36,7 +36,7 @@
 			return {
 				"loader": {
 					"isLoading": false,
-					"timeDelay": 2000,
+					"timeDelay": 600,
 				},
 				"productList": [],
 			};
@@ -61,9 +61,15 @@
 				return this.productList.filter(product => product.userId.toString().includes(this.productFilterUserId.toString()));
 			},
 		},
+		"watch": {
+			"productList"(newValue, oldValue) {
+				if (newValue !== oldValue && newValue.length > 0) {
+					this.emitProductList();
+				}
+			},
+		},
 		async mounted() {
 			await this.fetchProductList();
-			await this.emitProductList();
 		},
 		"methods": {
 			async fetchProductList() {

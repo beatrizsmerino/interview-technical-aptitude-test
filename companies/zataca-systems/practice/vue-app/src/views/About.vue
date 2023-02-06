@@ -51,7 +51,7 @@
 </template>
 
 <script>
-	import PageTitle from "@/components/PageTitle";
+	import PageTitle from "@/components/Page/PageTitle";
 
 	export default {
 		"name": "About",
