@@ -36,7 +36,7 @@
 			return {
 				"loader": {
 					"isLoading": false,
-					"timeDelay": 2000,
+					"timeDelay": 600,
 				},
 				"productList": [],
 			};
