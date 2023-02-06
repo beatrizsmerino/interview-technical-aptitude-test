@@ -13,8 +13,8 @@
 </template>
 
 <script>
-	import Loader from "@/components/Loader";
-	import ProductCard from "@/components/ProductCard";
+	import Loader from "@/components/UI/Loader";
+	import ProductCard from "@/components/Product/ProductCard";
 
 	export default {
 		"name": "ProductList",

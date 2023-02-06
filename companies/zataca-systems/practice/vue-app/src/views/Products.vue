@@ -17,9 +17,9 @@
 </template>
 
 <script>
-	import PageTitle from "@/components/PageTitle";
-	import ProductFilter from "@/components/ProductFilter";
-	import ProductList from "@/components/ProductList";
+	import PageTitle from "@/components/Page/PageTitle";
+	import ProductFilter from "@/components/Product/ProductFilter";
+	import ProductList from "@/components/Product/ProductList";
 
 	export default {
 		"name": "Products",
