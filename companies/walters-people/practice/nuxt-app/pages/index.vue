@@ -1,9 +1,7 @@
 <template>
 	<div class="common-layout">
 		<el-container>
-			<el-header>
-				<PageNav />
-			</el-header>
+			<PageHeader />
 			<el-main>
 				<Tutorial />
 			</el-main>
@@ -12,13 +10,13 @@
 </template>
 
 <script>
-	import PageNav from "@/components/PageNav";
+	import PageHeader from "@/components/Page/PageHeader";
 	import Tutorial from "@/components/Tutorial";
 
 	export default {
 		"name": "Home",
 		"components": {
-			PageNav,
+			PageHeader,
 			Tutorial,
 		},
 	};

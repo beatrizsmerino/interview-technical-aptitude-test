@@ -1,9 +1,7 @@
 <template>
 	<div class="common-layout">
 		<el-container>
-			<el-header>
-				<PageNav />
-			</el-header>
+			<PageHeader />
 			<el-main class="page-main">
 				<h1 class="page-head text-3xl leading-7 font-semibold">
 					User list
@@ -16,14 +14,14 @@
 </template>
 
 <script>
-	import PageNav from "@/components/Page/PageNav";
+	import PageHeader from "@/components/Page/PageHeader";
 	import TableUserList from "@/components/TableUserList";
 	import TestComponent from "@/components/TestComponent";
 
 	export default {
 		"name": "UserList",
 		"components": {
-			PageNav,
+			PageHeader,
 			TableUserList,
 			TestComponent,
 		},
