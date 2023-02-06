@@ -1,9 +1,14 @@
 <template>
 	<el-header class="page-header">
-		<LogoNuxt
-			class="page-header__logo"
-			logo-type="symbol"
-		/>
+		<a
+			href="https://nuxtjs.org/"
+			target="_blank"
+		>
+			<LogoNuxt
+				class="page-header__logo"
+				logo-type="symbol"
+			/>
+		</a>
 		<PageNav />
 	</el-header>
 </template>
