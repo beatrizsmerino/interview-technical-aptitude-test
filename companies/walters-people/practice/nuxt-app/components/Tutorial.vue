@@ -63,6 +63,12 @@
 
 <style lang="scss" scoped>
 	.tutorial {
+		p {
+			> * {
+				display: inline-block;
+			}
+		}
+
 		&:deep(.logo-nuxt--imagotype) {
 			width: 218px;
 			height: 45px;
