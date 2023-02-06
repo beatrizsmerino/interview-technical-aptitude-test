@@ -49,7 +49,7 @@
 
 <script>
 	export default {
-		"name": "TestComponent",
+		"name": "UserMap",
 		data() {
 			return {
 				"zoom": 12,

@@ -1,22 +1,22 @@
 <template>
 	<div class="page-main__inner">
 		<PageTitle :title="pageTitle" />
-		<TableUserList />
-		<TestComponent />
+		<UserListTable />
+		<UserMap />
 	</div>
 </template>
 
 <script>
 	import PageTitle from "@/components/Page/PageTitle";
-	import TableUserList from "@/components/TableUserList";
-	import TestComponent from "@/components/TestComponent";
+	import UserListTable from "@/components/User/UserListTable";
+	import UserMap from "@/components/User/UserMap";
 
 	export default {
 		"name": "UserList",
 		"components": {
 			PageTitle,
-			TableUserList,
-			TestComponent,
+			UserListTable,
+			UserMap,
 		},
 		data() {
 			return {

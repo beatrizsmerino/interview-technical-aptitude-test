@@ -183,7 +183,7 @@
 	import { mapActions, mapGetters } from "vuex";
 
 	export default {
-		"name": "UserList",
+		"name": "UserListTable",
 		data() {
 			return {
 				"editUserSelected": null,
