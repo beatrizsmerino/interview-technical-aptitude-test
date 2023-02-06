@@ -16,7 +16,10 @@
 	import Tutorial from "@/components/Tutorial";
 
 	export default {
-		PageNav,
-		Tutorial,
+		"name": "Home",
+		"components": {
+			PageNav,
+			Tutorial,
+		},
 	};
 </script>
