@@ -19,3 +19,9 @@
 		},
 	};
 </script>
+
+<style lang="scss">
+	.page-inner {
+		padding: 6rem 2rem 0;
+	}
+</style>
