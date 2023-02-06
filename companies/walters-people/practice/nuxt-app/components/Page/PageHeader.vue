@@ -24,10 +24,15 @@
 <style lang="scss" scoped>
 	.page-header {
 		position: relative;
+		position: fixed;
+		z-index: 9;
+		top: 0;
+		width: 100%;
+		height: 6rem;
 
 		&__logo {
 			position: absolute;
-			z-index: 999;
+			z-index: 9;
 			top: 50%;
 			left: 2rem;
 			transform: translateY(-50%);

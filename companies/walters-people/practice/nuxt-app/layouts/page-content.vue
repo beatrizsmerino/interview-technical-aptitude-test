@@ -2,8 +2,8 @@
 	<div class="common-layout">
 		<el-container>
 			<PageHeader />
-			<PageTitle :title="getPageTitle" />
 			<el-main class="page-main">
+				<PageTitle :title="getPageTitle" />
 				<Nuxt />
 			</el-main>
 		</el-container>
@@ -40,6 +40,6 @@
 <style lang="scss" scoped>
 	.page-main {
 		margin-bottom: 4rem;
-		padding: 0 2rem;
+		padding: 6rem 2rem 0;
 	}
 </style>
