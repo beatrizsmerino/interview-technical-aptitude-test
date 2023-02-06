@@ -2,7 +2,7 @@
 	<el-header class="page-header">
 		<LogoNuxt
 			class="page-header__logo"
-			logotype="symbol"
+			logo-type="symbol"
 		/>
 		<PageNav />
 	</el-header>
