@@ -56,17 +56,8 @@
 </template>
 
 <script>
-	import LogoNuxt from "@/components/Logo/LogoNuxt";
-	import LogoGithub from "@/components/Logo/LogoGithub";
-	import LogoTwitter from "@/components/Logo/LogoTwitter";
-
 	export default {
 		"name": "NuxtTutorial",
-		"components": {
-			LogoNuxt,
-			LogoGithub,
-			LogoTwitter,
-		},
 	};
 </script>
 

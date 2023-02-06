@@ -9,13 +9,11 @@
 </template>
 
 <script>
-	import LogoNuxt from "@/components/Logo/LogoNuxt";
 	import PageNav from "@/components/Page/PageNav";
 
 	export default {
 		"name": "PageHeader",
 		"components": {
-			LogoNuxt,
 			PageNav,
 		},
 	};
