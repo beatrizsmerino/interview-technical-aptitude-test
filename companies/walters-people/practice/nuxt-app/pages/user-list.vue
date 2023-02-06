@@ -1,22 +1,27 @@
 <template>
 	<div class="page-main__inner">
-		<h1 class="page-head text-3xl leading-7 font-semibold">
-			User list
-		</h1>
+		<PageTitle :title="pageTitle" />
 		<TableUserList />
 		<TestComponent />
 	</div>
 </template>
 
 <script>
+	import PageTitle from "@/components/Page/PageTitle";
 	import TableUserList from "@/components/TableUserList";
 	import TestComponent from "@/components/TestComponent";
 
 	export default {
 		"name": "UserList",
 		"components": {
+			PageTitle,
 			TableUserList,
 			TestComponent,
+		},
+		data() {
+			return {
+				"pageTitle": `User list`,
+			};
 		},
 	};
 </script>
