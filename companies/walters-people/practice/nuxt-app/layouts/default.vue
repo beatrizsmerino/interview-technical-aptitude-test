@@ -21,6 +21,10 @@
 </script>
 
 <style lang="scss">
+	svg {
+		display: inline-block;
+	}
+
 	.page-inner {
 		padding: 6rem 2rem 0;
 	}

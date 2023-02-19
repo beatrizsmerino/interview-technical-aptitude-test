@@ -37,6 +37,26 @@ export default {
 		],
 	},
 
+	"router": {
+
+		// Modo de enrutamiento, puede ser "hash" o "history"
+		"mode": "history",
+
+		// Rutas personalizadas
+		"routes": [
+			{
+				"name": "home",
+				"path": "/",
+				"component": "~/pages/index.vue",
+			},
+			{
+				"name": "about",
+				"path": "/about",
+				"component": "~/pages/about.vue",
+			},
+		],
+	},
+
 	// Global CSS: https://go.nuxtjs.dev/config-css
 	"css": [
 		"element-theme-default/lib/index.css",
@@ -100,6 +120,14 @@ export default {
 
 	// Build Configuration: https://go.nuxtjs.dev/config-build
 	"build": {
-		"postcss": false,
+		"postcss": {
+			"preset": {
+				"autoprefixer": {
+
+					// Use the `.browserslistrc` file
+					"browsers": false,
+				},
+			},
+		},
 	},
 };
