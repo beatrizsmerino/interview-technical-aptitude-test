@@ -41,13 +41,15 @@
 				"linkDefaultActive": null,
 			};
 		},
-		mounted() {
-			this.setLinkIDDefaultActive();
+		created() {
+			this.$nextTick(() => {
+				this.setLinkIDDefaultActive();
+			});
 		},
 		"methods": {
 			setLinkIDDefaultActive() {
 				const currentLink = this.linkList.filter(item => item.name === this.$route.name)[0];
-				this.linkDefaultActive = currentLink.id;
+				this.linkDefaultActive = currentLink?.id || this.$router.push("/") || this.linkList[0].id;
 			},
 		},
 	};
