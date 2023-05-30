@@ -1,5 +1,7 @@
 # Ejercicio 2
 
+## Descripción
+
 SunMedia es una empresa de publicidad en vídeo y branding que aporta soluciones tecnológicas tanto a medios (*publishers*) como anunciantes (*advertisers*). Por lo tanto, el modelo de negocio de la empresa se apoya en la gestión de *publishers* y *advertisers*, así como los anuncios (*creatives*) que los advertisers crean y los *publishers* muestran en sus páginas web.
 
 Para ello, contamos con varias plataformas activas así como un SDK que se encarga de mostrar los anuncios. Estos anuncios están llenos de lo que nosotros denominamos eventos. Entendemos evento como cualquier cosa que nuestro SDK tiene que realizar en un segundo dado.
@@ -32,4 +34,4 @@ Para empezar a desarrollar tendremos que instalar algunas librerías que están 
 
 Posteriormente, con el objetivo de compilar el código y que esta tarea se ejecute con cada cambio sobre los archivos, tendremos que ejecutar el siguiente comando:
 
-- `webpack --watch`
+- `npx webpack --watch --config webpack.config.js`

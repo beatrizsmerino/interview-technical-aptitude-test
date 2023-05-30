@@ -3,7 +3,8 @@ import Event from "./Event";
 
 export default class EventManagerFactory {
 	static create(events, types) {
-		// implement your code here...
-		return new EventManager();
+		const eventObjects = events.map((eventData) => new Event(eventData.second, eventData.type, eventData.message));
+
+		return new EventManager(eventObjects);
 	}
 }
