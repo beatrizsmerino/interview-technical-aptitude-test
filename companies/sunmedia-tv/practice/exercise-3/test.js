@@ -1,6 +1,7 @@
 const NETWORK_ERROR_PROBABILITY = 0.1;
+const MAX_RETRIES = 3;
 
-function fakeFetch(ad, cb) {
+function fakeFetch(ad, cb, retries = 0) {
 	const fakeResponses = [
 		{
 			"ad": 1,
@@ -30,9 +31,37 @@ function fakeFetch(ad, cb) {
 		const currentAd = fakeResponses.find(resp => resp.ad === ad);
 
 		if (networkError) {
-			cb("Network error");
+			if (retries < MAX_RETRIES) {
+				fakeFetch(ad, cb, retries + 1);
+			} else {
+				cb(`Failed to load the ad ${ad}`);
+			}
 		} else {
 			cb(null, currentAd);
 		}
 	}, randomDelay);
 }
+
+function fetchAds() {
+	let ad = 1;
+
+	function fetchNextAd() {
+		fakeFetch(ad, (error, adData) => {
+			if (error) {
+				console.log(error);
+			} else {
+				console.log(adData.title);
+				ad++;
+				if (ad <= 5) {
+					fetchNextAd();
+				} else {
+					console.log("Done!");
+				}
+			}
+		});
+	}
+
+	fetchNextAd();
+}
+
+fetchAds();

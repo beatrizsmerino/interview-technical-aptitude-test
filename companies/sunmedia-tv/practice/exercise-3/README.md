@@ -1,5 +1,7 @@
 # Ejercicio 3
 
+## Descripción
+
 Esta prueba consiste en escribir un código de control de flujo asíncrono.
 
 Tenemos cinco anuncios que queremos obtener de un servidor y mostrarlos lo antes posible, manteniendo su orden.
@@ -36,6 +38,47 @@ Failed to load the ad 3
 No es necesario ningún tipo de implementación web o html, con que muestre el resultado por consola es suficiente.
 
 En el fragmento de código de nuestro fichero `test.js` se proporciona la función *`fakeFetch()`* que simula la obtención de los anuncios en un tiempo aleatorio. También algunas peticiones fallarán de manera aleatoria.
+
+```javascript
+const NETWORK_ERROR_PROBABILITY = 0.1;
+
+function fakeFetch(ad, cb) {
+	const fakeResponses = [
+		{
+			"ad": 1,
+			"title": "The first ad",
+		},
+		{
+			"ad": 2,
+			"title": "The second ad",
+		},
+		{
+			"ad": 3,
+			"title": "The third ad",
+		},
+		{
+			"ad": 4,
+			"title": "The forth ad",
+		},
+		{
+			"ad": 5,
+			"title": "The last ad",
+		},
+	];
+	const randomDelay = Math.round(Math.random() * 1E4) % 40 + 1000;
+
+	setTimeout(() => {
+		const networkError = Math.random() <= NETWORK_ERROR_PROBABILITY;
+		const currentAd = fakeResponses.find(resp => resp.ad === ad);
+
+		if (networkError) {
+			cb("Network error");
+		} else {
+			cb(null, currentAd);
+		}
+	}, randomDelay);
+}
+```
 
 Además de la resolución del ejercicio se valorará la claridad y facilidad de comprensión del código así como la fiabilidad del mismo.
 
