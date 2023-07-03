@@ -12,14 +12,11 @@ export default {
 	name: "BusinessTable",
 	data() {
 		return {
-			businesses: [],
+			businessesData: [],
 		};
 	},
 	computed: {
 		...mapGetters(["getToken"]),
-		businessesData() {
-			return this.businesses;
-		},
 	},
 	async mounted() {
 		await this.fetchBusinessData();
@@ -36,7 +33,7 @@ export default {
 					},
 				);
 				const data = await response.json();
-				this.businesses = data;
+				this.businessesData = data;
 			} catch (error) {
 				console.error(
 					"Error al obtener los datos de comercios:",

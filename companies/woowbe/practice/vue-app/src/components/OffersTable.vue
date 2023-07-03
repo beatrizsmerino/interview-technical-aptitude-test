@@ -12,14 +12,11 @@ export default {
 	name: "OffersTable",
 	data() {
 		return {
-			offers: [],
+			offersData: [],
 		};
 	},
 	computed: {
 		...mapGetters(["getToken"]),
-		offersData() {
-			return this.offers;
-		},
 	},
 	async mounted() {
 		await this.fetchOffersData();
@@ -36,7 +33,7 @@ export default {
 					},
 				);
 				const data = await response.json();
-				this.offers = data;
+				this.offersData = data;
 			} catch (error) {
 				console.error("Error al obtener los datos de ofertas:", error);
 			}
