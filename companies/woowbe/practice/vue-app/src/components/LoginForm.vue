@@ -61,6 +61,8 @@ export default {
 					this.token = data.token;
 					console.log("Inicio de sesión exitoso");
 					console.log("Token:", this.token);
+
+					this.$store.commit("setLoggedIn", true);
 					this.$router.push("/account");
 				} else {
 					throw new Error(
