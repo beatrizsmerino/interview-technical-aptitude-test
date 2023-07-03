@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import PageTitle from "@/components/PageTitle";
+import PageTitle from "@/components/Page/PageTitle";
 import LoginForm from "@/components/LoginForm";
 
 export default {

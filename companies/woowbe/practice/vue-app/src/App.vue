@@ -6,7 +6,7 @@
 	</div>
 </template>
 <script>
-import PageHeader from "@/components/PageHeader";
+import PageHeader from "@/components/Page/PageHeader";
 
 export default {
 	name: "app",
