@@ -9,8 +9,8 @@ export default new Vuex.Store({
 		token: "",
 	},
 	getters: {
-		isLoggedIn: state => state.isLoggedIn,
-		token: state => state.token,
+		getLoggedIn: state => state.isLoggedIn,
+		getToken: state => state.token,
 	},
 	mutations: {
 		setLoggedIn(state, isLoggedIn) {

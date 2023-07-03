@@ -31,6 +31,8 @@
 </template>
 
 <script>
+import { mapMutations } from "vuex";
+
 export default {
 	data() {
 		return {
@@ -40,6 +42,7 @@ export default {
 		};
 	},
 	methods: {
+		...mapMutations(["setToken", "setLoggedIn"]),
 		async login() {
 			try {
 				const response = await fetch(
@@ -57,11 +60,11 @@ export default {
 				);
 				if (response.ok) {
 					const data = await response.json();
-					this.$store.commit("setToken", data.token);
+					this.setToken(data.token);
 					console.log("Inicio de sesión exitoso");
 					console.log("Token:", this.token);
 
-					this.$store.commit("setLoggedIn", true);
+					this.setLoggedIn(true);
 					this.$router.push("/account");
 				} else {
 					throw new Error(

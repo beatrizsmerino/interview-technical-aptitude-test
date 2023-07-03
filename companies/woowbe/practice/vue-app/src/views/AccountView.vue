@@ -1,7 +1,7 @@
 <template>
 	<div class="account">
 		<PageTitle :title="pageTitle" />
-		<div v-if="isLoggedIn">
+		<div v-if="getLoggedIn">
 			<p>¡Bienvenido a tu cuenta!</p>
 			<BusinessTable />
 			<OffersTable />
@@ -13,6 +13,8 @@
 </template>
 
 <script>
+import { mapGetters } from "vuex";
+
 import PageTitle from "@/components/Page/PageTitle";
 import BusinessTable from "@/components/BusinessTable";
 import OffersTable from "@/components/OffersTable";
@@ -30,9 +32,7 @@ export default {
 		};
 	},
 	computed: {
-		isLoggedIn() {
-			return this.$store.getters.isLoggedIn;
-		},
+		...mapGetters(["getLoggedIn"]),
 	},
 };
 </script>

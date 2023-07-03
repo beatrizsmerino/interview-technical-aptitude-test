@@ -6,6 +6,8 @@
 </template>
 
 <script>
+import { mapGetters } from "vuex";
+
 export default {
 	name: "OffersTable",
 	data() {
@@ -14,6 +16,7 @@ export default {
 		};
 	},
 	computed: {
+		...mapGetters(["getToken"]),
 		offersData() {
 			return this.offers;
 		},
@@ -24,12 +27,11 @@ export default {
 	methods: {
 		async fetchOffersData() {
 			try {
-				const token = this.$store.getters.token;
 				const response = await fetch(
 					"https://backend.dev.woowbe.com/api/v1/offers/public/",
 					{
 						headers: {
-							Authorization: `Bearer ${token}`,
+							Authorization: `Bearer ${this.getToken}`,
 						},
 					},
 				);
