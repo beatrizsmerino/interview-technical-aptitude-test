@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "install:clean": "rm -rf node_modules package-lock.json",
+    "preinstall": "npm run install:clean && npm install --package-lock-only --ignore-scripts && npx npm-force-resolutions",
+    "postinstall": "npm run lint",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
@@ -29,6 +32,9 @@
     "sass": "^1.63.6",
     "sass-loader": "^12.0.0",
     "vue-template-compiler": "^2.7.14"
+  },
+  "resolutions": {
+    "semver": ">=7.5.2"
   },
   "volta": {
     "node": "14.21.3"
