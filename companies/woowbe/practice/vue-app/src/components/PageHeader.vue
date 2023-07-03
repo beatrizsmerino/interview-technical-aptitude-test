@@ -37,6 +37,10 @@ export default {
 					name: "Login",
 					path: "/login",
 				},
+				{
+					name: "Account",
+					path: "/account",
+				},
 			],
 		};
 	},
