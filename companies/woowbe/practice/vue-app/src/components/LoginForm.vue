@@ -65,6 +65,7 @@ export default {
 					console.log("Token:", this.token);
 
 					this.setLoggedIn(true);
+					localStorage.setItem("token", data.token);
 					this.$router.push("/account");
 				} else {
 					throw new Error(
