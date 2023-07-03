@@ -34,6 +34,7 @@
 import { mapMutations } from "vuex";
 
 export default {
+	name: "LoginForm",
 	data() {
 		return {
 			email: "",
