@@ -14,7 +14,7 @@ export default {
 	},
 	data() {
 		return {
-			pageTitle: "This is an login page",
+			pageTitle: "Login",
 		};
 	},
 };
