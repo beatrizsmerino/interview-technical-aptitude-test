@@ -1,9 +1,9 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
-import AboutView from "../views/AboutView.vue";
-import HomeView from "../views/HomeView.vue";
-import LoginView from "../views/LoginView.vue";
-import AccountView from "../views/AccountView.vue";
+import ViewAbout from "../views/ViewAbout.vue";
+import ViewHome from "../views/ViewHome.vue";
+import ViewLogin from "../views/ViewLogin.vue";
+import ViewAccount from "../views/ViewAccount.vue";
 
 Vue.use(VueRouter);
 
@@ -11,22 +11,22 @@ const routes = [
 	{
 		path: "/",
 		name: "home",
-		component: HomeView,
+		component: ViewHome,
 	},
 	{
 		path: "/about",
 		name: "about",
-		component: AboutView,
+		component: ViewAbout,
 	},
 	{
 		path: "/login",
 		name: "login",
-		component: LoginView,
+		component: ViewLogin,
 	},
 	{
 		path: "/account",
 		name: "account",
-		component: AccountView,
+		component: ViewAccount,
 	},
 ];
 

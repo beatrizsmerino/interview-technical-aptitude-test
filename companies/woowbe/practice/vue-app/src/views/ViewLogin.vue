@@ -1,19 +1,19 @@
 <template>
 	<div class="login">
 		<PageTitle :title="pageTitle" />
-		<LoginForm />
+		<SectionLogin />
 	</div>
 </template>
 
 <script>
 import PageTitle from "@/components/Page/PageTitle";
-import LoginForm from "@/components/LoginForm";
+import SectionLogin from "@/components/Section/SectionLogin";
 
 export default {
 	name: "LoginView",
 	components: {
 		PageTitle,
-		LoginForm,
+		SectionLogin,
 	},
 	data() {
 		return {

@@ -9,7 +9,7 @@
 import { mapGetters } from "vuex";
 
 export default {
-	name: "OffersTable",
+	name: "SectionOffers",
 	data() {
 		return {
 			offersData: [],

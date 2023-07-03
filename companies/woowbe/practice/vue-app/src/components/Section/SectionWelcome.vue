@@ -158,7 +158,7 @@
 import PageTitle from "@/components/Page/PageTitle";
 
 export default {
-	name: "HelloWorld",
+	name: "SectionWellcome",
 	components: {
 		PageTitle,
 	},

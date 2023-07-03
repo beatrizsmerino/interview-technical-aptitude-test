@@ -4,17 +4,17 @@
 			alt="Vue logo"
 			src="../assets/logo.png"
 		/>
-		<HelloWorld :page-title="pageTitle" />
+		<SectionWelcome :page-title="pageTitle" />
 	</div>
 </template>
 
 <script>
-import HelloWorld from "@/components/HelloWorld.vue";
+import SectionWelcome from "@/components/Section/SectionWelcome.vue";
 
 export default {
 	name: "HomeView",
 	components: {
-		HelloWorld,
+		SectionWelcome,
 	},
 	data() {
 		return {
