@@ -36,7 +36,6 @@ export default {
 		return {
 			email: "",
 			password: "",
-			token: "",
 			errorMessage: "",
 		};
 	},
@@ -58,7 +57,7 @@ export default {
 				);
 				if (response.ok) {
 					const data = await response.json();
-					this.token = data.token;
+					this.$store.commit("setToken", data.token);
 					console.log("Inicio de sesión exitoso");
 					console.log("Token:", this.token);
 
