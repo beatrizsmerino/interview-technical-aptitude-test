@@ -2,13 +2,13 @@
 	<div class="account">
 		<PageTitle :title="pageTitle" />
 		<div v-if="getLoggedIn">
-			<p>¡Bienvenido a tu cuenta!</p>
+			<p>Welcome to your account!</p>
 			<SectionBusiness />
 			<SectionOffers />
 			<SectionSales />
 		</div>
 		<div v-else>
-			<p>Debes iniciar sesión para acceder a tu cuenta.</p>
+			<p>You must be logged in to access your account.</p>
 		</div>
 	</div>
 </template>

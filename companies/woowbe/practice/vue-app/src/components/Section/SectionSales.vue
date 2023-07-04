@@ -7,11 +7,11 @@
 		<nav>
 			<ul>
 				<li>
-					<strong>Resultados encontrados:</strong>
+					<strong>Results found:</strong>
 					<span>{{ salesData.count }}</span>
 				</li>
 				<li>
-					<strong>Pagina:</strong>
+					<strong>Current page:</strong>
 					<span>{{ getPageNumberCurrent(salesData.next) }}</span>
 				</li>
 				<li v-if="salesData.previous">
@@ -273,7 +273,7 @@ export default {
 					const data = await response.json();
 					this.salesData = data;
 				} else {
-					throw new Error("Error al obtener los puntos de ventas");
+					throw new Error("Error in obtaining sales points");
 				}
 			} catch (error) {
 				this.responseMessage = error.message;

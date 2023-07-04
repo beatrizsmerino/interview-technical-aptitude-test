@@ -7,11 +7,11 @@
 		<nav class="business">
 			<ul>
 				<li>
-					<strong>Resultados encontrados:</strong>
+					<strong>Results found:</strong>
 					<span>{{ businessesData.count }}</span>
 				</li>
 				<li>
-					<strong>Pagina:</strong>
+					<strong>Current page:</strong>
 					<span>{{ getPageNumberCurrent(businessesData.next) }}</span>
 				</li>
 				<li v-if="businessesData.previous">
@@ -204,7 +204,7 @@ export default {
 					const data = await response.json();
 					this.businessesData = data;
 				} else {
-					throw new Error("Error al obtener los datos de comercios");
+					throw new Error("Error in obtaining business data");
 				}
 			} catch (error) {
 				this.responseMessage = error.message;

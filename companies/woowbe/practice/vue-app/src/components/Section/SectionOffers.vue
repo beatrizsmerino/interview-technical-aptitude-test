@@ -7,11 +7,11 @@
 		<nav>
 			<ul>
 				<li>
-					<strong>Resultados encontrados:</strong>
+					<strong>Results found:</strong>
 					<span>{{ offersData.count }}</span>
 				</li>
 				<li>
-					<strong>Pagina:</strong>
+					<strong>Current page:</strong>
 					<span>{{ getPageNumberCurrent(offersData.next) }}</span>
 				</li>
 				<li v-if="offersData.previous">
@@ -201,7 +201,7 @@ export default {
 					const data = await response.json();
 					this.offersData = data;
 				} else {
-					throw new Error("Error al obtener los datos de ofertas");
+					throw new Error("Error when obtaining offer data");
 				}
 			} catch (error) {
 				this.responseMessage = error.message;

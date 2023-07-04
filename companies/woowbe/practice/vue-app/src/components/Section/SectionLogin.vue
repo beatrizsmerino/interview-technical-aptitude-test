@@ -11,7 +11,7 @@
 		</div>
 
 		<div>
-			<label for="password">Contraseña:</label>
+			<label for="password">Password:</label>
 			<input
 				type="password"
 				id="password"
@@ -20,7 +20,7 @@
 			/>
 		</div>
 
-		<button type="submit">Iniciar sesión</button>
+		<button type="submit">Login</button>
 
 		<UIMessage :message="responseMessage" />
 	</form>
@@ -62,13 +62,13 @@ export default {
 				if (response.ok) {
 					const data = await response.json();
 					this.setToken(data.token);
-					this.responseMessage = "Inicio de sesión exitoso";
+					this.responseMessage = "Successful login";
 					this.setLoggedIn(true);
 					localStorage.setItem("token", data.token);
 					this.$router.push("/account");
 				} else {
 					throw new Error(
-						"Error al iniciar sesión. Verifica tus credenciales.",
+						"Error logging in. Verify your credentials.",
 					);
 				}
 			} catch (error) {
