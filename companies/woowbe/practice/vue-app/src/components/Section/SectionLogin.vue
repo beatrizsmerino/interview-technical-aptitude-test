@@ -22,24 +22,24 @@
 
 		<button type="submit">Iniciar sesión</button>
 
-		<div>
-			<p v-if="errorMessage">
-				{{ errorMessage }}
-			</p>
-		</div>
+		<UIMessage :message="responseMessage" />
 	</form>
 </template>
 
 <script>
 import { mapMutations } from "vuex";
+import UIMessage from "@/components/UI/UIMessage.vue";
 
 export default {
 	name: "SectionLogin",
+	components: {
+		UIMessage,
+	},
 	data() {
 		return {
 			email: "",
 			password: "",
-			errorMessage: "",
+			responseMessage: "",
 		};
 	},
 	methods: {
@@ -62,9 +62,7 @@ export default {
 				if (response.ok) {
 					const data = await response.json();
 					this.setToken(data.token);
-					console.log("Inicio de sesión exitoso");
-					console.log("Token:", this.token);
-
+					this.responseMessage = "Inicio de sesión exitoso";
 					this.setLoggedIn(true);
 					localStorage.setItem("token", data.token);
 					this.$router.push("/account");
@@ -74,8 +72,7 @@ export default {
 					);
 				}
 			} catch (error) {
-				this.errorMessage = error.message;
-				console.error(error);
+				this.responseMessage = error.message;
 			}
 		},
 	},

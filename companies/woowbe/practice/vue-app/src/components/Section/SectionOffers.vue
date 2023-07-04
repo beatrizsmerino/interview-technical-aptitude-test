@@ -2,6 +2,8 @@
 	<section class="offers">
 		<h2>Offers data</h2>
 
+		<UIMessage :message="responseMessage" />
+
 		<nav>
 			<ul>
 				<li>
@@ -111,12 +113,17 @@
 
 <script>
 import { mapGetters } from "vuex";
+import UIMessage from "@/components/UI/UIMessage.vue";
 
 export default {
 	name: "SectionOffers",
+	components: {
+		UIMessage,
+	},
 	data() {
 		return {
 			offersData: {},
+			responseMessage: "",
 		};
 	},
 	computed: {
@@ -135,10 +142,14 @@ export default {
 						Authorization: `Bearer ${this.getToken}`,
 					},
 				});
-				const data = await response.json();
-				this.offersData = data;
+				if (response.ok) {
+					const data = await response.json();
+					this.offersData = data;
+				} else {
+					throw new Error("Error al obtener los datos de ofertas");
+				}
 			} catch (error) {
-				console.error("Error al obtener los datos de ofertas:", error);
+				this.responseMessage = error.message;
 			}
 		},
 		getPageNumberCurrent(url) {

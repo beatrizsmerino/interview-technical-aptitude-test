@@ -2,6 +2,8 @@
 	<section class="business">
 		<h2>Business data</h2>
 
+		<UIMessage :message="responseMessage" />
+
 		<nav class="business">
 			<ul>
 				<li>
@@ -113,12 +115,17 @@
 
 <script>
 import { mapGetters } from "vuex";
+import UIMessage from "@/components/UI/UIMessage.vue";
 
 export default {
 	name: "SectionBusiness",
+	components: {
+		UIMessage,
+	},
 	data() {
 		return {
 			businessesData: [],
+			responseMessage: "",
 		};
 	},
 	computed: {
@@ -137,13 +144,15 @@ export default {
 						Authorization: `Bearer ${this.getToken}`,
 					},
 				});
-				const data = await response.json();
-				this.businessesData = data;
+
+				if (response.ok) {
+					const data = await response.json();
+					this.businessesData = data;
+				} else {
+					throw new Error("Error al obtener los datos de comercios");
+				}
 			} catch (error) {
-				console.error(
-					"Error al obtener los datos de comercios:",
-					error,
-				);
+				this.responseMessage = error.message;
 			}
 		},
 		getPageNumberCurrent(url) {
