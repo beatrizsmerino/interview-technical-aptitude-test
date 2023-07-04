@@ -126,6 +126,9 @@
 													) in dataValue"
 													:key="indexObj"
 												>
+													<strong>
+														#{{ indexObj }}:
+													</strong>
 													<ul>
 														<li
 															v-for="(
@@ -202,6 +205,7 @@
 										) in propertyValue"
 										:key="dataIndex"
 									>
+										<strong>#{{ dataIndex }}:</strong>
 										<ul>
 											<li
 												v-for="(

@@ -111,6 +111,7 @@
 										) in propertyValue"
 										:key="dataIndex"
 									>
+										<strong>#{{ dataIndex }}:</strong>
 										<ul>
 											<li
 												v-for="(
