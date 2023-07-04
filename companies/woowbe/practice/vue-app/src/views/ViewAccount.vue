@@ -5,6 +5,7 @@
 			<p>¡Bienvenido a tu cuenta!</p>
 			<SectionBusiness />
 			<SectionOffers />
+			<SectionSales />
 		</div>
 		<div v-else>
 			<p>Debes iniciar sesión para acceder a tu cuenta.</p>
@@ -18,6 +19,7 @@ import { mapGetters } from "vuex";
 import PageTitle from "@/components/Page/PageTitle";
 import SectionBusiness from "@/components/Section/SectionBusiness";
 import SectionOffers from "@/components/Section/SectionOffers";
+import SectionSales from "@/components/Section/SectionSales";
 
 export default {
 	name: "AccountView",
@@ -25,6 +27,7 @@ export default {
 		PageTitle,
 		SectionBusiness,
 		SectionOffers,
+		SectionSales,
 	},
 	data() {
 		return {
