@@ -29,7 +29,6 @@
 		>
 			<details :open="resultIndex === 0">
 				<summary>#{{ resultIndex + 1 }}</summary>
-				<pre>{{ resultValue }}</pre>
 				<div
 					v-for="(propertyValue, propertyName) in resultValue"
 					:key="propertyName"
@@ -38,9 +37,6 @@
 						<p>
 							<strong>{{ propertyName }}:</strong>
 							<span>---</span>
-							<span style="color: red">
-								{{ typeof propertyValue }}
-							</span>
 						</p>
 					</template>
 					<template v-else>
@@ -57,16 +53,10 @@
 								<span v-else>
 									{{ propertyValue[0] }}
 								</span>
-								<span style="color: gold">
-									{{ typeof propertyValue }}
-								</span>
 							</p>
 						</template>
 						<template v-else-if="isListObject(propertyValue)">
 							<strong>{{ propertyName }}:</strong>
-							<span style="color: pink">
-								{{ typeof propertyValue }}
-							</span>
 							<ul>
 								<li
 									v-for="(
@@ -83,9 +73,6 @@
 						</template>
 						<template v-else-if="isListArrayObject(propertyValue)">
 							<strong>{{ propertyName }}:</strong>
-							<span style="color: green">
-								{{ typeof propertyValue }}
-							</span>
 							<ul>
 								<li
 									v-for="(
@@ -113,9 +100,6 @@
 							<p>
 								<strong>{{ propertyName }}:</strong>
 								<span>{{ propertyValue }}</span>
-								<span style="color: blue">
-									{{ typeof propertyValue }}
-								</span>
 							</p>
 						</template>
 					</template>
