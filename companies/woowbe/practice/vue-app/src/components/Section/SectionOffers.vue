@@ -44,33 +44,28 @@
 						</template>
 						<template v-else>
 							<template v-if="isListArray(propertyValue)">
-								<template v-if="isEmpty(propertyValue)">
-									<p>
-										<strong>{{ propertyName }}:</strong>
-										<span>---</span>
-									</p>
-								</template>
-								<template v-else>
-									<p>
-										<strong>{{ propertyName }}:</strong>
-										<span v-if="propertyValue.length > 1">
-											{{
-												propertyValue
-													.slice(0, -1)
-													.join(", ")
-											}}
-											y
-											{{
-												propertyValue[
-													propertyValue.length - 1
-												]
-											}}
-										</span>
-										<span v-else>
-											{{ propertyValue[0] }}
-										</span>
-									</p>
-								</template>
+								<p>
+									<strong>{{ propertyName }}:</strong>
+									<span v-if="isEmpty(propertyValue)">
+										---
+									</span>
+									<span v-else-if="propertyValue.length > 1">
+										{{
+											propertyValue
+												.slice(0, -1)
+												.join(", ")
+										}}
+										y
+										{{
+											propertyValue[
+												propertyValue.length - 1
+											]
+										}}
+									</span>
+									<span v-else>
+										{{ propertyValue[0] }}
+									</span>
+								</p>
 							</template>
 							<template v-else-if="isListObject(propertyValue)">
 								<strong>{{ propertyName }}:</strong>
@@ -81,22 +76,13 @@
 										) in propertyValue"
 										:key="dataIndex"
 									>
-										<template v-if="isEmpty(dataValue)">
-											<p>
-												<strong>
-													{{ dataIndex }}:
-												</strong>
-												<span>---</span>
-											</p>
-										</template>
-										<template>
-											<p>
-												<strong>
-													{{ dataIndex }}:
-												</strong>
-												<span>{{ dataValue }}</span>
-											</p>
-										</template>
+										<p>
+											<strong>{{ dataIndex }}:</strong>
+											<span v-if="isEmpty(dataValue)">
+												---
+											</span>
+											<span v-else>{{ dataValue }}</span>
+										</p>
 									</li>
 								</ul>
 							</template>
@@ -119,44 +105,32 @@
 												) in dataValue"
 												:key="indexObj"
 											>
-												<template
-													v-if="isEmpty(itemObj)"
-												>
-													<p>
-														<strong>
-															{{ indexObj }}:
-														</strong>
-														<span>---</span>
-													</p>
-												</template>
-												<template v-else>
-													<p>
-														<strong>
-															{{ indexObj }}:
-														</strong>
-														<span>
-															{{ itemObj }}
-														</span>
-													</p>
-												</template>
+												<p>
+													<strong>
+														{{ indexObj }}:
+													</strong>
+													<span
+														v-if="isEmpty(itemObj)"
+													>
+														---
+													</span>
+													<span v-else>
+														{{ itemObj }}
+													</span>
+												</p>
 											</li>
 										</ul>
 									</li>
 								</ul>
 							</template>
 							<template v-else>
-								<template v-if="isEmpty(propertyValue)">
-									<p>
-										<strong>{{ propertyName }}:</strong>
-										<span>---</span>
-									</p>
-								</template>
-								<template v-else>
-									<p>
-										<strong>{{ propertyName }}:</strong>
-										<span>{{ propertyValue }}</span>
-									</p>
-								</template>
+								<p>
+									<strong>{{ propertyName }}:</strong>
+									<span v-if="isEmpty(propertyValue)">
+										---
+									</span>
+									<span v-else>{{ propertyValue }}</span>
+								</p>
 							</template>
 						</template>
 					</li>
