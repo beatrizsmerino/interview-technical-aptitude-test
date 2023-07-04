@@ -64,10 +64,63 @@
 									) in propertyValue"
 									:key="dataIndex"
 								>
-									<p>
+									<template v-if="isListObject(dataValue)">
 										<strong>{{ dataIndex }}:</strong>
-										<span>{{ dataValue }}</span>
-									</p>
+										<ul>
+											<li
+												v-for="(
+													itemObj, indexObj
+												) in dataValue"
+												:key="indexObj"
+											>
+												<p>
+													<strong>
+														{{ indexObj }}:
+													</strong>
+													<span>
+														{{ itemObj }}
+													</span>
+												</p>
+											</li>
+										</ul>
+									</template>
+									<template
+										v-else-if="isListArrayObject(dataValue)"
+									>
+										<strong>{{ dataIndex }}:</strong>
+										<ul>
+											<li
+												v-for="(
+													itemObj, indexObj
+												) in dataValue"
+												:key="indexObj"
+											>
+												<ul>
+													<li
+														v-for="(
+															item, index
+														) in itemObj"
+														:key="index"
+													>
+														<p>
+															<strong>
+																{{ index }}:
+															</strong>
+															<span>
+																{{ item }}
+															</span>
+														</p>
+													</li>
+												</ul>
+											</li>
+										</ul>
+									</template>
+									<template v-else>
+										<p>
+											<strong>{{ dataIndex }}:</strong>
+											<span>{{ dataValue }}</span>
+										</p>
+									</template>
 								</li>
 							</ul>
 						</template>
