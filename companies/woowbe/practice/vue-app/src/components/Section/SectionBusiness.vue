@@ -71,6 +71,18 @@
 											:alt="propertyValue"
 										/>
 									</span>
+									<span
+										class="business__link"
+										v-else-if="isLink(propertyValue)"
+									>
+										<a
+											:href="propertyValue"
+											target="_blank"
+											rel="noopener noreferrer"
+										>
+											{{ propertyValue }}
+										</a>
+									</span>
 									<span v-else-if="propertyValue.length > 1">
 										{{
 											propertyValue
@@ -120,6 +132,18 @@
 													:src="dataValue"
 													:alt="dataValue"
 												/>
+											</span>
+											<span
+												class="business__link"
+												v-else-if="isLink(dataValue)"
+											>
+												<a
+													:href="dataValue"
+													target="_blank"
+													rel="noopener noreferrer"
+												>
+													{{ dataValue }}
+												</a>
 											</span>
 											<span v-else>{{ dataValue }}</span>
 										</p>
@@ -176,6 +200,20 @@
 															:alt="itemObj"
 														/>
 													</span>
+													<span
+														class="business__link"
+														v-else-if="
+															isLink(itemObj)
+														"
+													>
+														<a
+															:href="itemObj"
+															target="_blank"
+															rel="noopener noreferrer"
+														>
+															{{ itemObj }}
+														</a>
+													</span>
 													<span v-else>
 														{{ itemObj }}
 													</span>
@@ -208,6 +246,18 @@
 											:src="propertyValue"
 											:alt="propertyValue"
 										/>
+									</span>
+									<span
+										class="business__link"
+										v-else-if="isLink(propertyValue)"
+									>
+										<a
+											:href="propertyValue"
+											target="_blank"
+											rel="noopener noreferrer"
+										>
+											{{ propertyValue }}
+										</a>
 									</span>
 									<span v-else>{{ propertyValue }}</span>
 								</p>
@@ -318,6 +368,13 @@ export default {
 					.substring(value.lastIndexOf("."))
 					.toLowerCase();
 				return extensionsAvailable.includes(extension);
+			}
+			return false;
+		},
+		isLink(value) {
+			if (typeof value === "string") {
+				const urlPattern = /^(ftp|http|https):\/\/[^ "]+$/;
+				return urlPattern.test(value);
 			}
 			return false;
 		},

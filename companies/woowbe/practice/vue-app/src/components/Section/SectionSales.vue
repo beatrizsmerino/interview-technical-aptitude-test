@@ -67,6 +67,18 @@
 											:alt="propertyValue"
 										/>
 									</span>
+									<span
+										class="sales__link"
+										v-else-if="isLink(propertyValue)"
+									>
+										<a
+											:href="propertyValue"
+											target="_blank"
+											rel="noopener noreferrer"
+										>
+											{{ propertyValue }}
+										</a>
+									</span>
 									<span v-else-if="propertyValue.length > 1">
 										{{
 											propertyValue
@@ -137,6 +149,20 @@
 																:src="itemObj"
 																:alt="itemObj"
 															/>
+														</span>
+														<span
+															class="sales__link"
+															v-else-if="
+																isLink(itemObj)
+															"
+														>
+															<a
+																:href="itemObj"
+																target="_blank"
+																rel="noopener noreferrer"
+															>
+																{{ itemObj }}
+															</a>
 														</span>
 														<span v-else>
 															{{ itemObj }}
@@ -215,6 +241,26 @@
 																		"
 																	/>
 																</span>
+																<span
+																	class="sales__link"
+																	v-else-if="
+																		isLink(
+																			item,
+																		)
+																	"
+																>
+																	<a
+																		:href="
+																			item
+																		"
+																		target="_blank"
+																		rel="noopener noreferrer"
+																	>
+																		{{
+																			item
+																		}}
+																	</a>
+																</span>
 																<span v-else>
 																	{{ item }}
 																</span>
@@ -253,6 +299,20 @@
 														:src="dataValue"
 														:alt="dataValue"
 													/>
+												</span>
+												<span
+													class="sales__link"
+													v-else-if="
+														isLink(dataValue)
+													"
+												>
+													<a
+														:href="dataValue"
+														target="_blank"
+														rel="noopener noreferrer"
+													>
+														{{ dataValue }}
+													</a>
 												</span>
 												<span v-else>
 													{{ dataValue }}
@@ -403,6 +463,13 @@ export default {
 					.substring(value.lastIndexOf("."))
 					.toLowerCase();
 				return extensionsAvailable.includes(extension);
+			}
+			return false;
+		},
+		isLink(value) {
+			if (typeof value === "string") {
+				const urlPattern = /^(ftp|http|https):\/\/[^ "]+$/;
+				return urlPattern.test(value);
 			}
 			return false;
 		},
