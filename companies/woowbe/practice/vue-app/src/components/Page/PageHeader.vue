@@ -80,11 +80,11 @@
 		}
 
 		&__link {
-			color: #2c3e50;
+			color: $color-brand-vue-2;
 			font-weight: bold;
 
 			&.router-link-exact-active {
-				color: #42b983;
+				color: $color-brand-1;
 			}
 		}
 	}

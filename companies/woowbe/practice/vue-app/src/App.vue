@@ -18,7 +18,7 @@
 
 <style lang="scss">
 	.app {
-		color: #2c3e50;
+		color: $color-brand-vue-2;
 		font-family: Avenir, Helvetica, Arial, sans-serif;
 		-webkit-font-smoothing: antialiased;
 		-moz-osx-font-smoothing: grayscale;
