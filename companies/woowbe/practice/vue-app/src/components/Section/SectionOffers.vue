@@ -1,6 +1,6 @@
 <template>
 	<section class="offers">
-		<h2>Offers data</h2>
+		<h2>Offers</h2>
 
 		<UIMessage :message="responseMessage" />
 
