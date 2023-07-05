@@ -59,10 +59,17 @@
 			v-for="(resultValue, resultIndex) in filteredResults"
 			:key="resultIndex"
 		>
-			<details>
+			<details class="sales__details">
 				<summary class="sales__summary">
 					<h3 class="sales__title">
-						#{{ (resultIndex + 1).toString().padStart(2, "0") }} {{ resultValue.business.name }}
+						<span>#{{ (resultIndex + 1).toString().padStart(2, "0") }}</span>
+						<img
+							v-if="isIcon(resultValue.business.sector.icon)"
+							class="sales__icon"
+							:src="resultValue.business.sector.icon"
+							:alt="resultValue.business.sector.icon"
+						>
+						<span>{{ resultValue.business.name }}</span>
 					</h3>
 				</summary>
 				<ul>
@@ -414,11 +421,27 @@
 
 		&__summary {
 			cursor: pointer;
+
+			> * {
+				display: inline-block !important;
+			}
 		}
 
 		&__title {
-			display: inline-block;
+			display: flex;
+			align-items: center;
 			margin: 0;
+
+			> * {
+				display: inline !important;
+				vertical-align: middle;
+			}
+
+			.sales {
+				&__icon {
+					max-width: 2rem;
+				}
+			}
 		}
 
 		&__image,
