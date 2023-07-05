@@ -1,5 +1,5 @@
 <template>
-	<div id="app">
+	<div class="app">
 		<PageHeader />
 
 		<router-view />
@@ -17,7 +17,7 @@
 </script>
 
 <style lang="scss">
-	#app {
+	.app {
 		color: #2C3E50;
 		font-family: Avenir, Helvetica, Arial, sans-serif;
 		-webkit-font-smoothing: antialiased;
