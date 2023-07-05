@@ -1,5 +1,6 @@
 export default {
 	"methods": {
+		// eslint-disable-next-line complexity
 		isEmpty(value) {
 			return (
 				value === null ||
@@ -50,7 +51,7 @@ export default {
 		},
 		isLink(value) {
 			if (typeof value === "string") {
-				const urlPattern = /^(ftp|http|https):\/\/[^ "]+$/;
+				const urlPattern = /^(?:ftp|http|https):\/\/[^ "]+$/u;
 
 				return urlPattern.test(value);
 			}
