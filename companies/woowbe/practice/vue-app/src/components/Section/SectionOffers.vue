@@ -49,6 +49,24 @@
 									<span v-if="isEmpty(propertyValue)">
 										---
 									</span>
+									<span
+										class="offers__image"
+										v-else-if="isImage(propertyValue)"
+									>
+										<img
+											:src="propertyValue"
+											:alt="propertyValue"
+										/>
+									</span>
+									<span
+										class="offers__icon"
+										v-else-if="isIcon(propertyValue)"
+									>
+										<img
+											:src="propertyValue"
+											:alt="propertyValue"
+										/>
+									</span>
 									<span v-else-if="propertyValue.length > 1">
 										{{
 											propertyValue
@@ -80,6 +98,24 @@
 											<strong>{{ dataIndex }}:</strong>
 											<span v-if="isEmpty(dataValue)">
 												---
+											</span>
+											<span
+												class="offers__image"
+												v-else-if="isImage(dataValue)"
+											>
+												<img
+													:src="dataValue"
+													:alt="dataValue"
+												/>
+											</span>
+											<span
+												class="offers__icon"
+												v-else-if="isIcon(dataValue)"
+											>
+												<img
+													:src="dataValue"
+													:alt="dataValue"
+												/>
 											</span>
 											<span v-else>{{ dataValue }}</span>
 										</p>
@@ -114,6 +150,28 @@
 													>
 														---
 													</span>
+													<span
+														class="offers__image"
+														v-else-if="
+															isImage(itemObj)
+														"
+													>
+														<img
+															:src="itemObj"
+															:alt="itemObj"
+														/>
+													</span>
+													<span
+														class="offers__icon"
+														v-else-if="
+															isIcon(itemObj)
+														"
+													>
+														<img
+															:src="itemObj"
+															:alt="itemObj"
+														/>
+													</span>
 													<span v-else>
 														{{ itemObj }}
 													</span>
@@ -128,6 +186,24 @@
 									<strong>{{ propertyName }}:</strong>
 									<span v-if="isEmpty(propertyValue)">
 										---
+									</span>
+									<span
+										class="offers__image"
+										v-else-if="isImage(propertyValue)"
+									>
+										<img
+											:src="propertyValue"
+											:alt="propertyValue"
+										/>
+									</span>
+									<span
+										class="offers__icon"
+										v-else-if="isIcon(propertyValue)"
+									>
+										<img
+											:src="propertyValue"
+											:alt="propertyValue"
+										/>
 									</span>
 									<span v-else>{{ propertyValue }}</span>
 								</p>
@@ -220,6 +296,26 @@ export default {
 				value.every(item => typeof item !== "object" || item === null)
 			);
 		},
+		isImage(value) {
+			if (typeof value === "string") {
+				const extensionsAvailable = [".jpg", ".jpeg", ".png", ".gif"];
+				const extension = value
+					.substring(value.lastIndexOf("."))
+					.toLowerCase();
+				return extensionsAvailable.includes(extension);
+			}
+			return false;
+		},
+		isIcon(value) {
+			if (typeof value === "string") {
+				const extensionsAvailable = [".svg"];
+				const extension = value
+					.substring(value.lastIndexOf("."))
+					.toLowerCase();
+				return extensionsAvailable.includes(extension);
+			}
+			return false;
+		},
 	},
 };
 </script>
@@ -227,5 +323,24 @@ export default {
 <style lang="scss" scoped>
 .offers {
 	text-align: left;
+
+	&__image,
+	&__icon {
+		width: 100%;
+		display: flex;
+
+		img {
+			width: 100%;
+			display: flex;
+		}
+	}
+
+	&__image {
+		max-width: 20rem;
+	}
+
+	&__icon {
+		max-width: 3rem;
+	}
 }
 </style>
