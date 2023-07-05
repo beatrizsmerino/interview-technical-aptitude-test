@@ -29,11 +29,34 @@
 						Next
 					</button>
 				</li>
+				<li>
+					<strong>Filters:</strong>
+					<ul>
+						<li>
+							<label for="salesSector">
+								Select a sector:
+							</label>
+							<select
+								id="salesSector"
+								v-model="salesSectorSelected"
+								name="salesSector"
+							>
+								<option
+									v-for="sector in getSectorList"
+									:key="sector.id"
+									:value="sector.id"
+								>
+									{{ sector.name }}
+								</option>
+							</select>
+						</li>
+					</ul>
+				</li>
 			</ul>
 		</nav>
 
 		<article
-			v-for="(resultValue, resultIndex) in salesData.results"
+			v-for="(resultValue, resultIndex) in filteredResults"
 			:key="resultIndex"
 		>
 			<details>
@@ -308,7 +331,8 @@
 		],
 		data() {
 			return {
-				"salesData": {},
+				"salesData": { "results": [] },
+				"salesSectorSelected": null,
 				"responseMessage": "",
 			};
 		},
@@ -316,6 +340,29 @@
 			...mapGetters([
 				"getToken",
 			]),
+			getSectorList() {
+				if (this.salesData.results && Array.isArray(this.salesData.results)) {
+					const sectorAll = this.salesData.results.map(item => item.business.sector);
+					const sectorNonDuplicated = Object.values(sectorAll.reduce((uniqueSectors, sector) => {
+						if (!uniqueSectors[sector.name]) {
+							uniqueSectors[sector.name] = sector;
+						}
+
+						return uniqueSectors;
+					}, {}));
+
+					return sectorNonDuplicated;
+				}
+
+				return [];
+			},
+			filteredResults() {
+				if (this.salesSectorSelected) {
+					return this.salesData.results.filter(result => result.business.sector.id === this.salesSectorSelected);
+				}
+
+				return this.salesData.results;
+			},
 		},
 		async mounted() {
 			await this.fetchData("https://backend.dev.woowbe.com/api/v1/points_of_sales/public/");
@@ -331,6 +378,9 @@
 					if (response.ok) {
 						const data = await response.json();
 						this.salesData = data;
+						if (data.results.length > 0) {
+							this.salesSectorSelected = data.results[0].business.sector.id;
+						}
 					} else {
 						throw new Error("Error in obtaining sales points");
 					}

@@ -29,11 +29,34 @@
 						Next
 					</button>
 				</li>
+				<li>
+					<strong>Filters:</strong>
+					<ul>
+						<li>
+							<label for="businessSector">
+								Select a sector:
+							</label>
+							<select
+								id="businessSector"
+								v-model="businessSectorSelected"
+								name="businessSector"
+							>
+								<option
+									v-for="sector in getSectorList"
+									:key="sector.id"
+									:value="sector.id"
+								>
+									{{ sector.name }}
+								</option>
+							</select>
+						</li>
+					</ul>
+				</li>
 			</ul>
 		</nav>
 
 		<article
-			v-for="(resultValue, resultIndex) in businessData.results"
+			v-for="(resultValue, resultIndex) in filteredResults"
 			:key="resultValue.id"
 		>
 			<details>
@@ -270,7 +293,8 @@
 		],
 		data() {
 			return {
-				"businessData": [],
+				"businessData": { "results": [] },
+				"businessSectorSelected": null,
 				"responseMessage": "",
 			};
 		},
@@ -278,6 +302,29 @@
 			...mapGetters([
 				"getToken",
 			]),
+			getSectorList() {
+				if (this.businessData.results && Array.isArray(this.businessData.results)) {
+					const sectorAll = this.businessData.results.map(item => item.sector);
+					const sectorNonDuplicated = Object.values(sectorAll.reduce((uniqueSectors, sector) => {
+						if (!uniqueSectors[sector.name]) {
+							uniqueSectors[sector.name] = sector;
+						}
+
+						return uniqueSectors;
+					}, {}));
+
+					return sectorNonDuplicated;
+				}
+
+				return [];
+			},
+			filteredResults() {
+				if (this.businessSectorSelected) {
+					return this.businessData.results.filter(result => result.sector.id === this.businessSectorSelected);
+				}
+
+				return this.businessData.results;
+			},
 		},
 		async mounted() {
 			await this.fetchData("https://backend.dev.woowbe.com/api/v1/business/public/");
@@ -294,6 +341,9 @@
 					if (response.ok) {
 						const data = await response.json();
 						this.businessData = data;
+						if (data.results.length > 0) {
+							this.businessSectorSelected = data.results[0].sector.id;
+						}
 					} else {
 						throw new Error("Error in obtaining business data");
 					}
