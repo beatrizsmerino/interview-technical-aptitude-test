@@ -334,10 +334,20 @@
 				}
 			},
 			getPageNumberCurrent(url) {
-				const params = new URLSearchParams(new URL(url).search);
-				const pageNumber = params.get("page");
+				try {
+					if (url) {
+						const params = new URLSearchParams(new URL(url).search);
+						const pageNumber = params.get("page");
 
-				return pageNumber ? pageNumber - 1 : "";
+						return pageNumber ? pageNumber - 1 : "";
+					}
+
+					return "";
+				} catch (error) {
+					console.error("Invalid URL:", error);
+
+					return "";
+				}
 			},
 		},
 	};

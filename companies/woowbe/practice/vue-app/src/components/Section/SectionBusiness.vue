@@ -4,23 +4,23 @@
 
 		<UIMessage :message="responseMessage" />
 
-		<nav class="business">
+		<nav>
 			<ul>
 				<li>
 					<strong>Results found:</strong>
-					<span>{{ businessesData.count }}</span>
+					<span>{{ businessData.count }}</span>
 				</li>
 				<li>
 					<strong>Current page:</strong>
-					<span>{{ getPageNumberCurrent(businessesData.next) }}</span>
+					<span>{{ getPageNumberCurrent(businessData.next) }}</span>
 				</li>
-				<li v-if="businessesData.previous">
-					<button @click="fetchData(businessesData.previous)">
+				<li v-if="businessData.previous">
+					<button @click="fetchData(businessData.previous)">
 						Prev
 					</button>
 				</li>
-				<li v-if="businessesData.next">
-					<button @click="fetchData(businessesData.next)">
+				<li v-if="businessData.next">
+					<button @click="fetchData(businessData.next)">
 						Next
 					</button>
 				</li>
@@ -28,7 +28,7 @@
 		</nav>
 
 		<article
-			v-for="(resultValue, resultIndex) in businessesData.results"
+			v-for="(resultValue, resultIndex) in businessData.results"
 			:key="resultValue.id"
 		>
 			<details :open="resultIndex === 0">
@@ -265,7 +265,7 @@
 		],
 		data() {
 			return {
-				"businessesData": [],
+				"businessData": [],
 				"responseMessage": "",
 			};
 		},
@@ -288,7 +288,7 @@
 
 					if (response.ok) {
 						const data = await response.json();
-						this.businessesData = data;
+						this.businessData = data;
 					} else {
 						throw new Error("Error in obtaining business data");
 					}
@@ -297,10 +297,20 @@
 				}
 			},
 			getPageNumberCurrent(url) {
-				const params = new URLSearchParams(new URL(url).search);
-				const pageNumber = params.get("page");
+				try {
+					if (url) {
+						const params = new URLSearchParams(new URL(url).search);
+						const pageNumber = params.get("page");
 
-				return pageNumber ? pageNumber - 1 : "";
+						return pageNumber ? pageNumber - 1 : "";
+					}
+
+					return "";
+				} catch (error) {
+					console.error("Invalid URL:", error);
+
+					return "";
+				}
 			},
 		},
 	};
