@@ -14,13 +14,18 @@
 					<strong>Current page:</strong>
 					<span>{{ getPageNumberCurrent(offersData.next) }}</span>
 				</li>
-				<li v-if="offersData.previous">
-					<button @click="fetchData(offersData.previous)">
+				<li v-if="offersData.previous || offersData.next">
+					<strong>Navigation:</strong>
+					<button
+						:disabled="!offersData.previous"
+						@click="fetchData(offersData.previous)"
+					>
 						Prev
 					</button>
-				</li>
-				<li v-if="offersData.next">
-					<button @click="fetchData(offersData.next)">
+					<button
+						:disabled="!offersData.next"
+						@click="fetchData(offersData.next)"
+					>
 						Next
 					</button>
 				</li>
