@@ -30,7 +30,9 @@
 			:key="resultIndex"
 		>
 			<details :open="resultIndex === 0">
-				<summary>#{{ resultIndex + 1 }}</summary>
+				<summary class="offers__summary">
+					<h3 class="offers__title">#{{ resultIndex + 1 }}</h3>
+				</summary>
 				<ul>
 					<li
 						v-for="(propertyValue, propertyName) in resultValue"
@@ -323,6 +325,15 @@ export default {
 <style lang="scss" scoped>
 .offers {
 	text-align: left;
+
+	&__summary {
+		cursor: pointer;
+	}
+
+	&__title {
+		margin: 0;
+		display: inline-block;
+	}
 
 	&__image,
 	&__icon {

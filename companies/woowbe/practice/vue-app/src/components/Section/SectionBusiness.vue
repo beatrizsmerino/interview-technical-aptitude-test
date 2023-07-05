@@ -32,7 +32,9 @@
 			:key="resultValue.id"
 		>
 			<details :open="resultIndex === 0">
-				<summary>#{{ resultIndex + 1 }}</summary>
+				<summary class="business__summary">
+					<h3 class="business__title">#{{ resultIndex + 1 }}</h3>
+				</summary>
 				<ul>
 					<li
 						v-for="(propertyValue, propertyName) in resultValue"
@@ -326,6 +328,15 @@ export default {
 <style lang="scss" scoped>
 .business {
 	text-align: left;
+
+	&__summary {
+		cursor: pointer;
+	}
+
+	&__title {
+		margin: 0;
+		display: inline-block;
+	}
 
 	&__image,
 	&__icon {
