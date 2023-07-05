@@ -4,8 +4,8 @@
 		<div v-if="getLoggedIn">
 			<p>Welcome to your account!</p>
 			<SectionBusiness />
-			<SectionOffers />
 			<SectionSales />
+			<SectionOffers />
 		</div>
 		<div v-else>
 			<p>You must be logged in to access your account.</p>

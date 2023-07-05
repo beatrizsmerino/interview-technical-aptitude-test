@@ -31,7 +31,7 @@
 			v-for="(resultValue, resultIndex) in salesData.results"
 			:key="resultIndex"
 		>
-			<details :open="resultIndex === 0">
+			<details>
 				<summary class="sales__summary">
 					<h3 class="sales__title">
 						#{{ (resultIndex + 1).toString().padStart(2, "0") }} {{ resultValue.business.name }}
