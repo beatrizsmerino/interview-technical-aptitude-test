@@ -72,7 +72,7 @@
 
 			&:not(:last-child) {
 				&:after {
-					content: '|';
+					content: "|";
 					display: inline-block;
 					margin: 0 0.3rem;
 				}
@@ -80,11 +80,11 @@
 		}
 
 		&__link {
-			color: #2C3E50;
+			color: #2c3e50;
 			font-weight: bold;
 
 			&.router-link-exact-active {
-				color: #42B983;
+				color: #42b983;
 			}
 		}
 	}
