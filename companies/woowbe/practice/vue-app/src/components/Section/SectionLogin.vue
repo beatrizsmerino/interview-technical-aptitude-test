@@ -1,80 +1,84 @@
 <template>
 	<form @submit.prevent="login">
 		<div>
-			<label for="email">Email:</label>
+			<label for="email">
+				Email:
+			</label>
 			<input
-				type="email"
 				id="email"
 				v-model="email"
+				type="email"
 				required
-			/>
+			>
 		</div>
 
 		<div>
-			<label for="password">Password:</label>
+			<label for="password">
+				Password:
+			</label>
 			<input
-				type="password"
 				id="password"
 				v-model="password"
+				type="password"
 				required
-			/>
+			>
 		</div>
 
-		<button type="submit">Login</button>
+		<button type="submit">
+			Login
+		</button>
 
 		<UIMessage :message="responseMessage" />
 	</form>
 </template>
 
 <script>
-import { mapMutations } from "vuex";
-import UIMessage from "@/components/UI/UIMessage.vue";
+	import { mapMutations } from "vuex";
+	import UIMessage from "@/components/UI/UIMessage.vue";
 
-export default {
-	name: "SectionLogin",
-	components: {
-		UIMessage,
-	},
-	data() {
-		return {
-			email: "",
-			password: "",
-			responseMessage: "",
-		};
-	},
-	methods: {
-		...mapMutations(["setToken", "setLoggedIn"]),
-		async login() {
-			try {
-				const response = await fetch(
-					"https://backend.dev.woowbe.com/api/v1/auth/jwt/token/",
-					{
-						method: "POST",
-						headers: {
+	export default {
+		"name": "SectionLogin",
+		"components": {
+			UIMessage,
+		},
+		data() {
+			return {
+				"email": "",
+				"password": "",
+				"responseMessage": "",
+			};
+		},
+		"methods": {
+			...mapMutations([
+				"setToken",
+				"setLoggedIn",
+			]),
+			async login() {
+				try {
+					const response = await fetch("https://backend.dev.woowbe.com/api/v1/auth/jwt/token/", {
+						"method": "POST",
+						"headers": {
 							"Content-Type": "application/json",
 						},
-						body: JSON.stringify({
-							email: this.email,
-							password: this.password,
+						"body": JSON.stringify({
+							"email": this.email,
+							"password": this.password,
 						}),
-					},
-				);
-				if (response.ok) {
-					const data = await response.json();
-					this.setToken(data.token);
-					this.responseMessage = "Successful login";
-					this.setLoggedIn(true);
-					localStorage.setItem("token", data.token);
-					this.$router.push("/account");
-				} else {
-					throw new Error(
-						"Error logging in. Verify your credentials.",
-					);
+					});
+					if (response.ok) {
+						const data = await response.json();
+						this.setToken(data.token);
+						this.responseMessage = "Successful login";
+						this.setLoggedIn(true);
+						localStorage.setItem("token", data.token);
+						this.$router.push("/account");
+					} else {
+						throw new Error("Error logging in. Verify your credentials.");
+					}
+				} catch (error) {
+					this.responseMessage = error.message;
 				}
-			} catch (error) {
-				this.responseMessage = error.message;
-			}
+			},
 		},
-	},
-};
+	};
 </script>

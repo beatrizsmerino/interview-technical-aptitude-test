@@ -4,15 +4,15 @@ import Vuex from "vuex";
 Vue.use(Vuex);
 
 export default new Vuex.Store({
-	state: {
-		isLoggedIn: false,
-		token: "",
+	"state": {
+		"isLoggedIn": false,
+		"token": "",
 	},
-	getters: {
-		getLoggedIn: state => state.isLoggedIn,
-		getToken: state => state.token,
+	"getters": {
+		"getLoggedIn": state => state.isLoggedIn,
+		"getToken": state => state.token,
 	},
-	mutations: {
+	"mutations": {
 		setLoggedIn(state, isLoggedIn) {
 			state.isLoggedIn = isLoggedIn;
 		},
@@ -20,6 +20,6 @@ export default new Vuex.Store({
 			state.token = token;
 		},
 	},
-	actions: {},
-	modules: {},
+	"actions": {},
+	"modules": {},
 });

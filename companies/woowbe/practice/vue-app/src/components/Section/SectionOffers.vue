@@ -20,7 +20,9 @@
 					</button>
 				</li>
 				<li v-if="offersData.next">
-					<button @click="fetchData(offersData.next)">Next</button>
+					<button @click="fetchData(offersData.next)">
+						Next
+					</button>
 				</li>
 			</ul>
 		</nav>
@@ -31,7 +33,9 @@
 		>
 			<details :open="resultIndex === 0">
 				<summary class="offers__summary">
-					<h3 class="offers__title">#{{ resultIndex + 1 }}</h3>
+					<h3 class="offers__title">
+						#{{ resultIndex + 1 }}
+					</h3>
 				</summary>
 				<ul>
 					<li
@@ -52,26 +56,26 @@
 										---
 									</span>
 									<span
-										class="offers__image"
 										v-else-if="isImage(propertyValue)"
+										class="offers__image"
 									>
 										<img
 											:src="propertyValue"
 											:alt="propertyValue"
-										/>
+										>
 									</span>
 									<span
-										class="offers__icon"
 										v-else-if="isIcon(propertyValue)"
+										class="offers__icon"
 									>
 										<img
 											:src="propertyValue"
 											:alt="propertyValue"
-										/>
+										>
 									</span>
 									<span
-										class="offers__link"
 										v-else-if="isLink(propertyValue)"
+										class="offers__link"
 									>
 										<a
 											:href="propertyValue"
@@ -82,17 +86,9 @@
 										</a>
 									</span>
 									<span v-else-if="propertyValue.length > 1">
-										{{
-											propertyValue
-												.slice(0, -1)
-												.join(", ")
-										}}
+										{{ propertyValue.slice(0, -1).join(", ") }}
 										y
-										{{
-											propertyValue[
-												propertyValue.length - 1
-											]
-										}}
+										{{ propertyValue[propertyValue.length - 1] }}
 									</span>
 									<span v-else>
 										{{ propertyValue[0] }}
@@ -103,9 +99,7 @@
 								<strong>{{ propertyName }}:</strong>
 								<ul>
 									<li
-										v-for="(
-											dataValue, dataIndex
-										) in propertyValue"
+										v-for="(dataValue, dataIndex) in propertyValue"
 										:key="dataIndex"
 									>
 										<p>
@@ -114,26 +108,26 @@
 												---
 											</span>
 											<span
-												class="offers__image"
 												v-else-if="isImage(dataValue)"
+												class="offers__image"
 											>
 												<img
 													:src="dataValue"
 													:alt="dataValue"
-												/>
+												>
 											</span>
 											<span
-												class="offers__icon"
 												v-else-if="isIcon(dataValue)"
+												class="offers__icon"
 											>
 												<img
 													:src="dataValue"
 													:alt="dataValue"
-												/>
+												>
 											</span>
 											<span
-												class="offers__link"
 												v-else-if="isLink(dataValue)"
+												class="offers__link"
 											>
 												<a
 													:href="dataValue"
@@ -143,66 +137,52 @@
 													{{ dataValue }}
 												</a>
 											</span>
-											<span v-else>{{ dataValue }}</span>
+											<span v-else>
+												{{ dataValue }}
+											</span>
 										</p>
 									</li>
 								</ul>
 							</template>
-							<template
-								v-else-if="isListArrayObject(propertyValue)"
-							>
+							<template v-else-if="isListArrayObject(propertyValue)">
 								<strong>{{ propertyName }}:</strong>
 								<ul>
 									<li
-										v-for="(
-											dataValue, dataIndex
-										) in propertyValue"
+										v-for="(dataValue, dataIndex) in propertyValue"
 										:key="dataIndex"
 									>
 										<strong>#{{ dataIndex }}:</strong>
 										<ul>
 											<li
-												v-for="(
-													itemObj, indexObj
-												) in dataValue"
+												v-for="(itemObj, indexObj) in dataValue"
 												:key="indexObj"
 											>
 												<p>
-													<strong>
-														{{ indexObj }}:
-													</strong>
-													<span
-														v-if="isEmpty(itemObj)"
-													>
+													<strong>{{ indexObj }}:</strong>
+													<span v-if="isEmpty(itemObj)">
 														---
 													</span>
 													<span
+														v-else-if="isImage(itemObj)"
 														class="offers__image"
-														v-else-if="
-															isImage(itemObj)
-														"
 													>
 														<img
 															:src="itemObj"
 															:alt="itemObj"
-														/>
+														>
 													</span>
 													<span
+														v-else-if="isIcon(itemObj)"
 														class="offers__icon"
-														v-else-if="
-															isIcon(itemObj)
-														"
 													>
 														<img
 															:src="itemObj"
 															:alt="itemObj"
-														/>
+														>
 													</span>
 													<span
+														v-else-if="isLink(itemObj)"
 														class="offers__link"
-														v-else-if="
-															isLink(itemObj)
-														"
 													>
 														<a
 															:href="itemObj"
@@ -228,26 +208,26 @@
 										---
 									</span>
 									<span
-										class="offers__image"
 										v-else-if="isImage(propertyValue)"
+										class="offers__image"
 									>
 										<img
 											:src="propertyValue"
 											:alt="propertyValue"
-										/>
+										>
 									</span>
 									<span
-										class="offers__icon"
 										v-else-if="isIcon(propertyValue)"
+										class="offers__icon"
 									>
 										<img
 											:src="propertyValue"
 											:alt="propertyValue"
-										/>
+										>
 									</span>
 									<span
-										class="offers__link"
 										v-else-if="isLink(propertyValue)"
+										class="offers__link"
 									>
 										<a
 											:href="propertyValue"
@@ -257,7 +237,9 @@
 											{{ propertyValue }}
 										</a>
 									</span>
-									<span v-else>{{ propertyValue }}</span>
+									<span v-else>
+										{{ propertyValue }}
+									</span>
 								</p>
 							</template>
 						</template>
@@ -269,88 +251,90 @@
 </template>
 
 <script>
-import { mapGetters } from "vuex";
-import globalMixins from "@/plugins/global-mixins.js";
-import UIMessage from "@/components/UI/UIMessage.vue";
+	import { mapGetters } from "vuex";
+	import globalMixins from "@/plugins/global-mixins.js";
+	import UIMessage from "@/components/UI/UIMessage.vue";
 
-export default {
-	mixins: [globalMixins],
-	name: "SectionOffers",
-	components: {
-		UIMessage,
-	},
-	data() {
-		return {
-			offersData: {},
-			responseMessage: "",
-		};
-	},
-	computed: {
-		...mapGetters(["getToken"]),
-	},
-	async mounted() {
-		await this.fetchData(
-			"https://backend.dev.woowbe.com/api/v1/offers/public/",
-		);
-	},
-	methods: {
-		async fetchData(url) {
-			try {
-				const response = await fetch(url, {
-					headers: {
-						Authorization: `Bearer ${this.getToken}`,
-					},
-				});
-				if (response.ok) {
-					const data = await response.json();
-					this.offersData = data;
-				} else {
-					throw new Error("Error when obtaining offer data");
+	export default {
+		"name": "SectionOffers",
+		"components": {
+			UIMessage,
+		},
+		"mixins": [
+			globalMixins,
+		],
+		data() {
+			return {
+				"offersData": {},
+				"responseMessage": "",
+			};
+		},
+		"computed": {
+			...mapGetters([
+				"getToken",
+			]),
+		},
+		async mounted() {
+			await this.fetchData("https://backend.dev.woowbe.com/api/v1/offers/public/");
+		},
+		"methods": {
+			async fetchData(url) {
+				try {
+					const response = await fetch(url, {
+						"headers": {
+							"Authorization": `Bearer ${this.getToken}`,
+						},
+					});
+					if (response.ok) {
+						const data = await response.json();
+						this.offersData = data;
+					} else {
+						throw new Error("Error when obtaining offer data");
+					}
+				} catch (error) {
+					this.responseMessage = error.message;
 				}
-			} catch (error) {
-				this.responseMessage = error.message;
-			}
-		},
-		getPageNumberCurrent(url) {
-			const params = new URLSearchParams(new URL(url).search);
-			const pageNumber = params.get("page");
+			},
+			getPageNumberCurrent(url) {
+				const params = new URLSearchParams(new URL(url).search);
+				const pageNumber = params.get("page");
 
-			return pageNumber ? pageNumber - 1 : "";
+				return pageNumber ? pageNumber - 1 : "";
+			},
 		},
-	},
-};
+	};
 </script>
 
 <style lang="scss" scoped>
-.offers {
-	text-align: left;
+	.offers {
+		text-align: left;
 
-	&__summary {
-		cursor: pointer;
-	}
+		&__summary {
+			cursor: pointer;
+		}
 
-	&__title {
-		margin: 0;
-		display: inline-block;
-	}
+		&__title {
+			display: inline-block;
+			margin: 0;
+		}
 
-	&__image,
-	&__icon {
-		width: 100%;
-		display: flex;
-
-		img {
-			width: 100%;
+		&__image,
+		&__icon {
 			display: flex;
+			width: 100%;
+
+			img {
+				display: flex;
+				width: 100%;
+			}
+		}
+
+		&__image {
+			max-width: 20rem;
+		}
+
+		&__icon {
+			max-width: 3rem;
 		}
 	}
-
-	&__image {
-		max-width: 20rem;
-	}
-
-	&__icon {
-		max-width: 3rem;
-	}
-}
 </style>

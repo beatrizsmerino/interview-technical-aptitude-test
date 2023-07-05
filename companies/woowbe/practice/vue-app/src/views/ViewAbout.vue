@@ -5,17 +5,17 @@
 </template>
 
 <script>
-import PageTitle from "@/components/Page/PageTitle";
+	import PageTitle from "@/components/Page/PageTitle";
 
-export default {
-	name: "AboutView",
-	components: {
-		PageTitle,
-	},
-	data() {
-		return {
-			pageTitle: "About us",
-		};
-	},
-};
+	export default {
+		"name": "AboutView",
+		"components": {
+			PageTitle,
+		},
+		data() {
+			return {
+				"pageTitle": "About us",
+			};
+		},
+	};
 </script>

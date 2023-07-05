@@ -5,7 +5,7 @@ const ESLintPlugin = require("eslint-webpack-plugin");
 const StyleLintPlugin = require("stylelint-webpack-plugin");
 
 module.exports = defineConfig({
-	transpileDependencies: true,
+	"transpileDependencies": true,
 
 	// The base URL your application bundle will be deployed at
 	"publicPath": process.env.NODE_ENV === "production" ? "/vue-app/" : "/",

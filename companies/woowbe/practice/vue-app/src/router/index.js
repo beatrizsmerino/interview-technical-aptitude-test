@@ -9,30 +9,30 @@ Vue.use(VueRouter);
 
 const routes = [
 	{
-		path: "/",
-		name: "home",
-		component: ViewHome,
+		"path": "/",
+		"name": "home",
+		"component": ViewHome,
 	},
 	{
-		path: "/about",
-		name: "about",
-		component: ViewAbout,
+		"path": "/about",
+		"name": "about",
+		"component": ViewAbout,
 	},
 	{
-		path: "/login",
-		name: "login",
-		component: ViewLogin,
+		"path": "/login",
+		"name": "login",
+		"component": ViewLogin,
 	},
 	{
-		path: "/account",
-		name: "account",
-		component: ViewAccount,
+		"path": "/account",
+		"name": "account",
+		"component": ViewAccount,
 	},
 ];
 
 const router = new VueRouter({
-	mode: "history",
-	base: process.env.BASE_URL,
+	"mode": "history",
+	"base": process.env.BASE_URL,
 	routes,
 });
 
