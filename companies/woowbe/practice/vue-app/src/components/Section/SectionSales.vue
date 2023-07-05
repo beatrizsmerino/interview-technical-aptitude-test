@@ -34,7 +34,7 @@
 			<details :open="resultIndex === 0">
 				<summary class="sales__summary">
 					<h3 class="sales__title">
-						#{{ resultIndex + 1 }} {{ resultValue.business.name }}
+						#{{ (resultIndex + 1).toString().padStart(2, "0") }} {{ resultValue.business.name }}
 					</h3>
 				</summary>
 				<ul>
