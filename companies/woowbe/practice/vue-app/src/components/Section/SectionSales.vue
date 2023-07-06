@@ -13,7 +13,7 @@
 					</li>
 					<li>
 						<strong>Current page:</strong>
-						<span>{{ getPageNumberCurrent(salesData.next) }}</span>
+						<span>{{ getResultPage(salesData.next) }}</span>
 					</li>
 					<li v-if="salesData.previous || salesData.next">
 						<strong>Navigation:</strong>
@@ -434,7 +434,7 @@
 					});
 				}
 			},
-			getPageNumberCurrent(url) {
+			getResultPage(url) {
 				try {
 					if (url) {
 						const params = new URLSearchParams(new URL(url).search);
