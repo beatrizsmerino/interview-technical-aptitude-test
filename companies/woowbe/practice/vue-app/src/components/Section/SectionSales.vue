@@ -54,6 +54,16 @@
 									</option>
 								</select>
 							</li>
+							<li>
+								<label for="salesFavoriteSelected">
+									Select favorites:
+								</label>
+								<input
+									id="salesFavoriteSelected"
+									v-model="salesFavoriteSelected"
+									type="checkbox"
+								>
+							</li>
 						</ul>
 					</li>
 				</ul>
@@ -352,7 +362,8 @@
 		data() {
 			return {
 				"salesData": { "results": [] },
-				"salesSectorSelected": 0,
+				"salesSectorSelected": "0",
+				"salesFavoriteSelected": false,
 				"responseMessage": "",
 			};
 		},
@@ -376,9 +387,14 @@
 
 				return [];
 			},
+			// eslint-disable-next-line complexity
 			filteredResults() {
-				if (this.salesSectorSelected && this.salesSectorSelected !== "0") {
+				if (this.salesSectorSelected !== "0" && this.salesFavoriteSelected !== false) {
+					return this.salesData.results.filter(result => result.business.sector.id === this.salesSectorSelected && result.business.is_favorite === this.salesFavoriteSelected);
+				} else if (this.salesSectorSelected !== "0") {
 					return this.salesData.results.filter(result => result.business.sector.id === this.salesSectorSelected);
+				} else if (this.salesFavoriteSelected !== false) {
+					return this.salesData.results.filter(result => result.business.is_favorite === this.salesFavoriteSelected);
 				}
 
 				return this.salesData.results;
@@ -397,7 +413,7 @@
 					});
 					if (response.ok) {
 						const data = await response.json();
-						this.setData(data);
+						await this.setData(data);
 					} else {
 						throw new Error("Error in obtaining sales points");
 					}
@@ -405,12 +421,12 @@
 					this.responseMessage = error.message;
 				}
 			},
-			setData(data) {
-				this.salesData = data;
-				if (data.results.length > 0) {
-					this.salesSectorSelected = 0;
+			async setData(data) {
+				this.salesData = await data;
+				if (this.salesData.length > 0) {
+					this.salesSectorSelected = "0";
 
-					data.results.forEach(item => {
+					this.salesData.forEach(item => {
 						if (!item.business.is_favorite) {
 							// eslint-disable-next-line camelcase
 							item.business.is_favorite = false;

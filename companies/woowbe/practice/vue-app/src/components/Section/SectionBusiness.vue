@@ -54,6 +54,16 @@
 									</option>
 								</select>
 							</li>
+							<li>
+								<label for="businessFavoriteSelected">
+									Select favorites:
+								</label>
+								<input
+									id="businessFavoriteSelected"
+									v-model="businessFavoriteSelected"
+									type="checkbox"
+								>
+							</li>
 						</ul>
 					</li>
 				</ul>
@@ -314,7 +324,8 @@
 		data() {
 			return {
 				"businessData": { "results": [] },
-				"businessSectorSelected": 0,
+				"businessSectorSelected": "0",
+				"businessFavoriteSelected": false,
 				"responseMessage": "",
 			};
 		},
@@ -338,9 +349,14 @@
 
 				return [];
 			},
+			// eslint-disable-next-line complexity
 			filteredResults() {
-				if (this.businessSectorSelected && this.businessSectorSelected !== "0") {
+				if (this.businessSectorSelected !== "0" && this.businessFavoriteSelected !== false) {
+					return this.businessData.results.filter(result => result.sector.id === this.businessSectorSelected && result.is_favorite === this.businessFavoriteSelected);
+				} else if (this.businessSectorSelected !== "0") {
 					return this.businessData.results.filter(result => result.sector.id === this.businessSectorSelected);
+				} else if (this.businessFavoriteSelected !== false) {
+					return this.businessData.results.filter(result => result.is_favorite === this.businessFavoriteSelected);
 				}
 
 				return this.businessData.results;
@@ -360,7 +376,7 @@
 
 					if (response.ok) {
 						const data = await response.json();
-						this.setData(data);
+						await this.setData(data);
 					} else {
 						throw new Error("Error in obtaining business data");
 					}
@@ -368,11 +384,12 @@
 					this.responseMessage = error.message;
 				}
 			},
-			setData(data) {
-				this.businessData = data;
-				if (data.results.length > 0) {
-					this.businessSectorSelected = 0;
-					data.results.forEach(item => {
+			async setData(data) {
+				this.businessData = await data;
+				if (this.businessData.results.length > 0) {
+					this.businessSectorSelected = "0";
+
+					this.businessData.results.forEach(item => {
 						if (!item.is_favorite) {
 							// eslint-disable-next-line camelcase
 							item.is_favorite = false;
