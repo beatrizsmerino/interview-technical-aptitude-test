@@ -76,7 +76,7 @@
 				<details class="business__details">
 					<summary class="business__summary">
 						<h3 class="business__title">
-							<span>#{{ getResultIndex(resultIndex) }}</span>
+							<span>#{{ getResultIndex(resultIndex, businessResultPage) }}</span>
 							<img
 								v-if="isIcon(resultValue.sector.icon)"
 								class="business__icon"
@@ -324,6 +324,7 @@
 		data() {
 			return {
 				"businessData": { "results": [] },
+				"businessResultPage": 1,
 				"businessSectorSelected": "0",
 				"businessFavoriteSelected": false,
 				"responseMessage": "",
@@ -398,23 +399,30 @@
 				}
 			},
 			getResultPage(url) {
+				let pageNumber = 1;
+
 				try {
 					if (url) {
 						const params = new URLSearchParams(new URL(url).search);
-						const pageNumber = params.get("page");
-
-						return pageNumber ? pageNumber - 1 : "";
+						pageNumber = parseInt(params.get("page")) - 1;
+						this.salesResultPage = pageNumber;
 					}
 
-					return "";
+					return pageNumber;
 				} catch (error) {
 					console.error("Invalid URL:", error);
 
-					return "";
+					return pageNumber;
 				}
 			},
-			getResultIndex(index) {
-				return (index + 1).toString().padStart(2, "0");
+			getResultIndex(index, nextPage) {
+				const currentPage = nextPage - 1;
+				const resultsPerPage = 10;
+				const indexCounter = index + 1;
+				const firstPageIndex = currentPage * resultsPerPage;
+				const resultIndex = (firstPageIndex + indexCounter).toString().padStart(2, "0");
+
+				return resultIndex;
 			},
 		},
 	};

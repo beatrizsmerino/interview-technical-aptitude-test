@@ -40,7 +40,7 @@
 				<details :open="resultIndex === 0">
 					<summary class="offers__summary">
 						<h3 class="offers__title">
-							<span>#{{ getResultIndex(resultIndex) }}</span>
+							<span>#{{ getResultIndex(resultIndex, offersResultPage) }}</span>
 							<span>{{ resultValue.name }}</span>
 						</h3>
 					</summary>
@@ -274,6 +274,7 @@
 		data() {
 			return {
 				"offersData": {},
+				"offersResultPage": 1,
 				"responseMessage": "",
 			};
 		},
@@ -307,23 +308,30 @@
 				this.offersData = data;
 			},
 			getResultPage(url) {
+				let pageNumber = 1;
+
 				try {
 					if (url) {
 						const params = new URLSearchParams(new URL(url).search);
-						const pageNumber = params.get("page");
-
-						return pageNumber ? pageNumber - 1 : "";
+						pageNumber = parseInt(params.get("page")) - 1;
+						this.salesResultPage = pageNumber;
 					}
 
-					return "";
+					return pageNumber;
 				} catch (error) {
 					console.error("Invalid URL:", error);
 
-					return "";
+					return pageNumber;
 				}
 			},
-			getResultIndex(index) {
-				return (index + 1).toString().padStart(2, "0");
+			getResultIndex(index, nextPage) {
+				const currentPage = nextPage - 1;
+				const resultsPerPage = 10;
+				const indexCounter = index + 1;
+				const firstPageIndex = currentPage * resultsPerPage;
+				const resultIndex = (firstPageIndex + indexCounter).toString().padStart(2, "0");
+
+				return resultIndex;
 			},
 		},
 	};
