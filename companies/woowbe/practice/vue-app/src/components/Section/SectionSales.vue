@@ -76,7 +76,7 @@
 				<details class="sales__details">
 					<summary class="sales__summary">
 						<h3 class="sales__title">
-							<span>#{{ (resultIndex + 1).toString().padStart(2, "0") }}</span>
+							<span>#{{ getResultIndex(resultIndex) }}</span>
 							<img
 								v-if="isIcon(resultValue.business.sector.icon)"
 								class="sales__icon"
@@ -449,6 +449,9 @@
 
 					return "";
 				}
+			},
+			getResultIndex(index) {
+				return (index + 1).toString().padStart(2, "0");
 			},
 		},
 	};

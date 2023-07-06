@@ -40,7 +40,7 @@
 				<details :open="resultIndex === 0">
 					<summary class="offers__summary">
 						<h3 class="offers__title">
-							<span>#{{ (resultIndex + 1).toString().padStart(2, "0") }}</span>
+							<span>#{{ getResultIndex(resultIndex) }}</span>
 							<span>{{ resultValue.name }}</span>
 						</h3>
 					</summary>
@@ -321,6 +321,9 @@
 
 					return "";
 				}
+			},
+			getResultIndex(index) {
+				return (index + 1).toString().padStart(2, "0");
 			},
 		},
 	};
