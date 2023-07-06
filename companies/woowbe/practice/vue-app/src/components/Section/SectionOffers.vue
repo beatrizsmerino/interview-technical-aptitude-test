@@ -295,13 +295,16 @@
 					});
 					if (response.ok) {
 						const data = await response.json();
-						this.offersData = data;
+						this.setData(data);
 					} else {
 						throw new Error("Error when obtaining offer data");
 					}
 				} catch (error) {
 					this.responseMessage = error.message;
 				}
+			},
+			setData(data) {
+				this.offersData = data;
 			},
 			getPageNumberCurrent(url) {
 				try {

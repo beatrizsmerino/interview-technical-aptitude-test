@@ -352,15 +352,18 @@
 
 					if (response.ok) {
 						const data = await response.json();
-						this.businessData = data;
-						if (data.results.length > 0) {
-							this.businessSectorSelected = 0;
-						}
+						this.setData(data);
 					} else {
 						throw new Error("Error in obtaining business data");
 					}
 				} catch (error) {
 					this.responseMessage = error.message;
+				}
+			},
+			setData(data) {
+				this.businessData = data;
+				if (data.results.length > 0) {
+					this.businessSectorSelected = 0;
 				}
 			},
 			getPageNumberCurrent(url) {

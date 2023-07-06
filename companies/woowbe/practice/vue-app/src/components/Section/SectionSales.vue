@@ -389,15 +389,18 @@
 					});
 					if (response.ok) {
 						const data = await response.json();
-						this.salesData = data;
-						if (data.results.length > 0) {
-							this.salesSectorSelected = 0;
-						}
+						this.setData(data);
 					} else {
 						throw new Error("Error in obtaining sales points");
 					}
 				} catch (error) {
 					this.responseMessage = error.message;
+				}
+			},
+			setData(data) {
+				this.salesData = data;
+				if (data.results.length > 0) {
+					this.salesSectorSelected = 0;
 				}
 			},
 			getPageNumberCurrent(url) {
