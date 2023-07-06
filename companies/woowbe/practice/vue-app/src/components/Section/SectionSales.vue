@@ -42,6 +42,9 @@
 									v-model="salesSectorSelected"
 									name="salesSector"
 								>
+									<option value="0">
+										All sectors
+									</option>
 									<option
 										v-for="sector in getSectorList"
 										:key="sector.id"
@@ -341,7 +344,7 @@
 		data() {
 			return {
 				"salesData": { "results": [] },
-				"salesSectorSelected": null,
+				"salesSectorSelected": 0,
 				"responseMessage": "",
 			};
 		},
@@ -366,7 +369,7 @@
 				return [];
 			},
 			filteredResults() {
-				if (this.salesSectorSelected) {
+				if (this.salesSectorSelected && this.salesSectorSelected !== "0") {
 					return this.salesData.results.filter(result => result.business.sector.id === this.salesSectorSelected);
 				}
 
@@ -388,7 +391,7 @@
 						const data = await response.json();
 						this.salesData = data;
 						if (data.results.length > 0) {
-							this.salesSectorSelected = data.results[0].business.sector.id;
+							this.salesSectorSelected = 0;
 						}
 					} else {
 						throw new Error("Error in obtaining sales points");

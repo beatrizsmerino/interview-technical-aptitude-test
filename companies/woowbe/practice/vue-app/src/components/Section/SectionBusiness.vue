@@ -42,6 +42,9 @@
 									v-model="businessSectorSelected"
 									name="businessSector"
 								>
+									<option value="0">
+										All sectors
+									</option>
 									<option
 										v-for="sector in getSectorList"
 										:key="sector.id"
@@ -303,7 +306,7 @@
 		data() {
 			return {
 				"businessData": { "results": [] },
-				"businessSectorSelected": null,
+				"businessSectorSelected": 0,
 				"responseMessage": "",
 			};
 		},
@@ -328,7 +331,7 @@
 				return [];
 			},
 			filteredResults() {
-				if (this.businessSectorSelected) {
+				if (this.businessSectorSelected && this.businessSectorSelected !== "0") {
 					return this.businessData.results.filter(result => result.sector.id === this.businessSectorSelected);
 				}
 
@@ -351,7 +354,7 @@
 						const data = await response.json();
 						this.businessData = data;
 						if (data.results.length > 0) {
-							this.businessSectorSelected = data.results[0].sector.id;
+							this.businessSectorSelected = 0;
 						}
 					} else {
 						throw new Error("Error in obtaining business data");
