@@ -4,141 +4,298 @@
 
 		<UIMessage :message="responseMessage" />
 
-		<nav>
-			<ul>
-				<li>
-					<strong>Results found:</strong>
-					<span>{{ salesData.count }}</span>
-				</li>
-				<li>
-					<strong>Current page:</strong>
-					<span>{{ getPageNumberCurrent(salesData.next) }}</span>
-				</li>
-				<li v-if="salesData.previous || salesData.next">
-					<strong>Navigation:</strong>
-					<button
-						:disabled="!salesData.previous"
-						@click="fetchData(salesData.previous)"
-					>
-						Prev
-					</button>
-					<button
-						:disabled="!salesData.next"
-						@click="fetchData(salesData.next)"
-					>
-						Next
-					</button>
-				</li>
-				<li>
-					<strong>Filters:</strong>
-					<ul>
-						<li>
-							<label for="salesSector">
-								Select a sector:
-							</label>
-							<select
-								id="salesSector"
-								v-model="salesSectorSelected"
-								name="salesSector"
-							>
-								<option
-									v-for="sector in getSectorList"
-									:key="sector.id"
-									:value="sector.id"
-								>
-									{{ sector.name }}
-								</option>
-							</select>
-						</li>
-					</ul>
-				</li>
-			</ul>
-		</nav>
-
-		<article
-			v-for="(resultValue, resultIndex) in filteredResults"
-			:key="resultIndex"
-		>
-			<details class="sales__details">
-				<summary class="sales__summary">
-					<h3 class="sales__title">
-						<span>#{{ (resultIndex + 1).toString().padStart(2, "0") }}</span>
-						<img
-							v-if="isIcon(resultValue.business.sector.icon)"
-							class="sales__icon"
-							:src="resultValue.business.sector.icon"
-							:alt="resultValue.business.sector.icon"
-						>
-						<span>{{ resultValue.business.name }}</span>
-					</h3>
-				</summary>
+		<template v-if="salesData">
+			<nav>
 				<ul>
-					<li
-						v-for="(propertyValue, propertyName) in resultValue"
-						:key="propertyName"
-					>
-						<template v-if="isEmpty(propertyValue)">
-							<p>
-								<strong>{{ propertyName }}:</strong>
-								<span>---</span>
-							</p>
-						</template>
-						<template v-else>
-							<template v-if="isListArray(propertyValue)">
+					<li>
+						<strong>Results found:</strong>
+						<span>{{ salesData.count }}</span>
+					</li>
+					<li>
+						<strong>Current page:</strong>
+						<span>{{ getPageNumberCurrent(salesData.next) }}</span>
+					</li>
+					<li v-if="salesData.previous || salesData.next">
+						<strong>Navigation:</strong>
+						<button
+							:disabled="!salesData.previous"
+							@click="fetchData(salesData.previous)"
+						>
+							Prev
+						</button>
+						<button
+							:disabled="!salesData.next"
+							@click="fetchData(salesData.next)"
+						>
+							Next
+						</button>
+					</li>
+					<li>
+						<strong>Filters:</strong>
+						<ul>
+							<li>
+								<label for="salesSector">
+									Select a sector:
+								</label>
+								<select
+									id="salesSector"
+									v-model="salesSectorSelected"
+									name="salesSector"
+								>
+									<option
+										v-for="sector in getSectorList"
+										:key="sector.id"
+										:value="sector.id"
+									>
+										{{ sector.name }}
+									</option>
+								</select>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</nav>
+
+			<article
+				v-for="(resultValue, resultIndex) in filteredResults"
+				:key="resultIndex"
+			>
+				<details class="sales__details">
+					<summary class="sales__summary">
+						<h3 class="sales__title">
+							<span>#{{ (resultIndex + 1).toString().padStart(2, "0") }}</span>
+							<img
+								v-if="isIcon(resultValue.business.sector.icon)"
+								class="sales__icon"
+								:src="resultValue.business.sector.icon"
+								:alt="resultValue.business.sector.icon"
+							>
+							<span>{{ resultValue.business.name }}</span>
+						</h3>
+					</summary>
+					<ul>
+						<li
+							v-for="(propertyValue, propertyName) in resultValue"
+							:key="propertyName"
+						>
+							<template v-if="isEmpty(propertyValue)">
 								<p>
 									<strong>{{ propertyName }}:</strong>
-									<span v-if="isEmpty(propertyValue)">
-										---
-									</span>
-									<span
-										v-else-if="isImage(propertyValue)"
-										class="sales__image"
-									>
-										<img
-											:src="propertyValue"
-											:alt="propertyValue"
-										>
-									</span>
-									<span
-										v-else-if="isIcon(propertyValue)"
-										class="sales__icon"
-									>
-										<img
-											:src="propertyValue"
-											:alt="propertyValue"
-										>
-									</span>
-									<span
-										v-else-if="isLink(propertyValue)"
-										class="sales__link"
-									>
-										<a
-											:href="propertyValue"
-											target="_blank"
-											rel="noopener noreferrer"
-										>
-											{{ propertyValue }}
-										</a>
-									</span>
-									<span v-else-if="propertyValue.length > 1">
-										{{ propertyValue.slice(0, -1).join(", ") }}
-										y
-										{{ propertyValue[propertyValue.length - 1] }}
-									</span>
-									<span v-else>
-										{{ propertyValue[0] }}
-									</span>
+									<span>---</span>
 								</p>
 							</template>
-							<template v-else-if="isListObject(propertyValue)">
-								<strong>{{ propertyName }}:</strong>
-								<ul>
-									<li
-										v-for="(dataValue, dataIndex) in propertyValue"
-										:key="dataIndex"
-									>
-										<template v-if="isListObject(dataValue)">
-											<strong>{{ dataIndex }}:</strong>
+							<template v-else>
+								<template v-if="isListArray(propertyValue)">
+									<p>
+										<strong>{{ propertyName }}:</strong>
+										<span v-if="isEmpty(propertyValue)">
+											---
+										</span>
+										<span
+											v-else-if="isImage(propertyValue)"
+											class="sales__image"
+										>
+											<img
+												:src="propertyValue"
+												:alt="propertyValue"
+											>
+										</span>
+										<span
+											v-else-if="isIcon(propertyValue)"
+											class="sales__icon"
+										>
+											<img
+												:src="propertyValue"
+												:alt="propertyValue"
+											>
+										</span>
+										<span
+											v-else-if="isLink(propertyValue)"
+											class="sales__link"
+										>
+											<a
+												:href="propertyValue"
+												target="_blank"
+												rel="noopener noreferrer"
+											>
+												{{ propertyValue }}
+											</a>
+										</span>
+										<span v-else-if="propertyValue.length > 1">
+											{{ propertyValue.slice(0, -1).join(", ") }}
+											y
+											{{ propertyValue[propertyValue.length - 1] }}
+										</span>
+										<span v-else>
+											{{ propertyValue[0] }}
+										</span>
+									</p>
+								</template>
+								<template v-else-if="isListObject(propertyValue)">
+									<strong>{{ propertyName }}:</strong>
+									<ul>
+										<li
+											v-for="(dataValue, dataIndex) in propertyValue"
+											:key="dataIndex"
+										>
+											<template v-if="isListObject(dataValue)">
+												<strong>{{ dataIndex }}:</strong>
+												<ul>
+													<li
+														v-for="(itemObj, indexObj) in dataValue"
+														:key="indexObj"
+													>
+														<p>
+															<strong>{{ indexObj }}:</strong>
+															<span v-if="isEmpty(itemObj)">
+																---
+															</span>
+															<span
+																v-else-if="isImage(itemObj)"
+																class="sales__image"
+															>
+																<img
+																	:src="itemObj"
+																	:alt="itemObj"
+																>
+															</span>
+															<span
+																v-else-if="isIcon(itemObj)"
+																class="sales__icon"
+															>
+																<img
+																	:src="itemObj"
+																	:alt="itemObj"
+																>
+															</span>
+															<span
+																v-else-if="isLink(itemObj)"
+																class="sales__link"
+															>
+																<a
+																	:href="itemObj"
+																	target="_blank"
+																	rel="noopener noreferrer"
+																>
+																	{{ itemObj }}
+																</a>
+															</span>
+															<span v-else>
+																{{ itemObj }}
+															</span>
+														</p>
+													</li>
+												</ul>
+											</template>
+											<template v-else-if="isListArrayObject(dataValue)">
+												<strong>{{ dataIndex }}:</strong>
+												<ul>
+													<li
+														v-for="(itemObj, indexObj) in dataValue"
+														:key="indexObj"
+													>
+														<strong>#{{ indexObj }}:</strong>
+														<ul>
+															<li
+																v-for="(item, index) in itemObj"
+																:key="index"
+															>
+																<p>
+																	<strong>{{ index }}:</strong>
+																	<span v-if="isEmpty(item)">
+																		---
+																	</span>
+																	<span
+																		v-else-if="isImage(item)"
+																		class="sales__image"
+																	>
+																		<img
+																			:src="item"
+																			:alt="item"
+																		>
+																	</span>
+																	<span
+																		v-else-if="isIcon(item)"
+																		class="sales__icon"
+																	>
+																		<img
+																			:src="item"
+																			:alt="item"
+																		>
+																	</span>
+																	<span
+																		v-else-if="isLink(item)"
+																		class="sales__link"
+																	>
+																		<a
+																			:href="item"
+																			target="_blank"
+																			rel="noopener noreferrer"
+																		>
+																			{{ item }}
+																		</a>
+																	</span>
+																	<span v-else>
+																		{{ item }}
+																	</span>
+																</p>
+															</li>
+														</ul>
+													</li>
+												</ul>
+											</template>
+											<template v-else>
+												<p>
+													<strong>{{ dataIndex }}:</strong>
+													<span v-if="isEmpty(dataValue)">
+														---
+													</span>
+													<span
+														v-else-if="isImage(dataValue)"
+														class="sales__image"
+													>
+														<img
+															:src="dataValue"
+															:alt="dataValue"
+														>
+													</span>
+													<span
+														v-else-if="isIcon(dataValue)"
+														class="sales__icon"
+													>
+														<img
+															:src="dataValue"
+															:alt="dataValue"
+														>
+													</span>
+													<span
+														v-else-if="isLink(dataValue)"
+														class="sales__link"
+													>
+														<a
+															:href="dataValue"
+															target="_blank"
+															rel="noopener noreferrer"
+														>
+															{{ dataValue }}
+														</a>
+													</span>
+													<span v-else>
+														{{ dataValue }}
+													</span>
+												</p>
+											</template>
+										</li>
+									</ul>
+								</template>
+								<template v-else-if="isListArrayObject(propertyValue)">
+									<strong>{{ propertyName }}:</strong>
+									<ul>
+										<li
+											v-for="(dataValue, dataIndex) in propertyValue"
+											:key="dataIndex"
+										>
+											<strong>#{{ dataIndex }}:</strong>
 											<ul>
 												<li
 													v-for="(itemObj, indexObj) in dataValue"
@@ -146,180 +303,25 @@
 												>
 													<p>
 														<strong>{{ indexObj }}:</strong>
-														<span v-if="isEmpty(itemObj)">
-															---
-														</span>
-														<span
-															v-else-if="isImage(itemObj)"
-															class="sales__image"
-														>
-															<img
-																:src="itemObj"
-																:alt="itemObj"
-															>
-														</span>
-														<span
-															v-else-if="isIcon(itemObj)"
-															class="sales__icon"
-														>
-															<img
-																:src="itemObj"
-																:alt="itemObj"
-															>
-														</span>
-														<span
-															v-else-if="isLink(itemObj)"
-															class="sales__link"
-														>
-															<a
-																:href="itemObj"
-																target="_blank"
-																rel="noopener noreferrer"
-															>
-																{{ itemObj }}
-															</a>
-														</span>
-														<span v-else>
-															{{ itemObj }}
-														</span>
+														<span>{{ itemObj }}</span>
 													</p>
 												</li>
 											</ul>
-										</template>
-										<template v-else-if="isListArrayObject(dataValue)">
-											<strong>{{ dataIndex }}:</strong>
-											<ul>
-												<li
-													v-for="(itemObj, indexObj) in dataValue"
-													:key="indexObj"
-												>
-													<strong>#{{ indexObj }}:</strong>
-													<ul>
-														<li
-															v-for="(item, index) in itemObj"
-															:key="index"
-														>
-															<p>
-																<strong>{{ index }}:</strong>
-																<span v-if="isEmpty(item)">
-																	---
-																</span>
-																<span
-																	v-else-if="isImage(item)"
-																	class="sales__image"
-																>
-																	<img
-																		:src="item"
-																		:alt="item"
-																	>
-																</span>
-																<span
-																	v-else-if="isIcon(item)"
-																	class="sales__icon"
-																>
-																	<img
-																		:src="item"
-																		:alt="item"
-																	>
-																</span>
-																<span
-																	v-else-if="isLink(item)"
-																	class="sales__link"
-																>
-																	<a
-																		:href="item"
-																		target="_blank"
-																		rel="noopener noreferrer"
-																	>
-																		{{ item }}
-																	</a>
-																</span>
-																<span v-else>
-																	{{ item }}
-																</span>
-															</p>
-														</li>
-													</ul>
-												</li>
-											</ul>
-										</template>
-										<template v-else>
-											<p>
-												<strong>{{ dataIndex }}:</strong>
-												<span v-if="isEmpty(dataValue)">
-													---
-												</span>
-												<span
-													v-else-if="isImage(dataValue)"
-													class="sales__image"
-												>
-													<img
-														:src="dataValue"
-														:alt="dataValue"
-													>
-												</span>
-												<span
-													v-else-if="isIcon(dataValue)"
-													class="sales__icon"
-												>
-													<img
-														:src="dataValue"
-														:alt="dataValue"
-													>
-												</span>
-												<span
-													v-else-if="isLink(dataValue)"
-													class="sales__link"
-												>
-													<a
-														:href="dataValue"
-														target="_blank"
-														rel="noopener noreferrer"
-													>
-														{{ dataValue }}
-													</a>
-												</span>
-												<span v-else>
-													{{ dataValue }}
-												</span>
-											</p>
-										</template>
-									</li>
-								</ul>
+										</li>
+									</ul>
+								</template>
+								<template v-else>
+									<p>
+										<strong>{{ propertyName }}:</strong>
+										<span>{{ propertyValue }}</span>
+									</p>
+								</template>
 							</template>
-							<template v-else-if="isListArrayObject(propertyValue)">
-								<strong>{{ propertyName }}:</strong>
-								<ul>
-									<li
-										v-for="(dataValue, dataIndex) in propertyValue"
-										:key="dataIndex"
-									>
-										<strong>#{{ dataIndex }}:</strong>
-										<ul>
-											<li
-												v-for="(itemObj, indexObj) in dataValue"
-												:key="indexObj"
-											>
-												<p>
-													<strong>{{ indexObj }}:</strong>
-													<span>{{ itemObj }}</span>
-												</p>
-											</li>
-										</ul>
-									</li>
-								</ul>
-							</template>
-							<template v-else>
-								<p>
-									<strong>{{ propertyName }}:</strong>
-									<span>{{ propertyValue }}</span>
-								</p>
-							</template>
-						</template>
-					</li>
-				</ul>
-			</details>
-		</article>
+						</li>
+					</ul>
+				</details>
+			</article>
+		</template>
 	</section>
 </template>
 
