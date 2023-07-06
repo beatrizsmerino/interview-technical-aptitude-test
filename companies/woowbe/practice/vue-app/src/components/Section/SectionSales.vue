@@ -75,6 +75,14 @@
 							>
 							<span>{{ resultValue.business.name }}</span>
 						</h3>
+						<label :for="`salesFavorite-${resultValue.id}`">
+							<input
+								:id="`salesFavorite-${resultValue.id}`"
+								v-model="resultValue.business.is_favorite"
+								type="checkbox"
+							>
+							Favorite
+						</label>
 					</summary>
 					<ul>
 						<li
@@ -401,6 +409,13 @@
 				this.salesData = data;
 				if (data.results.length > 0) {
 					this.salesSectorSelected = 0;
+
+					data.results.forEach(item => {
+						if (!item.business.is_favorite) {
+							// eslint-disable-next-line camelcase
+							item.business.is_favorite = false;
+						}
+					});
 				}
 			},
 			getPageNumberCurrent(url) {
