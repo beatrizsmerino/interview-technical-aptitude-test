@@ -77,23 +77,25 @@
 					<summary class="section__summary">
 						<h3 class="section__title">
 							<span>#{{ getResultIndex(resultIndex, resultPage) }}</span>
-							<template v-if="sectionName == 'sales'">
+							<template v-if="sectionName === 'sales'">
 								<img
-									v-if="isIcon(resultValue.business.sector.icon)"
+									v-if="
+										resultValue && resultValue.business && resultValue.business.sector && isIcon(resultValue.business.sector.icon)
+									"
 									class="section__icon"
 									:src="resultValue.business.sector.icon"
 									:alt="resultValue.business.sector.icon"
 								>
-								<span>{{ resultValue.business.name }}</span>
+								<span>{{ resultValue && resultValue.business && resultValue.business.name }}</span>
 							</template>
 
 							<img
-								v-if="sectionName == 'business' && isIcon(resultValue.sector.icon)"
+								v-if="sectionName === 'business' && resultValue && resultValue.sector && isIcon(resultValue.sector.icon)"
 								class="section__icon"
 								:src="resultValue.sector.icon"
 								:alt="resultValue.sector.icon"
 							>
-							<span>{{ resultValue.name }}</span>
+							<span>{{ resultValue && resultValue.name }}</span>
 						</h3>
 						<template v-if="sectionName === 'business' || sectionName === 'sales'">
 							<label :for="`${sectionName}Favorite-${resultValue.id}`">
@@ -479,7 +481,7 @@
 						sectorAll = this.resultData.results.map(item => item.sector);
 					}
 					const sectorNonDuplicated = Object.values(sectorAll.reduce((uniqueSectors, sector) => {
-						if (!uniqueSectors[sector.name]) {
+						if (sector && sector.name && !uniqueSectors[sector.name]) {
 							uniqueSectors[sector.name] = sector;
 						}
 
