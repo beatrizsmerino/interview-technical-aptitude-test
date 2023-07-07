@@ -97,11 +97,21 @@
 							>
 							<span>{{ resultValue && resultValue.name }}</span>
 						</h3>
-						<template v-if="sectionName === 'business' || sectionName === 'sales'">
+						<template v-if="sectionName === 'business'">
 							<label :for="`${sectionName}Favorite-${resultValue.id}`">
 								<input
 									:id="`${sectionName}Favorite-${resultValue.id}`"
 									v-model="resultValue.is_favorite"
+									type="checkbox"
+								>
+								Favorite
+							</label>
+						</template>
+						<template v-if="sectionName === 'sales'">
+							<label :for="`${sectionName}Favorite-${resultValue.id}`">
+								<input
+									:id="`${sectionName}Favorite-${resultValue.id}`"
+									v-model="resultValue.business.is_favorite"
 									type="checkbox"
 								>
 								Favorite
@@ -474,26 +484,42 @@
 			...mapGetters([
 				"getToken",
 			]),
+			// eslint-disable-next-line complexity, max-statements
 			getSectorList() {
 				if (this.resultData.results && Array.isArray(this.resultData.results)) {
 					let sectorAll = [];
+					let sectorNonDuplicated = [];
+
 					if (this.sectionName === "business") {
 						sectorAll = this.resultData.results.map(item => item.sector);
-					}
-					const sectorNonDuplicated = Object.values(sectorAll.reduce((uniqueSectors, sector) => {
-						if (sector && sector.name && !uniqueSectors[sector.name]) {
-							uniqueSectors[sector.name] = sector;
-						}
+						sectorNonDuplicated = Object.values(sectorAll.reduce((uniqueSectors, sector) => {
+							if (!uniqueSectors[sector.name]) {
+								uniqueSectors[sector.name] = sector;
+							}
 
-						return uniqueSectors;
-					}, {}));
+							return uniqueSectors;
+						}, {}));
+					}
+
+					if (this.sectionName === "sales") {
+						sectorAll = this.resultData.results.map(item => item.business.sector);
+						sectorNonDuplicated = Object.values(sectorAll.reduce((uniqueSectors, sector) => {
+							if (!uniqueSectors[sector.name]) {
+								uniqueSectors[sector.name] = sector;
+							}
+
+							return uniqueSectors;
+							// eslint-disable-next-line max-lines
+						}, {}));
+						// eslint-disable-next-line max-lines
+					}
 
 					return sectorNonDuplicated;
 				}
 
 				return [];
 			},
-			// eslint-disable-next-line complexity
+			// eslint-disable-next-line complexity, max-statements
 			filteredResults() {
 				if (this.sectionName === "business") {
 					if (this.sectorSelected !== "0" && this.favoriteSelected !== false) {
@@ -505,13 +531,22 @@
 					}
 				}
 
+				if (this.sectionName === "sales") {
+					if (this.sectorSelected !== "0" && this.favoriteSelected !== false) {
+						return this.resultData.results.filter(result => result.business.sector.id === this.sectorSelected && result.business.is_favorite === this.favoriteSelected);
+					} else if (this.sectorSelected !== "0") {
+						return this.resultData.results.filter(result => result.business.sector.id === this.sectorSelected);
+					} else if (this.favoriteSelected !== false) {
+						return this.resultData.results.filter(result => result.business.is_favorite === this.favoriteSelected);
+					}
+				}
+
 				return this.resultData.results;
 			},
 		},
 		async mounted() {
 			await this.fetchData(this.urlData);
 		},
-		// eslint-disable-next-line max-lines
 		"methods": {
 			async fetchData(url) {
 				try {
@@ -536,11 +571,18 @@
 				if (this.resultData.results.length > 0) {
 					this.sectorSelected = "0";
 
+					// eslint-disable-next-line complexity
 					this.resultData.results.forEach(item => {
 						if (this.sectionName === "business") {
 							if (!item.is_favorite) {
 								// eslint-disable-next-line camelcase
 								item.is_favorite = false;
+							}
+						}
+						if (this.sectionName === "sales") {
+							if (!item.business.is_favorite) {
+								// eslint-disable-next-line camelcase
+								item.business.is_favorite = false;
 							}
 						}
 					});
