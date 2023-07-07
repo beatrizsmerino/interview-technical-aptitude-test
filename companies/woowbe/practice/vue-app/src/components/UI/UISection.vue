@@ -13,18 +13,18 @@
 					</li>
 					<li>
 						<strong>Current page:</strong>
-						<span>{{ getResultPage(resultData.next) }}</span>
+						<span>{{ resultPage.current }}</span>
 					</li>
 					<li v-if="resultData.previous || resultData.next">
 						<strong>Navigation:</strong>
 						<button
-							:disabled="!resultData.previous"
+							:disabled="!resultPage.prev"
 							@click="fetchData(resultData.previous)"
 						>
 							Prev
 						</button>
 						<button
-							:disabled="!resultData.next"
+							:disabled="!resultPage.next"
 							@click="fetchData(resultData.next)"
 						>
 							Next
@@ -474,7 +474,12 @@
 		data() {
 			return {
 				"resultData": { "results": [] },
-				"resultPage": 1,
+				"resultPage": {
+					"total": null,
+					"prev": null,
+					"current": null,
+					"next": null,
+				},
 				"sectorSelected": "0",
 				"favoriteSelected": false,
 				"responseMessage": "",
@@ -488,6 +493,7 @@
 			getSectorList() {
 				if (this.resultData.results && Array.isArray(this.resultData.results)) {
 					if (this.sectionName === "business") {
+						// eslint-disable-next-line max-lines
 						return this.getSectorListBusiness(this.resultData.results);
 					} else if (this.sectionName === "sales") {
 						return this.getSectorListSales(this.resultData.results);
@@ -508,7 +514,6 @@
 				return this.resultData.results;
 			},
 		},
-		// eslint-disable-next-line max-lines
 		async mounted() {
 			await this.fetchData(this.urlData);
 		},
@@ -533,6 +538,8 @@
 			},
 			async setData(data) {
 				this.resultData = await data;
+				await this.setResultPage(this.resultData);
+
 				const results = this.resultData.results;
 				if (results.length > 0) {
 					this.sectorSelected = "0";
@@ -607,25 +614,38 @@
 
 				return results;
 			},
-			getResultPage(url) {
-				let pageNumber = 1;
+			// eslint-disable-next-line complexity, max-statements
+			async setResultPage(data) {
+				const resultsPerPage = 10;
+				const urlPrevPage = await data.previous;
+				const urlNextPage = await data.next;
 
-				try {
-					if (url) {
-						const params = new URLSearchParams(new URL(url).search);
-						pageNumber = parseInt(params.get("page")) - 1;
-						this.resultPage = pageNumber;
-					}
+				this.resultPage.current = 1;
+				this.resultPage.next = 2;
+				this.resultPage.total = await Math.round(parseInt(data.count) / resultsPerPage);
 
-					return pageNumber;
-				} catch (error) {
-					console.error("Invalid URL:", error);
+				if (urlPrevPage === null) {
+					this.resultPage.prev = null;
+				} else {
+					const numPrevPage = new URL(urlPrevPage).searchParams.get("page");
+					this.resultPage.prev = numPrevPage ? numPrevPage : 1;
+				}
 
-					return pageNumber;
+				if (urlNextPage === null) {
+					this.resultPage.next = null;
+				} else {
+					const numNextPage = new URL(urlNextPage).searchParams.get("page");
+					this.resultPage.next = numNextPage ? numNextPage : this.resultPage.total;
+				}
+
+				if (this.resultPage.prev === null) {
+					this.resultPage.current = 1;
+				} else {
+					this.resultPage.current = parseInt(this.resultPage.prev) + 1;
 				}
 			},
-			getResultIndex(index, nextPage) {
-				const currentPage = nextPage - 1;
+			getResultIndex(index, page) {
+				const currentPage = page.current - 1;
 				const resultsPerPage = 10;
 				const indexCounter = index + 1;
 				const firstPageIndex = currentPage * resultsPerPage;
