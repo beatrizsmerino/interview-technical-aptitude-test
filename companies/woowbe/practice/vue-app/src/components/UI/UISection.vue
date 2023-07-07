@@ -561,13 +561,15 @@
 				});
 			},
 			getSectorListBusiness(results) {
-				const sectorAll = results.map(item => item.sector);
+				const sectorAll = results.filter(item => item.sector?.id && item.sector?.name).map(item => item.sector);
+
 				const sectorNonDuplicated = this.getUniqueSectors(sectorAll) || [];
 
 				return sectorNonDuplicated;
 			},
 			getSectorListSales(results) {
-				const sectorAll = results.map(item => item.business.sector);
+				const sectorAll = results.filter(item => item.business.sector?.id && item.business.sector?.name).map(item => item.business.sector);
+
 				const sectorNonDuplicated = this.getUniqueSectors(sectorAll) || [];
 
 				return sectorNonDuplicated;
