@@ -484,66 +484,31 @@
 			...mapGetters([
 				"getToken",
 			]),
-			// eslint-disable-next-line complexity, max-statements
+			// eslint-disable-next-line complexity
 			getSectorList() {
 				if (this.resultData.results && Array.isArray(this.resultData.results)) {
-					let sectorAll = [];
-					let sectorNonDuplicated = [];
-
 					if (this.sectionName === "business") {
-						sectorAll = this.resultData.results.map(item => item.sector);
-						sectorNonDuplicated = Object.values(sectorAll.reduce((uniqueSectors, sector) => {
-							if (!uniqueSectors[sector.name]) {
-								uniqueSectors[sector.name] = sector;
-							}
-
-							return uniqueSectors;
-						}, {}));
+						return this.getSectorListBusiness(this.resultData.results);
+					} else if (this.sectionName === "sales") {
+						return this.getSectorListSales(this.resultData.results);
 					}
-
-					if (this.sectionName === "sales") {
-						sectorAll = this.resultData.results.map(item => item.business.sector);
-						sectorNonDuplicated = Object.values(sectorAll.reduce((uniqueSectors, sector) => {
-							if (!uniqueSectors[sector.name]) {
-								uniqueSectors[sector.name] = sector;
-							}
-
-							return uniqueSectors;
-							// eslint-disable-next-line max-lines
-						}, {}));
-						// eslint-disable-next-line max-lines
-					}
-
-					return sectorNonDuplicated;
 				}
 
 				return [];
 			},
-			// eslint-disable-next-line complexity, max-statements
 			filteredResults() {
 				if (this.sectionName === "business") {
-					if (this.sectorSelected !== "0" && this.favoriteSelected !== false) {
-						return this.resultData.results.filter(result => result.sector.id === this.sectorSelected && result.is_favorite === this.favoriteSelected);
-					} else if (this.sectorSelected !== "0") {
-						return this.resultData.results.filter(result => result.sector.id === this.sectorSelected);
-					} else if (this.favoriteSelected !== false) {
-						return this.resultData.results.filter(result => result.is_favorite === this.favoriteSelected);
-					}
+					return this.filterResultsBusiness(this.resultData.results);
 				}
 
 				if (this.sectionName === "sales") {
-					if (this.sectorSelected !== "0" && this.favoriteSelected !== false) {
-						return this.resultData.results.filter(result => result.business.sector.id === this.sectorSelected && result.business.is_favorite === this.favoriteSelected);
-					} else if (this.sectorSelected !== "0") {
-						return this.resultData.results.filter(result => result.business.sector.id === this.sectorSelected);
-					} else if (this.favoriteSelected !== false) {
-						return this.resultData.results.filter(result => result.business.is_favorite === this.favoriteSelected);
-					}
+					return this.filterResultsSales(this.resultData.results);
 				}
 
 				return this.resultData.results;
 			},
 		},
+		// eslint-disable-next-line max-lines
 		async mounted() {
 			await this.fetchData(this.urlData);
 		},
@@ -568,25 +533,77 @@
 			},
 			async setData(data) {
 				this.resultData = await data;
-				if (this.resultData.results.length > 0) {
+				const results = this.resultData.results;
+				if (results.length > 0) {
 					this.sectorSelected = "0";
 
-					// eslint-disable-next-line complexity
-					this.resultData.results.forEach(item => {
-						if (this.sectionName === "business") {
-							if (!item.is_favorite) {
-								// eslint-disable-next-line camelcase
-								item.is_favorite = false;
-							}
-						}
-						if (this.sectionName === "sales") {
-							if (!item.business.is_favorite) {
-								// eslint-disable-next-line camelcase
-								item.business.is_favorite = false;
-							}
-						}
-					});
+					if (this.sectionName === "business") {
+						this.setBusinessFavorite(results);
+					} else if (this.sectionName === "sales") {
+						this.setSalesFavorite(results);
+					}
 				}
+			},
+			setBusinessFavorite(results) {
+				results.forEach(item => {
+					if (!item.is_favorite) {
+						// eslint-disable-next-line camelcase
+						item.is_favorite = false;
+					}
+				});
+			},
+			setSalesFavorite(results) {
+				results.forEach(item => {
+					if (!item.business.is_favorite) {
+						// eslint-disable-next-line camelcase
+						item.business.is_favorite = false;
+					}
+				});
+			},
+			getSectorListBusiness(results) {
+				const sectorAll = results.map(item => item.sector);
+				const sectorNonDuplicated = this.getUniqueSectors(sectorAll) || [];
+
+				return sectorNonDuplicated;
+			},
+			getSectorListSales(results) {
+				const sectorAll = results.map(item => item.business.sector);
+				const sectorNonDuplicated = this.getUniqueSectors(sectorAll) || [];
+
+				return sectorNonDuplicated;
+			},
+			getUniqueSectors(sectors) {
+				return Object.values(sectors.reduce((uniqueSectors, sector) => {
+					if (!uniqueSectors[sector.name]) {
+						uniqueSectors[sector.name] = sector;
+					}
+
+					return uniqueSectors;
+				}, {}));
+			},
+			// eslint-disable-next-line complexity
+			filterResultsBusiness(results) {
+				if (this.sectorSelected !== "0" && this.favoriteSelected !== false) {
+					return results.filter(result => result.sector.id === this.sectorSelected && result.is_favorite === this.favoriteSelected);
+				} else if (this.sectorSelected !== "0") {
+					return results.filter(result => result.sector.id === this.sectorSelected);
+				} else if (this.favoriteSelected !== false) {
+					return results.filter(result => result.is_favorite === this.favoriteSelected);
+				}
+
+				return results;
+			},
+			// eslint-disable-next-line complexity
+			filterResultsSales(results) {
+				if (this.sectorSelected !== "0" && this.favoriteSelected !== false) {
+					return results.filter(result => result.business.sector.id === this.sectorSelected && result.business.is_favorite === this.favoriteSelected);
+				} else if (this.sectorSelected !== "0") {
+					return results.filter(result => result.business.sector.id === this.sectorSelected);
+				} else if (this.favoriteSelected !== false) {
+					return results.filter(result => result.business.is_favorite === this.favoriteSelected);
+				}
+
+				return results;
 			},
 			getResultPage(url) {
 				let pageNumber = 1;
