@@ -530,7 +530,7 @@
 						const data = await response.json();
 						await this.setData(data);
 					} else {
-						throw new Error(`Error in obtaining ${this.sectionTitle.toLowercase()} data`);
+						throw new Error(`Error in obtaining ${this.sectionTitle.toLowerCase()} data`);
 					}
 				} catch (error) {
 					this.responseMessage = error.message;
