@@ -713,7 +713,7 @@
 		}
 
 		&__image {
-			max-width: 20rem;
+			max-width: 15rem;
 		}
 
 		&__icon {
