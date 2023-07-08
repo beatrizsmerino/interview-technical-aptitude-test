@@ -12,7 +12,7 @@
 					:name="`${sectionName}Sector`"
 					@change="$emit('update:sector-selected', sectorSelectedSaved)"
 				>
-					<option value="0">
+					<option :value="0">
 						All sectors
 					</option>
 					<option
@@ -52,7 +52,7 @@
 				"required": true,
 			},
 			"sectorSelected": {
-				"type": String,
+				"type": Number,
 				"required": true,
 			},
 			"favoriteSelected": {

@@ -92,7 +92,7 @@
 					"current": null,
 					"next": null,
 				},
-				"sectorSelected": "0",
+				"sectorSelected": 0,
 				"favoriteSelected": false,
 				"responseMessage": "",
 			};
@@ -149,7 +149,7 @@
 
 				const results = this.resultData.results;
 				if (results.length > 0) {
-					this.sectorSelected = "0";
+					this.sectorSelected = 0;
 
 					if (this.sectionName === "business") {
 						this.setBusinessFavorite(results);
@@ -188,23 +188,23 @@
 				});
 			},
 			filterResultsBusiness(results) {
-				if (this.sectorSelected !== "0" && this.favoriteSelected !== false) {
-					return results.filter(result => result.sector.id === this.sectorSelected && result.is_favorite === this.favoriteSelected);
-				} else if (this.sectorSelected !== "0") {
-					return results.filter(result => result.sector.id === this.sectorSelected);
+				if (this.sectorSelected !== 0 && this.favoriteSelected !== false) {
+					return results.filter(result => result?.sector?.id === this.sectorSelected && result?.is_favorite === this.favoriteSelected);
+				} else if (this.sectorSelected !== 0) {
+					return results.filter(result => result?.sector?.id === this.sectorSelected);
 				} else if (this.favoriteSelected !== false) {
-					return results.filter(result => result.is_favorite === this.favoriteSelected);
+					return results.filter(result => result?.is_favorite === this.favoriteSelected);
 				}
 
 				return results;
 			},
 			filterResultsSales(results) {
-				if (this.sectorSelected !== "0" && this.favoriteSelected !== false) {
-					return results.filter(result => result.business.sector.id === this.sectorSelected && result.business.is_favorite === this.favoriteSelected);
-				} else if (this.sectorSelected !== "0") {
-					return results.filter(result => result.business.sector.id === this.sectorSelected);
+				if (this.sectorSelected !== 0 && this.favoriteSelected !== false) {
+					return results.filter(result => result.business?.sector?.id === this.sectorSelected && result.business?.is_favorite === this.favoriteSelected);
+				} else if (this.sectorSelected !== 0) {
+					return results.filter(result => result.business?.sector?.id === this.sectorSelected);
 				} else if (this.favoriteSelected !== false) {
-					return results.filter(result => result.business.is_favorite === this.favoriteSelected);
+					return results.filter(result => result.business?.is_favorite === this.favoriteSelected);
 				}
 
 				return results;
