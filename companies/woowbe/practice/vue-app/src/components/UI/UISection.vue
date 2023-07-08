@@ -719,5 +719,9 @@
 		&__icon {
 			max-width: 3rem;
 		}
+
+		p {
+			margin: 0;
+		}
 	}
 </style>
