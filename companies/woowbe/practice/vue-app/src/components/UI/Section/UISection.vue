@@ -158,6 +158,19 @@
 					}
 				}
 			},
+			async setResultPage(data) {
+				const resultsPerPage = 10;
+				const urlPrevPage = await data.previous;
+				const urlNextPage = await data.next;
+				const count = parseInt(data.count);
+
+				this.resultPage.current = 1;
+				this.resultPage.next = 2;
+				this.resultPage.total = Math.round(count / resultsPerPage);
+				this.resultPage.prev = urlPrevPage ? new URL(urlPrevPage).searchParams.get("page") || 1 : null;
+				this.resultPage.next = urlNextPage ? new URL(urlNextPage).searchParams.get("page") || this.resultPage.total : null;
+				this.resultPage.current = this.resultPage.prev ? parseInt(this.resultPage.prev) + 1 : 1;
+			},
 			setBusinessFavorite(results) {
 				results.forEach(item => {
 					if (!item.is_favorite) {
@@ -195,19 +208,6 @@
 				}
 
 				return results;
-			},
-			async setResultPage(data) {
-				const resultsPerPage = 10;
-				const urlPrevPage = await data.previous;
-				const urlNextPage = await data.next;
-				const count = parseInt(data.count);
-
-				this.resultPage.current = 1;
-				this.resultPage.next = 2;
-				this.resultPage.total = Math.round(count / resultsPerPage);
-				this.resultPage.prev = urlPrevPage ? new URL(urlPrevPage).searchParams.get("page") || 1 : null;
-				this.resultPage.next = urlNextPage ? new URL(urlNextPage).searchParams.get("page") || this.resultPage.total : null;
-				this.resultPage.current = this.resultPage.prev ? parseInt(this.resultPage.prev) + 1 : 1;
 			},
 		},
 	};
