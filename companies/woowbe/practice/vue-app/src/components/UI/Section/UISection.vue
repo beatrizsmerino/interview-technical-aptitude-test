@@ -15,19 +15,11 @@
 						<UISectionPagination :result-page="resultPage" />
 					</li>
 					<li v-if="resultData.previous || resultData.next">
-						<strong>Navigation:</strong>
-						<button
-							:disabled="!resultPage.prev"
-							@click="fetchData(resultData.previous)"
-						>
-							Prev
-						</button>
-						<button
-							:disabled="!resultPage.next"
-							@click="fetchData(resultData.next)"
-						>
-							Next
-						</button>
+						<UISectionNavigation
+							:result-data="resultData"
+							:result-page="resultPage"
+							@fetch-data="fetchData"
+						/>
 					</li>
 					<li v-if="isFiltered">
 						<strong>Filters:</strong>
@@ -85,6 +77,7 @@
 	import UIMessage from "@/components/UI/UIMessage.vue";
 	import UISectionArticle from "@/components/UI/Section/UISectionArticle";
 	import UISectionPagination from "@/components/UI/Section/UISectionPagination";
+	import UISectionNavigation from "@/components/UI/Section/UISectionNavigation";
 
 	export default {
 		"name": "UISection",
@@ -92,6 +85,7 @@
 			UIMessage,
 			UISectionArticle,
 			UISectionPagination,
+			UISectionNavigation,
 		},
 		"props": {
 			"sectionName": {
