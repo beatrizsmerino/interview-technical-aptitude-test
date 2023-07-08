@@ -7,10 +7,24 @@
 		}"
 	>
 		<strong v-if="propertyParagraph">
-			{{ propertyKey }}:
+			{{ propertyName }}:
 		</strong>
 		<template v-if="isEmpty(propertyValue)">
-			<span>---</span>
+			<img
+				v-if="propertyIndex === 'square_picture' || propertyIndex === 'widescreen_picture' || propertyIndex === 'cover'"
+				:src="getImageDefault"
+				class="section__image"
+				alt="Image not found"
+			>
+			<img
+				v-else-if="propertyIndex === 'icon'"
+				class="section__icon"
+				:src="getIconDefault"
+				alt="Icon not found"
+			>
+			<span v-else>
+				---
+			</span>
 		</template>
 		<template v-else-if="isListArray(propertyValue)">
 			<span v-if="propertyValue.length > 1">
@@ -58,12 +72,14 @@
 			</span>
 		</template>
 		<strong v-if="!propertyParagraph">
-			{{ propertyKey }}:
+			{{ propertyName }}:
 		</strong>
 	</component>
 </template>
 
 <script>
+	import iconDefault from "@/assets/icons/icon-default.svg";
+	import imageDefault from "@/assets/images/image-default.jpg";
 	import globalMixins from "@/plugins/global-mixins.js";
 
 	export default {
@@ -76,7 +92,13 @@
 				"type": Boolean,
 				"default": true,
 			},
-			"propertyKey": {
+			"propertyIndex": {
+				"type": String,
+				default() {
+					return this.propertyName;
+				},
+			},
+			"propertyName": {
 				"type": String,
 				"required": true,
 			},
@@ -99,6 +121,12 @@
 				}
 
 				return "div";
+			},
+			getIconDefault() {
+				return iconDefault;
+			},
+			getImageDefault() {
+				return imageDefault;
 			},
 		},
 	};

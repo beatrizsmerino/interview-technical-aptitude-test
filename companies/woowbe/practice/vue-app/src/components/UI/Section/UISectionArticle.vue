@@ -7,14 +7,16 @@
 					<template v-if="sectionName === 'sales'">
 						<UISectionProperty
 							:property-paragraph="false"
-							:property-key="resultValueSaved?.business?.sector?.name"
+							property-index="icon"
+							:property-name="resultValueSaved?.business?.sector?.name"
 							:property-value="resultValueSaved?.business?.sector?.icon"
 						/>
 					</template>
 					<template v-if="sectionName === 'business'">
 						<UISectionProperty
 							:property-paragraph="false"
-							:property-key="resultValueSaved?.name"
+							property-index="icon"
+							:property-name="resultValueSaved?.name"
 							:property-value="resultValueSaved?.sector?.icon"
 						/>
 					</template>
@@ -59,7 +61,7 @@
 							<p>
 								<strong>{{ propertyName }}:</strong>
 								<UISectionProperty
-									:property-key="propertyName"
+									:property-name="propertyName"
 									:property-value="propertyValue"
 								/>
 							</p>
@@ -79,7 +81,7 @@
 												:key="indexObj"
 											>
 												<UISectionProperty
-													:property-key="indexObj"
+													:property-name="indexObj"
 													:property-value="itemObj"
 												/>
 											</li>
@@ -99,7 +101,7 @@
 														:key="index"
 													>
 														<UISectionProperty
-															:property-key="index"
+															:property-name="index"
 															:property-value="item"
 														/>
 													</li>
@@ -109,7 +111,7 @@
 									</template>
 									<template v-else>
 										<UISectionProperty
-											:property-key="dataIndex"
+											:property-name="dataIndex"
 											:property-value="dataValue"
 										/>
 									</template>
@@ -130,7 +132,7 @@
 											:key="indexObj"
 										>
 											<UISectionProperty
-												:property-key="indexObj"
+												:property-name="indexObj"
 												:property-value="itemObj"
 											/>
 										</li>
@@ -140,7 +142,7 @@
 						</template>
 						<template v-else>
 							<UISectionProperty
-								:property-key="propertyName"
+								:property-name="propertyName"
 								:property-value="propertyValue"
 							/>
 						</template>
