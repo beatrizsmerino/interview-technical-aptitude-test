@@ -87,6 +87,11 @@
 				return [];
 			},
 		},
+		"watch": {
+			sectorSelected(newSectorSelected) {
+				this.sectorSelectedSaved = newSectorSelected;
+			},
+		},
 		"methods": {
 			getSectorListBusiness(results) {
 				const sectorAll = results.filter(item => item.sector?.id && item.sector?.name).map(item => item.sector);
