@@ -22,40 +22,16 @@
 						/>
 					</li>
 					<li v-if="isFiltered">
-						<strong>Filters:</strong>
-						<ul>
-							<li>
-								<label :for="`${sectionName}Sector`">
-									<strong>Select a sector:</strong>
-								</label>
-								<select
-									:id="`${sectionName}Sector`"
-									v-model="sectorSelected"
-									:name="`${sectionName}Sector`"
-								>
-									<option value="0">
-										All sectors
-									</option>
-									<option
-										v-for="sector in getSectorList"
-										:key="sector.id"
-										:value="sector.id"
-									>
-										{{ sector.name }}
-									</option>
-								</select>
-							</li>
-							<li>
-								<label :for="`${sectionName}Favorite`">
-									<strong>Select favorites:</strong>
-								</label>
-								<input
-									:id="`${sectionName}Favorite`"
-									v-model="favoriteSelected"
-									type="checkbox"
-								>
-							</li>
-						</ul>
+						<UISectionFilter
+							:section-name="sectionName"
+							:is-filtered="isFiltered"
+							:sector-selected="sectorSelected"
+							:favorite-selected="favoriteSelected"
+							:result-data="resultData"
+							:result-page="resultPage"
+							@update:sector-selected="sectorSelected = $event"
+							@update:favorite-selected="favoriteSelected = $event"
+						/>
 					</li>
 				</ul>
 			</nav>
@@ -78,6 +54,7 @@
 	import UISectionArticle from "@/components/UI/Section/UISectionArticle";
 	import UISectionPagination from "@/components/UI/Section/UISectionPagination";
 	import UISectionNavigation from "@/components/UI/Section/UISectionNavigation";
+	import UISectionFilter from "@/components/UI/Section/UISectionFilter";
 
 	export default {
 		"name": "UISection",
@@ -86,6 +63,7 @@
 			UISectionArticle,
 			UISectionPagination,
 			UISectionNavigation,
+			UISectionFilter,
 		},
 		"props": {
 			"sectionName": {
@@ -123,19 +101,6 @@
 			...mapGetters([
 				"getToken",
 			]),
-			// eslint-disable-next-line complexity
-			getSectorList() {
-				if (this.resultData.results && Array.isArray(this.resultData.results)) {
-					if (this.sectionName === "business") {
-						// eslint-disable-next-line max-lines
-						return this.getSectorListBusiness(this.resultData.results);
-					} else if (this.sectionName === "sales") {
-						return this.getSectorListSales(this.resultData.results);
-					}
-				}
-
-				return [];
-			},
 			filteredResults() {
 				if (this.sectionName === "business") {
 					return this.filterResultsBusiness(this.resultData.results);
@@ -146,6 +111,14 @@
 				}
 
 				return this.resultData.results;
+			},
+		},
+		"watch": {
+			sectorSelected(newSectorSelected) {
+				this.sectorSelected = newSectorSelected;
+			},
+			favoriteSelected(newFavoriteSelected) {
+				this.favoriteSelected = newFavoriteSelected;
 			},
 		},
 		async mounted() {
@@ -200,29 +173,6 @@
 						item.business.is_favorite = false;
 					}
 				});
-			},
-			getSectorListBusiness(results) {
-				const sectorAll = results.filter(item => item.sector?.id && item.sector?.name).map(item => item.sector);
-
-				const sectorNonDuplicated = this.getUniqueSectors(sectorAll) || [];
-
-				return sectorNonDuplicated;
-			},
-			getSectorListSales(results) {
-				const sectorAll = results.filter(item => item.business.sector?.id && item.business.sector?.name).map(item => item.business.sector);
-
-				const sectorNonDuplicated = this.getUniqueSectors(sectorAll) || [];
-
-				return sectorNonDuplicated;
-			},
-			getUniqueSectors(sectors) {
-				return Object.values(sectors.reduce((uniqueSectors, sector) => {
-					if (!uniqueSectors[sector.name]) {
-						uniqueSectors[sector.name] = sector;
-					}
-
-					return uniqueSectors;
-				}, {}));
 			},
 			// eslint-disable-next-line complexity
 			filterResultsBusiness(results) {
