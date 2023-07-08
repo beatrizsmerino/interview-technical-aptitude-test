@@ -4,28 +4,30 @@
 			<summary class="section__summary">
 				<h3 class="section__title">
 					<span>#{{ getResultIndex(resultIndex, resultPage) }}</span>
-					<template v-if="sectionName === 'sales'">
+					<template v-if="sectionName === 'sales' && resultValueSaved?.business?.sector">
 						<img
-							v-if="
-								resultValueSaved &&
-									resultValueSaved.business &&
-									resultValueSaved.business.sector &&
-									isIcon(resultValueSaved.business.sector.icon)
-							"
+							v-if="isIcon(resultValueSaved.business.sector.icon)"
 							class="section__icon"
 							:src="resultValueSaved.business.sector.icon"
 							:alt="resultValueSaved.business.sector.icon"
 						>
-						<span>{{ resultValueSaved && resultValueSaved.business && resultValueSaved.business.name }}</span>
+						<span>{{ resultValueSaved?.business?.name }}</span>
 					</template>
 
-					<img
-						v-if="sectionName === 'business' && resultValueSaved && resultValueSaved.sector && isIcon(resultValueSaved.sector.icon)"
-						class="section__icon"
-						:src="resultValueSaved.sector.icon"
-						:alt="resultValueSaved.sector.icon"
-					>
-					<span>{{ resultValueSaved && resultValueSaved.name }}</span>
+					<template v-if="sectionName === 'business' && resultValueSaved?.sector">
+						<img
+							v-if="isIcon(resultValueSaved.sector.icon)"
+							class="section__icon"
+							:src="resultValueSaved.sector.icon"
+							:alt="resultValueSaved.sector.icon"
+						>
+						<span>
+							{{ resultValueSaved?.name }}
+						</span>
+					</template>
+					<span v-else>
+						{{ resultValueSaved?.name }}
+					</span>
 				</h3>
 				<template v-if="sectionName === 'business'">
 					<label :for="`${sectionName}Favorite-${resultValueSaved.id}`">
