@@ -8,7 +8,7 @@
 </template>
 
 <script>
-	import UISection from "@/components/UI/UISection";
+	import UISection from "@/components/UI/Section/UISection";
 	export default {
 		"name": "SectionOffers",
 		"components": {
