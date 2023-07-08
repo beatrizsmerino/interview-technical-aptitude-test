@@ -473,7 +473,7 @@
 		},
 		data() {
 			return {
-				"resultData": { "results": [] },
+				"resultData": null,
 				"resultPage": {
 					"total": null,
 					"prev": null,
