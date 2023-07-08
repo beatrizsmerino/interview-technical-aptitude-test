@@ -12,25 +12,7 @@
 						<span>{{ resultData.count }}</span>
 					</li>
 					<li>
-						<strong>Pagination:</strong>
-						<ul>
-							<li>
-								<strong>Total page:</strong>
-								<span>{{ resultPage.total }}</span>
-							</li>
-							<li>
-								<strong>Previous page:</strong>
-								<span>{{ resultPage.prev }}</span>
-							</li>
-							<li>
-								<strong>Current page:</strong>
-								<span>{{ resultPage.current }}</span>
-							</li>
-							<li>
-								<strong>Next page:</strong>
-								<span>{{ resultPage.next }}</span>
-							</li>
-						</ul>
+						<UISectionPagination :result-page="resultPage" />
 					</li>
 					<li v-if="resultData.previous || resultData.next">
 						<strong>Navigation:</strong>
@@ -102,12 +84,14 @@
 	import { mapGetters } from "vuex";
 	import UIMessage from "@/components/UI/UIMessage.vue";
 	import UISectionArticle from "@/components/UI/Section/UISectionArticle";
+	import UISectionPagination from "@/components/UI/Section/UISectionPagination";
 
 	export default {
 		"name": "UISection",
 		"components": {
 			UIMessage,
 			UISectionArticle,
+			UISectionPagination,
 		},
 		"props": {
 			"sectionName": {
