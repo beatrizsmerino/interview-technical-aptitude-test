@@ -74,7 +74,7 @@ module.exports = {
 		"complexity": [
 			2,
 			{
-				"max": 4,
+				"max": 6,
 			},
 		],
 		"computed-property-spacing": 2,

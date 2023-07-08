@@ -174,7 +174,6 @@
 					}
 				});
 			},
-			// eslint-disable-next-line complexity
 			filterResultsBusiness(results) {
 				if (this.sectorSelected !== "0" && this.favoriteSelected !== false) {
 					return results.filter(result => result.sector.id === this.sectorSelected && result.is_favorite === this.favoriteSelected);
@@ -186,7 +185,6 @@
 
 				return results;
 			},
-			// eslint-disable-next-line complexity
 			filterResultsSales(results) {
 				if (this.sectorSelected !== "0" && this.favoriteSelected !== false) {
 					return results.filter(result => result.business.sector.id === this.sectorSelected && result.business.is_favorite === this.favoriteSelected);
@@ -198,35 +196,18 @@
 
 				return results;
 			},
-			// eslint-disable-next-line complexity, max-statements
 			async setResultPage(data) {
 				const resultsPerPage = 10;
 				const urlPrevPage = await data.previous;
 				const urlNextPage = await data.next;
+				const count = parseInt(data.count);
 
 				this.resultPage.current = 1;
 				this.resultPage.next = 2;
-				this.resultPage.total = await Math.round(parseInt(data.count) / resultsPerPage);
-
-				if (urlPrevPage === null) {
-					this.resultPage.prev = null;
-				} else {
-					const numPrevPage = new URL(urlPrevPage).searchParams.get("page");
-					this.resultPage.prev = numPrevPage ? numPrevPage : 1;
-				}
-
-				if (urlNextPage === null) {
-					this.resultPage.next = null;
-				} else {
-					const numNextPage = new URL(urlNextPage).searchParams.get("page");
-					this.resultPage.next = numNextPage ? numNextPage : this.resultPage.total;
-				}
-
-				if (this.resultPage.prev === null) {
-					this.resultPage.current = 1;
-				} else {
-					this.resultPage.current = parseInt(this.resultPage.prev) + 1;
-				}
+				this.resultPage.total = Math.round(count / resultsPerPage);
+				this.resultPage.prev = urlPrevPage ? new URL(urlPrevPage).searchParams.get("page") || 1 : null;
+				this.resultPage.next = urlNextPage ? new URL(urlNextPage).searchParams.get("page") || this.resultPage.total : null;
+				this.resultPage.current = this.resultPage.prev ? parseInt(this.resultPage.prev) + 1 : 1;
 			},
 		},
 	};

@@ -75,11 +75,9 @@
 			};
 		},
 		"computed": {
-			// eslint-disable-next-line complexity
 			getSectorList() {
 				if (this.resultData.results && Array.isArray(this.resultData.results)) {
 					if (this.sectionName === "business") {
-						// eslint-disable-next-line max-lines
 						return this.getSectorListBusiness(this.resultData.results);
 					} else if (this.sectionName === "sales") {
 						return this.getSectorListSales(this.resultData.results);
