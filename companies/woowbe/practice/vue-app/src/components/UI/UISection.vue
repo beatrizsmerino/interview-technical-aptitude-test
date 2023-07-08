@@ -52,7 +52,7 @@
 						<ul>
 							<li>
 								<label :for="`${sectionName}Sector`">
-									Select a sector:
+									<strong>Select a sector:</strong>
 								</label>
 								<select
 									:id="`${sectionName}Sector`"
@@ -73,7 +73,7 @@
 							</li>
 							<li>
 								<label :for="`${sectionName}Favorite`">
-									Select favorites:
+									<strong>Select favorites:</strong>
 								</label>
 								<input
 									:id="`${sectionName}Favorite`"
