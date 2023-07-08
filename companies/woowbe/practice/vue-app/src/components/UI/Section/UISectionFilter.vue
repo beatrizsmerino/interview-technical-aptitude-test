@@ -41,7 +41,7 @@
 
 <script>
 	export default {
-		"name": "UISectionFilters",
+		"name": "UISectionFilter",
 		"props": {
 			"sectionName": {
 				"type": String,
