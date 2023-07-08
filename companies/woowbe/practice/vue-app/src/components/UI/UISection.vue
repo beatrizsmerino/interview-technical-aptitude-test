@@ -12,8 +12,25 @@
 						<span>{{ resultData.count }}</span>
 					</li>
 					<li>
-						<strong>Current page:</strong>
-						<span>{{ resultPage.current }}</span>
+						<strong>Pagination:</strong>
+						<ul>
+							<li>
+								<strong>Total page:</strong>
+								<span>{{ resultPage.total }}</span>
+							</li>
+							<li>
+								<strong>Previous page:</strong>
+								<span>{{ resultPage.prev }}</span>
+							</li>
+							<li>
+								<strong>Current page:</strong>
+								<span>{{ resultPage.current }}</span>
+							</li>
+							<li>
+								<strong>Next page:</strong>
+								<span>{{ resultPage.next }}</span>
+							</li>
+						</ul>
 					</li>
 					<li v-if="resultData.previous || resultData.next">
 						<strong>Navigation:</strong>
