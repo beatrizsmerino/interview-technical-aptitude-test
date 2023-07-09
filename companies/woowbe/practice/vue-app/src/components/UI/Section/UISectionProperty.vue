@@ -135,6 +135,8 @@
 <style lang="scss" scoped>
 	.section {
 		&__property {
+			margin: 0;
+
 			&--reverse {
 				display: inline-block !important;
 
@@ -168,10 +170,6 @@
 
 		&__icon {
 			max-width: 3rem;
-		}
-
-		p {
-			margin: 0;
 		}
 	}
 </style>
