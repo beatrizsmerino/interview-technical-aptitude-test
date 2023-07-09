@@ -43,7 +43,7 @@
 			>
 				<img
 					:src="propertyValue"
-					:alt="propertyValue"
+					:alt="getFileName(propertyValue)"
 				>
 			</span>
 			<span
@@ -52,7 +52,7 @@
 			>
 				<img
 					:src="propertyValue"
-					:alt="propertyValue"
+					:alt="getFileName(propertyValue)"
 				>
 			</span>
 			<span
