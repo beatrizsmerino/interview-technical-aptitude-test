@@ -1,4 +1,6 @@
-export default {
+import Vue from "vue";
+
+Vue.mixin({
 	"methods": {
 		// eslint-disable-next-line complexity
 		isEmpty(value) {
@@ -84,4 +86,4 @@ export default {
 			return false;
 		},
 	},
-};
+});

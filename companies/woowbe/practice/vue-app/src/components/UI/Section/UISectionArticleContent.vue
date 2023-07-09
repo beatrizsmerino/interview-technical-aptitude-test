@@ -89,7 +89,6 @@
 </template>
 
 <script>
-	import globalMixins from "@/plugins/global-mixins.js";
 	import UISectionProperty from "@/components/UI/Section/UISectionProperty";
 
 	export default {
@@ -97,9 +96,6 @@
 		"components": {
 			UISectionProperty,
 		},
-		"mixins": [
-			globalMixins,
-		],
 		"props": {
 			"resultValue": {
 				"type": Object,

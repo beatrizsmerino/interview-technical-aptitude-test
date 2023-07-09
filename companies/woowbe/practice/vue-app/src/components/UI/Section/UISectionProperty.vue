@@ -80,13 +80,9 @@
 <script>
 	import iconDefault from "@/assets/icons/icon-default.svg";
 	import imageDefault from "@/assets/images/image-default.jpg";
-	import globalMixins from "@/plugins/global-mixins.js";
 
 	export default {
 		"name": "UISectionProperty",
-		"mixins": [
-			globalMixins,
-		],
 		"props": {
 			"propertyParagraph": {
 				"type": Boolean,

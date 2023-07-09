@@ -15,7 +15,6 @@
 </template>
 
 <script>
-	import globalMixins from "@/plugins/global-mixins.js";
 	import UISectionArticleTitle from "@/components/UI/Section/UISectionArticleTitle";
 	import UISectionArticleContent from "@/components/UI/Section/UISectionArticleContent";
 
@@ -25,9 +24,6 @@
 			UISectionArticleTitle,
 			UISectionArticleContent,
 		},
-		"mixins": [
-			globalMixins,
-		],
 		"props": {
 			"resultValue": {
 				"type": Object,
