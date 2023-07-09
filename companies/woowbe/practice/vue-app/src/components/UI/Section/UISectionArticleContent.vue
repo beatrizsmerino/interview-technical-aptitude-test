@@ -104,7 +104,7 @@
 		},
 		data() {
 			return {
-				"resultValueSaved": this.resultValue,
+				"resultValueSaved": this.sortProperties(this.resultValue),
 			};
 		},
 	};

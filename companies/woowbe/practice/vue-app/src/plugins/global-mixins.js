@@ -85,5 +85,23 @@ Vue.mixin({
 
 			return extension;
 		},
+		sortProperties(data) {
+			if (!this.isListObject(data)) {
+				return data;
+			}
+
+			if (this.isListArray(data)) {
+				return data.map(item => this.sortProperties(item)).sort();
+			}
+
+			const sortedKeys = Object.keys(data).sort();
+			const sortedProperties = sortedKeys.reduce((sortedObj, key) => {
+				sortedObj[key] = this.sortProperties(data[key]);
+
+				return sortedObj;
+			}, {});
+
+			return sortedProperties;
+		},
 	},
 });
