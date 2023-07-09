@@ -47,62 +47,62 @@
 			</summary>
 			<ul>
 				<li
-					v-for="(propertyValue, propertyName) in resultValueSaved"
-					:key="propertyName"
+					v-for="(propertyValueLevel1, propertyNameLevel1) in resultValueSaved"
+					:key="propertyNameLevel1"
 				>
-					<template v-if="isEmpty(propertyValue)">
+					<template v-if="isEmpty(propertyValueLevel1)">
 						<p>
-							<strong>{{ propertyName }}:</strong>
+							<strong>{{ propertyNameLevel1 }}:</strong>
 							<span>---</span>
 						</p>
 					</template>
 					<template v-else>
-						<template v-if="isListArray(propertyValue)">
+						<template v-if="isListArray(propertyValueLevel1)">
 							<p>
-								<strong>{{ propertyName }}:</strong>
+								<strong>{{ propertyNameLevel1 }}:</strong>
 								<UISectionProperty
-									:property-name="propertyName"
-									:property-value="propertyValue"
+									:property-name="propertyNameLevel1"
+									:property-value="propertyValueLevel1"
 								/>
 							</p>
 						</template>
-						<template v-else-if="isListObject(propertyValue)">
-							<strong>{{ propertyName }}:</strong>
+						<template v-else-if="isListObject(propertyValueLevel1)">
+							<strong>{{ propertyNameLevel1 }}:</strong>
 							<ul>
 								<li
-									v-for="(dataValue, dataIndex) in propertyValue"
-									:key="dataIndex"
+									v-for="(propertyValueLevel2, propertyNameLevel2) in propertyValueLevel1"
+									:key="propertyNameLevel2"
 								>
-									<template v-if="isListObject(dataValue)">
-										<strong>{{ dataIndex }}:</strong>
+									<template v-if="isListObject(propertyValueLevel2)">
+										<strong>{{ propertyNameLevel2 }}:</strong>
 										<ul>
 											<li
-												v-for="(itemObj, indexObj) in dataValue"
-												:key="indexObj"
+												v-for="(propertyValueLevel3, propertyNameLevel3) in propertyValueLevel2"
+												:key="propertyNameLevel3"
 											>
 												<UISectionProperty
-													:property-name="indexObj"
-													:property-value="itemObj"
+													:property-name="propertyNameLevel3"
+													:property-value="propertyValueLevel3"
 												/>
 											</li>
 										</ul>
 									</template>
-									<template v-else-if="isListArrayObject(dataValue)">
-										<strong>{{ dataIndex }}:</strong>
+									<template v-else-if="isListArrayObject(propertyValueLevel2)">
+										<strong>{{ propertyNameLevel2 }}:</strong>
 										<ul>
 											<li
-												v-for="(itemObj, indexObj) in dataValue"
-												:key="indexObj"
+												v-for="(propertyValueLevel3, propertyNameLevel3) in propertyValueLevel2"
+												:key="propertyNameLevel3"
 											>
-												<strong>#{{ indexObj }}:</strong>
+												<strong>#{{ propertyNameLevel3 }}:</strong>
 												<ul>
 													<li
-														v-for="(item, index) in itemObj"
-														:key="index"
+														v-for="(propertyValueLevel4, propertyNameLevel4) in propertyValueLevel3"
+														:key="propertyNameLevel4"
 													>
 														<UISectionProperty
-															:property-name="index"
-															:property-value="item"
+															:property-name="propertyNameLevel4"
+															:property-value="propertyValueLevel4"
 														/>
 													</li>
 												</ul>
@@ -111,29 +111,29 @@
 									</template>
 									<template v-else>
 										<UISectionProperty
-											:property-name="dataIndex"
-											:property-value="dataValue"
+											:property-name="propertyNameLevel2"
+											:property-value="propertyValueLevel2"
 										/>
 									</template>
 								</li>
 							</ul>
 						</template>
-						<template v-else-if="isListArrayObject(propertyValue)">
-							<strong>{{ propertyName }}:</strong>
+						<template v-else-if="isListArrayObject(propertyValueLevel1)">
+							<strong>{{ propertyNameLevel1 }}:</strong>
 							<ul>
 								<li
-									v-for="(dataValue, dataIndex) in propertyValue"
-									:key="dataIndex"
+									v-for="(propertyValueLevel2, propertyNameLevel2) in propertyValueLevel1"
+									:key="propertyNameLevel2"
 								>
-									<strong>#{{ dataIndex }}:</strong>
+									<strong>#{{ propertyNameLevel2 }}:</strong>
 									<ul>
 										<li
-											v-for="(itemObj, indexObj) in dataValue"
-											:key="indexObj"
+											v-for="(propertyValueLevel3, propertyNameLevel3) in propertyValueLevel2"
+											:key="propertyNameLevel3"
 										>
 											<UISectionProperty
-												:property-name="indexObj"
-												:property-value="itemObj"
+												:property-name="propertyNameLevel3"
+												:property-value="propertyValueLevel3"
 											/>
 										</li>
 									</ul>
@@ -142,8 +142,8 @@
 						</template>
 						<template v-else>
 							<UISectionProperty
-								:property-name="propertyName"
-								:property-value="propertyValue"
+								:property-name="propertyNameLevel1"
+								:property-value="propertyValueLevel1"
 							/>
 						</template>
 					</template>
