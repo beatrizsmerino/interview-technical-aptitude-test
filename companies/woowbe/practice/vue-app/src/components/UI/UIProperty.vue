@@ -160,6 +160,7 @@
 
 		&__image {
 			max-width: 15rem;
+			border: 0.1rem solid $color-metal;
 		}
 
 		&__icon {
