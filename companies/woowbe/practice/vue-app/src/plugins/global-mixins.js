@@ -24,28 +24,6 @@ Vue.mixin({
 		isListArray(value) {
 			return Array.isArray(value) && value.every(item => typeof item !== "object" || item === null);
 		},
-		capitalizeFirstLetter(text) {
-			const firstLetter = text.charAt(0);
-			const firstLetterUppercase = firstLetter.toUpperCase();
-			const restLetters = text.slice(1);
-			const textFormatted = firstLetterUppercase + restLetters;
-
-			return textFormatted;
-		},
-		getFileName(value) {
-			const parts = value.split("/");
-			const fileNameWithExtension = parts[parts.length - 1];
-			const fileExtension = this.getFileExtension(fileNameWithExtension);
-			const fileName = fileNameWithExtension.replace(`${fileExtension}`, "");
-			const fileNameFormatted = this.capitalizeFirstLetter(fileName);
-
-			return fileNameFormatted;
-		},
-		getFileExtension(file) {
-			const extension = file.substring(file.lastIndexOf(".")).toLowerCase();
-
-			return extension;
-		},
 		isImage(value) {
 			if (typeof value === "string") {
 				const extensionsAvailable = [
@@ -84,6 +62,28 @@ Vue.mixin({
 			}
 
 			return false;
+		},
+		capitalizeFirstLetter(text) {
+			const firstLetter = text.charAt(0);
+			const firstLetterUppercase = firstLetter.toUpperCase();
+			const restLetters = text.slice(1);
+			const textFormatted = firstLetterUppercase + restLetters;
+
+			return textFormatted;
+		},
+		getFileName(value) {
+			const parts = value.split("/");
+			const fileNameWithExtension = parts[parts.length - 1];
+			const fileExtension = this.getFileExtension(fileNameWithExtension);
+			const fileName = fileNameWithExtension.replace(`${fileExtension}`, "");
+			const fileNameFormatted = this.capitalizeFirstLetter(fileName);
+
+			return fileNameFormatted;
+		},
+		getFileExtension(file) {
+			const extension = file.substring(file.lastIndexOf(".")).toLowerCase();
+
+			return extension;
 		},
 	},
 });
