@@ -17,20 +17,21 @@
 			</thead>
 			<tbody class="table__body">
 				<tr
-					v-for="(tableRow, tableIndex) in tableData"
-					:key="tableIndex"
+					v-for="(tableRow, tableIndex) in tableRowList"
+					:key="getRowKey(tableRow, tableIndex)"
 					class="table__row table__row--body"
 				>
 					<td class="table__cell table__cell--body">
 						{{ tableIndex + 1 }}
 					</td>
-					<td
-						v-for="(tableCellValue, tableCellName) in tableRow"
-						:key="tableCellName"
-						class="table__cell table__cell--body"
-					>
-						{{ tableCellValue || "---" }}
-					</td>
+					<template v-for="tableHeader in getTableHeaderList">
+						<td
+							:key="tableHeader"
+							class="table__cell table__cell--body"
+						>
+							{{ tableRow[tableHeader] || "---" }}
+						</td>
+					</template>
 				</tr>
 			</tbody>
 		</table>
@@ -42,17 +43,32 @@
 		"name": "UITable",
 		"props": {
 			"tableData": {
-				"type": Array,
+				"type": [
+					Array,
+					Object,
+				],
 				"required": true,
 			},
 		},
 		"computed": {
 			getTableHeaderList() {
-				if (this.tableData.length === 0) {
-					return [];
+				if (Array.isArray(this.tableData) && this.tableData.length > 0) {
+					return Object.keys(this.tableData[0]);
+				} else if (typeof this.tableData === "object" && this.tableData !== null) {
+					return Object.keys(this.tableData);
 				}
 
-				return Object.keys(this.tableData[0]);
+				return [];
+			},
+			tableRowList() {
+				return Array.isArray(this.tableData) ? this.tableData : [
+					this.tableData,
+				];
+			},
+		},
+		"methods": {
+			getRowKey(row, index) {
+				return Array.isArray(this.tableData) ? index : JSON.stringify(row);
 			},
 		},
 	};

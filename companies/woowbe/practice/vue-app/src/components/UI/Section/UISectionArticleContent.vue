@@ -13,17 +13,7 @@
 					>
 						<template v-if="isListObject(propertyValueLevel2)">
 							<strong>{{ propertyNameLevel2 }}:</strong>
-							<ul>
-								<li
-									v-for="(propertyValueLevel3, propertyNameLevel3) in propertyValueLevel2"
-									:key="propertyNameLevel3"
-								>
-									<UISectionProperty
-										:property-name="propertyNameLevel3"
-										:property-value="propertyValueLevel3"
-									/>
-								</li>
-							</ul>
+							<UITable :table-data="propertyValueLevel2" />
 						</template>
 						<template v-else-if="isListArrayObject(propertyValueLevel2)">
 							<strong>{{ propertyNameLevel2 }}:</strong>
