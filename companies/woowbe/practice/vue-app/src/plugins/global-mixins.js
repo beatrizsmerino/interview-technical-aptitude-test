@@ -22,6 +22,11 @@ export default {
 		isListArray(value) {
 			return Array.isArray(value) && value.every(item => typeof item !== "object" || item === null);
 		},
+		getFileExtension(file) {
+			const extension = file.substring(file.lastIndexOf(".")).toLowerCase();
+
+			return extension;
+		},
 		isImage(value) {
 			if (typeof value === "string") {
 				const extensionsAvailable = [
@@ -30,9 +35,10 @@ export default {
 					".png",
 					".gif",
 				];
-				const extension = value.substring(value.lastIndexOf(".")).toLowerCase();
+				const extension = this.getFileExtension(value);
+				const isFound = extensionsAvailable.includes(extension);
 
-				return extensionsAvailable.includes(extension);
+				return isFound;
 			}
 
 			return false;
@@ -42,9 +48,11 @@ export default {
 				const extensionsAvailable = [
 					".svg",
 				];
-				const extension = value.substring(value.lastIndexOf(".")).toLowerCase();
 
-				return extensionsAvailable.includes(extension);
+				const extension = this.getFileExtension(value);
+				const isFound = extensionsAvailable.includes(extension);
+
+				return isFound;
 			}
 
 			return false;
