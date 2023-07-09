@@ -29,7 +29,7 @@
 							:key="tableHeader"
 							class="table__cell table__cell--body"
 						>
-							{{ tableRow[tableHeader] || "---" }}
+							<UIProperty :property-value="tableRow[tableHeader]" />
 						</td>
 					</template>
 				</tr>
@@ -39,8 +39,13 @@
 </template>
 
 <script>
+	import UIProperty from "@/components/UI/UIProperty";
+
 	export default {
 		"name": "UITable",
+		"components": {
+			UIProperty,
+		},
 		"props": {
 			"tableData": {
 				"type": [

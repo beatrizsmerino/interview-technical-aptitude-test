@@ -20,7 +20,7 @@
 							<UITable :table-data="propertyValueLevel2" />
 						</template>
 						<template v-else>
-							<UISectionProperty
+							<UIProperty
 								:property-name="propertyNameLevel2"
 								:property-value="propertyValueLevel2"
 							/>
@@ -33,7 +33,7 @@
 				<UITable :table-data="propertyValueLevel1" />
 			</template>
 			<template v-else>
-				<UISectionProperty
+				<UIProperty
 					:property-name="propertyNameLevel1"
 					:property-value="propertyValueLevel1"
 				/>
@@ -43,13 +43,13 @@
 </template>
 
 <script>
-	import UISectionProperty from "@/components/UI/Section/UISectionProperty";
+	import UIProperty from "@/components/UI/UIProperty";
 	import UITable from "@/components/UI/UITable";
 
 	export default {
 		"name": "UISectionArticleContent",
 		"components": {
-			UISectionProperty,
+			UIProperty,
 			UITable,
 		},
 		"props": {

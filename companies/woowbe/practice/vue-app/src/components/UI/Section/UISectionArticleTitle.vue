@@ -3,7 +3,7 @@
 		<h3 class="section__title">
 			<span>#{{ getResultIndex(resultIndex, resultPage) }}</span>
 			<template v-if="sectionName === 'sales'">
-				<UISectionProperty
+				<UIProperty
 					:property-paragraph="false"
 					property-index="icon"
 					:property-name="resultValueSaved?.business?.sector?.name"
@@ -11,7 +11,7 @@
 				/>
 			</template>
 			<template v-if="sectionName === 'business'">
-				<UISectionProperty
+				<UIProperty
 					:property-paragraph="false"
 					property-index="icon"
 					:property-name="resultValueSaved?.name"
@@ -46,12 +46,12 @@
 </template>
 
 <script>
-	import UISectionProperty from "@/components/UI/Section/UISectionProperty";
+	import UIProperty from "@/components/UI/UIProperty";
 
 	export default {
 		"name": "UISectionArticleTitle",
 		"components": {
-			UISectionProperty,
+			UIProperty,
 		},
 		"props": {
 			"tagName": {

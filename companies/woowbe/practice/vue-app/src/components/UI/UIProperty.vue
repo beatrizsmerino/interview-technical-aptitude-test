@@ -2,23 +2,23 @@
 	<component
 		:is="getPropertyHtmlTag"
 		:class="{
-			'section__property': true,
-			'section__property--reverse': !propertyParagraph,
+			'property': true,
+			'property--reverse': !propertyParagraph,
 		}"
 	>
-		<strong v-if="propertyParagraph">
+		<strong v-if="propertyName && propertyParagraph">
 			{{ propertyName }}:
 		</strong>
 		<template v-if="isEmpty(propertyValue)">
 			<img
 				v-if="propertyIndex === 'square_picture' || propertyIndex === 'widescreen_picture' || propertyIndex === 'cover'"
 				:src="getImageDefault"
-				class="section__image"
+				class="property__image"
 				alt="Image not found"
 			>
 			<img
 				v-else-if="propertyIndex === 'icon'"
-				class="section__icon"
+				class="property__icon"
 				:src="getIconDefault"
 				alt="Icon not found"
 			>
@@ -39,7 +39,7 @@
 		<template v-else>
 			<span
 				v-if="isImage(propertyValue)"
-				class="section__image"
+				class="property__image"
 			>
 				<img
 					:src="propertyValue"
@@ -48,7 +48,7 @@
 			</span>
 			<span
 				v-else-if="isIcon(propertyValue)"
-				class="section__icon"
+				class="property__icon"
 			>
 				<img
 					:src="propertyValue"
@@ -57,7 +57,7 @@
 			</span>
 			<span
 				v-else-if="isLink(propertyValue)"
-				class="section__link"
+				class="property__link"
 			>
 				<a
 					:href="propertyValue"
@@ -71,7 +71,7 @@
 				{{ propertyValue }}
 			</span>
 		</template>
-		<strong v-if="!propertyParagraph">
+		<strong v-if="propertyName && !propertyParagraph">
 			{{ propertyName }}:
 		</strong>
 	</component>
@@ -82,7 +82,7 @@
 	import imageDefault from "@/assets/images/image-default.jpg";
 
 	export default {
-		"name": "UISectionProperty",
+		"name": "UIProperty",
 		"props": {
 			"propertyParagraph": {
 				"type": Boolean,
@@ -96,7 +96,7 @@
 			},
 			"propertyName": {
 				"type": String,
-				"required": true,
+				"default": null,
 			},
 			"propertyValue": {
 				"type": [
@@ -129,22 +129,20 @@
 </script>
 
 <style lang="scss" scoped>
-	.section {
-		&__property {
-			margin: 0;
+	.property {
+		margin: 0;
 
-			&--reverse {
+		&--reverse {
+			display: inline-block !important;
+
+			> * {
 				display: inline-block !important;
+				vertical-align: bottom;
+			}
 
-				> * {
-					display: inline-block !important;
-					vertical-align: bottom;
-				}
-
-				.section {
-					&__icon {
-						max-width: 2rem;
-					}
+			.property {
+				&__icon {
+					max-width: 2rem;
 				}
 			}
 		}
