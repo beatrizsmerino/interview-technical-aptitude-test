@@ -4,7 +4,7 @@
 			v-for="(propertyValueLevel1, propertyNameLevel1) in resultValueSaved"
 			:key="propertyNameLevel1"
 		>
-			<template v-if="isListObject(propertyValueLevel1)">
+			<template v-if="isListObjectObject(propertyValueLevel1)">
 				<strong>{{ propertyNameLevel1 }}:</strong>
 				<ul>
 					<li
@@ -27,6 +27,10 @@
 						</template>
 					</li>
 				</ul>
+			</template>
+			<template v-else-if="isListObject(propertyValueLevel1)">
+				<strong>{{ propertyNameLevel1 }}:</strong>
+				<UITable :table-data="propertyValueLevel1" />
 			</template>
 			<template v-else-if="isListArrayObject(propertyValueLevel1)">
 				<strong>{{ propertyNameLevel1 }}:</strong>

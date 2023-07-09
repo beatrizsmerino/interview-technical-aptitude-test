@@ -18,6 +18,21 @@ Vue.mixin({
 
 			return false;
 		},
+		isListObjectObject(value) {
+			if (!this.isListObject(value)) {
+				return false;
+			}
+
+			for (const key in value) {
+				if (value.hasOwnProperty(key)) {
+					if (this.isListObject(value[key])) {
+						return true;
+					}
+				}
+			}
+
+			return false;
+		},
 		isListObject(value) {
 			return typeof value === "object" && value !== null && !Array.isArray(value) && Object.keys(value).length > 0;
 		},
