@@ -27,25 +27,7 @@
 						</template>
 						<template v-else-if="isListArrayObject(propertyValueLevel2)">
 							<strong>{{ propertyNameLevel2 }}:</strong>
-							<ul>
-								<li
-									v-for="(propertyValueLevel3, propertyNameLevel3) in propertyValueLevel2"
-									:key="propertyNameLevel3"
-								>
-									<strong>#{{ propertyNameLevel3 }}:</strong>
-									<ul>
-										<li
-											v-for="(propertyValueLevel4, propertyNameLevel4) in propertyValueLevel3"
-											:key="propertyNameLevel4"
-										>
-											<UISectionProperty
-												:property-name="propertyNameLevel4"
-												:property-value="propertyValueLevel4"
-											/>
-										</li>
-									</ul>
-								</li>
-							</ul>
+							<UITable :table-data="propertyValueLevel2" />
 						</template>
 						<template v-else>
 							<UISectionProperty
@@ -58,25 +40,7 @@
 			</template>
 			<template v-else-if="isListArrayObject(propertyValueLevel1)">
 				<strong>{{ propertyNameLevel1 }}:</strong>
-				<ul>
-					<li
-						v-for="(propertyValueLevel2, propertyNameLevel2) in propertyValueLevel1"
-						:key="propertyNameLevel2"
-					>
-						<strong>#{{ propertyNameLevel2 }}:</strong>
-						<ul>
-							<li
-								v-for="(propertyValueLevel3, propertyNameLevel3) in propertyValueLevel2"
-								:key="propertyNameLevel3"
-							>
-								<UISectionProperty
-									:property-name="propertyNameLevel3"
-									:property-value="propertyValueLevel3"
-								/>
-							</li>
-						</ul>
-					</li>
-				</ul>
+				<UITable :table-data="propertyValueLevel1" />
 			</template>
 			<template v-else>
 				<UISectionProperty
@@ -90,11 +54,13 @@
 
 <script>
 	import UISectionProperty from "@/components/UI/Section/UISectionProperty";
+	import UITable from "@/components/UI/UITable";
 
 	export default {
 		"name": "UISectionArticleContent",
 		"components": {
 			UISectionProperty,
+			UITable,
 		},
 		"props": {
 			"resultValue": {
