@@ -55,29 +55,39 @@
 			]),
 			async login() {
 				try {
-					const response = await fetch("https://backend.dev.woowbe.com/api/v1/auth/jwt/token/", {
-						"method": "POST",
-						"headers": {
-							"Content-Type": "application/json",
-						},
-						"body": JSON.stringify({
-							"email": this.email,
-							"password": this.password,
-						}),
-					});
-					if (response.ok) {
-						const data = await response.json();
-						this.setToken(data.token);
-						this.responseMessage = "Successful login";
-						this.setLoggedIn(true);
-						localStorage.setItem("token", data.token);
-						this.$router.push("/account");
-					} else {
-						throw new Error("Error logging in. Verify your credentials.");
-					}
+					const response = await this.sendLoginRequest();
+					const data = await response.json();
+					this.handleLoginSuccess(data);
 				} catch (error) {
-					this.responseMessage = error.message;
+					this.handleLoginError(error);
 				}
+			},
+			async sendLoginRequest() {
+				const response = await fetch("https://backend.dev.woowbe.com/api/v1/auth/jwt/token/", {
+					"method": "POST",
+					"headers": {
+						"Content-Type": "application/json",
+					},
+					"body": JSON.stringify({
+						"email": this.email,
+						"password": this.password,
+					}),
+				});
+				if (!response.ok) {
+					throw new Error("Error logging in. Verify your credentials.");
+				}
+
+				return response;
+			},
+			handleLoginSuccess(data) {
+				this.setToken(data.token);
+				this.responseMessage = "Successful login";
+				this.setLoggedIn(true);
+				localStorage.setItem("token", data.token);
+				this.$router.push("/account");
+			},
+			handleLoginError(error) {
+				this.responseMessage = error.message;
 			},
 		},
 	};
