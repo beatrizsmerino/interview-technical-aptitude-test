@@ -1,10 +1,10 @@
 <template>
 	<div
-		v-if="message"
+		v-if="messageText"
 		class="message"
 	>
 		<p>
-			{{ message }}
+			{{ messageText }}
 		</p>
 	</div>
 </template>
@@ -13,7 +13,7 @@
 	export default {
 		"name": "UIMessage",
 		"props": {
-			"message": {
+			"messageText": {
 				"type": String,
 				"required": true,
 			},

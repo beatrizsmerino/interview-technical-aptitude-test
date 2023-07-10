@@ -42,7 +42,7 @@
 			Login
 		</button>
 
-		<UIMessage :message="responseMessage" />
+		<UIMessage :message-text="messageText" />
 	</form>
 </template>
 
@@ -59,7 +59,7 @@
 			return {
 				"email": "",
 				"password": "",
-				"responseMessage": "",
+				"messageText": "",
 			};
 		},
 		"methods": {
@@ -95,13 +95,13 @@
 			},
 			handleLoginSuccess(data) {
 				this.setToken(data.token);
-				this.responseMessage = "Successful login";
+				this.messageText = "Successful login";
 				this.setLoggedIn(true);
 				localStorage.setItem("token", data.token);
 				this.$router.push("/account");
 			},
 			handleLoginError(error) {
-				this.responseMessage = error.message;
+				this.messageText = error.message;
 			},
 		},
 	};

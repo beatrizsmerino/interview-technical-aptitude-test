@@ -2,7 +2,7 @@
 	<section class="section">
 		<h2>{{ sectionTitle }}</h2>
 
-		<UIMessage :message="responseMessage" />
+		<UIMessage :message-text="messageText" />
 
 		<template v-if="resultData">
 			<nav>
@@ -94,7 +94,7 @@
 				},
 				"sectorSelected": 0,
 				"favoriteSelected": false,
-				"responseMessage": "",
+				"messageText": "",
 			};
 		},
 		"computed": {
@@ -140,7 +140,7 @@
 						throw new Error(`Error in obtaining ${this.sectionTitle.toLowerCase()} data`);
 					}
 				} catch (error) {
-					this.responseMessage = error.message;
+					this.messageText = error.message;
 				}
 			},
 			async setData(data) {
