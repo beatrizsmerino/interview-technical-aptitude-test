@@ -1,22 +1,24 @@
 <template>
-	<div class="account">
+	<main class="account">
 		<PageTitle :title="pageTitle" />
-		<div v-if="getLoggedIn">
+		<template v-if="getLoggedIn">
+			<div class="account__content">
+				<SectionBusiness class="account__section" />
+				<SectionSales class="account__section" />
+				<SectionOffers class="account__section" />
+			</div>
 			<UIMessage
 				message-text="Welcome to your account!"
 				message-status="success"
 			/>
-			<SectionBusiness />
-			<SectionSales />
-			<SectionOffers />
-		</div>
-		<div v-else>
+		</template>
+		<template v-else>
 			<UIMessage
 				message-text="You must be logged in to access your account."
 				message-status="error"
 			/>
-		</div>
-	</div>
+		</template>
+	</main>
 </template>
 
 <script>
@@ -49,3 +51,61 @@
 		},
 	};
 </script>
+
+<style lang="scss" scoped>
+	.account {
+		padding: 0 2rem;
+
+		@include media("lg") {
+			padding: 0 2rem;
+		}
+
+		@include media("md") {
+			padding: 0 1rem;
+		}
+
+		&__content {
+			display: grid;
+			grid-gap: 1rem;
+			grid-template-columns: repeat(2, 1fr);
+			grid-template-rows: repeat(2, 1fr);
+
+			@include media("lg") {
+				grid-template-columns: repeat(2, 1fr);
+				grid-template-rows: repeat(3, 1fr);
+			}
+		}
+
+		&__section {
+			padding: 1rem;
+			overflow: hidden;
+			border-radius: 0.5rem;
+			background-color: mix($color-white, $color-brand-2, 95%);
+			box-shadow: mix($color-white, $color-brand-2, 90%) 0.5rem 0.5rem;
+
+			&:nth-child(1) {
+				grid-area: 1 / 1 / 2 / 2;
+
+				@include media("lg") {
+					grid-area: 1 / 1 / 2 / 3;
+				}
+			}
+
+			&:nth-child(2) {
+				grid-area: 1 / 2 / 2 / 3;
+
+				@include media("lg") {
+					grid-area: 2 / 1 / 3 / 3;
+				}
+			}
+
+			&:nth-child(3) {
+				grid-area: 2 / 1 / 3 / 3;
+
+				@include media("lg") {
+					grid-area: 3 / 1 / 4 / 3;
+				}
+			}
+		}
+	}
+</style>
