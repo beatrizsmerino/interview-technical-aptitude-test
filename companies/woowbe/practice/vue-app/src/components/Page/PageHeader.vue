@@ -3,7 +3,7 @@
 		<nav class="nav">
 			<ul class="nav__list">
 				<li
-					v-for="link in getLinkList"
+					v-for="link in filteredLinkList"
 					:key="link.id"
 					class="nav__item"
 				>
@@ -20,6 +20,8 @@
 </template>
 
 <script>
+	import { mapGetters } from "vuex";
+
 	export default {
 		"name": "PageHeader",
 		data() {
@@ -45,8 +47,25 @@
 			};
 		},
 		"computed": {
+			...mapGetters([
+				"getLoggedIn",
+			]),
 			getLinkList() {
 				return this.linkList;
+			},
+			filteredLinkList() {
+				if (!this.getLoggedIn) {
+					if (this.$route.path == "/account") {
+						this.$router.push("/login");
+					}
+
+					return this.linkList.filter(link => link.name !== "Account");
+				}
+				if (this.$route.path == "/login") {
+					this.$router.push("/account");
+				}
+
+				return this.linkList.filter(link => link.name !== "Login");
 			},
 		},
 	};
