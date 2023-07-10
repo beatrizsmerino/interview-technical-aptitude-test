@@ -60,6 +60,7 @@
 				class="property__link"
 			>
 				<a
+					class="link"
 					:href="propertyValue"
 					target="_blank"
 					rel="noopener noreferrer"

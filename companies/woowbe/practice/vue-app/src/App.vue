@@ -35,6 +35,7 @@
 
 	// COMPONETS
 	//----------------------------------------------------------------------
+	@import "./assets/scss/components/components-link";
 	@import "./assets/scss/components/components-button";
 
 	.app {
