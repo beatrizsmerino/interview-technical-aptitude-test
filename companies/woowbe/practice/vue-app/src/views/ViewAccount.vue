@@ -2,13 +2,19 @@
 	<div class="account">
 		<PageTitle :title="pageTitle" />
 		<div v-if="getLoggedIn">
-			<p>Welcome to your account!</p>
+			<UIMessage
+				message-text="Welcome to your account!"
+				message-status="success"
+			/>
 			<SectionBusiness />
 			<SectionSales />
 			<SectionOffers />
 		</div>
 		<div v-else>
-			<p>You must be logged in to access your account.</p>
+			<UIMessage
+				message-text="You must be logged in to access your account."
+				message-status="error"
+			/>
 		</div>
 	</div>
 </template>
@@ -20,6 +26,7 @@
 	import SectionBusiness from "@/components/Section/SectionBusiness";
 	import SectionOffers from "@/components/Section/SectionOffers";
 	import SectionSales from "@/components/Section/SectionSales";
+	import UIMessage from "@/components/UI/UIMessage";
 
 	export default {
 		"name": "AccountView",
@@ -28,6 +35,7 @@
 			SectionBusiness,
 			SectionOffers,
 			SectionSales,
+			UIMessage,
 		},
 		data() {
 			return {
