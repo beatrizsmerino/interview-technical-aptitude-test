@@ -1,18 +1,22 @@
 <template>
-	<div>
+	<div class="navigation">
 		<strong>Navigation:</strong>
-		<button
-			:disabled="!resultPage.prev"
-			@click="fetchData(resultData.previous)"
-		>
-			Prev
-		</button>
-		<button
-			:disabled="!resultPage.next"
-			@click="fetchData(resultData.next)"
-		>
-			Next
-		</button>
+		<span class="navigation__buttons">
+			<button
+				class="button button--xs"
+				:disabled="!resultPage.prev"
+				@click="fetchData(resultData.previous)"
+			>
+				Prev
+			</button>
+			<button
+				class="button button--xs"
+				:disabled="!resultPage.next"
+				@click="fetchData(resultData.next)"
+			>
+				Next
+			</button>
+		</span>
 	</div>
 </template>
 
@@ -37,4 +41,14 @@
 	};
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+	.navigation {
+		display: flex;
+		align-items: center;
+
+		&__buttons {
+			display: flex;
+			gap: 0.4rem;
+		}
+	}
+</style>

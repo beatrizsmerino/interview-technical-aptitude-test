@@ -24,7 +24,10 @@
 			>
 		</div>
 
-		<button type="submit">
+		<button
+			class="button"
+			type="submit"
+		>
 			Login
 		</button>
 
