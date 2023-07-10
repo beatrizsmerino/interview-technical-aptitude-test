@@ -22,3 +22,12 @@
 		},
 	};
 </script>
+
+
+<style lang="scss" scoped>
+.login {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+</style>

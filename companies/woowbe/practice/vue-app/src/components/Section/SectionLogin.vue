@@ -1,31 +1,42 @@
 <template>
-	<form @submit.prevent="login">
-		<div>
-			<label for="email">
+	<form
+		class="form"
+		@submit.prevent="login"
+	>
+		<div class="form__item">
+			<label
+				class="form__label"
+				for="email"
+			>
 				Email:
 			</label>
 			<input
 				id="email"
 				v-model="email"
+				class="form__field"
 				type="email"
 				required
 			>
 		</div>
 
-		<div>
-			<label for="password">
+		<div class="form__item">
+			<label
+				class="form__label"
+				for="password"
+			>
 				Password:
 			</label>
 			<input
 				id="password"
 				v-model="password"
+				class="form__field"
 				type="password"
 				required
 			>
 		</div>
 
 		<button
-			class="button"
+			class="form__button button"
 			type="submit"
 		>
 			Login
@@ -95,3 +106,37 @@
 		},
 	};
 </script>
+
+<style lang="scss" scoped>
+	.form {
+		width: 100%;
+		max-width: 20rem;
+
+		&__item {
+			display: flex;
+			flex-direction: column;
+			margin-bottom: 1rem;
+		}
+
+		&__label {
+			display: flex;
+			width: 100%;
+			margin-bottom: 0.5rem;
+			font-weight: bold;
+		}
+
+		&__field {
+			display: flex;
+			width: 100%;
+			padding: 0.8rem;
+			border: 0.1rem solid $color-brand-2;
+			border-radius: 0.5rem;
+			background-color: $color-white;
+			appearance: none;
+		}
+
+		&__button {
+			width: 100%;
+		}
+	}
+</style>
