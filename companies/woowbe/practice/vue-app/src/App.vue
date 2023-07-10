@@ -29,6 +29,10 @@
 	// 6. THEMES (change the state of colors dark or light)
 	// 7. VENDORS (external css code of the libraries and frameworks)
 
+	// BASE
+	//----------------------------------------------------------------------
+	@import "./assets/scss/base/base-reset";
+
 	// COMPONETS
 	//----------------------------------------------------------------------
 	@import "./assets/scss/components/components-button";
