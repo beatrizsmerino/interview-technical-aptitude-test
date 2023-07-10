@@ -88,8 +88,8 @@
 			},
 		},
 		"watch": {
-			sectorSelected(newSectorSelected) {
-				this.sectorSelectedSaved = newSectorSelected;
+			sectorSelected(newValue) {
+				this.sectorSelectedSaved = newValue;
 			},
 		},
 		"methods": {

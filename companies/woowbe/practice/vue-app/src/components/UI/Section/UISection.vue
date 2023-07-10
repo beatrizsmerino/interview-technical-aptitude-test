@@ -114,11 +114,11 @@
 			},
 		},
 		"watch": {
-			sectorSelected(newSectorSelected) {
-				this.sectorSelected = newSectorSelected;
+			sectorSelected(newValue) {
+				this.sectorSelected = newValue;
 			},
-			favoriteSelected(newFavoriteSelected) {
-				this.favoriteSelected = newFavoriteSelected;
+			favoriteSelected(newValue) {
+				this.favoriteSelected = newValue;
 			},
 		},
 		async mounted() {
