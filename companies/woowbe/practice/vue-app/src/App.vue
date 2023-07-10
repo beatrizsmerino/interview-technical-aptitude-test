@@ -1,17 +1,21 @@
 <template>
-	<div class="app">
-		<PageHeader />
-
-		<router-view />
+	<div class="app page__wrapper">
+		<div class="page__content">
+			<PageHeader />
+			<router-view />
+		</div>
+		<PageFooter />
 	</div>
 </template>
 <script>
 	import PageHeader from "@/components/Page/PageHeader";
+	import PageFooter from "@/components/Page/PageFooter";
 
 	export default {
 		"name": "App",
 		"components": {
 			PageHeader,
+			PageFooter,
 		},
 	};
 </script>
@@ -38,11 +42,27 @@
 	@import "./assets/scss/components/components-link";
 	@import "./assets/scss/components/components-button";
 
+	body {
+		margin: 0;
+	}
+
 	.app {
 		color: $color-brand-vue-2;
 		font-family: Avenir, Helvetica, Arial, sans-serif;
 		-webkit-font-smoothing: antialiased;
 		-moz-osx-font-smoothing: grayscale;
 		text-align: center;
+	}
+
+	.page {
+		&__wrapper {
+			display: flex;
+			flex-direction: column;
+			min-height: 100vh;
+		}
+
+		&__content {
+			flex-grow: 1;
+		}
 	}
 </style>

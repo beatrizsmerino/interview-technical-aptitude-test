@@ -1,5 +1,5 @@
 <template>
-	<header class="page-header">
+	<header class="page__header">
 		<nav class="nav">
 			<ul class="nav__list">
 				<li
@@ -72,9 +72,13 @@
 </script>
 
 <style lang="scss" scoped>
-	.nav {
-		padding: 30px;
+	.page {
+		&__header {
+			padding: 3rem;
+		}
+	}
 
+	.nav {
 		&__list {
 			display: flex;
 			align-items: center;
