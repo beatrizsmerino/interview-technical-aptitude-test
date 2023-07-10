@@ -150,6 +150,7 @@
 				const results = this.resultData.results;
 				if (results.length > 0) {
 					this.sectorSelected = 0;
+					this.favoriteSelected = false;
 
 					if (this.sectionName === "business") {
 						this.setBusinessFavorite(results);

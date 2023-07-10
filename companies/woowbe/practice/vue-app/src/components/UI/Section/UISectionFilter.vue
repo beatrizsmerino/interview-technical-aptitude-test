@@ -25,23 +25,24 @@
 				</select>
 			</li>
 			<li>
-				<label :for="`${sectionName}Favorite`">
-					<strong>Select favorites:</strong>
-				</label>
-				<input
-					:id="`${sectionName}Favorite`"
-					v-model="favoriteSelectedSaved"
-					type="checkbox"
-					@change="$emit('update:favorite-selected', favoriteSelectedSaved)"
-				>
+				<UICheckbox
+					:checkbox-name="`${sectionName}Favorite`"
+					checkbox-label="Select favorites"
+					:checkbox-value="favoriteSelectedSaved"
+					@update:checkbox-selected="$emit('update:favorite-selected', (favoriteSelectedSaved = $event))"
+				/>
 			</li>
 		</ul>
 	</div>
 </template>
 
 <script>
+	import UICheckbox from "@/components/UI/UICheckbox";
 	export default {
 		"name": "UISectionFilter",
+		"components": {
+			UICheckbox,
+		},
 		"props": {
 			"sectionName": {
 				"type": String,
@@ -90,6 +91,9 @@
 		"watch": {
 			sectorSelected(newValue) {
 				this.sectorSelectedSaved = newValue;
+			},
+			favoriteSelected(newValue) {
+				this.favoriteSelectedSaved = newValue;
 			},
 		},
 		"methods": {

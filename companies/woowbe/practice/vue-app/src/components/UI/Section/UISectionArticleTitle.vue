@@ -23,35 +23,33 @@
 			</span>
 		</h3>
 		<template v-if="sectionName === 'business'">
-			<label :for="`${sectionName}Favorite-${resultValueSaved.id}`">
-				<input
-					:id="`${sectionName}Favorite-${resultValueSaved.id}`"
-					v-model="resultValueSaved.is_favorite"
-					type="checkbox"
-				>
-				Favorite
-			</label>
+			<UICheckbox
+				:checkbox-name="`${sectionName}Favorite-${resultValueSaved.id}`"
+				checkbox-label="Favorite"
+				:checkbox-value="resultValueSaved.is_favorite"
+				@update:checkbox-selected="resultValueSaved.is_favorite = $event"
+			/>
 		</template>
 		<template v-if="sectionName === 'sales'">
-			<label :for="`${sectionName}Favorite-${resultValueSaved.id}`">
-				<input
-					:id="`${sectionName}Favorite-${resultValueSaved.id}`"
-					v-model="resultValueSaved.business.is_favorite"
-					type="checkbox"
-				>
-				Favorite
-			</label>
+			<UICheckbox
+				:checkbox-name="`${sectionName}Favorite-${resultValueSaved.id}`"
+				checkbox-label="Favorite"
+				:checkbox-value="resultValueSaved.business.is_favorite"
+				@update:checkbox-selected="resultValueSaved.business.is_favorite = $event"
+			/>
 		</template>
 	</component>
 </template>
 
 <script>
 	import UIProperty from "@/components/UI/UIProperty";
+	import UICheckbox from "@/components/UI/UICheckbox";
 
 	export default {
 		"name": "UISectionArticleTitle",
 		"components": {
 			UIProperty,
+			UICheckbox,
 		},
 		"props": {
 			"tagName": {
@@ -85,6 +83,11 @@
 				return this.tagName;
 			},
 		},
+		"watch": {
+			resultValue(newValue) {
+				this.resultValueSaved = newValue;
+			},
+		},
 		"methods": {
 			getResultIndex(index, page) {
 				const currentPage = page.current - 1;
@@ -110,7 +113,7 @@
 		}
 
 		&__title {
-			margin: 0;
+			margin: 0 1rem 0 0;
 		}
 	}
 </style>
