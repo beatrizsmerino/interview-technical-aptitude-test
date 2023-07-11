@@ -4,8 +4,6 @@
 			{{ sectionTitle }}
 		</h2>
 
-		<UIMessage :message-text="messageText" />
-
 		<template v-if="resultData">
 			<nav>
 				<ul>
@@ -47,6 +45,8 @@
 				:section-name="sectionName"
 			/>
 		</template>
+
+		<UIMessage :message-text="messageText" />
 	</section>
 </template>
 
