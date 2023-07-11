@@ -48,6 +48,7 @@
 
 		&__buttons {
 			display: flex;
+			margin-left: 0.5rem;
 			gap: 0.4rem;
 		}
 	}
