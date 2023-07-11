@@ -24,14 +24,7 @@
 			},
 			"messageStatus": {
 				"type": String,
-				"default": "error",
-				"validator"(value) {
-					return [
-						"error",
-						"success",
-						"info",
-					].includes(value);
-				},
+				"required": true,
 			},
 		},
 		data() {
