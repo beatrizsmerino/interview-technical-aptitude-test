@@ -74,9 +74,13 @@
 				"type": String,
 				"required": true,
 			},
-			"urlData": {
+			"dataApiUrl": {
 				"type": String,
 				"required": true,
+			},
+			"dataFileTest": {
+				"type": Object,
+				"default": null,
 			},
 			"isFiltered": {
 				"type": Boolean,
@@ -122,7 +126,11 @@
 			},
 		},
 		async mounted() {
-			await this.fetchData(this.urlData);
+			if (this.dataFileTest !== null) {
+				await this.setData(this.dataFileTest);
+			} else {
+				await this.fetchData(this.dataApiUrl);
+			}
 		},
 		"methods": {
 			async fetchData(url) {

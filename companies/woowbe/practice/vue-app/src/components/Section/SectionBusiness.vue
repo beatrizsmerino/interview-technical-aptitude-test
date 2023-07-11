@@ -2,17 +2,24 @@
 	<UISection
 		section-name="business"
 		section-title="Business"
-		url-data="https://backend.dev.woowbe.com/api/v1/business/public/"
+		data-api-url="https://backend.dev.woowbe.com/api/v1/business/public/"
+		:data-file-test="dataTest"
 		:is-filtered="true"
 	/>
 </template>
 
 <script>
+	import dataTest from "@/assets/data/business.json";
 	import UISection from "@/components/UI/Section/UISection";
 	export default {
 		"name": "SectionBusiness",
 		"components": {
 			UISection,
+		},
+		data() {
+			return {
+				dataTest,
+			};
 		},
 	};
 </script>

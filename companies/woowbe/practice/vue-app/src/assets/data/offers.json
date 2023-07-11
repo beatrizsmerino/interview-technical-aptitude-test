@@ -1,0 +1,458 @@
+{
+	"count": 137,
+	"next": "https://backend.dev.woowbe.com/api/v1/business/public/?page=2",
+	"previous": null,
+	"results": [
+		{
+			"country": {
+				"code": "es",
+				"id": 3,
+				"name": "España"
+			},
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg",
+			"created": "2021-06-10T09:23:04.551544Z",
+			"description": "Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\n¡Descubre la nueva colección online de Scalpers!",
+			"descriptive_categories": [
+				{
+					"created": "2022-09-27T14:18:12.393840Z",
+					"id": 80,
+					"name": "estilo",
+					"owner": null,
+					"sector": 43
+				},
+				{
+					"created": "2022-09-27T14:18:03.512523Z",
+					"id": 79,
+					"name": "moda",
+					"owner": 12,
+					"sector": null
+				},
+				{
+					"created": "2022-09-27T14:17:59.578804Z",
+					"id": 78,
+					"name": "ropa",
+					"owner": null,
+					"sector": 43
+				},
+				{
+					"created": "2022-09-27T14:17:51.818605Z",
+					"id": 77,
+					"name": "ropa hombre",
+					"owner": 12,
+					"sector": null
+				},
+				{
+					"created": "2022-09-27T14:18:16.628726Z",
+					"id": 81,
+					"name": "ropa mujer",
+					"owner": 12,
+					"sector": null
+				},
+				{
+					"created": "2022-09-27T14:18:21.910520Z",
+					"id": 82,
+					"name": "ropa niños",
+					"owner": 12,
+					"sector": null
+				}
+			],
+			"dynamic_link": "https://app.dev.woowbe.com/share/jdF1",
+			"id": 12,
+			"is_favorite": false,
+			"is_franchisee_of": null,
+			"name": "Scalpers",
+			"offers_count": 0,
+			"return_period": 30,
+			"sector": {
+				"created": "2022-09-27T14:17:28.722813Z",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg",
+				"id": 43,
+				"name": "Tienda de ropa"
+			},
+			"selected_offer": null,
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg",
+			"url": "https://www.scalpers.com",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg"
+		},
+		{
+			"country": null,
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/delinas-portada.png",
+			"created": "2021-06-10T09:24:27.089021Z",
+			"description": "Diariamente, Delina’s ofrece soluciones gastronómicas con la mejor materia prima que existe: la experiencia, la calidad y el talento. Unas soluciones apetitosas, competitivas y sostenibles que gozan del respeto del mercado desde hace más de 20 años.",
+			"descriptive_categories": [],
+			"dynamic_link": "https://app.dev.woowbe.com/share/d6o5",
+			"id": 20,
+			"is_favorite": false,
+			"is_franchisee_of": null,
+			"name": "Delina's",
+			"offers_count": 1,
+			"return_period": 0,
+			"sector": {
+				"created": "2021-05-25T10:48:41.547333Z",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+				"id": 5,
+				"name": "Cafetería"
+			},
+			"selected_offer": {
+				"applicable": false,
+				"id": 15,
+				"instant": true,
+				"kind": "C",
+				"name": "Delinas test Sellos",
+				"online": false,
+				"purchases": 6,
+				"reward": "15.00",
+				"reward_type": "fixed",
+				"standalone": false
+			},
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/delinas-logo-1-1.png",
+			"url": "https://www.delinas.com/",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635415771.png"
+		},
+		{
+			"country": null,
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/levadura-madre.jpg",
+			"created": "2021-06-10T09:24:34.720193Z",
+			"description": "",
+			"descriptive_categories": [],
+			"dynamic_link": "https://app.dev.woowbe.com/share/AY2a",
+			"id": 21,
+			"is_favorite": false,
+			"is_franchisee_of": null,
+			"name": "Levadura Madre",
+			"offers_count": 1,
+			"return_period": 0,
+			"sector": {
+				"created": "2021-05-25T11:05:24.276505Z",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_I8A0AM0.svg",
+				"id": 19,
+				"name": "Panadería"
+			},
+			"selected_offer": {
+				"applicable": false,
+				"id": 33,
+				"instant": true,
+				"kind": "C",
+				"name": "Levadura madre test",
+				"online": false,
+				"purchases": 10,
+				"reward": "10.00",
+				"reward_type": "fixed",
+				"standalone": false
+			},
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/levadura-madre.jpg",
+			"url": null,
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1623932500.jpeg"
+		},
+		{
+			"country": {
+				"code": "mt",
+				"id": 2,
+				"name": "Malta"
+			},
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/llao-llao-portada.png",
+			"created": "2021-06-10T11:00:45.772916Z",
+			"description": "llaollao es una franquicia española de heladerías especializada en yogur helado, granizados y batidos. Se fundó en 2009 con la apertura de un local en Denia y cuenta con más de 220 establecimientos tanto en España como a nivel internacional.",
+			"descriptive_categories": [
+				{
+					"created": "2021-11-29T12:03:57.629516Z",
+					"id": 55,
+					"name": "helado",
+					"owner": null,
+					"sector": null
+				},
+				{
+					"created": "2022-06-13T08:52:30.589536Z",
+					"id": 65,
+					"name": "yogur helado",
+					"owner": 23,
+					"sector": null
+				}
+			],
+			"dynamic_link": "https://app.dev.woowbe.com/share/YaCK",
+			"id": 23,
+			"is_favorite": false,
+			"is_franchisee_of": null,
+			"name": "llaollao",
+			"offers_count": 1,
+			"return_period": 0,
+			"sector": {
+				"created": "2021-05-25T10:48:59.349078Z",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_oEA91PT.svg",
+				"id": 6,
+				"name": "Heladería"
+			},
+			"selected_offer": {
+				"applicable": false,
+				"id": 32,
+				"instant": true,
+				"kind": "A",
+				"name": "Llao Llao test",
+				"online": false,
+				"purchases": null,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"standalone": false
+			},
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/llao-llao-logo-1-1.png",
+			"url": "https://www.llaollaoweb.com/es/",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635419152.png"
+		},
+		{
+			"country": null,
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Xt19oj5.jpg",
+			"created": "2021-06-10T11:01:38.640807Z",
+			"description": "Para gustos, Malvón! Tú te encargas de celebrar y disfrutar, nosotros nos encargamos del resto con nuestras empanadas artesanales.",
+			"descriptive_categories": [],
+			"dynamic_link": "https://app.dev.woowbe.com/share/zRx8",
+			"id": 30,
+			"is_favorite": false,
+			"is_franchisee_of": null,
+			"name": "Empanadas Malvon",
+			"offers_count": 1,
+			"return_period": 0,
+			"sector": {
+				"created": "2021-05-25T10:47:39.210359Z",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+				"id": 3,
+				"name": "Fast Food"
+			},
+			"selected_offer": {
+				"applicable": false,
+				"id": 253,
+				"instant": false,
+				"kind": "A",
+				"name": "Oferta para finalizar",
+				"online": true,
+				"purchases": null,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"standalone": false
+			},
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_GeCFiw9.jpg",
+			"url": "https://www.malvon.es/",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1624001112.jpeg"
+		},
+		{
+			"country": {
+				"code": "es",
+				"id": 3,
+				"name": "España"
+			},
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0XysFRk.jpg",
+			"created": "2021-10-21T14:33:52.942982Z",
+			"description": "Conocemos el poder de una alimentación saludable para nutrir una vida activa, equilibrada y feliz.\r\n\r\nCansados de no encontrar opciones de comida sana y sabrosa en la ciudad, decidimos comenzar nuestra propia revolución:\r\n\r\nLa Revolución de la Healthy Fast Food",
+			"descriptive_categories": [
+				{
+					"created": "2021-10-21T14:41:44.180293Z",
+					"id": 11,
+					"name": "Hawaiana",
+					"owner": 89,
+					"sector": null
+				},
+				{
+					"created": "2021-10-21T14:33:37.426542Z",
+					"id": 10,
+					"name": "Healthy",
+					"owner": null,
+					"sector": null
+				},
+				{
+					"created": "2021-10-21T14:33:26.133578Z",
+					"id": 9,
+					"name": "Poke",
+					"owner": null,
+					"sector": null
+				}
+			],
+			"dynamic_link": "https://app.dev.woowbe.com/share/Fu3N",
+			"id": 89,
+			"is_favorite": false,
+			"is_franchisee_of": null,
+			"name": "Aloha Poke",
+			"offers_count": 4,
+			"return_period": 0,
+			"sector": {
+				"created": "2021-10-21T14:32:58.019404Z",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+				"id": 37,
+				"name": "Restaurante temático"
+			},
+			"selected_offer": {
+				"applicable": false,
+				"id": 397,
+				"instant": false,
+				"kind": "A",
+				"name": "Prueba franquicias",
+				"online": false,
+				"purchases": null,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"standalone": false
+			},
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/aloha-poke-logo-1-1.png",
+			"url": "https://www.alohapoke.es/",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634827016.jpeg"
+		},
+		{
+			"country": null,
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_hu1AWga.jpg",
+			"created": "2021-10-21T15:09:06.170930Z",
+			"description": "Taco Bell es una cadena de restaurantes de comida rápida, especializada en cocina Tex-Mex. La cadena fue fundada en 1962 por Glen Bell y actualmente pertenece a la multinacional Yum! Brands.",
+			"descriptive_categories": [
+				{
+					"created": "2021-10-21T15:08:54.024427Z",
+					"id": 13,
+					"name": "mexicano",
+					"owner": null,
+					"sector": null
+				},
+				{
+					"created": "2021-10-21T15:08:41.941999Z",
+					"id": 12,
+					"name": "taco",
+					"owner": null,
+					"sector": null
+				}
+			],
+			"dynamic_link": "https://app.dev.woowbe.com/share/hd53",
+			"id": 90,
+			"is_favorite": false,
+			"is_franchisee_of": null,
+			"name": "Taco Bell",
+			"offers_count": 0,
+			"return_period": 0,
+			"sector": {
+				"created": "2021-05-25T10:47:39.210359Z",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+				"id": 3,
+				"name": "Fast Food"
+			},
+			"selected_offer": null,
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/taco-bell-logo-1-1.png",
+			"url": "https://tacobell.es/",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634828991.jpeg"
+		},
+		{
+			"country": null,
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_ORmai6S.jpg",
+			"created": "2021-10-21T15:41:14.567827Z",
+			"description": "Juan Valdez es el resultado del trabajo de más de 540.000 familias caficultoras colombianas que han cautivado al mundo con el café de la mejor calidad.",
+			"descriptive_categories": [
+				{
+					"created": "2021-10-21T15:41:02.955225Z",
+					"id": 14,
+					"name": "colombiano",
+					"owner": 91,
+					"sector": null
+				}
+			],
+			"dynamic_link": "https://app.dev.woowbe.com/share/N9CY",
+			"id": 91,
+			"is_favorite": false,
+			"is_franchisee_of": null,
+			"name": "Juan Valdez",
+			"offers_count": 0,
+			"return_period": 0,
+			"sector": {
+				"created": "2021-05-25T10:48:41.547333Z",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+				"id": 5,
+				"name": "Cafetería"
+			},
+			"selected_offer": null,
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/juan-valdez-logo-1-1.png",
+			"url": "https://www.juanvaldezcafe.com/",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634830938.jpeg"
+		},
+		{
+			"country": null,
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_UuinGHQ.jpg",
+			"created": "2021-10-21T16:00:35.632774Z",
+			"description": "En Tierra nos gusta hacer las cosas bien.\r\nTodos los días, llegan hasta nosotros frutas y verduras frescas de productores locales y carne procedente de ganaderías cercanas de cría no intensiva. Estos productos constituyen los ingredientes que empleamos para preparar, delante de ti, nuestros platos saludables y auténticos: burritos, desnudos, nachos y mucho más.\r\n\r\nDesde nuestra cocina abierta, los eficientes y simpáticos camareros de Tierra te ayudarán a personalizar tu plato a tu gusto con una gran variedad de sabores y guarniciones distintas. Acompaña tu comida con nuestras margaritas caseras o con una cerveza artesanal, que tienes a tu disposición en la nevera.",
+			"descriptive_categories": [
+				{
+					"created": "2021-10-21T16:01:53.692876Z",
+					"id": 15,
+					"name": "burrito",
+					"owner": 92,
+					"sector": null
+				},
+				{
+					"created": "2021-10-21T15:08:54.024427Z",
+					"id": 13,
+					"name": "mexicano",
+					"owner": null,
+					"sector": null
+				}
+			],
+			"dynamic_link": "https://app.dev.woowbe.com/share/KPoa",
+			"id": 92,
+			"is_favorite": false,
+			"is_franchisee_of": null,
+			"name": "Tierra Burrito",
+			"offers_count": 1,
+			"return_period": 0,
+			"sector": {
+				"created": "2021-05-25T10:47:39.210359Z",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+				"id": 3,
+				"name": "Fast Food"
+			},
+			"selected_offer": {
+				"applicable": false,
+				"id": 168,
+				"instant": false,
+				"kind": "B",
+				"name": "4€ por cada comida",
+				"online": false,
+				"purchases": null,
+				"reward": "4.00",
+				"reward_type": "fixed",
+				"standalone": false
+			},
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/tierra-burrito-logo-1-1.png",
+			"url": "https://www.tierraburritos.com/",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634832127.jpeg"
+		},
+		{
+			"country": null,
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Edp12ch.jpg",
+			"created": "2021-10-21T19:14:22.845920Z",
+			"description": "Restaurante japonés con servicio de sushi a domicilio, take away o en mesa. Una gran variedad de productos hechos al momento: makis, rolls, nigiris, temakis, pokés, menú mediodía, platos vegetarianos ¡y mucho más!",
+			"descriptive_categories": [
+				{
+					"created": "2021-10-21T19:14:13.483887Z",
+					"id": 17,
+					"name": "japonesa",
+					"owner": null,
+					"sector": null
+				},
+				{
+					"created": "2021-10-21T19:14:06.256566Z",
+					"id": 16,
+					"name": "sushi",
+					"owner": null,
+					"sector": null
+				}
+			],
+			"dynamic_link": "https://app.dev.woowbe.com/share/2eWh",
+			"id": 93,
+			"is_favorite": false,
+			"is_franchisee_of": null,
+			"name": "Go Sushing",
+			"offers_count": 0,
+			"return_period": 0,
+			"sector": {
+				"created": "2021-05-25T10:47:39.210359Z",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+				"id": 3,
+				"name": "Fast Food"
+			},
+			"selected_offer": null,
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/go-sushing-logo-1-1.png",
+			"url": "https://gosushing.com/",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634843662.png"
+		}
+	]
+}
