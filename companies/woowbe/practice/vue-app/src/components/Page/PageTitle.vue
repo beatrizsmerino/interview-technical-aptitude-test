@@ -18,6 +18,7 @@
 
 <style lang="scss" scoped>
 	.page-title {
+		margin-top: 0;
 		text-align: center;
 	}
 </style>
