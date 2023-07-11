@@ -232,5 +232,11 @@
 <style lang="scss" scoped>
 	.section {
 		text-align: left;
+
+		&__title {
+			margin-top: 0;
+			font-size: 2rem;
+			font-weight: 900;
+		}
 	}
 </style>
