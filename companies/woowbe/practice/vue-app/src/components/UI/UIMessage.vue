@@ -6,6 +6,7 @@
 			'message--error': messageStatus === 'error',
 			'message--success': messageStatus === 'success',
 			'message--info': messageStatus === 'info',
+			'is-animate': showMessage === true,
 		}"
 	>
 		<p>
@@ -35,7 +36,7 @@
 		mounted() {
 			setTimeout(() => {
 				this.showMessage = false;
-			}, 5000);
+			}, 6000);
 		},
 	};
 </script>
@@ -64,6 +65,33 @@
 
 		&--info {
 			background-color: $color-info;
+		}
+
+		&.is-animate {
+			transform: translateY(100%);
+			animation: show-hide 5s 0.5s forwards;
+		}
+
+		@keyframes show-hide {
+			0% {
+				transform: translateY(100%);
+				opacity: 0;
+			}
+
+			5% {
+				transform: translateY(0%);
+				opacity: 1;
+			}
+
+			95% {
+				transform: translateY(0%);
+				opacity: 1;
+			}
+
+			100% {
+				transform: translateY(100%);
+				opacity: 0;
+			}
 		}
 	}
 </style>
