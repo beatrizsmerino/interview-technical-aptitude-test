@@ -54,19 +54,19 @@
 
 <style lang="scss" scoped>
 	.account {
-		padding: 0 2rem;
+		padding: 0 4rem;
 
 		@include media("lg") {
-			padding: 0 2rem;
+			padding: 0 3rem;
 		}
 
 		@include media("md") {
-			padding: 0 1rem;
+			padding: 0 2rem;
 		}
 
 		&__content {
 			display: grid;
-			grid-gap: 1rem;
+			grid-gap: 2rem;
 			grid-template-columns: repeat(2, 1fr);
 			grid-template-rows: repeat(2, 1fr);
 
