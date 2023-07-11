@@ -70,6 +70,8 @@
 			&:checked {
 				+ .checkbox {
 					&__label {
+						color: $color-brand-1;
+
 						&:before {
 							transform: translate(0, -50%) scale(1);
 							border-color: $color-brand-1;
@@ -79,12 +81,6 @@
 						&:hover {
 							&:before {
 								transform: translate(0, -50%) scale(1.2);
-							}
-						}
-
-						.checkbox {
-							&__label {
-								color: $color-brand-1;
 							}
 						}
 					}
