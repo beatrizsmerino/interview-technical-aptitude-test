@@ -9,7 +9,7 @@
 </template>
 
 <script>
-	import dataTest from "@/assets/data/business.json";
+	import dataTest from "@/assets/data/business/1.json";
 	import UISection from "@/components/UI/Section/UISection";
 	export default {
 		"name": "SectionBusiness",

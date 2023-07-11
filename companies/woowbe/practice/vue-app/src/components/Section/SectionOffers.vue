@@ -8,7 +8,7 @@
 </template>
 
 <script>
-	import dataTest from "@/assets/data/offers.json";
+	import dataTest from "@/assets/data/offers/1.json";
 	import UISection from "@/components/UI/Section/UISection";
 	export default {
 		"name": "SectionOffers",
