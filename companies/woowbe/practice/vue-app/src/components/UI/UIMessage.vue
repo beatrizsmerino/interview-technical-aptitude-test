@@ -1,6 +1,6 @@
 <template>
 	<div
-		v-if="messageText"
+		v-if="messageText && showMessage"
 		:class="{
 			'message': true,
 			'message--error': messageStatus === 'error',
@@ -33,6 +33,16 @@
 					].includes(value);
 				},
 			},
+		},
+		data() {
+			return {
+				"showMessage": true,
+			};
+		},
+		mounted() {
+			setTimeout(() => {
+				this.showMessage = false;
+			}, 20000);
 		},
 	};
 </script>
