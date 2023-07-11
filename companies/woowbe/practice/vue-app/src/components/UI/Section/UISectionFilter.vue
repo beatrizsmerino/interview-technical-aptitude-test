@@ -3,26 +3,13 @@
 		<strong>Filters:</strong>
 		<ul>
 			<li>
-				<label :for="`${sectionName}Sector`">
-					<strong>Select a sector:</strong>
-				</label>
-				<select
-					:id="`${sectionName}Sector`"
-					v-model="sectorSelectedSaved"
-					:name="`${sectionName}Sector`"
-					@change="$emit('update:sector-selected', sectorSelectedSaved)"
-				>
-					<option :value="0">
-						All sectors
-					</option>
-					<option
-						v-for="sector in getSectorList"
-						:key="sector.id"
-						:value="sector.id"
-					>
-						{{ sector.name }}
-					</option>
-				</select>
+				<UISelect
+					:select-name="`${sectionName}Sector`"
+					:select-label="`Select a sector:`"
+					:select-options="getSectorList"
+					:select-value="sectorSelectedSaved"
+					@update:select-selected="$emit('update:sector-selected', (sectorSelectedSaved = $event))"
+				/>
 			</li>
 			<li>
 				<UICheckbox
@@ -38,10 +25,13 @@
 
 <script>
 	import UICheckbox from "@/components/UI/UICheckbox";
+	import UISelect from "@/components/UI/UISelect";
+
 	export default {
 		"name": "UISectionFilter",
 		"components": {
 			UICheckbox,
+			UISelect,
 		},
 		"props": {
 			"sectionName": {
