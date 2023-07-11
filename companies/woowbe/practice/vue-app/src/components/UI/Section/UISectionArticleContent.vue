@@ -64,8 +64,13 @@
 		},
 		data() {
 			return {
-				"resultValueSaved": this.sortProperties(this.resultValue),
+				"resultValueSaved": { ...this.sortProperties(this.resultValue) },
 			};
+		},
+		"watch": {
+			resultValue(newValue) {
+				this.resultValueSaved = JSON.parse(JSON.stringify(newValue));
+			},
 		},
 	};
 </script>
