@@ -77,7 +77,7 @@
 		}
 
 		&__section {
-			padding: 1rem;
+			padding: 2rem;
 			overflow: hidden;
 			border-radius: 0.5rem;
 			background-color: mix($color-white, $color-brand-2, 95%);
