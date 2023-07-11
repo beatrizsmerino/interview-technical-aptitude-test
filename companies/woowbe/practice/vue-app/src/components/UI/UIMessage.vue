@@ -35,7 +35,7 @@
 		mounted() {
 			setTimeout(() => {
 				this.showMessage = false;
-			}, 20000);
+			}, 5000);
 		},
 	};
 </script>
