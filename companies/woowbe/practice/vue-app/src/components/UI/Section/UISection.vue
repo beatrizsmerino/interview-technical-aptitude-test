@@ -54,6 +54,7 @@
 </template>
 
 <script>
+	import { saveAs } from "file-saver";
 	import { mapGetters } from "vuex";
 	import UIMessage from "@/components/UI/UIMessage.vue";
 	import UISectionArticle from "@/components/UI/Section/UISectionArticle";
@@ -150,6 +151,7 @@
 					if (response.ok) {
 						const data = await response.json();
 						await this.setData(data);
+						await this.downloadData(data);
 					} else {
 						throw new Error(`Error in obtaining ${this.sectionTitle.toLowerCase()} data`);
 					}
@@ -157,6 +159,15 @@
 					this.messageText = error.message;
 					this.messageStatus = "error";
 				}
+			},
+			async downloadData(data) {
+				this.resultData = await data;
+				const jsonData = JSON.stringify(this.resultData);
+
+				const blob = new Blob([
+					jsonData,
+				], { "type": "text/plain;charset=utf-8" });
+				saveAs(blob, `${this.resultPage.current}.json`);
 			},
 			async setData(data) {
 				this.resultData = await data;
