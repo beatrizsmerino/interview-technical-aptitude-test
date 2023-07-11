@@ -1,6 +1,8 @@
 <template>
 	<section class="section">
-		<h2>{{ sectionTitle }}</h2>
+		<h2 class="section__title">
+			{{ sectionTitle }}
+		</h2>
 
 		<UIMessage :message-text="messageText" />
 

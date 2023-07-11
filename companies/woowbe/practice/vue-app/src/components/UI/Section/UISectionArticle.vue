@@ -1,15 +1,18 @@
 <template>
 	<article>
-		<details class="section__details">
+		<details class="details">
 			<UISectionArticleTitle
-				class="section__summary"
+				class="details__summary"
 				tag-name="summary"
 				:result-value="resultValue"
 				:result-index="resultIndex"
 				:result-page="resultPage"
 				:section-name="sectionName"
 			/>
-			<UISectionArticleContent :result-value="resultValue" />
+			<UISectionArticleContent
+				class="details__content"
+				:result-value="resultValue"
+			/>
 		</details>
 	</article>
 </template>

@@ -1,9 +1,13 @@
 <template>
-	<component :is="getPropertyHtmlTag">
-		<h3 class="section__title">
+	<component
+		:is="getPropertyHtmlTag"
+		class="summary"
+	>
+		<h3 class="summary__title summary__item">
 			<span>#{{ getResultIndex(resultIndex, resultPage) }}</span>
 			<template v-if="sectionName === 'sales'">
 				<UIProperty
+					class="summary__icon-name"
 					:property-paragraph="false"
 					property-index="icon"
 					:property-name="resultValueSaved?.business?.sector?.name"
@@ -12,18 +16,23 @@
 			</template>
 			<template v-if="sectionName === 'business'">
 				<UIProperty
+					class="summary__icon-name"
 					:property-paragraph="false"
 					property-index="icon"
 					:property-name="resultValueSaved?.name"
 					:property-value="resultValueSaved?.sector?.icon"
 				/>
 			</template>
-			<span v-else>
+			<span
+				v-else
+				class="summary__name"
+			>
 				{{ resultValueSaved?.name }}
 			</span>
 		</h3>
 		<template v-if="sectionName === 'business'">
 			<UICheckbox
+				class="summary__filter summary__item"
 				:checkbox-name="`${sectionName}Favorite-${resultValueSaved.id}`"
 				checkbox-label="Favorite"
 				:checkbox-value="resultValueSaved.is_favorite"
@@ -32,6 +41,7 @@
 		</template>
 		<template v-if="sectionName === 'sales'">
 			<UICheckbox
+				class="summary__filter summary__item"
 				:checkbox-name="`${sectionName}Favorite-${resultValueSaved.id}`"
 				checkbox-label="Favorite"
 				:checkbox-value="resultValueSaved.business.is_favorite"
@@ -103,13 +113,11 @@
 </script>
 
 <style lang="scss" scoped>
-	.section {
-		&__summary {
-			cursor: pointer;
+	.summary {
+		cursor: pointer;
 
-			> * {
-				display: inline-block !important;
-			}
+		> * {
+			display: inline-block !important;
 		}
 
 		&__title {
