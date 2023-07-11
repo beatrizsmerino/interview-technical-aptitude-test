@@ -90,7 +90,7 @@
 			padding: 0.8rem;
 			border: 0.15rem solid $color-silver;
 			border-radius: 0.5rem;
-			background-color: $color-white;
+			background-color: transparent;
 			color: $color-brand-1;
 			font-weight: 700;
 			cursor: pointer;
