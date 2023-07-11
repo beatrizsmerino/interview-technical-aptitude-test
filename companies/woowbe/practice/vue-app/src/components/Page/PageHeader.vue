@@ -103,7 +103,7 @@
 		}
 
 		&__link {
-			color: $color-brand-vue-2;
+			color: $color-brand-2;
 			font-weight: bold;
 
 			&.router-link-exact-active {
