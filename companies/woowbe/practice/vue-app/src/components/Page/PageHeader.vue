@@ -103,8 +103,11 @@
 		}
 
 		&__link {
+			padding: 0.5rem;
 			color: $color-brand-2;
+			font-size: 1.2rem;
 			font-weight: bold;
+			text-decoration: none;
 
 			&.router-link-exact-active {
 				color: $color-brand-1;
