@@ -109,7 +109,6 @@
 
 					&:hover {
 						background-color: mix($color-white, $color-brand-1, 10%);
-						color: $color-white;
 					}
 				}
 
@@ -118,7 +117,6 @@
 
 					&:hover {
 						background-color: mix($color-white, $color-brand-1, 10%);
-						color: $color-white;
 					}
 				}
 			}

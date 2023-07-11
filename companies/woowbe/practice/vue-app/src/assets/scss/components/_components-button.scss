@@ -23,7 +23,7 @@
 	transition: transform 0.2s;
 
 	&:hover {
-		background-color: $color-brand-1;
+		background-color: mix($color-black, $color-brand-2, 15%);
 	}
 
 	&:active {

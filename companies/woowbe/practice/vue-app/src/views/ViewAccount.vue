@@ -80,7 +80,7 @@
 			padding: 2rem;
 			overflow: hidden;
 			border-radius: 0.5rem;
-			background-color: mix($color-white, $color-brand-2, 95%);
+			background-color: mix($color-white, $color-brand-2, 80%);
 			box-shadow: mix($color-white, $color-brand-2, 90%) 0.5rem 0.5rem;
 
 			&:nth-child(1) {

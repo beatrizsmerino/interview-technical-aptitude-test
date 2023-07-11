@@ -50,7 +50,7 @@
 		width: 100%;
 		padding: 1rem 3rem;
 		transition: all 0.5s ease-in-out;
-		color: $color-brand-2;
+		color: $color-black;
 		font-size: 1.2rem;
 		font-weight: 700;
 		text-align: center;

@@ -70,12 +70,12 @@
 			&:checked {
 				+ .checkbox {
 					&__label {
-						color: $color-brand-1;
+						color: $color-brand-2;
 
 						&:before {
 							transform: translate(0, -50%) scale(1);
-							border-color: $color-brand-1;
-							background-color: $color-brand-1;
+							border-color: $color-brand-2;
+							background-color: $color-brand-2;
 							background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='192' height='192' fill='%23FFFFFF' viewBox='0 0 256 256'%3E%3Crect width='256' height='256' fill='none'%3E%3C/rect%3E%3Cpolyline points='216 72.005 104 184 48 128.005' fill='none' stroke='%23FFFFFF' stroke-linecap='round' stroke-linejoin='round' stroke-width='32'%3E%3C/polyline%3E%3C/svg%3E");
 						}
 

@@ -110,7 +110,7 @@
 			text-decoration: none;
 
 			&.router-link-exact-active {
-				color: $color-brand-1;
+				color: $color-black;
 			}
 		}
 	}

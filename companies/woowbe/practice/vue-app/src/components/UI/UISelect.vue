@@ -91,7 +91,7 @@
 			border: 0.15rem solid $color-silver;
 			border-radius: 0.5rem;
 			background-color: transparent;
-			color: $color-brand-1;
+			color: $color-brand-2;
 			font-weight: 700;
 			cursor: pointer;
 			appearance: none;
