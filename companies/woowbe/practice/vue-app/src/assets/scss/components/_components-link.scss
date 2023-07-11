@@ -5,13 +5,13 @@
 .link {
 	position: relative;
 	text-decoration: none;
-	color: $color-brand-vue-2;
+	color: $color-brand-2;
 	font-weight: 900;
 	place-self: center;
 	background-clip: text;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-	background-image: linear-gradient(to right, $color-brand-vue-1, $color-brand-vue-1 50%, $color-brand-vue-2 50%);
+	background-image: linear-gradient(to right, $color-brand-1, $color-brand-1 50%, $color-brand-2 50%);
 	background-position: 100%;
 	background-size: 200% 100%;
 	cursor: pointer;
@@ -28,7 +28,7 @@
 		width: 100%;
 		height: 0.5rem;
 		border-radius: 0.5rem;
-		background-color: $color-brand-vue-4;
+		background-color: $color-brand-3;
 		transition: all 0.2s ease-in-out;
 	}
 
@@ -38,7 +38,7 @@
 		&:after {
 			width: 102%;
 			transform: translate(-50%, -50%);
-			background-color: mix($color-white, $color-brand-vue-4, 50%);
+			background-color: mix($color-white, $color-brand-3, 50%);
 		}
 	}
 }
