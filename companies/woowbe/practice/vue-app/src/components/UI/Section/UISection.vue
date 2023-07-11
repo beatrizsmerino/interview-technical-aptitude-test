@@ -46,7 +46,10 @@
 			/>
 		</template>
 
-		<UIMessage :message-text="messageText" />
+		<UIMessage
+			:message-text="messageText"
+			:message-status="messageStatus"
+		/>
 	</section>
 </template>
 
@@ -101,6 +104,7 @@
 				"sectorSelected": 0,
 				"favoriteSelected": false,
 				"messageText": "",
+				"messageStatus": "",
 			};
 		},
 		"computed": {
@@ -151,6 +155,7 @@
 					}
 				} catch (error) {
 					this.messageText = error.message;
+					this.messageStatus = "error";
 				}
 			},
 			async setData(data) {
