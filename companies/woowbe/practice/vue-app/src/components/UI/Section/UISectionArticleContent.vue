@@ -1,7 +1,7 @@
 <template>
 	<ul>
 		<li
-			v-for="(propertyValueLevel1, propertyNameLevel1) in resultValueSaved"
+			v-for="(propertyValueLevel1, propertyNameLevel1) in sortedResultValue"
 			:key="propertyNameLevel1"
 		>
 			<template v-if="isListObjectObject(propertyValueLevel1)">
@@ -64,12 +64,17 @@
 		},
 		data() {
 			return {
-				"resultValueSaved": { ...this.sortProperties(this.resultValue) },
+				"resultValueSaved": this.resultValue,
 			};
+		},
+		"computed": {
+			sortedResultValue() {
+				return this.sortProperties(this.resultValueSaved);
+			},
 		},
 		"watch": {
 			resultValue(newValue) {
-				this.resultValueSaved = JSON.parse(JSON.stringify(newValue));
+				this.resultValueSaved = newValue;
 			},
 		},
 	};
