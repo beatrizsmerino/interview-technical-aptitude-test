@@ -2,7 +2,7 @@
 	<UISection
 		section-name="business"
 		section-title="Business"
-		data-url="https://backend.dev.woowbe.com/api/v1/business/public/"
+		:data-url="dataDynamic"
 		:data-file="dataStatic"
 		:is-filtered="true"
 	/>
@@ -18,6 +18,7 @@
 		},
 		data() {
 			return {
+				"dataDynamic": "https://backend.dev.woowbe.com/api/v1/business/public/",
 				dataStatic,
 			};
 		},

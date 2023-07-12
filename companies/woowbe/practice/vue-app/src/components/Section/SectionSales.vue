@@ -2,7 +2,7 @@
 	<UISection
 		section-name="sales"
 		section-title="Points of sales"
-		data-url="https://backend.dev.woowbe.com/api/v1/points_of_sales/public/"
+		:data-url="dataDynamic"
 		:data-file="dataStatic"
 		:is-filtered="true"
 	/>
@@ -18,6 +18,7 @@
 		},
 		data() {
 			return {
+				"dataDynamic": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/",
 				dataStatic,
 			};
 		},
