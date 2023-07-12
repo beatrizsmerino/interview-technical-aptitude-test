@@ -140,6 +140,7 @@
 			}
 		},
 		"methods": {
+			// eslint-disable-next-line max-statements
 			async fetchData(url) {
 				try {
 					const response = await fetch(url, {
@@ -154,6 +155,13 @@
 
 						// await this.downloadData(data);
 					} else {
+						if (this.dataFile !== null) {
+							const page = new URL(url).searchParams.get("page") || 1;
+							const jsonFileName = `${page}.json`;
+							const { "default": jsonData } = await import(`@/assets/data/${this.sectionName}/${jsonFileName}`);
+							await this.setData(jsonData);
+							console.warn("Data is being obtained from static files");
+						}
 						throw new Error(`Error in obtaining ${this.sectionTitle.toLowerCase()} data`);
 					}
 				} catch (error) {
