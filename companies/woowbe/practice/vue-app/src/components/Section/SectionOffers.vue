@@ -2,14 +2,14 @@
 	<UISection
 		section-name="offers"
 		section-title="Offers"
-		data-api-url="https://backend.dev.woowbe.com/api/v1/offers/public/"
-		:data-file-test="dataTest"
+		data-url="https://backend.dev.woowbe.com/api/v1/offers/public/"
+		:data-file="dataStatic"
 		:is-filtered="false"
 	/>
 </template>
 
 <script>
-	import dataTest from "@/assets/data/offers/1.json";
+	import dataStatic from "@/assets/data/offers/1.json";
 	import UISection from "@/components/UI/Section/UISection";
 	export default {
 		"name": "SectionOffers",
@@ -18,7 +18,7 @@
 		},
 		data() {
 			return {
-				dataTest,
+				dataStatic,
 			};
 		},
 	};

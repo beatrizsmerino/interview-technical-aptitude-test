@@ -80,11 +80,11 @@
 				"type": String,
 				"required": true,
 			},
-			"dataApiUrl": {
+			"dataUrl": {
 				"type": String,
 				"required": true,
 			},
-			"dataFileTest": {
+			"dataFile": {
 				"type": Object,
 				"default": null,
 			},
@@ -133,10 +133,10 @@
 			},
 		},
 		async mounted() {
-			if (this.dataFileTest !== null) {
-				await this.setData(this.dataFileTest);
+			if (this.dataFile !== null) {
+				await this.setData(this.dataFile);
 			} else {
-				await this.fetchData(this.dataApiUrl);
+				await this.fetchData(this.dataUrl);
 			}
 		},
 		"methods": {
