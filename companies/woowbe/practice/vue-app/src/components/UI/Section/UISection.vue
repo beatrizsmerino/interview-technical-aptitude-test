@@ -151,7 +151,8 @@
 					if (response.ok) {
 						const data = await response.json();
 						await this.setData(data);
-						await this.downloadData(data);
+
+						// await this.downloadData(data);
 					} else {
 						throw new Error(`Error in obtaining ${this.sectionTitle.toLowerCase()} data`);
 					}
