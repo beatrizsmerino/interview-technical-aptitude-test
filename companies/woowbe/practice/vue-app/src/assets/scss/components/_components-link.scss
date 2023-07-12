@@ -11,7 +11,12 @@
 	background-clip: text;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-	background-image: linear-gradient(to right, $color-brand-1, $color-brand-1 50%, $color-brand-2 50%);
+	background-image: linear-gradient(
+		to right,
+		mix($color-black, $color-brand-2, 15%),
+		mix($color-black, $color-brand-2, 15%) 50%,
+		$color-brand-2 50%
+	);
 	background-position: 100%;
 	background-size: 200% 100%;
 	cursor: pointer;
