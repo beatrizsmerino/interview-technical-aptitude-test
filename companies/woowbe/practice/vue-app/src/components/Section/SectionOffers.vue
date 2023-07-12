@@ -3,6 +3,7 @@
 		section-name="offers"
 		section-title="Offers"
 		data-api-url="https://backend.dev.woowbe.com/api/v1/offers/public/"
+		:data-file-test="dataTest"
 		:is-filtered="false"
 	/>
 </template>
