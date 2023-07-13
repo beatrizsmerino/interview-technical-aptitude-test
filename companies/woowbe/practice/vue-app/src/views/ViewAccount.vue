@@ -80,11 +80,11 @@
 			padding: 2rem;
 			overflow: hidden;
 			border-radius: 0.5rem;
-			background-color: mix($color-white, $color-brand-2, 80%);
-			box-shadow: mix($color-white, $color-brand-2, 90%) 0.5rem 0.5rem;
 
 			&--business {
 				grid-area: 1 / 1 / 2 / 2;
+				background-color: mix($color-white, $color-brand-2, 80%);
+				box-shadow: mix($color-white, $color-brand-2, 70%) 0.5rem 0.5rem;
 
 				@include media("lg") {
 					grid-area: 1 / 1 / 2 / 3;
@@ -93,6 +93,8 @@
 
 			&--sales {
 				grid-area: 1 / 2 / 2 / 3;
+				background-color: mix($color-white, $color-brand-3, 80%);
+				box-shadow: mix($color-white, $color-brand-3, 70%) 0.5rem 0.5rem;
 
 				@include media("lg") {
 					grid-area: 2 / 1 / 3 / 3;
@@ -101,6 +103,8 @@
 
 			&--offers {
 				grid-area: 2 / 1 / 3 / 3;
+				background-color: mix($color-white, $color-brand-4, 80%);
+				box-shadow: mix($color-white, $color-brand-4, 40%) 0.5rem 0.5rem;
 
 				@include media("lg") {
 					grid-area: 3 / 1 / 4 / 3;

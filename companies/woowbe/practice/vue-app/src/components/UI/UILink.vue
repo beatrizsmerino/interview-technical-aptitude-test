@@ -46,15 +46,10 @@
 		z-index: 2;
 		transition: all 0.333s;
 		background-clip: text;
-		background-image: linear-gradient(
-			to right,
-			mix($color-black, $color-brand-2, 15%),
-			mix($color-black, $color-brand-2, 15%) 50%,
-			$color-brand-2 50%
-		);
+		background-image: linear-gradient(to right, $color-carbon, $color-carbon 50%, $color-carbon 50%);
 		background-position: 100%;
 		background-size: 200% 100%;
-		color: $color-brand-2;
+		color: $color-black;
 		font-weight: 900;
 		text-decoration: none;
 		cursor: pointer;
@@ -73,7 +68,7 @@
 			transform: translate(-50%, -30%);
 			transition: all 0.2s ease-in-out;
 			border-radius: 0.5rem;
-			background-color: $color-brand-3;
+			background-color: $color-white;
 		}
 
 		&:hover {
@@ -82,7 +77,7 @@
 			&:after {
 				width: 102%;
 				transform: translate(-50%, -50%);
-				background-color: mix($color-white, $color-brand-3, 50%);
+				background-color: mix($color-white, $color-carbon, 60%);
 			}
 		}
 
@@ -97,6 +92,66 @@
 			&:hover {
 				&:after {
 					background-color: mix($color-white, $color-brand-vue-4, 50%);
+				}
+			}
+		}
+
+		&--business {
+			background-image: linear-gradient(
+				to right,
+				mix($color-black, $color-brand-2, 15%),
+				mix($color-black, $color-brand-2, 15%) 50%,
+				$color-brand-2 50%
+			);
+			color: $color-brand-2;
+
+			&:after {
+				background-color: $color-white;
+			}
+
+			&:hover {
+				&:after {
+					background-color: mix($color-white, $color-brand-2, 60%);
+				}
+			}
+		}
+
+		&--sales {
+			background-image: linear-gradient(
+				to right,
+				mix($color-black, $color-brand-3, 15%),
+				mix($color-black, $color-brand-3, 15%) 50%,
+				$color-brand-3 50%
+			);
+			color: $color-brand-3;
+
+			&:after {
+				background-color: $color-white;
+			}
+
+			&:hover {
+				&:after {
+					background-color: mix($color-white, $color-brand-3, 60%);
+				}
+			}
+		}
+
+		&--offers {
+			background-image: linear-gradient(
+				to right,
+				mix($color-black, $color-brand-4, 30%),
+				mix($color-black, $color-brand-4, 30%) 50%,
+				mix($color-black, $color-brand-4, 15%) 50%
+			);
+			color: mix($color-black, $color-brand-4, 15%);
+
+			&:after {
+				background-color: $color-white;
+			}
+
+			&:hover {
+				&:after {
+					background-color: mix($color-white, $color-brand-4, 60%);
 				}
 			}
 		}

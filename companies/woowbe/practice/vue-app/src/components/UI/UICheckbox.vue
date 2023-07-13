@@ -84,12 +84,12 @@
 			&:checked {
 				+ .checkbox {
 					&__label {
-						color: $color-brand-2;
+						color: $color-black;
 
 						&:before {
 							transform: translate(0, -50%) scale(1);
-							border-color: $color-brand-2;
-							background-color: $color-brand-2;
+							border-color: $color-black;
+							background-color: $color-black;
 							background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='192' height='192' fill='%23FFFFFF' viewBox='0 0 256 256'%3E%3Crect width='256' height='256' fill='none'%3E%3C/rect%3E%3Cpolyline points='216 72.005 104 184 48 128.005' fill='none' stroke='%23FFFFFF' stroke-linecap='round' stroke-linejoin='round' stroke-width='32'%3E%3C/polyline%3E%3C/svg%3E");
 						}
 
@@ -145,10 +145,65 @@
 			}
 
 			&:hover {
-				border-color: $color-brand-1;
-
 				&:before {
 					transform: translate(0, -50%) scale(1.2);
+				}
+			}
+		}
+
+		&--business {
+			.checkbox {
+				&__field {
+					&:checked {
+						+ .checkbox {
+							&__label {
+								color: $color-brand-2;
+
+								&:before {
+									border-color: $color-brand-2;
+									background-color: $color-brand-2;
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+
+		&--sales {
+			.checkbox {
+				&__field {
+					&:checked {
+						+ .checkbox {
+							&__label {
+								color: $color-brand-3;
+
+								&:before {
+									border-color: $color-brand-3;
+									background-color: $color-brand-3;
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+
+		&--offers {
+			.checkbox {
+				&__field {
+					&:checked {
+						+ .checkbox {
+							&__label {
+								color: mix($color-black, $color-brand-4, 15%);
+
+								&:before {
+									border-color: mix($color-black, $color-brand-4, 15%);
+									background-color: mix($color-black, $color-brand-4, 15%);
+								}
+							}
+						}
+					}
 				}
 			}
 		}

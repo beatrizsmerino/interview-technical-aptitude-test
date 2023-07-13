@@ -59,7 +59,7 @@
 		border: 0.2rem solid transparent;
 		border-radius: 0.5rem;
 		outline: none;
-		background-color: $color-brand-2;
+		background-color: $color-metal;
 		box-shadow: 0 0 0 rgba($color-black, 0.2);
 		color: $color-white;
 		font-size: 1.2rem;
@@ -70,7 +70,7 @@
 		cursor: pointer;
 
 		&:hover {
-			background-color: mix($color-black, $color-brand-2, 15%);
+			background-color: $color-black;
 		}
 
 		&:active {
@@ -79,7 +79,7 @@
 		}
 
 		&:disabled {
-			background-color: mix($color-white, $color-brand-2, 50%);
+			background-color: $color-silver;
 			pointer-events: none;
 		}
 
@@ -87,6 +87,46 @@
 			padding: 0.2rem 0.5rem;
 			border-radius: 0.2rem;
 			font-size: 0.9rem;
+		}
+
+		&--business {
+			background-color: $color-brand-2;
+			color: $color-white;
+
+			&:hover {
+				background-color: mix($color-black, $color-brand-2, 15%);
+			}
+
+			&:disabled {
+				background-color: mix($color-white, $color-brand-2, 50%);
+			}
+		}
+
+		&--sales {
+			background-color: $color-brand-3;
+			color: $color-white;
+
+			&:hover {
+				background-color: mix($color-black, $color-brand-3, 15%);
+			}
+
+			&:disabled {
+				background-color: mix($color-white, $color-brand-3, 50%);
+			}
+		}
+
+		&--offers {
+			background-color: $color-brand-4;
+			color: $color-black;
+
+			&:hover {
+				background-color: mix($color-black, $color-brand-4, 15%);
+			}
+
+			&:disabled {
+				background-color: mix($color-white, $color-brand-4, 60%);
+				color: $color-silver;
+			}
 		}
 	}
 </style>

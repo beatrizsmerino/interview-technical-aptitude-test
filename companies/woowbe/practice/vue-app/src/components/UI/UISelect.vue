@@ -111,7 +111,7 @@
 			border: 0.15rem solid $color-silver;
 			border-radius: 0.5rem;
 			background-color: transparent;
-			color: $color-brand-2;
+			color: $color-black;
 			font-size: 1rem;
 			font-weight: 700;
 			cursor: pointer;
@@ -150,6 +150,30 @@
 					padding: 0.2rem 1.8rem 0.2rem 0.5rem;
 					border-radius: 0.2rem;
 					font-size: 0.9rem;
+				}
+			}
+		}
+
+		&--business {
+			.select {
+				&__field {
+					color: $color-brand-2;
+				}
+			}
+		}
+
+		&--sales {
+			.select {
+				&__field {
+					color: $color-brand-3;
+				}
+			}
+		}
+
+		&--offers {
+			.select {
+				&__field {
+					color: mix($color-black, $color-brand-4, 15%);
 				}
 			}
 		}

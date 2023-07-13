@@ -103,7 +103,7 @@
 
 		&__inner {
 			border-collapse: collapse;
-			border-bottom: 0.3rem solid $color-brand-2;
+			border-bottom: 0.3rem solid $color-black;
 		}
 
 		&__cell {
@@ -114,7 +114,7 @@
 		&__row {
 			&--header {
 				&:nth-child(odd) {
-					background-color: $color-brand-2;
+					background-color: $color-black;
 					color: $color-white;
 				}
 			}
@@ -124,7 +124,7 @@
 					background-color: $color-ghost;
 
 					&:hover {
-						background-color: mix($color-white, $color-brand-1, 10%);
+						background-color: mix($color-white, $color-black, 60%);
 					}
 				}
 
@@ -132,7 +132,112 @@
 					background-color: $color-white;
 
 					&:hover {
-						background-color: mix($color-white, $color-brand-1, 10%);
+						background-color: mix($color-white, $color-black, 60%);
+					}
+				}
+			}
+		}
+
+		&--business {
+			.table {
+				&__inner {
+					border-bottom: 0.3rem solid $color-brand-2;
+				}
+
+				&__row {
+					&--header {
+						&:nth-child(odd) {
+							background-color: $color-brand-2;
+							color: $color-white;
+						}
+					}
+
+					&--body {
+						&:nth-child(even) {
+							background-color: $color-ghost;
+
+							&:hover {
+								background-color: mix($color-white, $color-brand-2, 60%);
+							}
+						}
+
+						&:nth-child(odd) {
+							background-color: $color-white;
+
+							&:hover {
+								background-color: mix($color-white, $color-brand-2, 60%);
+							}
+						}
+					}
+				}
+			}
+		}
+
+		&--sales {
+			.table {
+				&__inner {
+					border-bottom: 0.3rem solid $color-brand-3;
+				}
+
+				&__row {
+					&--header {
+						&:nth-child(odd) {
+							background-color: $color-brand-3;
+							color: $color-white;
+						}
+					}
+
+					&--body {
+						&:nth-child(even) {
+							background-color: $color-ghost;
+
+							&:hover {
+								background-color: mix($color-white, $color-brand-3, 60%);
+							}
+						}
+
+						&:nth-child(odd) {
+							background-color: $color-white;
+
+							&:hover {
+								background-color: mix($color-white, $color-brand-3, 60%);
+							}
+						}
+					}
+				}
+			}
+		}
+
+		&--offers {
+			.table {
+				&__inner {
+					border-bottom: 0.3rem solid $color-brand-4;
+				}
+
+				&__row {
+					&--header {
+						&:nth-child(odd) {
+							background-color: $color-brand-4;
+							color: $color-black;
+						}
+					}
+
+					&--body {
+						&:nth-child(even) {
+							background-color: $color-ghost;
+
+							&:hover {
+								background-color: mix($color-white, $color-brand-4, 60%);
+							}
+						}
+
+						&:nth-child(odd) {
+							background-color: $color-white;
+
+							&:hover {
+								background-color: mix($color-white, $color-brand-4, 60%);
+							}
+						}
 					}
 				}
 			}
