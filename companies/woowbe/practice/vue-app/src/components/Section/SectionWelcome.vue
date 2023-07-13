@@ -113,7 +113,7 @@
 	import UILink from "@/components/UI/UILink";
 
 	export default {
-		"name": "SectionWellcome",
+		"name": "SectionWelcome",
 		"components": {
 			PageTitle,
 			UILink,
