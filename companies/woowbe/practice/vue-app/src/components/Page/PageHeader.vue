@@ -40,6 +40,10 @@
 						"path": "/login",
 					},
 					{
+						"name": "Logout",
+						"path": "/logout",
+					},
+					{
 						"name": "Account",
 						"path": "/account",
 					},
@@ -59,8 +63,9 @@
 						this.$router.push("/login");
 					}
 
-					return this.linkList.filter(link => link.name !== "Account");
+					return this.linkList.filter(link => link.name !== "Account" && link.name !== "Logout");
 				}
+
 				if (this.$route.path == "/login") {
 					this.$router.push("/account");
 				}

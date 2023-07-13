@@ -3,6 +3,7 @@ import VueRouter from "vue-router";
 import ViewAbout from "../views/ViewAbout.vue";
 import ViewHome from "../views/ViewHome.vue";
 import ViewLogin from "../views/ViewLogin.vue";
+import ViewLogout from "../views/ViewLogout.vue";
 import ViewAccount from "../views/ViewAccount.vue";
 
 Vue.use(VueRouter);
@@ -22,6 +23,11 @@ const routes = [
 		"path": "/login",
 		"name": "login",
 		"component": ViewLogin,
+	},
+	{
+		"path": "/logout",
+		"name": "logout",
+		"component": ViewLogout,
 	},
 	{
 		"path": "/account",
