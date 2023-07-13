@@ -83,7 +83,7 @@
 
 	export default {
 		"name": "UIProperty",
-		"component": {
+		"components": {
 			UILink,
 		},
 		"props": {
