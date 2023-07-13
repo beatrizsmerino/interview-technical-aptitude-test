@@ -1,6 +1,6 @@
 <template>
 	<label
-		class="checkbox"
+		:class="getCheckboxClass"
 		:for="checkboxName"
 	>
 		<input
@@ -23,6 +23,10 @@
 	export default {
 		"name": "UICheckbox",
 		"props": {
+			"checkboxSection": {
+				"type": String,
+				"default": "",
+			},
 			"checkboxName": {
 				"type": String,
 				"required": true,
@@ -40,6 +44,16 @@
 			return {
 				"checkboxSelected": this.checkboxValue,
 			};
+		},
+		"computed": {
+			getCheckboxClass() {
+				return {
+					"checkbox": true,
+					"checkbox--business": this.checkboxSection === "business",
+					"checkbox--offers": this.checkboxSection === "offers",
+					"checkbox--sales": this.checkboxSection === "sales",
+				};
+			},
 		},
 		"watch": {
 			checkboxValue(newValue) {

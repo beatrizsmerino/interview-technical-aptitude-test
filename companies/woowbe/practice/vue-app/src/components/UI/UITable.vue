@@ -1,5 +1,5 @@
 <template>
-	<div class="table">
+	<div :class="getPropertyClass">
 		<table class="table__inner">
 			<thead class="table__header">
 				<tr class="table__row table__row--header">
@@ -29,7 +29,10 @@
 							:key="tableHeader"
 							class="table__cell table__cell--body"
 						>
-							<UIProperty :property-value="tableRow[tableHeader]" />
+							<UIProperty
+								:property-section="tableSection"
+								:property-value="tableRow[tableHeader]"
+							/>
 						</td>
 					</template>
 				</tr>
@@ -47,6 +50,10 @@
 			UIProperty,
 		},
 		"props": {
+			"tableSection": {
+				"type": String,
+				"default": null,
+			},
 			"tableData": {
 				"type": [
 					Array,
@@ -69,6 +76,14 @@
 				return Array.isArray(this.tableData) ? this.tableData : [
 					this.tableData,
 				];
+			},
+			getPropertyClass() {
+				return {
+					"table": true,
+					"table--business": this.tableSection === "business",
+					"table--offers": this.tableSection === "offers",
+					"table--sales": this.tableSection === "sales",
+				};
 			},
 		},
 		"methods": {

@@ -57,6 +57,7 @@
 				class="property__link"
 			>
 				<UILink
+					:link-section="propertySection"
 					:link-url="propertyValue"
 					:link-text="propertyValue"
 					target="_blank"
@@ -84,6 +85,10 @@
 			UILink,
 		},
 		"props": {
+			"propertySection": {
+				"type": String,
+				"default": null,
+			},
 			"propertyParagraph": {
 				"type": Boolean,
 				"default": true,

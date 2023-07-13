@@ -13,6 +13,10 @@
 	export default {
 		"name": "UILink",
 		"props": {
+			"linkSection": {
+				"type": String,
+				"default": "",
+			},
 			"linkUrl": {
 				"type": String,
 				"required": true,
@@ -21,16 +25,15 @@
 				"type": String,
 				"required": true,
 			},
-			"linkSection": {
-				"type": String,
-				"default": "",
-			},
 		},
 		"computed": {
 			getLinkClass() {
 				return {
 					"link": true,
 					"link--vue": this.linkSection === "vue",
+					"link--business": this.linkSection === "business",
+					"link--offers": this.linkSection === "offers",
+					"link--sales": this.linkSection === "sales",
 				};
 			},
 		},

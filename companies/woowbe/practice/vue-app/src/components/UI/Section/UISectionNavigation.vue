@@ -5,12 +5,14 @@
 			<UIButton
 				button-text="Prev"
 				button-size="xs"
+				:button-section="sectionName"
 				:disabled="!resultPage.prev"
 				@click="fetchData(resultData.previous)"
 			/>
 			<UIButton
 				button-text="Next"
 				button-size="xs"
+				:button-section="sectionName"
 				:disabled="!resultPage.next"
 				@click="fetchData(resultData.next)"
 			/>
@@ -27,6 +29,10 @@
 			UIButton,
 		},
 		"props": {
+			"sectionName": {
+				"type": String,
+				"default": null,
+			},
 			"resultData": {
 				"type": Object,
 				"required": true,

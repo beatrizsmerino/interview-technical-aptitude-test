@@ -16,6 +16,7 @@
 					</li>
 					<li v-if="resultData.previous || resultData.next">
 						<UISectionNavigation
+							:section-name="sectionName"
 							:result-data="resultData"
 							:result-page="resultPage"
 							@fetch-data="fetchData"

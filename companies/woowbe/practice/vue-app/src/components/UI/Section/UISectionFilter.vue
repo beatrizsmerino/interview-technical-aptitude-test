@@ -6,6 +6,7 @@
 		<ul class="filter__list">
 			<li class="filter__item">
 				<UISelect
+					:select-section="sectionName"
 					:select-name="`${sectionName}Sector`"
 					:select-label="`Select a sector:`"
 					:select-options="getSectorList"
@@ -16,6 +17,7 @@
 			</li>
 			<li class="filter__item">
 				<UICheckbox
+					:checkbox-section="sectionName"
 					:checkbox-name="`${sectionName}Favorite`"
 					checkbox-label="Select favorites"
 					:checkbox-value="favoriteSelectedSaved"

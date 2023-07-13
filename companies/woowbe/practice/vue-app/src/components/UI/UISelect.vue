@@ -33,6 +33,10 @@
 	export default {
 		"name": "UISelect",
 		"props": {
+			"selectSection": {
+				"type": String,
+				"default": null,
+			},
 			"selectName": {
 				"type": String,
 				"required": true,
@@ -67,6 +71,9 @@
 				return {
 					"select": true,
 					"select--xs": this.selectSize === "xs",
+					"select--business": this.selectSection === "business",
+					"select--offers": this.selectSection === "offers",
+					"select--sales": this.selectSection === "sales",
 				};
 			},
 		},

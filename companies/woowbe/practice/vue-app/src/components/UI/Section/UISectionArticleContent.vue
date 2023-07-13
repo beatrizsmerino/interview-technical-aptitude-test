@@ -14,14 +14,21 @@
 					>
 						<template v-if="isListObject(propertyValueLevel2)">
 							<strong>{{ propertyNameLevel2 }}:</strong>
-							<UITable :table-data="propertyValueLevel2" />
+							<UITable
+								:table-section="sectionName"
+								:table-data="propertyValueLevel2"
+							/>
 						</template>
 						<template v-else-if="isListArrayObject(propertyValueLevel2)">
 							<strong>{{ propertyNameLevel2 }}:</strong>
-							<UITable :table-data="propertyValueLevel2" />
+							<UITable
+								:table-section="sectionName"
+								:table-data="propertyValueLevel2"
+							/>
 						</template>
 						<template v-else>
 							<UIProperty
+								:property-section="sectionName"
 								:property-name="propertyNameLevel2"
 								:property-value="propertyValueLevel2"
 							/>
@@ -31,14 +38,21 @@
 			</template>
 			<template v-else-if="isListObject(propertyValueLevel1)">
 				<strong>{{ propertyNameLevel1 }}:</strong>
-				<UITable :table-data="propertyValueLevel1" />
+				<UITable
+					:table-section="sectionName"
+					:table-data="propertyValueLevel1"
+				/>
 			</template>
 			<template v-else-if="isListArrayObject(propertyValueLevel1)">
 				<strong>{{ propertyNameLevel1 }}:</strong>
-				<UITable :table-data="propertyValueLevel1" />
+				<UITable
+					:table-section="sectionName"
+					:table-data="propertyValueLevel1"
+				/>
 			</template>
 			<template v-else>
 				<UIProperty
+					:property-section="sectionName"
 					:property-name="propertyNameLevel1"
 					:property-value="propertyValueLevel1"
 				/>
@@ -58,6 +72,10 @@
 			UITable,
 		},
 		"props": {
+			"sectionName": {
+				"type": String,
+				"default": null,
+			},
 			"resultValue": {
 				"type": Object,
 				"required": true,

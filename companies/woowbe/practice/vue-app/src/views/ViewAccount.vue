@@ -3,9 +3,9 @@
 		<PageTitle :title="pageTitle" />
 		<template v-if="getLoggedIn">
 			<div class="account__content">
-				<SectionBusiness class="account__section" />
-				<SectionSales class="account__section" />
-				<SectionOffers class="account__section" />
+				<SectionBusiness class="account__section account__section--business" />
+				<SectionSales class="account__section account__section--sales" />
+				<SectionOffers class="account__section account__section--offers" />
 			</div>
 			<UIMessage
 				message-text="Welcome to your account!"
@@ -83,7 +83,7 @@
 			background-color: mix($color-white, $color-brand-2, 80%);
 			box-shadow: mix($color-white, $color-brand-2, 90%) 0.5rem 0.5rem;
 
-			&:nth-child(1) {
+			&--business {
 				grid-area: 1 / 1 / 2 / 2;
 
 				@include media("lg") {
@@ -91,7 +91,7 @@
 				}
 			}
 
-			&:nth-child(2) {
+			&--sales {
 				grid-area: 1 / 2 / 2 / 3;
 
 				@include media("lg") {
@@ -99,7 +99,7 @@
 				}
 			}
 
-			&:nth-child(3) {
+			&--offers {
 				grid-area: 2 / 1 / 3 / 3;
 
 				@include media("lg") {

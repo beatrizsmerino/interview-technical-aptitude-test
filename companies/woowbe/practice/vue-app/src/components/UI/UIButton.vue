@@ -12,6 +12,10 @@
 	export default {
 		"name": "UIButton",
 		"props": {
+			"buttonSection": {
+				"type": String,
+				"default": null,
+			},
 			"buttonText": {
 				"type": String,
 				"required": true,
@@ -30,6 +34,9 @@
 				return {
 					"button": true,
 					"button--xs": this.buttonSize === "xs",
+					"button--business": this.buttonSection === "business",
+					"button--offers": this.buttonSection === "offers",
+					"button--sales": this.buttonSection === "sales",
 				};
 			},
 		},

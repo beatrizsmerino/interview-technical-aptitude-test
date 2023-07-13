@@ -12,6 +12,7 @@
 			<UISectionArticleContent
 				class="details__content"
 				:result-value="resultValue"
+				:section-name="sectionName"
 			/>
 		</details>
 	</article>

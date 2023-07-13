@@ -8,6 +8,7 @@
 			<template v-if="sectionName === 'sales'">
 				<UIProperty
 					class="summary__icon-name"
+					:property-section="sectionName"
 					:property-paragraph="false"
 					property-index="icon"
 					:property-name="resultValueSaved?.business?.sector?.name"
@@ -17,6 +18,7 @@
 			<template v-if="sectionName === 'business'">
 				<UIProperty
 					class="summary__icon-name"
+					:property-section="sectionName"
 					:property-paragraph="false"
 					property-index="icon"
 					:property-name="resultValueSaved?.name"
@@ -33,6 +35,7 @@
 		<template v-if="sectionName === 'business'">
 			<UICheckbox
 				class="summary__filter summary__item"
+				:checkbox-section="sectionName"
 				:checkbox-name="`${sectionName}Favorite-${resultValueSaved.id}`"
 				checkbox-label="Favorite"
 				:checkbox-value="resultValueSaved.is_favorite"
@@ -42,6 +45,7 @@
 		<template v-if="sectionName === 'sales'">
 			<UICheckbox
 				class="summary__filter summary__item"
+				:checkbox-section="sectionName"
 				:checkbox-name="`${sectionName}Favorite-${resultValueSaved.id}`"
 				checkbox-label="Favorite"
 				:checkbox-value="resultValueSaved.business.is_favorite"
