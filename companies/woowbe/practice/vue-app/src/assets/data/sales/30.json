@@ -1,1 +1,931 @@
-{"count":579,"next":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=31","previous":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=29","results":[{"id":488,"business":{"id":119,"name":"Brasa y Leña","country":null,"description":"Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.","url":"https://brasaylena.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":47,"name":"brasas","owner":null,"sector":null,"created":"2021-11-29T09:27:43.625917Z"},{"id":36,"name":"carne","owner":null,"sector":null,"created":"2021-10-25T11:59:13.899272Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/poqq","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:00:49.864858Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6132322,40.5405918]},"address":"Plaza del Comercio","number":"11-12","postal_code":"28703","state":"Madrid","city":"San Sebastián de los Reyes","merchants_count":0,"modified":"2023-03-17T08:01:57.997477Z","place_id":"ChIJ7SAd9AYtQg0RobBk0GPcaQg","formatted_address":"Pl. del Comercio, 11-12, 28703 San Sebastián de los Reyes, Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T10:05:30.688093Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":487,"business":{"id":119,"name":"Brasa y Leña","country":null,"description":"Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.","url":"https://brasaylena.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":47,"name":"brasas","owner":null,"sector":null,"created":"2021-11-29T09:27:43.625917Z"},{"id":36,"name":"carne","owner":null,"sector":null,"created":"2021-10-25T11:59:13.899272Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/poqq","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:00:49.864858Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7361155,40.3386624]},"address":"Avenida de Gran Bretaña","number":"s/n","postal_code":"28916","state":"Madrid","city":"Leganés","merchants_count":0,"modified":"2023-03-17T08:01:58.018110Z","place_id":"ChIJ5QFm91AnQg0R_hlFPHbUaYI","formatted_address":"Av. de Gran Bretaña, s/n, 28916 Leganés, Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T10:05:11.289758Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":486,"business":{"id":119,"name":"Brasa y Leña","country":null,"description":"Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.","url":"https://brasaylena.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":47,"name":"brasas","owner":null,"sector":null,"created":"2021-11-29T09:27:43.625917Z"},{"id":36,"name":"carne","owner":null,"sector":null,"created":"2021-10-25T11:59:13.899272Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/poqq","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:00:49.864858Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7374791,40.3637278]},"address":"Calle Calderilla","number":"1","postal_code":"28054","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:58.111209Z","place_id":"ChIJwwsdmnsnQg0Rzwydo1f4Foc","formatted_address":"C. Calderilla, 1, 28054 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T10:04:53.646165Z","selected_offer":{"id":220,"reward":"5.00","reward_type":"fixed","kind":"B","instant":false,"name":"Brasa y Leña 5€","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":60,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":485,"business":{"id":119,"name":"Brasa y Leña","country":null,"description":"Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.","url":"https://brasaylena.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":47,"name":"brasas","owner":null,"sector":null,"created":"2021-11-29T09:27:43.625917Z"},{"id":36,"name":"carne","owner":null,"sector":null,"created":"2021-10-25T11:59:13.899272Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/poqq","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:00:49.864858Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.5880913,40.4460129]},"address":"Calle de Aracne","number":"s / n","postal_code":"28022","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:58.219380Z","place_id":"ChIJiZHYaNovQg0RHLvzHcz13wY","formatted_address":"C. de Aracne, s / n, 28022 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T10:04:37.207596Z","selected_offer":{"id":220,"reward":"5.00","reward_type":"fixed","kind":"B","instant":false,"name":"Brasa y Leña 5€","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":60,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":484,"business":{"id":119,"name":"Brasa y Leña","country":null,"description":"Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.","url":"https://brasaylena.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":47,"name":"brasas","owner":null,"sector":null,"created":"2021-11-29T09:27:43.625917Z"},{"id":36,"name":"carne","owner":null,"sector":null,"created":"2021-10-25T11:59:13.899272Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/poqq","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:00:49.864858Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7014463,40.3911342]},"address":"Avenida del Manzanares","number":"210","postal_code":"28026","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:58.396842Z","place_id":"ChIJRzSAv0omQg0RncnBVFczTEY","formatted_address":"Av del Manzanares, 210, 28026 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T10:04:17.695332Z","selected_offer":{"id":220,"reward":"5.00","reward_type":"fixed","kind":"B","instant":false,"name":"Brasa y Leña 5€","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":60,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":483,"business":{"id":119,"name":"Brasa y Leña","country":null,"description":"Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.","url":"https://brasaylena.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":47,"name":"brasas","owner":null,"sector":null,"created":"2021-11-29T09:27:43.625917Z"},{"id":36,"name":"carne","owner":null,"sector":null,"created":"2021-10-25T11:59:13.899272Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/poqq","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:00:49.864858Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.5984745,40.37103]},"address":"Calle Adolfo Bioy Casares","number":"2","postal_code":"28051","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:58.509170Z","place_id":"ChIJ_-Zij94kQg0R4F3DpaXLt44","formatted_address":"C. Adolfo Bioy Casares, 2, 28051 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T10:03:59.621925Z","selected_offer":{"id":220,"reward":"5.00","reward_type":"fixed","kind":"B","instant":false,"name":"Brasa y Leña 5€","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":60,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":481,"business":{"id":119,"name":"Brasa y Leña","country":null,"description":"Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.","url":"https://brasaylena.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":47,"name":"brasas","owner":null,"sector":null,"created":"2021-11-29T09:27:43.625917Z"},{"id":36,"name":"carne","owner":null,"sector":null,"created":"2021-10-25T11:59:13.899272Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/poqq","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:00:49.864858Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.706612,40.4798268]},"address":"Avenida de Monforte de Lemos","number":"36","postal_code":"28029","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:58.711751Z","place_id":"ChIJZ26mIpwpQg0RGYOzSiBtRmY","formatted_address":"Av. de Monforte de Lemos, 36, 28029 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T10:02:52.763047Z","selected_offer":{"id":220,"reward":"5.00","reward_type":"fixed","kind":"B","instant":false,"name":"Brasa y Leña 5€","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":60,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":480,"business":{"id":119,"name":"Brasa y Leña","country":null,"description":"Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.","url":"https://brasaylena.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":47,"name":"brasas","owner":null,"sector":null,"created":"2021-11-29T09:27:43.625917Z"},{"id":36,"name":"carne","owner":null,"sector":null,"created":"2021-10-25T11:59:13.899272Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/poqq","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:00:49.864858Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.708943,40.4162139]},"address":"Plaza del Comandante las Morenas","number":"3","postal_code":"28013","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:58.825311Z","place_id":"ChIJlRR7OXkoQg0R1Ze9kX2KbMk","formatted_address":"Pl. del Comandante las Morenas, 3, 28013 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T10:02:36.119756Z","selected_offer":{"id":220,"reward":"5.00","reward_type":"fixed","kind":"B","instant":false,"name":"Brasa y Leña 5€","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":60,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":479,"business":{"id":118,"name":"New York Burger","country":{"id":3,"name":"España","code":"es"},"description":"Como tú, somos apasionados de la buena comida americana.\r\n\r\nDe aquí evolucionamos a la barbacoa, creando recetas auténticas americanas a base de brasa, madera y humo.\r\n\r\nEn NYB queremos verte disfrutar, sean cuáles sean tus gustos o principios. Por ello, nuestra apuesta más reciente es New York Green con ensaladas y bowls veganos y vegetarianos, que preparamos cada día con ingredientes frescos y de proximidad.","url":"https://newyorkburger.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-1-1.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-16-9.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/newyorkburger-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":87,"name":"adidas","owner":248,"sector":null,"created":"2022-11-15T16:16:47.536980Z"},{"id":46,"name":"americana","owner":null,"sector":null,"created":"2021-11-29T09:27:36.991965Z"},{"id":47,"name":"brasas","owner":null,"sector":null,"created":"2021-11-29T09:27:43.625917Z"},{"id":48,"name":"burger","owner":null,"sector":null,"created":"2021-11-29T09:27:58.948006Z"},{"id":39,"name":"ensaladas","owner":null,"sector":null,"created":"2021-10-25T12:45:54.528824Z"},{"id":37,"name":"hamburguesa","owner":null,"sector":null,"created":"2021-10-25T11:59:24.358507Z"},{"id":10,"name":"Healthy","owner":null,"sector":null,"created":"2021-10-21T14:33:37.426542Z"},{"id":49,"name":"niños","owner":118,"sector":null,"created":"2021-11-29T09:30:23.079267Z"},{"id":50,"name":"saludable","owner":118,"sector":null,"created":"2021-11-29T09:30:31.798207Z"},{"id":51,"name":"vegana","owner":118,"sector":null,"created":"2021-11-29T09:30:34.948300Z"},{"id":52,"name":"vegano","owner":118,"sector":null,"created":"2021-11-29T09:30:37.746041Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/Tcpk","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T09:28:59.442688Z","offers_count":3},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6576502,40.5191184]},"address":"Avenida de Europa","number":"10","postal_code":"28108","state":"Madrid","city":"Alcobendas","merchants_count":0,"modified":"2023-03-17T08:01:59.299779Z","place_id":"ChIJlywkenQsQg0RIrHb2b720rI","formatted_address":"Av. de Europa, 10, 28108 Alcobendas, Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T09:33:56.122425Z","selected_offer":{"id":400,"reward":"15.00","reward_type":"percentage","kind":"A","instant":false,"name":"Prueba franquicias","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":"2023-08-01"},"public_url":null,"is_open":false},{"id":478,"business":{"id":118,"name":"New York Burger","country":{"id":3,"name":"España","code":"es"},"description":"Como tú, somos apasionados de la buena comida americana.\r\n\r\nDe aquí evolucionamos a la barbacoa, creando recetas auténticas americanas a base de brasa, madera y humo.\r\n\r\nEn NYB queremos verte disfrutar, sean cuáles sean tus gustos o principios. Por ello, nuestra apuesta más reciente es New York Green con ensaladas y bowls veganos y vegetarianos, que preparamos cada día con ingredientes frescos y de proximidad.","url":"https://newyorkburger.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-1-1.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-16-9.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/newyorkburger-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":87,"name":"adidas","owner":248,"sector":null,"created":"2022-11-15T16:16:47.536980Z"},{"id":46,"name":"americana","owner":null,"sector":null,"created":"2021-11-29T09:27:36.991965Z"},{"id":47,"name":"brasas","owner":null,"sector":null,"created":"2021-11-29T09:27:43.625917Z"},{"id":48,"name":"burger","owner":null,"sector":null,"created":"2021-11-29T09:27:58.948006Z"},{"id":39,"name":"ensaladas","owner":null,"sector":null,"created":"2021-10-25T12:45:54.528824Z"},{"id":37,"name":"hamburguesa","owner":null,"sector":null,"created":"2021-10-25T11:59:24.358507Z"},{"id":10,"name":"Healthy","owner":null,"sector":null,"created":"2021-10-21T14:33:37.426542Z"},{"id":49,"name":"niños","owner":118,"sector":null,"created":"2021-11-29T09:30:23.079267Z"},{"id":50,"name":"saludable","owner":118,"sector":null,"created":"2021-11-29T09:30:31.798207Z"},{"id":51,"name":"vegana","owner":118,"sector":null,"created":"2021-11-29T09:30:34.948300Z"},{"id":52,"name":"vegano","owner":118,"sector":null,"created":"2021-11-29T09:30:37.746041Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/Tcpk","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T09:28:59.442688Z","offers_count":3},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6916087,40.4499767]},"address":"Paseo de la Castellana","number":"89","postal_code":"28046","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-04-27T08:15:49.476138Z","place_id":"ChIJY-0xQOMoQg0RA_YTj1Ro6MU","formatted_address":"P.º de la Castellana, 89, 28046 Madrid","deleted":true,"deleted_at":"2023-04-27T08:15:49.397716Z","created":"2021-11-29T09:33:21.968116Z","selected_offer":{"id":400,"reward":"15.00","reward_type":"percentage","kind":"A","instant":false,"name":"Prueba franquicias","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":"2023-08-01"},"public_url":null,"is_open":false}]}
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=31",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=29",
+	"results": [
+		{
+			"id": 488,
+			"business": {
+				"id": 119,
+				"name": "Brasa y Leña",
+				"country": null,
+				"description": "Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.",
+				"url": "https://brasaylena.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 36,
+						"name": "carne",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:13.899272Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/poqq",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:00:49.864858Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6132322,
+					40.5405918
+				]
+			},
+			"address": "Plaza del Comercio",
+			"number": "11-12",
+			"postal_code": "28703",
+			"state": "Madrid",
+			"city": "San Sebastián de los Reyes",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:57.997477Z",
+			"place_id": "ChIJ7SAd9AYtQg0RobBk0GPcaQg",
+			"formatted_address": "Pl. del Comercio, 11-12, 28703 San Sebastián de los Reyes, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T10:05:30.688093Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 487,
+			"business": {
+				"id": 119,
+				"name": "Brasa y Leña",
+				"country": null,
+				"description": "Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.",
+				"url": "https://brasaylena.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 36,
+						"name": "carne",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:13.899272Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/poqq",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:00:49.864858Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7361155,
+					40.3386624
+				]
+			},
+			"address": "Avenida de Gran Bretaña",
+			"number": "s/n",
+			"postal_code": "28916",
+			"state": "Madrid",
+			"city": "Leganés",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:58.018110Z",
+			"place_id": "ChIJ5QFm91AnQg0R_hlFPHbUaYI",
+			"formatted_address": "Av. de Gran Bretaña, s/n, 28916 Leganés, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T10:05:11.289758Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 486,
+			"business": {
+				"id": 119,
+				"name": "Brasa y Leña",
+				"country": null,
+				"description": "Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.",
+				"url": "https://brasaylena.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 36,
+						"name": "carne",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:13.899272Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/poqq",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:00:49.864858Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7374791,
+					40.3637278
+				]
+			},
+			"address": "Calle Calderilla",
+			"number": "1",
+			"postal_code": "28054",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:58.111209Z",
+			"place_id": "ChIJwwsdmnsnQg0Rzwydo1f4Foc",
+			"formatted_address": "C. Calderilla, 1, 28054 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T10:04:53.646165Z",
+			"selected_offer": {
+				"id": 220,
+				"reward": "5.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "Brasa y Leña 5€",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 60,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 485,
+			"business": {
+				"id": 119,
+				"name": "Brasa y Leña",
+				"country": null,
+				"description": "Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.",
+				"url": "https://brasaylena.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 36,
+						"name": "carne",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:13.899272Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/poqq",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:00:49.864858Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.5880913,
+					40.4460129
+				]
+			},
+			"address": "Calle de Aracne",
+			"number": "s / n",
+			"postal_code": "28022",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:58.219380Z",
+			"place_id": "ChIJiZHYaNovQg0RHLvzHcz13wY",
+			"formatted_address": "C. de Aracne, s / n, 28022 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T10:04:37.207596Z",
+			"selected_offer": {
+				"id": 220,
+				"reward": "5.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "Brasa y Leña 5€",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 60,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 484,
+			"business": {
+				"id": 119,
+				"name": "Brasa y Leña",
+				"country": null,
+				"description": "Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.",
+				"url": "https://brasaylena.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 36,
+						"name": "carne",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:13.899272Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/poqq",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:00:49.864858Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7014463,
+					40.3911342
+				]
+			},
+			"address": "Avenida del Manzanares",
+			"number": "210",
+			"postal_code": "28026",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:58.396842Z",
+			"place_id": "ChIJRzSAv0omQg0RncnBVFczTEY",
+			"formatted_address": "Av del Manzanares, 210, 28026 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T10:04:17.695332Z",
+			"selected_offer": {
+				"id": 220,
+				"reward": "5.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "Brasa y Leña 5€",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 60,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 483,
+			"business": {
+				"id": 119,
+				"name": "Brasa y Leña",
+				"country": null,
+				"description": "Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.",
+				"url": "https://brasaylena.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 36,
+						"name": "carne",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:13.899272Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/poqq",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:00:49.864858Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.5984745,
+					40.37103
+				]
+			},
+			"address": "Calle Adolfo Bioy Casares",
+			"number": "2",
+			"postal_code": "28051",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:58.509170Z",
+			"place_id": "ChIJ_-Zij94kQg0R4F3DpaXLt44",
+			"formatted_address": "C. Adolfo Bioy Casares, 2, 28051 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T10:03:59.621925Z",
+			"selected_offer": {
+				"id": 220,
+				"reward": "5.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "Brasa y Leña 5€",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 60,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 481,
+			"business": {
+				"id": 119,
+				"name": "Brasa y Leña",
+				"country": null,
+				"description": "Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.",
+				"url": "https://brasaylena.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 36,
+						"name": "carne",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:13.899272Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/poqq",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:00:49.864858Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.706612,
+					40.4798268
+				]
+			},
+			"address": "Avenida de Monforte de Lemos",
+			"number": "36",
+			"postal_code": "28029",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:58.711751Z",
+			"place_id": "ChIJZ26mIpwpQg0RGYOzSiBtRmY",
+			"formatted_address": "Av. de Monforte de Lemos, 36, 28029 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T10:02:52.763047Z",
+			"selected_offer": {
+				"id": 220,
+				"reward": "5.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "Brasa y Leña 5€",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 60,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 480,
+			"business": {
+				"id": 119,
+				"name": "Brasa y Leña",
+				"country": null,
+				"description": "Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.",
+				"url": "https://brasaylena.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 36,
+						"name": "carne",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:13.899272Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/poqq",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:00:49.864858Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.708943,
+					40.4162139
+				]
+			},
+			"address": "Plaza del Comandante las Morenas",
+			"number": "3",
+			"postal_code": "28013",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:58.825311Z",
+			"place_id": "ChIJlRR7OXkoQg0R1Ze9kX2KbMk",
+			"formatted_address": "Pl. del Comandante las Morenas, 3, 28013 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T10:02:36.119756Z",
+			"selected_offer": {
+				"id": 220,
+				"reward": "5.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "Brasa y Leña 5€",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 60,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 479,
+			"business": {
+				"id": 118,
+				"name": "New York Burger",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Como tú, somos apasionados de la buena comida americana.\r\n\r\nDe aquí evolucionamos a la barbacoa, creando recetas auténticas americanas a base de brasa, madera y humo.\r\n\r\nEn NYB queremos verte disfrutar, sean cuáles sean tus gustos o principios. Por ello, nuestra apuesta más reciente es New York Green con ensaladas y bowls veganos y vegetarianos, que preparamos cada día con ingredientes frescos y de proximidad.",
+				"url": "https://newyorkburger.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-1-1.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-16-9.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/newyorkburger-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 87,
+						"name": "adidas",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:47.536980Z"
+					},
+					{
+						"id": 46,
+						"name": "americana",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:36.991965Z"
+					},
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 48,
+						"name": "burger",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:58.948006Z"
+					},
+					{
+						"id": 39,
+						"name": "ensaladas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T12:45:54.528824Z"
+					},
+					{
+						"id": 37,
+						"name": "hamburguesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:24.358507Z"
+					},
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 49,
+						"name": "niños",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:23.079267Z"
+					},
+					{
+						"id": 50,
+						"name": "saludable",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:31.798207Z"
+					},
+					{
+						"id": 51,
+						"name": "vegana",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:34.948300Z"
+					},
+					{
+						"id": 52,
+						"name": "vegano",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:37.746041Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Tcpk",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T09:28:59.442688Z",
+				"offers_count": 3
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6576502,
+					40.5191184
+				]
+			},
+			"address": "Avenida de Europa",
+			"number": "10",
+			"postal_code": "28108",
+			"state": "Madrid",
+			"city": "Alcobendas",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:59.299779Z",
+			"place_id": "ChIJlywkenQsQg0RIrHb2b720rI",
+			"formatted_address": "Av. de Europa, 10, 28108 Alcobendas, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T09:33:56.122425Z",
+			"selected_offer": {
+				"id": 400,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Prueba franquicias",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-08-01"
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 478,
+			"business": {
+				"id": 118,
+				"name": "New York Burger",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Como tú, somos apasionados de la buena comida americana.\r\n\r\nDe aquí evolucionamos a la barbacoa, creando recetas auténticas americanas a base de brasa, madera y humo.\r\n\r\nEn NYB queremos verte disfrutar, sean cuáles sean tus gustos o principios. Por ello, nuestra apuesta más reciente es New York Green con ensaladas y bowls veganos y vegetarianos, que preparamos cada día con ingredientes frescos y de proximidad.",
+				"url": "https://newyorkburger.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-1-1.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-16-9.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/newyorkburger-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 87,
+						"name": "adidas",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:47.536980Z"
+					},
+					{
+						"id": 46,
+						"name": "americana",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:36.991965Z"
+					},
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 48,
+						"name": "burger",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:58.948006Z"
+					},
+					{
+						"id": 39,
+						"name": "ensaladas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T12:45:54.528824Z"
+					},
+					{
+						"id": 37,
+						"name": "hamburguesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:24.358507Z"
+					},
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 49,
+						"name": "niños",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:23.079267Z"
+					},
+					{
+						"id": 50,
+						"name": "saludable",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:31.798207Z"
+					},
+					{
+						"id": 51,
+						"name": "vegana",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:34.948300Z"
+					},
+					{
+						"id": 52,
+						"name": "vegano",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:37.746041Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Tcpk",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T09:28:59.442688Z",
+				"offers_count": 3
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6916087,
+					40.4499767
+				]
+			},
+			"address": "Paseo de la Castellana",
+			"number": "89",
+			"postal_code": "28046",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-04-27T08:15:49.476138Z",
+			"place_id": "ChIJY-0xQOMoQg0RA_YTj1Ro6MU",
+			"formatted_address": "P.º de la Castellana, 89, 28046 Madrid",
+			"deleted": true,
+			"deleted_at": "2023-04-27T08:15:49.397716Z",
+			"created": "2021-11-29T09:33:21.968116Z",
+			"selected_offer": {
+				"id": 400,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Prueba franquicias",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-08-01"
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

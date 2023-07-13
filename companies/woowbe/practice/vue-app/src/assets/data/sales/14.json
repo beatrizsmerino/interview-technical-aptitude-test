@@ -1,1 +1,833 @@
-{"count":579,"next":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=15","previous":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=13","results":[{"id":683,"business":{"id":184,"name":"Floristeria MariPepis QA","country":{"id":3,"name":"España","code":"es"},"description":"Floristeria con todo tipo de flores.","url":"http://www.floristeriamaripepis.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_wRtqmQ7.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1662040876.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J8HYh2d.jpg","sector":{"id":42,"name":"Floristerias","icon":null,"created":"2022-09-01T14:00:20.722960Z"},"descriptive_categories":[{"id":70,"name":"flores","owner":null,"sector":42,"created":"2022-09-01T14:00:58.674922Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/duMz","is_franchisee_of":null,"is_favorite":false,"created":"2022-09-01T13:51:53.835339Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.687231,40.4627752]},"address":"Calle de Juan Ramón Jiménez","number":"45","postal_code":"28036","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:22.902574Z","place_id":"ChIJs4JOjBkpQg0R1RUGRl7BYw8","formatted_address":"C. de Juan Ramón Jiménez, 45, 28036 Madrid","deleted":false,"deleted_at":null,"created":"2022-09-01T14:14:14.665958Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":682,"business":{"id":184,"name":"Floristeria MariPepis QA","country":{"id":3,"name":"España","code":"es"},"description":"Floristeria con todo tipo de flores.","url":"http://www.floristeriamaripepis.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_wRtqmQ7.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1662040876.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J8HYh2d.jpg","sector":{"id":42,"name":"Floristerias","icon":null,"created":"2022-09-01T14:00:20.722960Z"},"descriptive_categories":[{"id":70,"name":"flores","owner":null,"sector":42,"created":"2022-09-01T14:00:58.674922Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/duMz","is_franchisee_of":null,"is_favorite":false,"created":"2022-09-01T13:51:53.835339Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6492044,40.4679157]},"address":"Gran Vía de Hortaleza","number":"39","postal_code":"28043","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:23.607976Z","place_id":"ChIJQzMs_8QuQg0RxDrx_Op8Ock","formatted_address":"Gran Vía de Hortaleza, 39, 28043 Madrid","deleted":false,"deleted_at":null,"created":"2022-09-01T14:13:39.595355Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":670,"business":{"id":177,"name":"Cafeteria QA","country":{"id":3,"name":"España","code":"es"},"description":"Programa de Test QA","url":"http://aa.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg","sector":{"id":4,"name":"Bar","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg","created":"2021-05-25T10:47:46.399740Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"},{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":67,"name":"patata","owner":177,"sector":null,"created":"2022-08-22T13:01:31.983340Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/6AvW","is_franchisee_of":null,"is_favorite":false,"created":"2022-08-17T07:16:21.305278Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6871925,40.4627777]},"address":"Calle de Juan Ramón Jiménez","number":"45","postal_code":"28036","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:23.937633Z","place_id":"ChIJB7GzjRkpQg0Rn3LkT8qcbhk","formatted_address":"C. de Juan Ramón Jiménez, 45, 28036 Madrid","deleted":false,"deleted_at":null,"created":"2022-08-26T11:25:26.445320Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":669,"business":{"id":177,"name":"Cafeteria QA","country":{"id":3,"name":"España","code":"es"},"description":"Programa de Test QA","url":"http://aa.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg","sector":{"id":4,"name":"Bar","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg","created":"2021-05-25T10:47:46.399740Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"},{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":67,"name":"patata","owner":177,"sector":null,"created":"2022-08-22T13:01:31.983340Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/6AvW","is_franchisee_of":null,"is_favorite":false,"created":"2022-08-17T07:16:21.305278Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6866272,40.4667069]},"address":"Calle de Mateo Inurria","number":"11","postal_code":"28036","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:23.969179Z","place_id":"ChIJ5wEwJxcpQg0RaEBXCas5kwE","formatted_address":"C. de Mateo Inurria, 11, 28036 Madrid","deleted":false,"deleted_at":null,"created":"2022-08-26T11:08:58.291781Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":668,"business":{"id":177,"name":"Cafeteria QA","country":{"id":3,"name":"España","code":"es"},"description":"Programa de Test QA","url":"http://aa.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg","sector":{"id":4,"name":"Bar","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg","created":"2021-05-25T10:47:46.399740Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"},{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":67,"name":"patata","owner":177,"sector":null,"created":"2022-08-22T13:01:31.983340Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/6AvW","is_franchisee_of":null,"is_favorite":false,"created":"2022-08-17T07:16:21.305278Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6782952,40.45725059999999]},"address":"Calle de Potosí","number":"13","postal_code":"28016","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:23.999493Z","place_id":"ChIJFQlG_SApQg0Rt-Azu3X5s3M","formatted_address":"Mercado de Chamartín, C. de Potosí, 13, Local exterior, 28016 Madrid","deleted":false,"deleted_at":null,"created":"2022-08-26T11:07:48.418189Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":667,"business":{"id":177,"name":"Cafeteria QA","country":{"id":3,"name":"España","code":"es"},"description":"Programa de Test QA","url":"http://aa.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg","sector":{"id":4,"name":"Bar","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg","created":"2021-05-25T10:47:46.399740Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"},{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":67,"name":"patata","owner":177,"sector":null,"created":"2022-08-22T13:01:31.983340Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/6AvW","is_franchisee_of":null,"is_favorite":false,"created":"2022-08-17T07:16:21.305278Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.67718,40.45166]},"address":"Avenida de Ramón y Cajal","number":"1","postal_code":"28016","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:24.109611Z","place_id":"ChIJLxTRf44oQg0R27WrOPP2ZsU","formatted_address":"Av. de Ramón y Cajal, 1, BAJO, 28016 Madrid","deleted":false,"deleted_at":null,"created":"2022-08-26T11:07:28.981697Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":663,"business":{"id":177,"name":"Cafeteria QA","country":{"id":3,"name":"España","code":"es"},"description":"Programa de Test QA","url":"http://aa.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg","sector":{"id":4,"name":"Bar","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg","created":"2021-05-25T10:47:46.399740Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"},{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":67,"name":"patata","owner":177,"sector":null,"created":"2022-08-22T13:01:31.983340Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/6AvW","is_franchisee_of":null,"is_favorite":false,"created":"2022-08-17T07:16:21.305278Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6491571,40.4638002]},"address":"Calle de Pegaso","number":"12","postal_code":"28043","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:24.921337Z","place_id":"ChIJLRtdfr8vQg0RrrkM38j-VjY","formatted_address":"C. de Pegaso, 12, 28043 Madrid","deleted":false,"deleted_at":null,"created":"2022-08-22T10:21:57.125451Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":661,"business":{"id":177,"name":"Cafeteria QA","country":{"id":3,"name":"España","code":"es"},"description":"Programa de Test QA","url":"http://aa.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg","sector":{"id":4,"name":"Bar","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg","created":"2021-05-25T10:47:46.399740Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"},{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":67,"name":"patata","owner":177,"sector":null,"created":"2022-08-22T13:01:31.983340Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/6AvW","is_franchisee_of":null,"is_favorite":false,"created":"2022-08-17T07:16:21.305278Z","offers_count":0},"online":true,"url":"http://www.test.com","position":null,"address":null,"number":null,"postal_code":null,"state":null,"city":null,"merchants_count":0,"modified":"2023-03-17T08:01:25.494818Z","place_id":null,"formatted_address":"","deleted":false,"deleted_at":null,"created":"2022-08-22T10:16:19.309703Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":"www.test.com","is_open":false},{"id":656,"business":{"id":178,"name":"Mahourizio","country":{"id":3,"name":"España","code":"es"},"description":"Test de Maurizio","url":"http://maurizio.es","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_a1ZviDm.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631745.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_SNLXm9U.jpg","sector":{"id":4,"name":"Bar","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg","created":"2021-05-25T10:47:46.399740Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"},{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":40,"name":"peinado","owner":null,"sector":null,"created":"2021-10-25T13:02:38.018824Z"},{"id":42,"name":"pelo","owner":null,"sector":44,"created":"2021-10-25T13:02:49.420892Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/2Q2J","is_franchisee_of":null,"is_favorite":false,"created":"2022-08-17T07:49:52.020588Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7057668,40.4083453]},"address":"Calle de Rodas","number":"9","postal_code":"28005","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:25.574738Z","place_id":"ChIJPR_71EEnQg0RYKvl9hP6wzs","formatted_address":"C. de Rodas, 9, 28005 Madrid","deleted":false,"deleted_at":null,"created":"2022-08-17T14:39:05.772370Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":655,"business":{"id":133,"name":"RAWCOCO","country":{"id":3,"name":"España","code":"es"},"description":"RAWCOCO nace para responder a esta tendencia, ofreciendo una equilibrada carta de calidad saludable, con productos aún poco conocidos para muchas personas y con extraordinarias propiedades para la salud, para todos los gustos y edades; comprometidos igualmente con la necesidad de ser flexibles y amables en el proceso y distinto grado evolutivo de nuestros clientes en el mismo, en un contexto de cambio y de transitoriedad hacia un modelo de desarrollo, más sostenible y más coherente con la necesidad de encontrar en la conservación de la Salud y su prevención, la base del mismo.","url":"http://www.rawcoco.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/rawcoco-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638198240.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/rawcoco-portada.jpeg","sector":{"id":40,"name":"Healthy Food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/health.svg","created":"2021-11-29T15:03:51.168889Z"},"descriptive_categories":[{"id":10,"name":"Healthy","owner":null,"sector":null,"created":"2021-10-21T14:33:37.426542Z"},{"id":50,"name":"saludable","owner":118,"sector":null,"created":"2021-11-29T09:30:31.798207Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/gs5e","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T15:04:00.709554Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.68417,40.4601016]},"address":"Calle de Henri Dunant","number":"19","postal_code":"28036","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:25.629168Z","place_id":"ChIJZ7qExhgpQg0RigmcLaOCcEk","formatted_address":"C. de Henri Dunant, 19, 28036 Madrid","deleted":false,"deleted_at":null,"created":"2022-08-17T10:30:42.029574Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false}]}
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=15",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=13",
+	"results": [
+		{
+			"id": 683,
+			"business": {
+				"id": 184,
+				"name": "Floristeria MariPepis QA",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Floristeria con todo tipo de flores.",
+				"url": "http://www.floristeriamaripepis.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_wRtqmQ7.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1662040876.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J8HYh2d.jpg",
+				"sector": {
+					"id": 42,
+					"name": "Floristerias",
+					"icon": null,
+					"created": "2022-09-01T14:00:20.722960Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 70,
+						"name": "flores",
+						"owner": null,
+						"sector": 42,
+						"created": "2022-09-01T14:00:58.674922Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/duMz",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-09-01T13:51:53.835339Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.687231,
+					40.4627752
+				]
+			},
+			"address": "Calle de Juan Ramón Jiménez",
+			"number": "45",
+			"postal_code": "28036",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:22.902574Z",
+			"place_id": "ChIJs4JOjBkpQg0R1RUGRl7BYw8",
+			"formatted_address": "C. de Juan Ramón Jiménez, 45, 28036 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-09-01T14:14:14.665958Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 682,
+			"business": {
+				"id": 184,
+				"name": "Floristeria MariPepis QA",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Floristeria con todo tipo de flores.",
+				"url": "http://www.floristeriamaripepis.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_wRtqmQ7.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1662040876.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J8HYh2d.jpg",
+				"sector": {
+					"id": 42,
+					"name": "Floristerias",
+					"icon": null,
+					"created": "2022-09-01T14:00:20.722960Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 70,
+						"name": "flores",
+						"owner": null,
+						"sector": 42,
+						"created": "2022-09-01T14:00:58.674922Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/duMz",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-09-01T13:51:53.835339Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6492044,
+					40.4679157
+				]
+			},
+			"address": "Gran Vía de Hortaleza",
+			"number": "39",
+			"postal_code": "28043",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:23.607976Z",
+			"place_id": "ChIJQzMs_8QuQg0RxDrx_Op8Ock",
+			"formatted_address": "Gran Vía de Hortaleza, 39, 28043 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-09-01T14:13:39.595355Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 670,
+			"business": {
+				"id": 177,
+				"name": "Cafeteria QA",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Programa de Test QA",
+				"url": "http://aa.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg",
+				"sector": {
+					"id": 4,
+					"name": "Bar",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg",
+					"created": "2021-05-25T10:47:46.399740Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					},
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 67,
+						"name": "patata",
+						"owner": 177,
+						"sector": null,
+						"created": "2022-08-22T13:01:31.983340Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/6AvW",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-08-17T07:16:21.305278Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6871925,
+					40.4627777
+				]
+			},
+			"address": "Calle de Juan Ramón Jiménez",
+			"number": "45",
+			"postal_code": "28036",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:23.937633Z",
+			"place_id": "ChIJB7GzjRkpQg0Rn3LkT8qcbhk",
+			"formatted_address": "C. de Juan Ramón Jiménez, 45, 28036 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-08-26T11:25:26.445320Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 669,
+			"business": {
+				"id": 177,
+				"name": "Cafeteria QA",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Programa de Test QA",
+				"url": "http://aa.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg",
+				"sector": {
+					"id": 4,
+					"name": "Bar",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg",
+					"created": "2021-05-25T10:47:46.399740Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					},
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 67,
+						"name": "patata",
+						"owner": 177,
+						"sector": null,
+						"created": "2022-08-22T13:01:31.983340Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/6AvW",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-08-17T07:16:21.305278Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6866272,
+					40.4667069
+				]
+			},
+			"address": "Calle de Mateo Inurria",
+			"number": "11",
+			"postal_code": "28036",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:23.969179Z",
+			"place_id": "ChIJ5wEwJxcpQg0RaEBXCas5kwE",
+			"formatted_address": "C. de Mateo Inurria, 11, 28036 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-08-26T11:08:58.291781Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 668,
+			"business": {
+				"id": 177,
+				"name": "Cafeteria QA",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Programa de Test QA",
+				"url": "http://aa.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg",
+				"sector": {
+					"id": 4,
+					"name": "Bar",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg",
+					"created": "2021-05-25T10:47:46.399740Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					},
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 67,
+						"name": "patata",
+						"owner": 177,
+						"sector": null,
+						"created": "2022-08-22T13:01:31.983340Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/6AvW",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-08-17T07:16:21.305278Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6782952,
+					40.45725059999999
+				]
+			},
+			"address": "Calle de Potosí",
+			"number": "13",
+			"postal_code": "28016",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:23.999493Z",
+			"place_id": "ChIJFQlG_SApQg0Rt-Azu3X5s3M",
+			"formatted_address": "Mercado de Chamartín, C. de Potosí, 13, Local exterior, 28016 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-08-26T11:07:48.418189Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 667,
+			"business": {
+				"id": 177,
+				"name": "Cafeteria QA",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Programa de Test QA",
+				"url": "http://aa.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg",
+				"sector": {
+					"id": 4,
+					"name": "Bar",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg",
+					"created": "2021-05-25T10:47:46.399740Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					},
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 67,
+						"name": "patata",
+						"owner": 177,
+						"sector": null,
+						"created": "2022-08-22T13:01:31.983340Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/6AvW",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-08-17T07:16:21.305278Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.67718,
+					40.45166
+				]
+			},
+			"address": "Avenida de Ramón y Cajal",
+			"number": "1",
+			"postal_code": "28016",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:24.109611Z",
+			"place_id": "ChIJLxTRf44oQg0R27WrOPP2ZsU",
+			"formatted_address": "Av. de Ramón y Cajal, 1, BAJO, 28016 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-08-26T11:07:28.981697Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 663,
+			"business": {
+				"id": 177,
+				"name": "Cafeteria QA",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Programa de Test QA",
+				"url": "http://aa.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg",
+				"sector": {
+					"id": 4,
+					"name": "Bar",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg",
+					"created": "2021-05-25T10:47:46.399740Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					},
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 67,
+						"name": "patata",
+						"owner": 177,
+						"sector": null,
+						"created": "2022-08-22T13:01:31.983340Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/6AvW",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-08-17T07:16:21.305278Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6491571,
+					40.4638002
+				]
+			},
+			"address": "Calle de Pegaso",
+			"number": "12",
+			"postal_code": "28043",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:24.921337Z",
+			"place_id": "ChIJLRtdfr8vQg0RrrkM38j-VjY",
+			"formatted_address": "C. de Pegaso, 12, 28043 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-08-22T10:21:57.125451Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 661,
+			"business": {
+				"id": 177,
+				"name": "Cafeteria QA",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Programa de Test QA",
+				"url": "http://aa.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg",
+				"sector": {
+					"id": 4,
+					"name": "Bar",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg",
+					"created": "2021-05-25T10:47:46.399740Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					},
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 67,
+						"name": "patata",
+						"owner": 177,
+						"sector": null,
+						"created": "2022-08-22T13:01:31.983340Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/6AvW",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-08-17T07:16:21.305278Z",
+				"offers_count": 0
+			},
+			"online": true,
+			"url": "http://www.test.com",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:25.494818Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-08-22T10:16:19.309703Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": "www.test.com",
+			"is_open": false
+		},
+		{
+			"id": 656,
+			"business": {
+				"id": 178,
+				"name": "Mahourizio",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Test de Maurizio",
+				"url": "http://maurizio.es",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_a1ZviDm.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631745.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_SNLXm9U.jpg",
+				"sector": {
+					"id": 4,
+					"name": "Bar",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg",
+					"created": "2021-05-25T10:47:46.399740Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					},
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 40,
+						"name": "peinado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:38.018824Z"
+					},
+					{
+						"id": 42,
+						"name": "pelo",
+						"owner": null,
+						"sector": 44,
+						"created": "2021-10-25T13:02:49.420892Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/2Q2J",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-08-17T07:49:52.020588Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7057668,
+					40.4083453
+				]
+			},
+			"address": "Calle de Rodas",
+			"number": "9",
+			"postal_code": "28005",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:25.574738Z",
+			"place_id": "ChIJPR_71EEnQg0RYKvl9hP6wzs",
+			"formatted_address": "C. de Rodas, 9, 28005 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-08-17T14:39:05.772370Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 655,
+			"business": {
+				"id": 133,
+				"name": "RAWCOCO",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "RAWCOCO nace para responder a esta tendencia, ofreciendo una equilibrada carta de calidad saludable, con productos aún poco conocidos para muchas personas y con extraordinarias propiedades para la salud, para todos los gustos y edades; comprometidos igualmente con la necesidad de ser flexibles y amables en el proceso y distinto grado evolutivo de nuestros clientes en el mismo, en un contexto de cambio y de transitoriedad hacia un modelo de desarrollo, más sostenible y más coherente con la necesidad de encontrar en la conservación de la Salud y su prevención, la base del mismo.",
+				"url": "http://www.rawcoco.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/rawcoco-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638198240.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/rawcoco-portada.jpeg",
+				"sector": {
+					"id": 40,
+					"name": "Healthy Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/health.svg",
+					"created": "2021-11-29T15:03:51.168889Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 50,
+						"name": "saludable",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:31.798207Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/gs5e",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T15:04:00.709554Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.68417,
+					40.4601016
+				]
+			},
+			"address": "Calle de Henri Dunant",
+			"number": "19",
+			"postal_code": "28036",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:25.629168Z",
+			"place_id": "ChIJZ7qExhgpQg0RigmcLaOCcEk",
+			"formatted_address": "C. de Henri Dunant, 19, 28036 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-08-17T10:30:42.029574Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

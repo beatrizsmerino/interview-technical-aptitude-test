@@ -1,1 +1,765 @@
-{"count":579,"next":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=24","previous":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=22","results":[{"id":562,"business":{"id":132,"name":"Panaria","country":null,"description":"Es el sitio para llevar a tus hijos a merendar o donde comer un bocadillo con una cervecita.\r\nAdemás, si quieres darte un capricho puedes hacerlo con nuestra bollería de calidad o con nuestros batidos y smoothies.\r\nUna carta variada y fresca para que cada vez que nos visites puedas probar algo que combine con tu antojo del día.","url":"https://panariapanaderias.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/panaria-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197657.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/panaria-portada.webp","sector":{"id":19,"name":"Panadería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_I8A0AM0.svg","created":"2021-05-25T11:05:24.276505Z"},"descriptive_categories":[{"id":25,"name":"pan","owner":null,"sector":null,"created":"2021-10-21T21:05:17.331228Z"},{"id":23,"name":"panadería","owner":null,"sector":null,"created":"2021-10-21T21:04:59.592984Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/qXUY","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T14:54:17.332159Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6948245,40.4516626]},"address":"Calle de Orense","number":"26","postal_code":"28020","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:49.515186Z","place_id":"ChIJjf1pBP0oQg0RUdVwGA6wK0g","formatted_address":"C. de Orense, 26, 28020 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T14:56:01.907169Z","selected_offer":{"id":244,"reward":"10.00","reward_type":"percentage","kind":"A","instant":false,"name":"Panaria 10%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":561,"business":{"id":132,"name":"Panaria","country":null,"description":"Es el sitio para llevar a tus hijos a merendar o donde comer un bocadillo con una cervecita.\r\nAdemás, si quieres darte un capricho puedes hacerlo con nuestra bollería de calidad o con nuestros batidos y smoothies.\r\nUna carta variada y fresca para que cada vez que nos visites puedas probar algo que combine con tu antojo del día.","url":"https://panariapanaderias.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/panaria-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197657.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/panaria-portada.webp","sector":{"id":19,"name":"Panadería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_I8A0AM0.svg","created":"2021-05-25T11:05:24.276505Z"},"descriptive_categories":[{"id":25,"name":"pan","owner":null,"sector":null,"created":"2021-10-21T21:05:17.331228Z"},{"id":23,"name":"panadería","owner":null,"sector":null,"created":"2021-10-21T21:04:59.592984Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/qXUY","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T14:54:17.332159Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6874434,40.4543767]},"address":"Calle de Rafael Salgado","number":"19","postal_code":"28036","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:49.708494Z","place_id":"ChIJowM2AR4pQg0RYVHlnR8BviY","formatted_address":"C. de Rafael Salgado, 19, 28036 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T14:55:46.462117Z","selected_offer":{"id":244,"reward":"10.00","reward_type":"percentage","kind":"A","instant":false,"name":"Panaria 10%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":560,"business":{"id":132,"name":"Panaria","country":null,"description":"Es el sitio para llevar a tus hijos a merendar o donde comer un bocadillo con una cervecita.\r\nAdemás, si quieres darte un capricho puedes hacerlo con nuestra bollería de calidad o con nuestros batidos y smoothies.\r\nUna carta variada y fresca para que cada vez que nos visites puedas probar algo que combine con tu antojo del día.","url":"https://panariapanaderias.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/panaria-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197657.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/panaria-portada.webp","sector":{"id":19,"name":"Panadería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_I8A0AM0.svg","created":"2021-05-25T11:05:24.276505Z"},"descriptive_categories":[{"id":25,"name":"pan","owner":null,"sector":null,"created":"2021-10-21T21:05:17.331228Z"},{"id":23,"name":"panadería","owner":null,"sector":null,"created":"2021-10-21T21:04:59.592984Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/qXUY","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T14:54:17.332159Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6926126,40.454734]},"address":"Calle del Poeta Joan Maragall","number":"9","postal_code":"28020","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:49.896881Z","place_id":"ChIJh1v5TB0pQg0RgNdE9Pm0l8E","formatted_address":"C. del Poeta Joan Maragall, 9, 28020 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T14:55:33.174926Z","selected_offer":{"id":244,"reward":"10.00","reward_type":"percentage","kind":"A","instant":false,"name":"Panaria 10%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":559,"business":{"id":132,"name":"Panaria","country":null,"description":"Es el sitio para llevar a tus hijos a merendar o donde comer un bocadillo con una cervecita.\r\nAdemás, si quieres darte un capricho puedes hacerlo con nuestra bollería de calidad o con nuestros batidos y smoothies.\r\nUna carta variada y fresca para que cada vez que nos visites puedas probar algo que combine con tu antojo del día.","url":"https://panariapanaderias.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/panaria-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197657.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/panaria-portada.webp","sector":{"id":19,"name":"Panadería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_I8A0AM0.svg","created":"2021-05-25T11:05:24.276505Z"},"descriptive_categories":[{"id":25,"name":"pan","owner":null,"sector":null,"created":"2021-10-21T21:05:17.331228Z"},{"id":23,"name":"panadería","owner":null,"sector":null,"created":"2021-10-21T21:04:59.592984Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/qXUY","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T14:54:17.332159Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6966967,40.4629432]},"address":"Calle de Bravo Murillo","number":"304","postal_code":"28020","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:50.104432Z","place_id":"ChIJqxp16wUpQg0RpNx4OIJbbdE","formatted_address":"C. de Bravo Murillo, 304, 28020 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T14:55:11.363611Z","selected_offer":{"id":244,"reward":"10.00","reward_type":"percentage","kind":"A","instant":false,"name":"Panaria 10%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":558,"business":{"id":131,"name":"Makkila","country":null,"description":"Bienvenido a Makkila, tu casa de comidas sin reglas. Carta española con influencias del mundo.","url":"https://makkila.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/makkila-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197128.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/makkila-portada.png","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":61,"name":"española","owner":null,"sector":null,"created":"2021-11-29T14:45:24.792550Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/EFnh","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T14:45:28.299324Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6774665,40.4495455]},"address":"Calle del Príncipe de Vergara","number":"204","postal_code":"28002","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:50.315277Z","place_id":"ChIJt1teVNkoQg0R10TOih5ABBM","formatted_address":"C. del Príncipe de Vergara, 204, 28002 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T14:47:11.203982Z","selected_offer":{"id":243,"reward":"8.00","reward_type":"percentage","kind":"A","instant":false,"name":"Makkila 8%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":557,"business":{"id":131,"name":"Makkila","country":null,"description":"Bienvenido a Makkila, tu casa de comidas sin reglas. Carta española con influencias del mundo.","url":"https://makkila.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/makkila-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197128.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/makkila-portada.png","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":61,"name":"española","owner":null,"sector":null,"created":"2021-11-29T14:45:24.792550Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/EFnh","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T14:45:28.299324Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6937637,40.42918]},"address":"Calle Almagro","number":"22","postal_code":"28010","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:50.590474Z","place_id":"ChIJkf3r6I0oQg0RyIOsVkrjAxQ","formatted_address":"Calle Almagro, 22, 28010 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T14:46:57.959297Z","selected_offer":{"id":243,"reward":"8.00","reward_type":"percentage","kind":"A","instant":false,"name":"Makkila 8%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":556,"business":{"id":131,"name":"Makkila","country":null,"description":"Bienvenido a Makkila, tu casa de comidas sin reglas. Carta española con influencias del mundo.","url":"https://makkila.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/makkila-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197128.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/makkila-portada.png","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":61,"name":"española","owner":null,"sector":null,"created":"2021-11-29T14:45:24.792550Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/EFnh","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T14:45:28.299324Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6969996,40.4256998]},"address":"Calle de Fernando VI","number":"2","postal_code":"28004","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:50.709623Z","place_id":"ChIJr9sMJ48oQg0RQ8n_mwkzfKc","formatted_address":"C. de Fernando VI, 2, 28004 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T14:46:43.844515Z","selected_offer":{"id":243,"reward":"8.00","reward_type":"percentage","kind":"A","instant":false,"name":"Makkila 8%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":555,"business":{"id":131,"name":"Makkila","country":null,"description":"Bienvenido a Makkila, tu casa de comidas sin reglas. Carta española con influencias del mundo.","url":"https://makkila.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/makkila-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197128.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/makkila-portada.png","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":61,"name":"española","owner":null,"sector":null,"created":"2021-11-29T14:45:24.792550Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/EFnh","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T14:45:28.299324Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6824489,40.4305829]},"address":"Calle de Núñez de Balboa","number":"75","postal_code":"28001","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:50.902541Z","place_id":"ChIJ_ypTJr4oQg0Rjbzuwp7lzkM","formatted_address":"Calle de Núñez de Balboa, 75, 28001 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T14:46:26.821533Z","selected_offer":{"id":243,"reward":"8.00","reward_type":"percentage","kind":"A","instant":false,"name":"Makkila 8%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":554,"business":{"id":131,"name":"Makkila","country":null,"description":"Bienvenido a Makkila, tu casa de comidas sin reglas. Carta española con influencias del mundo.","url":"https://makkila.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/makkila-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197128.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/makkila-portada.png","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":61,"name":"española","owner":null,"sector":null,"created":"2021-11-29T14:45:24.792550Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/EFnh","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T14:45:28.299324Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6861546,40.4353049]},"address":"Calle Serrano","number":"110","postal_code":"28006","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:51.100775Z","place_id":"ChIJV7YCFOsoQg0RbQ-IIBTMElI","formatted_address":"C. Serrano, 110, 28006 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T14:46:12.997407Z","selected_offer":{"id":243,"reward":"8.00","reward_type":"percentage","kind":"A","instant":false,"name":"Makkila 8%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":553,"business":{"id":130,"name":"La Mafia","country":null,"description":"El Restaurante La Mafia se sienta a la mesa os ofrece, además de su cocina italiana, otros platos mediterráneos que harán las delicias de vuestro paladar. Disfrutad de una auténtica comida mafiosa que os transportará a una Italia llena de misterio y buen gusto. Dejaos seducir con su lujoso ambiente y transportaos a un bello rincón de Italia donde nadie os encuentre.","url":"https://lamafia.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/la-mafia-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638196750.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/la-mafia-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":20,"name":"italiano","owner":null,"sector":null,"created":"2021-10-21T20:22:55.462166Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/vRGn","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T14:39:10.204240Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6660473,40.4862986]},"address":"Avenida de Manoteras","number":"40","postal_code":"28050","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:51.302297Z","place_id":"ChIJVct6a1IpQg0R1kwkqXjukNo","formatted_address":"Av. de Manoteras, 40, 28050 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T14:41:27.328352Z","selected_offer":{"id":242,"reward":"6.00","reward_type":"percentage","kind":"A","instant":false,"name":"La Mafia 6%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false}]}
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=24",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=22",
+	"results": [
+		{
+			"id": 562,
+			"business": {
+				"id": 132,
+				"name": "Panaria",
+				"country": null,
+				"description": "Es el sitio para llevar a tus hijos a merendar o donde comer un bocadillo con una cervecita.\r\nAdemás, si quieres darte un capricho puedes hacerlo con nuestra bollería de calidad o con nuestros batidos y smoothies.\r\nUna carta variada y fresca para que cada vez que nos visites puedas probar algo que combine con tu antojo del día.",
+				"url": "https://panariapanaderias.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/panaria-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197657.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/panaria-portada.webp",
+				"sector": {
+					"id": 19,
+					"name": "Panadería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_I8A0AM0.svg",
+					"created": "2021-05-25T11:05:24.276505Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/qXUY",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T14:54:17.332159Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6948245,
+					40.4516626
+				]
+			},
+			"address": "Calle de Orense",
+			"number": "26",
+			"postal_code": "28020",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:49.515186Z",
+			"place_id": "ChIJjf1pBP0oQg0RUdVwGA6wK0g",
+			"formatted_address": "C. de Orense, 26, 28020 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T14:56:01.907169Z",
+			"selected_offer": {
+				"id": 244,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Panaria 10%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 561,
+			"business": {
+				"id": 132,
+				"name": "Panaria",
+				"country": null,
+				"description": "Es el sitio para llevar a tus hijos a merendar o donde comer un bocadillo con una cervecita.\r\nAdemás, si quieres darte un capricho puedes hacerlo con nuestra bollería de calidad o con nuestros batidos y smoothies.\r\nUna carta variada y fresca para que cada vez que nos visites puedas probar algo que combine con tu antojo del día.",
+				"url": "https://panariapanaderias.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/panaria-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197657.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/panaria-portada.webp",
+				"sector": {
+					"id": 19,
+					"name": "Panadería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_I8A0AM0.svg",
+					"created": "2021-05-25T11:05:24.276505Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/qXUY",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T14:54:17.332159Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6874434,
+					40.4543767
+				]
+			},
+			"address": "Calle de Rafael Salgado",
+			"number": "19",
+			"postal_code": "28036",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:49.708494Z",
+			"place_id": "ChIJowM2AR4pQg0RYVHlnR8BviY",
+			"formatted_address": "C. de Rafael Salgado, 19, 28036 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T14:55:46.462117Z",
+			"selected_offer": {
+				"id": 244,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Panaria 10%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 560,
+			"business": {
+				"id": 132,
+				"name": "Panaria",
+				"country": null,
+				"description": "Es el sitio para llevar a tus hijos a merendar o donde comer un bocadillo con una cervecita.\r\nAdemás, si quieres darte un capricho puedes hacerlo con nuestra bollería de calidad o con nuestros batidos y smoothies.\r\nUna carta variada y fresca para que cada vez que nos visites puedas probar algo que combine con tu antojo del día.",
+				"url": "https://panariapanaderias.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/panaria-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197657.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/panaria-portada.webp",
+				"sector": {
+					"id": 19,
+					"name": "Panadería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_I8A0AM0.svg",
+					"created": "2021-05-25T11:05:24.276505Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/qXUY",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T14:54:17.332159Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6926126,
+					40.454734
+				]
+			},
+			"address": "Calle del Poeta Joan Maragall",
+			"number": "9",
+			"postal_code": "28020",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:49.896881Z",
+			"place_id": "ChIJh1v5TB0pQg0RgNdE9Pm0l8E",
+			"formatted_address": "C. del Poeta Joan Maragall, 9, 28020 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T14:55:33.174926Z",
+			"selected_offer": {
+				"id": 244,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Panaria 10%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 559,
+			"business": {
+				"id": 132,
+				"name": "Panaria",
+				"country": null,
+				"description": "Es el sitio para llevar a tus hijos a merendar o donde comer un bocadillo con una cervecita.\r\nAdemás, si quieres darte un capricho puedes hacerlo con nuestra bollería de calidad o con nuestros batidos y smoothies.\r\nUna carta variada y fresca para que cada vez que nos visites puedas probar algo que combine con tu antojo del día.",
+				"url": "https://panariapanaderias.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/panaria-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197657.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/panaria-portada.webp",
+				"sector": {
+					"id": 19,
+					"name": "Panadería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_I8A0AM0.svg",
+					"created": "2021-05-25T11:05:24.276505Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/qXUY",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T14:54:17.332159Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6966967,
+					40.4629432
+				]
+			},
+			"address": "Calle de Bravo Murillo",
+			"number": "304",
+			"postal_code": "28020",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:50.104432Z",
+			"place_id": "ChIJqxp16wUpQg0RpNx4OIJbbdE",
+			"formatted_address": "C. de Bravo Murillo, 304, 28020 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T14:55:11.363611Z",
+			"selected_offer": {
+				"id": 244,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Panaria 10%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 558,
+			"business": {
+				"id": 131,
+				"name": "Makkila",
+				"country": null,
+				"description": "Bienvenido a Makkila, tu casa de comidas sin reglas. Carta española con influencias del mundo.",
+				"url": "https://makkila.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/makkila-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197128.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/makkila-portada.png",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 61,
+						"name": "española",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T14:45:24.792550Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/EFnh",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T14:45:28.299324Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6774665,
+					40.4495455
+				]
+			},
+			"address": "Calle del Príncipe de Vergara",
+			"number": "204",
+			"postal_code": "28002",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:50.315277Z",
+			"place_id": "ChIJt1teVNkoQg0R10TOih5ABBM",
+			"formatted_address": "C. del Príncipe de Vergara, 204, 28002 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T14:47:11.203982Z",
+			"selected_offer": {
+				"id": 243,
+				"reward": "8.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Makkila 8%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 557,
+			"business": {
+				"id": 131,
+				"name": "Makkila",
+				"country": null,
+				"description": "Bienvenido a Makkila, tu casa de comidas sin reglas. Carta española con influencias del mundo.",
+				"url": "https://makkila.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/makkila-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197128.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/makkila-portada.png",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 61,
+						"name": "española",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T14:45:24.792550Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/EFnh",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T14:45:28.299324Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6937637,
+					40.42918
+				]
+			},
+			"address": "Calle Almagro",
+			"number": "22",
+			"postal_code": "28010",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:50.590474Z",
+			"place_id": "ChIJkf3r6I0oQg0RyIOsVkrjAxQ",
+			"formatted_address": "Calle Almagro, 22, 28010 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T14:46:57.959297Z",
+			"selected_offer": {
+				"id": 243,
+				"reward": "8.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Makkila 8%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 556,
+			"business": {
+				"id": 131,
+				"name": "Makkila",
+				"country": null,
+				"description": "Bienvenido a Makkila, tu casa de comidas sin reglas. Carta española con influencias del mundo.",
+				"url": "https://makkila.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/makkila-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197128.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/makkila-portada.png",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 61,
+						"name": "española",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T14:45:24.792550Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/EFnh",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T14:45:28.299324Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6969996,
+					40.4256998
+				]
+			},
+			"address": "Calle de Fernando VI",
+			"number": "2",
+			"postal_code": "28004",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:50.709623Z",
+			"place_id": "ChIJr9sMJ48oQg0RQ8n_mwkzfKc",
+			"formatted_address": "C. de Fernando VI, 2, 28004 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T14:46:43.844515Z",
+			"selected_offer": {
+				"id": 243,
+				"reward": "8.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Makkila 8%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 555,
+			"business": {
+				"id": 131,
+				"name": "Makkila",
+				"country": null,
+				"description": "Bienvenido a Makkila, tu casa de comidas sin reglas. Carta española con influencias del mundo.",
+				"url": "https://makkila.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/makkila-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197128.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/makkila-portada.png",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 61,
+						"name": "española",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T14:45:24.792550Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/EFnh",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T14:45:28.299324Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6824489,
+					40.4305829
+				]
+			},
+			"address": "Calle de Núñez de Balboa",
+			"number": "75",
+			"postal_code": "28001",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:50.902541Z",
+			"place_id": "ChIJ_ypTJr4oQg0Rjbzuwp7lzkM",
+			"formatted_address": "Calle de Núñez de Balboa, 75, 28001 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T14:46:26.821533Z",
+			"selected_offer": {
+				"id": 243,
+				"reward": "8.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Makkila 8%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 554,
+			"business": {
+				"id": 131,
+				"name": "Makkila",
+				"country": null,
+				"description": "Bienvenido a Makkila, tu casa de comidas sin reglas. Carta española con influencias del mundo.",
+				"url": "https://makkila.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/makkila-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197128.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/makkila-portada.png",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 61,
+						"name": "española",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T14:45:24.792550Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/EFnh",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T14:45:28.299324Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6861546,
+					40.4353049
+				]
+			},
+			"address": "Calle Serrano",
+			"number": "110",
+			"postal_code": "28006",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:51.100775Z",
+			"place_id": "ChIJV7YCFOsoQg0RbQ-IIBTMElI",
+			"formatted_address": "C. Serrano, 110, 28006 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T14:46:12.997407Z",
+			"selected_offer": {
+				"id": 243,
+				"reward": "8.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Makkila 8%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 553,
+			"business": {
+				"id": 130,
+				"name": "La Mafia",
+				"country": null,
+				"description": "El Restaurante La Mafia se sienta a la mesa os ofrece, además de su cocina italiana, otros platos mediterráneos que harán las delicias de vuestro paladar. Disfrutad de una auténtica comida mafiosa que os transportará a una Italia llena de misterio y buen gusto. Dejaos seducir con su lujoso ambiente y transportaos a un bello rincón de Italia donde nadie os encuentre.",
+				"url": "https://lamafia.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/la-mafia-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638196750.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/la-mafia-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 20,
+						"name": "italiano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T20:22:55.462166Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/vRGn",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T14:39:10.204240Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6660473,
+					40.4862986
+				]
+			},
+			"address": "Avenida de Manoteras",
+			"number": "40",
+			"postal_code": "28050",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:51.302297Z",
+			"place_id": "ChIJVct6a1IpQg0R1kwkqXjukNo",
+			"formatted_address": "Av. de Manoteras, 40, 28050 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T14:41:27.328352Z",
+			"selected_offer": {
+				"id": 242,
+				"reward": "6.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "La Mafia 6%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

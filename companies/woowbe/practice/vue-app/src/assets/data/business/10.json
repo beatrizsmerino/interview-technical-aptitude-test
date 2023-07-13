@@ -1,1 +1,525 @@
-{"count":137,"next":"https://backend.dev.woowbe.com/api/v1/business/public/?page=11","previous":"https://backend.dev.woowbe.com/api/v1/business/public/?page=9","results":[{"id":217,"name":"Scalpers prueba","country":{"id":3,"name":"España","code":"es"},"description":"hjsdhjshdjsd","url":"https://www.scalpers.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_3XLleKF.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_BM0JE6D.jpg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_jJSjEhH.jpg","sector":{"id":9,"name":"Tienda de bebé","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/child.svg","created":"2021-05-25T11:00:26.206013Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"}],"return_period":30,"dynamic_link":"https://app.dev.woowbe.com/share/zuxE","is_franchisee_of":12,"is_favorite":false,"created":"2022-09-13T13:25:10.469393Z","selected_offer":null,"offers_count":0},{"id":218,"name":"Scalpers prueba 2","country":{"id":3,"name":"España","code":"es"},"description":"hjsdhjshdjsd","url":"https://www.scalpers.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_3XLleKF.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_BM0JE6D.jpg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_jJSjEhH.jpg","sector":{"id":9,"name":"Tienda de bebé","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/child.svg","created":"2021-05-25T11:00:26.206013Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"}],"return_period":30,"dynamic_link":"https://app.dev.woowbe.com/share/SxYT","is_franchisee_of":12,"is_favorite":false,"created":"2022-09-13T13:25:11.138773Z","selected_offer":null,"offers_count":0},{"id":220,"name":"Nuria comercio","country":null,"description":"","url":null,"square_picture":null,"widescreen_picture":null,"cover":null,"sector":null,"descriptive_categories":[],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/4Jep","is_franchisee_of":null,"is_favorite":false,"created":"2022-09-13T13:32:41.361518Z","selected_offer":null,"offers_count":0},{"id":221,"name":"Comercio Pilar","country":{"id":3,"name":"España","code":"es"},"description":"aaaa","url":"https://www.a.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ukH6r9K.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1660835863.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_7YXUFpi.jpg","sector":{"id":22,"name":"Alimentación animal","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg","created":"2021-05-25T11:07:08.658870Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"},{"id":67,"name":"patata","owner":177,"sector":null,"created":"2022-08-22T13:01:31.983340Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/qztb","is_franchisee_of":180,"is_favorite":false,"created":"2022-09-13T13:35:15.345051Z","selected_offer":null,"offers_count":0},{"id":222,"name":"Test Pilar","country":{"id":3,"name":"España","code":"es"},"description":"Programa de Test QA","url":"http://aa.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg","sector":{"id":34,"name":"Asociación empresarial","icon":null,"created":"2021-05-25T11:17:48.433219Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"},{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":67,"name":"patata","owner":177,"sector":null,"created":"2022-08-22T13:01:31.983340Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/YykC","is_franchisee_of":177,"is_favorite":false,"created":"2022-09-26T10:46:44.834290Z","selected_offer":null,"offers_count":0},{"id":223,"name":"Test Pilar","country":{"id":3,"name":"España","code":"es"},"description":"Programa de Test QA","url":"http://aa.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg","sector":{"id":34,"name":"Asociación empresarial","icon":null,"created":"2021-05-25T11:17:48.433219Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"},{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":67,"name":"patata","owner":177,"sector":null,"created":"2022-08-22T13:01:31.983340Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/rN1m","is_franchisee_of":177,"is_favorite":false,"created":"2022-09-29T08:11:32.610621Z","selected_offer":null,"offers_count":0},{"id":224,"name":"Scalpers prueba 3","country":{"id":3,"name":"España","code":"es"},"description":"Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\r\n¡Descubre la nueva colección online de Scalpers!","url":"https://www.scalpers.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg","sector":{"id":43,"name":"Tienda de ropa","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg","created":"2022-09-27T14:17:28.722813Z"},"descriptive_categories":[{"id":80,"name":"estilo","owner":null,"sector":43,"created":"2022-09-27T14:18:12.393840Z"},{"id":79,"name":"moda","owner":12,"sector":null,"created":"2022-09-27T14:18:03.512523Z"},{"id":78,"name":"ropa","owner":null,"sector":43,"created":"2022-09-27T14:17:59.578804Z"},{"id":77,"name":"ropa hombre","owner":12,"sector":null,"created":"2022-09-27T14:17:51.818605Z"},{"id":81,"name":"ropa mujer","owner":12,"sector":null,"created":"2022-09-27T14:18:16.628726Z"},{"id":82,"name":"ropa niños","owner":12,"sector":null,"created":"2022-09-27T14:18:21.910520Z"}],"return_period":30,"dynamic_link":"https://app.dev.woowbe.com/share/udhA","is_franchisee_of":12,"is_favorite":false,"created":"2022-10-03T14:30:08.723480Z","selected_offer":null,"offers_count":0},{"id":225,"name":"Scalpers prueba 4","country":{"id":3,"name":"España","code":"es"},"description":"Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\r\n¡Descubre la nueva colección online de Scalpers!","url":"https://www.scalpers.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg","sector":{"id":43,"name":"Tienda de ropa","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg","created":"2022-09-27T14:17:28.722813Z"},"descriptive_categories":[{"id":80,"name":"estilo","owner":null,"sector":43,"created":"2022-09-27T14:18:12.393840Z"},{"id":79,"name":"moda","owner":12,"sector":null,"created":"2022-09-27T14:18:03.512523Z"},{"id":78,"name":"ropa","owner":null,"sector":43,"created":"2022-09-27T14:17:59.578804Z"},{"id":77,"name":"ropa hombre","owner":12,"sector":null,"created":"2022-09-27T14:17:51.818605Z"},{"id":81,"name":"ropa mujer","owner":12,"sector":null,"created":"2022-09-27T14:18:16.628726Z"},{"id":82,"name":"ropa niños","owner":12,"sector":null,"created":"2022-09-27T14:18:21.910520Z"}],"return_period":30,"dynamic_link":"https://app.dev.woowbe.com/share/zG3u","is_franchisee_of":12,"is_favorite":false,"created":"2022-10-03T14:32:26.113193Z","selected_offer":null,"offers_count":0},{"id":226,"name":"Scalpers prueba 5","country":{"id":3,"name":"España","code":"es"},"description":"Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\r\n¡Descubre la nueva colección online de Scalpers!","url":"https://www.scalpers.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg","sector":{"id":43,"name":"Tienda de ropa","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg","created":"2022-09-27T14:17:28.722813Z"},"descriptive_categories":[{"id":80,"name":"estilo","owner":null,"sector":43,"created":"2022-09-27T14:18:12.393840Z"},{"id":79,"name":"moda","owner":12,"sector":null,"created":"2022-09-27T14:18:03.512523Z"},{"id":78,"name":"ropa","owner":null,"sector":43,"created":"2022-09-27T14:17:59.578804Z"},{"id":77,"name":"ropa hombre","owner":12,"sector":null,"created":"2022-09-27T14:17:51.818605Z"},{"id":81,"name":"ropa mujer","owner":12,"sector":null,"created":"2022-09-27T14:18:16.628726Z"},{"id":82,"name":"ropa niños","owner":12,"sector":null,"created":"2022-09-27T14:18:21.910520Z"}],"return_period":30,"dynamic_link":"https://app.dev.woowbe.com/share/z57m","is_franchisee_of":12,"is_favorite":false,"created":"2022-10-03T15:31:06.060904Z","selected_offer":null,"offers_count":0},{"id":227,"name":"Scalpers prueba 6","country":{"id":3,"name":"España","code":"es"},"description":"Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\r\n¡Descubre la nueva colección online de Scalpers!","url":"https://www.scalpers.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg","sector":{"id":43,"name":"Tienda de ropa","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg","created":"2022-09-27T14:17:28.722813Z"},"descriptive_categories":[{"id":80,"name":"estilo","owner":null,"sector":43,"created":"2022-09-27T14:18:12.393840Z"},{"id":79,"name":"moda","owner":12,"sector":null,"created":"2022-09-27T14:18:03.512523Z"},{"id":78,"name":"ropa","owner":null,"sector":43,"created":"2022-09-27T14:17:59.578804Z"},{"id":77,"name":"ropa hombre","owner":12,"sector":null,"created":"2022-09-27T14:17:51.818605Z"},{"id":81,"name":"ropa mujer","owner":12,"sector":null,"created":"2022-09-27T14:18:16.628726Z"},{"id":82,"name":"ropa niños","owner":12,"sector":null,"created":"2022-09-27T14:18:21.910520Z"}],"return_period":30,"dynamic_link":"https://app.dev.woowbe.com/share/wYe9","is_franchisee_of":12,"is_favorite":false,"created":"2022-10-03T15:33:52.374972Z","selected_offer":null,"offers_count":0}]}
+{
+	"count": 137,
+	"next": "https://backend.dev.woowbe.com/api/v1/business/public/?page=11",
+	"previous": "https://backend.dev.woowbe.com/api/v1/business/public/?page=9",
+	"results": [
+		{
+			"id": 217,
+			"name": "Scalpers prueba",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "hjsdhjshdjsd",
+			"url": "https://www.scalpers.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_3XLleKF.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_BM0JE6D.jpg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_jJSjEhH.jpg",
+			"sector": {
+				"id": 9,
+				"name": "Tienda de bebé",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/child.svg",
+				"created": "2021-05-25T11:00:26.206013Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 30,
+					"name": "afterwork",
+					"owner": null,
+					"sector": 4,
+					"created": "2021-10-24T10:04:24.581445Z"
+				}
+			],
+			"return_period": 30,
+			"dynamic_link": "https://app.dev.woowbe.com/share/zuxE",
+			"is_franchisee_of": 12,
+			"is_favorite": false,
+			"created": "2022-09-13T13:25:10.469393Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 218,
+			"name": "Scalpers prueba 2",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "hjsdhjshdjsd",
+			"url": "https://www.scalpers.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_3XLleKF.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_BM0JE6D.jpg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_jJSjEhH.jpg",
+			"sector": {
+				"id": 9,
+				"name": "Tienda de bebé",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/child.svg",
+				"created": "2021-05-25T11:00:26.206013Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 30,
+					"name": "afterwork",
+					"owner": null,
+					"sector": 4,
+					"created": "2021-10-24T10:04:24.581445Z"
+				}
+			],
+			"return_period": 30,
+			"dynamic_link": "https://app.dev.woowbe.com/share/SxYT",
+			"is_franchisee_of": 12,
+			"is_favorite": false,
+			"created": "2022-09-13T13:25:11.138773Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 220,
+			"name": "Nuria comercio",
+			"country": null,
+			"description": "",
+			"url": null,
+			"square_picture": null,
+			"widescreen_picture": null,
+			"cover": null,
+			"sector": null,
+			"descriptive_categories": [],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/4Jep",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2022-09-13T13:32:41.361518Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 221,
+			"name": "Comercio Pilar",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "aaaa",
+			"url": "https://www.a.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ukH6r9K.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1660835863.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_7YXUFpi.jpg",
+			"sector": {
+				"id": 22,
+				"name": "Alimentación animal",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg",
+				"created": "2021-05-25T11:07:08.658870Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 30,
+					"name": "afterwork",
+					"owner": null,
+					"sector": 4,
+					"created": "2021-10-24T10:04:24.581445Z"
+				},
+				{
+					"id": 67,
+					"name": "patata",
+					"owner": 177,
+					"sector": null,
+					"created": "2022-08-22T13:01:31.983340Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/qztb",
+			"is_franchisee_of": 180,
+			"is_favorite": false,
+			"created": "2022-09-13T13:35:15.345051Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 222,
+			"name": "Test Pilar",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "Programa de Test QA",
+			"url": "http://aa.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg",
+			"sector": {
+				"id": 34,
+				"name": "Asociación empresarial",
+				"icon": null,
+				"created": "2021-05-25T11:17:48.433219Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 30,
+					"name": "afterwork",
+					"owner": null,
+					"sector": 4,
+					"created": "2021-10-24T10:04:24.581445Z"
+				},
+				{
+					"id": 43,
+					"name": "barba",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-26T07:38:43.587103Z"
+				},
+				{
+					"id": 67,
+					"name": "patata",
+					"owner": 177,
+					"sector": null,
+					"created": "2022-08-22T13:01:31.983340Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/YykC",
+			"is_franchisee_of": 177,
+			"is_favorite": false,
+			"created": "2022-09-26T10:46:44.834290Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 223,
+			"name": "Test Pilar",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "Programa de Test QA",
+			"url": "http://aa.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg",
+			"sector": {
+				"id": 34,
+				"name": "Asociación empresarial",
+				"icon": null,
+				"created": "2021-05-25T11:17:48.433219Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 30,
+					"name": "afterwork",
+					"owner": null,
+					"sector": 4,
+					"created": "2021-10-24T10:04:24.581445Z"
+				},
+				{
+					"id": 43,
+					"name": "barba",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-26T07:38:43.587103Z"
+				},
+				{
+					"id": 67,
+					"name": "patata",
+					"owner": 177,
+					"sector": null,
+					"created": "2022-08-22T13:01:31.983340Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/rN1m",
+			"is_franchisee_of": 177,
+			"is_favorite": false,
+			"created": "2022-09-29T08:11:32.610621Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 224,
+			"name": "Scalpers prueba 3",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\r\n¡Descubre la nueva colección online de Scalpers!",
+			"url": "https://www.scalpers.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg",
+			"sector": {
+				"id": 43,
+				"name": "Tienda de ropa",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg",
+				"created": "2022-09-27T14:17:28.722813Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 80,
+					"name": "estilo",
+					"owner": null,
+					"sector": 43,
+					"created": "2022-09-27T14:18:12.393840Z"
+				},
+				{
+					"id": 79,
+					"name": "moda",
+					"owner": 12,
+					"sector": null,
+					"created": "2022-09-27T14:18:03.512523Z"
+				},
+				{
+					"id": 78,
+					"name": "ropa",
+					"owner": null,
+					"sector": 43,
+					"created": "2022-09-27T14:17:59.578804Z"
+				},
+				{
+					"id": 77,
+					"name": "ropa hombre",
+					"owner": 12,
+					"sector": null,
+					"created": "2022-09-27T14:17:51.818605Z"
+				},
+				{
+					"id": 81,
+					"name": "ropa mujer",
+					"owner": 12,
+					"sector": null,
+					"created": "2022-09-27T14:18:16.628726Z"
+				},
+				{
+					"id": 82,
+					"name": "ropa niños",
+					"owner": 12,
+					"sector": null,
+					"created": "2022-09-27T14:18:21.910520Z"
+				}
+			],
+			"return_period": 30,
+			"dynamic_link": "https://app.dev.woowbe.com/share/udhA",
+			"is_franchisee_of": 12,
+			"is_favorite": false,
+			"created": "2022-10-03T14:30:08.723480Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 225,
+			"name": "Scalpers prueba 4",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\r\n¡Descubre la nueva colección online de Scalpers!",
+			"url": "https://www.scalpers.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg",
+			"sector": {
+				"id": 43,
+				"name": "Tienda de ropa",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg",
+				"created": "2022-09-27T14:17:28.722813Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 80,
+					"name": "estilo",
+					"owner": null,
+					"sector": 43,
+					"created": "2022-09-27T14:18:12.393840Z"
+				},
+				{
+					"id": 79,
+					"name": "moda",
+					"owner": 12,
+					"sector": null,
+					"created": "2022-09-27T14:18:03.512523Z"
+				},
+				{
+					"id": 78,
+					"name": "ropa",
+					"owner": null,
+					"sector": 43,
+					"created": "2022-09-27T14:17:59.578804Z"
+				},
+				{
+					"id": 77,
+					"name": "ropa hombre",
+					"owner": 12,
+					"sector": null,
+					"created": "2022-09-27T14:17:51.818605Z"
+				},
+				{
+					"id": 81,
+					"name": "ropa mujer",
+					"owner": 12,
+					"sector": null,
+					"created": "2022-09-27T14:18:16.628726Z"
+				},
+				{
+					"id": 82,
+					"name": "ropa niños",
+					"owner": 12,
+					"sector": null,
+					"created": "2022-09-27T14:18:21.910520Z"
+				}
+			],
+			"return_period": 30,
+			"dynamic_link": "https://app.dev.woowbe.com/share/zG3u",
+			"is_franchisee_of": 12,
+			"is_favorite": false,
+			"created": "2022-10-03T14:32:26.113193Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 226,
+			"name": "Scalpers prueba 5",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\r\n¡Descubre la nueva colección online de Scalpers!",
+			"url": "https://www.scalpers.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg",
+			"sector": {
+				"id": 43,
+				"name": "Tienda de ropa",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg",
+				"created": "2022-09-27T14:17:28.722813Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 80,
+					"name": "estilo",
+					"owner": null,
+					"sector": 43,
+					"created": "2022-09-27T14:18:12.393840Z"
+				},
+				{
+					"id": 79,
+					"name": "moda",
+					"owner": 12,
+					"sector": null,
+					"created": "2022-09-27T14:18:03.512523Z"
+				},
+				{
+					"id": 78,
+					"name": "ropa",
+					"owner": null,
+					"sector": 43,
+					"created": "2022-09-27T14:17:59.578804Z"
+				},
+				{
+					"id": 77,
+					"name": "ropa hombre",
+					"owner": 12,
+					"sector": null,
+					"created": "2022-09-27T14:17:51.818605Z"
+				},
+				{
+					"id": 81,
+					"name": "ropa mujer",
+					"owner": 12,
+					"sector": null,
+					"created": "2022-09-27T14:18:16.628726Z"
+				},
+				{
+					"id": 82,
+					"name": "ropa niños",
+					"owner": 12,
+					"sector": null,
+					"created": "2022-09-27T14:18:21.910520Z"
+				}
+			],
+			"return_period": 30,
+			"dynamic_link": "https://app.dev.woowbe.com/share/z57m",
+			"is_franchisee_of": 12,
+			"is_favorite": false,
+			"created": "2022-10-03T15:31:06.060904Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 227,
+			"name": "Scalpers prueba 6",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\r\n¡Descubre la nueva colección online de Scalpers!",
+			"url": "https://www.scalpers.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg",
+			"sector": {
+				"id": 43,
+				"name": "Tienda de ropa",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg",
+				"created": "2022-09-27T14:17:28.722813Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 80,
+					"name": "estilo",
+					"owner": null,
+					"sector": 43,
+					"created": "2022-09-27T14:18:12.393840Z"
+				},
+				{
+					"id": 79,
+					"name": "moda",
+					"owner": 12,
+					"sector": null,
+					"created": "2022-09-27T14:18:03.512523Z"
+				},
+				{
+					"id": 78,
+					"name": "ropa",
+					"owner": null,
+					"sector": 43,
+					"created": "2022-09-27T14:17:59.578804Z"
+				},
+				{
+					"id": 77,
+					"name": "ropa hombre",
+					"owner": 12,
+					"sector": null,
+					"created": "2022-09-27T14:17:51.818605Z"
+				},
+				{
+					"id": 81,
+					"name": "ropa mujer",
+					"owner": 12,
+					"sector": null,
+					"created": "2022-09-27T14:18:16.628726Z"
+				},
+				{
+					"id": 82,
+					"name": "ropa niños",
+					"owner": 12,
+					"sector": null,
+					"created": "2022-09-27T14:18:21.910520Z"
+				}
+			],
+			"return_period": 30,
+			"dynamic_link": "https://app.dev.woowbe.com/share/wYe9",
+			"is_franchisee_of": 12,
+			"is_favorite": false,
+			"created": "2022-10-03T15:33:52.374972Z",
+			"selected_offer": null,
+			"offers_count": 0
+		}
+	]
+}

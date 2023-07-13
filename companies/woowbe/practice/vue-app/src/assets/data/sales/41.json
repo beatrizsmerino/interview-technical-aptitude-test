@@ -1,1 +1,689 @@
-{"count":579,"next":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=42","previous":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=40","results":[{"id":371,"business":{"id":106,"name":"Lateral","country":null,"description":"Lateral es un concepto de restaurantes diferente que combina las recetas más tradicionales con creaciones vanguardistas.","url":"https://www.lateral.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_Dw0X61I.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635151647.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_e0g2OVc.jpg","sector":{"id":38,"name":"Casual food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg","created":"2021-10-21T19:51:53.839559Z"},"descriptive_categories":[],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/SesU","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T08:38:22.315729Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7010569,40.4229847]},"address":"Calle de Fuencarral","number":"43","postal_code":"28004","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:15.944573Z","place_id":"ChIJAxMd2IcoQg0REmaRL7oGgL8","formatted_address":"Calle de Fuencarral, 43, 28004 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T08:54:42.970595Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":370,"business":{"id":106,"name":"Lateral","country":null,"description":"Lateral es un concepto de restaurantes diferente que combina las recetas más tradicionales con creaciones vanguardistas.","url":"https://www.lateral.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_Dw0X61I.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635151647.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_e0g2OVc.jpg","sector":{"id":38,"name":"Casual food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg","created":"2021-10-21T19:51:53.839559Z"},"descriptive_categories":[],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/SesU","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T08:38:22.315729Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6840741,40.4287133]},"address":"Calle de Velázquez","number":"57","postal_code":"28001","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:15.981698Z","place_id":"ChIJf4cMdpYoQg0RxYwpEy_I8rk","formatted_address":"C. de Velázquez, 57, 28001 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T08:48:42.314137Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":369,"business":{"id":106,"name":"Lateral","country":null,"description":"Lateral es un concepto de restaurantes diferente que combina las recetas más tradicionales con creaciones vanguardistas.","url":"https://www.lateral.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_Dw0X61I.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635151647.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_e0g2OVc.jpg","sector":{"id":38,"name":"Casual food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg","created":"2021-10-21T19:51:53.839559Z"},"descriptive_categories":[],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/SesU","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T08:38:22.315729Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6769775,40.459299]},"address":"Calle del Príncipe de Vergara","number":"285","postal_code":"28016","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:16.095434Z","place_id":"ChIJzaaSqCYpQg0RPvBfOSWJKqo","formatted_address":"C. del Príncipe de Vergara, 285, 28016 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T08:48:27.821214Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":368,"business":{"id":106,"name":"Lateral","country":null,"description":"Lateral es un concepto de restaurantes diferente que combina las recetas más tradicionales con creaciones vanguardistas.","url":"https://www.lateral.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_Dw0X61I.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635151647.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_e0g2OVc.jpg","sector":{"id":38,"name":"Casual food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg","created":"2021-10-21T19:51:53.839559Z"},"descriptive_categories":[],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/SesU","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T08:38:22.315729Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6876469,40.4333689]},"address":"Paseo de la Castellana","number":"42","postal_code":"28046","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:16.200223Z","place_id":"ChIJvQ1fVZMoQg0RHXrXkXmX-0A","formatted_address":"P.º de la Castellana, 42, 28046 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T08:48:13.125468Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":367,"business":{"id":106,"name":"Lateral","country":null,"description":"Lateral es un concepto de restaurantes diferente que combina las recetas más tradicionales con creaciones vanguardistas.","url":"https://www.lateral.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_Dw0X61I.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635151647.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_e0g2OVc.jpg","sector":{"id":38,"name":"Casual food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg","created":"2021-10-21T19:51:53.839559Z"},"descriptive_categories":[],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/SesU","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T08:38:22.315729Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6919802,40.4496248]},"address":"Paseo de la Castellana","number":"89","postal_code":"28046","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:16.232606Z","place_id":"ChIJp1kBReMoQg0RmadlrI2LESQ","formatted_address":"P.º de la Castellana, 89, 28046 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T08:47:56.905937Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":366,"business":{"id":106,"name":"Lateral","country":null,"description":"Lateral es un concepto de restaurantes diferente que combina las recetas más tradicionales con creaciones vanguardistas.","url":"https://www.lateral.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_Dw0X61I.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635151647.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_e0g2OVc.jpg","sector":{"id":38,"name":"Casual food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg","created":"2021-10-21T19:51:53.839559Z"},"descriptive_categories":[],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/SesU","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T08:38:22.315729Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6874554,40.4611109]},"address":"Calle del Doctor Fleming","number":"44","postal_code":"28036","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:16.300893Z","place_id":"ChIJByjh1xspQg0RMA5yUJg3LNo","formatted_address":"Calle del Dr. Fleming, 44, 28036 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T08:47:43.076232Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":365,"business":{"id":105,"name":"Yelmo cines","country":null,"description":"Entradas para Yelmo Cines Ideal, Madrid. Todas las películas en cartelera con sus sesiones. Encuentra los últimos estrenos y compra online tu entrada.","url":"https://yelmocines.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_v1Xv6ub.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635150057.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_7IQTAo0.jpg","sector":{"id":36,"name":"Cines y teatros","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/leisure.svg","created":"2021-05-25T11:18:32.648878Z"},"descriptive_categories":[{"id":33,"name":"cine","owner":null,"sector":null,"created":"2021-10-25T08:12:34.660757Z"},{"id":34,"name":"estrenos","owner":null,"sector":null,"created":"2021-10-25T08:12:39.287584Z"},{"id":35,"name":"películas","owner":null,"sector":null,"created":"2021-10-25T08:12:44.904194Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/dL7x","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T08:12:47.343417Z","offers_count":0},"online":true,"url":"https://yelmocines.es/cartelera/madrid","position":null,"address":null,"number":null,"postal_code":null,"state":null,"city":null,"merchants_count":0,"modified":"2023-03-17T08:02:16.527097Z","place_id":null,"formatted_address":"","deleted":false,"deleted_at":null,"created":"2021-10-25T08:23:24.692337Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":"yelmocines.es","is_open":false},{"id":364,"business":{"id":105,"name":"Yelmo cines","country":null,"description":"Entradas para Yelmo Cines Ideal, Madrid. Todas las películas en cartelera con sus sesiones. Encuentra los últimos estrenos y compra online tu entrada.","url":"https://yelmocines.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_v1Xv6ub.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635150057.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_7IQTAo0.jpg","sector":{"id":36,"name":"Cines y teatros","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/leisure.svg","created":"2021-05-25T11:18:32.648878Z"},"descriptive_categories":[{"id":33,"name":"cine","owner":null,"sector":null,"created":"2021-10-25T08:12:34.660757Z"},{"id":34,"name":"estrenos","owner":null,"sector":null,"created":"2021-10-25T08:12:39.287584Z"},{"id":35,"name":"películas","owner":null,"sector":null,"created":"2021-10-25T08:12:44.904194Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/dL7x","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T08:12:47.343417Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.8331793,40.3585139]},"address":"Avenida San Martín de Valdeiglesias","number":"24","postal_code":"28922","state":"Madrid","city":"Alcorcón","merchants_count":0,"modified":"2023-03-17T08:02:16.543619Z","place_id":"ChIJX7MhO9COQQ0RGpEKyi0Fbl8","formatted_address":"Av. San Martín de Valdeiglesias, 24, 28922 Alcorcón, Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T08:22:48.428684Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":363,"business":{"id":105,"name":"Yelmo cines","country":null,"description":"Entradas para Yelmo Cines Ideal, Madrid. Todas las películas en cartelera con sus sesiones. Encuentra los últimos estrenos y compra online tu entrada.","url":"https://yelmocines.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_v1Xv6ub.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635150057.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_7IQTAo0.jpg","sector":{"id":36,"name":"Cines y teatros","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/leisure.svg","created":"2021-05-25T11:18:32.648878Z"},"descriptive_categories":[{"id":33,"name":"cine","owner":null,"sector":null,"created":"2021-10-25T08:12:34.660757Z"},{"id":34,"name":"estrenos","owner":null,"sector":null,"created":"2021-10-25T08:12:39.287584Z"},{"id":35,"name":"películas","owner":null,"sector":null,"created":"2021-10-25T08:12:44.904194Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/dL7x","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T08:12:47.343417Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.525936,40.33723579999999]},"address":"Calle Marie Curie","number":"4","postal_code":"28521","state":"Madrid","city":"Rivas-Vaciamadrid","merchants_count":0,"modified":"2023-03-17T08:02:16.603407Z","place_id":"ChIJx3k3_Ik7Qg0RAAP_6VjT74k","formatted_address":"C. Marie Curie, 4, 28521 Rivas-Vaciamadrid, Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T08:22:31.331484Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":362,"business":{"id":105,"name":"Yelmo cines","country":null,"description":"Entradas para Yelmo Cines Ideal, Madrid. Todas las películas en cartelera con sus sesiones. Encuentra los últimos estrenos y compra online tu entrada.","url":"https://yelmocines.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_v1Xv6ub.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635150057.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_7IQTAo0.jpg","sector":{"id":36,"name":"Cines y teatros","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/leisure.svg","created":"2021-05-25T11:18:32.648878Z"},"descriptive_categories":[{"id":33,"name":"cine","owner":null,"sector":null,"created":"2021-10-25T08:12:34.660757Z"},{"id":34,"name":"estrenos","owner":null,"sector":null,"created":"2021-10-25T08:12:39.287584Z"},{"id":35,"name":"películas","owner":null,"sector":null,"created":"2021-10-25T08:12:44.904194Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/dL7x","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T08:12:47.343417Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6132322,40.5405918]},"address":"Plaza del Comercio","number":"11-12","postal_code":"28703","state":"Madrid","city":"San Sebastián de los Reyes","merchants_count":0,"modified":"2023-03-17T08:02:16.615006Z","place_id":"ChIJ7SAd9AYtQg0RobBk0GPcaQg","formatted_address":"Pl. del Comercio, 11-12, 28703 San Sebastián de los Reyes, Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T08:22:16.523606Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false}]}
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=42",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=40",
+	"results": [
+		{
+			"id": 371,
+			"business": {
+				"id": 106,
+				"name": "Lateral",
+				"country": null,
+				"description": "Lateral es un concepto de restaurantes diferente que combina las recetas más tradicionales con creaciones vanguardistas.",
+				"url": "https://www.lateral.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_Dw0X61I.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635151647.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_e0g2OVc.jpg",
+				"sector": {
+					"id": 38,
+					"name": "Casual food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg",
+					"created": "2021-10-21T19:51:53.839559Z"
+				},
+				"descriptive_categories": [],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/SesU",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T08:38:22.315729Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7010569,
+					40.4229847
+				]
+			},
+			"address": "Calle de Fuencarral",
+			"number": "43",
+			"postal_code": "28004",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:15.944573Z",
+			"place_id": "ChIJAxMd2IcoQg0REmaRL7oGgL8",
+			"formatted_address": "Calle de Fuencarral, 43, 28004 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T08:54:42.970595Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 370,
+			"business": {
+				"id": 106,
+				"name": "Lateral",
+				"country": null,
+				"description": "Lateral es un concepto de restaurantes diferente que combina las recetas más tradicionales con creaciones vanguardistas.",
+				"url": "https://www.lateral.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_Dw0X61I.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635151647.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_e0g2OVc.jpg",
+				"sector": {
+					"id": 38,
+					"name": "Casual food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg",
+					"created": "2021-10-21T19:51:53.839559Z"
+				},
+				"descriptive_categories": [],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/SesU",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T08:38:22.315729Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6840741,
+					40.4287133
+				]
+			},
+			"address": "Calle de Velázquez",
+			"number": "57",
+			"postal_code": "28001",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:15.981698Z",
+			"place_id": "ChIJf4cMdpYoQg0RxYwpEy_I8rk",
+			"formatted_address": "C. de Velázquez, 57, 28001 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T08:48:42.314137Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 369,
+			"business": {
+				"id": 106,
+				"name": "Lateral",
+				"country": null,
+				"description": "Lateral es un concepto de restaurantes diferente que combina las recetas más tradicionales con creaciones vanguardistas.",
+				"url": "https://www.lateral.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_Dw0X61I.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635151647.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_e0g2OVc.jpg",
+				"sector": {
+					"id": 38,
+					"name": "Casual food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg",
+					"created": "2021-10-21T19:51:53.839559Z"
+				},
+				"descriptive_categories": [],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/SesU",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T08:38:22.315729Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6769775,
+					40.459299
+				]
+			},
+			"address": "Calle del Príncipe de Vergara",
+			"number": "285",
+			"postal_code": "28016",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:16.095434Z",
+			"place_id": "ChIJzaaSqCYpQg0RPvBfOSWJKqo",
+			"formatted_address": "C. del Príncipe de Vergara, 285, 28016 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T08:48:27.821214Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 368,
+			"business": {
+				"id": 106,
+				"name": "Lateral",
+				"country": null,
+				"description": "Lateral es un concepto de restaurantes diferente que combina las recetas más tradicionales con creaciones vanguardistas.",
+				"url": "https://www.lateral.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_Dw0X61I.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635151647.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_e0g2OVc.jpg",
+				"sector": {
+					"id": 38,
+					"name": "Casual food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg",
+					"created": "2021-10-21T19:51:53.839559Z"
+				},
+				"descriptive_categories": [],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/SesU",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T08:38:22.315729Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6876469,
+					40.4333689
+				]
+			},
+			"address": "Paseo de la Castellana",
+			"number": "42",
+			"postal_code": "28046",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:16.200223Z",
+			"place_id": "ChIJvQ1fVZMoQg0RHXrXkXmX-0A",
+			"formatted_address": "P.º de la Castellana, 42, 28046 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T08:48:13.125468Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 367,
+			"business": {
+				"id": 106,
+				"name": "Lateral",
+				"country": null,
+				"description": "Lateral es un concepto de restaurantes diferente que combina las recetas más tradicionales con creaciones vanguardistas.",
+				"url": "https://www.lateral.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_Dw0X61I.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635151647.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_e0g2OVc.jpg",
+				"sector": {
+					"id": 38,
+					"name": "Casual food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg",
+					"created": "2021-10-21T19:51:53.839559Z"
+				},
+				"descriptive_categories": [],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/SesU",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T08:38:22.315729Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6919802,
+					40.4496248
+				]
+			},
+			"address": "Paseo de la Castellana",
+			"number": "89",
+			"postal_code": "28046",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:16.232606Z",
+			"place_id": "ChIJp1kBReMoQg0RmadlrI2LESQ",
+			"formatted_address": "P.º de la Castellana, 89, 28046 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T08:47:56.905937Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 366,
+			"business": {
+				"id": 106,
+				"name": "Lateral",
+				"country": null,
+				"description": "Lateral es un concepto de restaurantes diferente que combina las recetas más tradicionales con creaciones vanguardistas.",
+				"url": "https://www.lateral.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_Dw0X61I.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635151647.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_e0g2OVc.jpg",
+				"sector": {
+					"id": 38,
+					"name": "Casual food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg",
+					"created": "2021-10-21T19:51:53.839559Z"
+				},
+				"descriptive_categories": [],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/SesU",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T08:38:22.315729Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6874554,
+					40.4611109
+				]
+			},
+			"address": "Calle del Doctor Fleming",
+			"number": "44",
+			"postal_code": "28036",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:16.300893Z",
+			"place_id": "ChIJByjh1xspQg0RMA5yUJg3LNo",
+			"formatted_address": "Calle del Dr. Fleming, 44, 28036 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T08:47:43.076232Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 365,
+			"business": {
+				"id": 105,
+				"name": "Yelmo cines",
+				"country": null,
+				"description": "Entradas para Yelmo Cines Ideal, Madrid. Todas las películas en cartelera con sus sesiones. Encuentra los últimos estrenos y compra online tu entrada.",
+				"url": "https://yelmocines.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_v1Xv6ub.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635150057.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_7IQTAo0.jpg",
+				"sector": {
+					"id": 36,
+					"name": "Cines y teatros",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/leisure.svg",
+					"created": "2021-05-25T11:18:32.648878Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 33,
+						"name": "cine",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:34.660757Z"
+					},
+					{
+						"id": 34,
+						"name": "estrenos",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:39.287584Z"
+					},
+					{
+						"id": 35,
+						"name": "películas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:44.904194Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/dL7x",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T08:12:47.343417Z",
+				"offers_count": 0
+			},
+			"online": true,
+			"url": "https://yelmocines.es/cartelera/madrid",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:16.527097Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T08:23:24.692337Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": "yelmocines.es",
+			"is_open": false
+		},
+		{
+			"id": 364,
+			"business": {
+				"id": 105,
+				"name": "Yelmo cines",
+				"country": null,
+				"description": "Entradas para Yelmo Cines Ideal, Madrid. Todas las películas en cartelera con sus sesiones. Encuentra los últimos estrenos y compra online tu entrada.",
+				"url": "https://yelmocines.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_v1Xv6ub.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635150057.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_7IQTAo0.jpg",
+				"sector": {
+					"id": 36,
+					"name": "Cines y teatros",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/leisure.svg",
+					"created": "2021-05-25T11:18:32.648878Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 33,
+						"name": "cine",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:34.660757Z"
+					},
+					{
+						"id": 34,
+						"name": "estrenos",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:39.287584Z"
+					},
+					{
+						"id": 35,
+						"name": "películas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:44.904194Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/dL7x",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T08:12:47.343417Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.8331793,
+					40.3585139
+				]
+			},
+			"address": "Avenida San Martín de Valdeiglesias",
+			"number": "24",
+			"postal_code": "28922",
+			"state": "Madrid",
+			"city": "Alcorcón",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:16.543619Z",
+			"place_id": "ChIJX7MhO9COQQ0RGpEKyi0Fbl8",
+			"formatted_address": "Av. San Martín de Valdeiglesias, 24, 28922 Alcorcón, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T08:22:48.428684Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 363,
+			"business": {
+				"id": 105,
+				"name": "Yelmo cines",
+				"country": null,
+				"description": "Entradas para Yelmo Cines Ideal, Madrid. Todas las películas en cartelera con sus sesiones. Encuentra los últimos estrenos y compra online tu entrada.",
+				"url": "https://yelmocines.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_v1Xv6ub.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635150057.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_7IQTAo0.jpg",
+				"sector": {
+					"id": 36,
+					"name": "Cines y teatros",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/leisure.svg",
+					"created": "2021-05-25T11:18:32.648878Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 33,
+						"name": "cine",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:34.660757Z"
+					},
+					{
+						"id": 34,
+						"name": "estrenos",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:39.287584Z"
+					},
+					{
+						"id": 35,
+						"name": "películas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:44.904194Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/dL7x",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T08:12:47.343417Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.525936,
+					40.33723579999999
+				]
+			},
+			"address": "Calle Marie Curie",
+			"number": "4",
+			"postal_code": "28521",
+			"state": "Madrid",
+			"city": "Rivas-Vaciamadrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:16.603407Z",
+			"place_id": "ChIJx3k3_Ik7Qg0RAAP_6VjT74k",
+			"formatted_address": "C. Marie Curie, 4, 28521 Rivas-Vaciamadrid, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T08:22:31.331484Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 362,
+			"business": {
+				"id": 105,
+				"name": "Yelmo cines",
+				"country": null,
+				"description": "Entradas para Yelmo Cines Ideal, Madrid. Todas las películas en cartelera con sus sesiones. Encuentra los últimos estrenos y compra online tu entrada.",
+				"url": "https://yelmocines.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_v1Xv6ub.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635150057.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_7IQTAo0.jpg",
+				"sector": {
+					"id": 36,
+					"name": "Cines y teatros",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/leisure.svg",
+					"created": "2021-05-25T11:18:32.648878Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 33,
+						"name": "cine",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:34.660757Z"
+					},
+					{
+						"id": 34,
+						"name": "estrenos",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:39.287584Z"
+					},
+					{
+						"id": 35,
+						"name": "películas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:44.904194Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/dL7x",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T08:12:47.343417Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6132322,
+					40.5405918
+				]
+			},
+			"address": "Plaza del Comercio",
+			"number": "11-12",
+			"postal_code": "28703",
+			"state": "Madrid",
+			"city": "San Sebastián de los Reyes",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:16.615006Z",
+			"place_id": "ChIJ7SAd9AYtQg0RobBk0GPcaQg",
+			"formatted_address": "Pl. del Comercio, 11-12, 28703 San Sebastián de los Reyes, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T08:22:16.523606Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

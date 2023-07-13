@@ -1,1 +1,831 @@
-{"count":579,"next":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=57","previous":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=55","results":[{"id":208,"business":{"id":90,"name":"Taco Bell","country":null,"description":"Taco Bell es una cadena de restaurantes de comida rápida, especializada en cocina Tex-Mex. La cadena fue fundada en 1962 por Glen Bell y actualmente pertenece a la multinacional Yum! Brands.","url":"https://tacobell.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/taco-bell-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634828991.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_hu1AWga.jpg","sector":{"id":3,"name":"Fast Food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg","created":"2021-05-25T10:47:39.210359Z"},"descriptive_categories":[{"id":13,"name":"mexicano","owner":null,"sector":null,"created":"2021-10-21T15:08:54.024427Z"},{"id":12,"name":"taco","owner":null,"sector":null,"created":"2021-10-21T15:08:41.941999Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/hd53","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T15:09:06.170930Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.707023,40.4798322]},"address":"Avenida de Monforte de Lemos","number":"36","postal_code":"28029","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:33.709303Z","place_id":"ChIJN8jMP5wpQg0R4ex88Tkmgis","formatted_address":"Av. de Monforte de Lemos, 36, 28029 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-21T15:12:09.095299Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":207,"business":{"id":90,"name":"Taco Bell","country":null,"description":"Taco Bell es una cadena de restaurantes de comida rápida, especializada en cocina Tex-Mex. La cadena fue fundada en 1962 por Glen Bell y actualmente pertenece a la multinacional Yum! Brands.","url":"https://tacobell.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/taco-bell-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634828991.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_hu1AWga.jpg","sector":{"id":3,"name":"Fast Food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg","created":"2021-05-25T10:47:39.210359Z"},"descriptive_categories":[{"id":13,"name":"mexicano","owner":null,"sector":null,"created":"2021-10-21T15:08:54.024427Z"},{"id":12,"name":"taco","owner":null,"sector":null,"created":"2021-10-21T15:08:41.941999Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/hd53","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T15:09:06.170930Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7036305,40.4480253]},"address":"Calle de Bravo Murillo","number":"108","postal_code":"28020","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:33.894026Z","place_id":"ChIJu-m8D1YoQg0RJCL_xr1uCso","formatted_address":"C. de Bravo Murillo, 108, 28020 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-21T15:11:22.223889Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":206,"business":{"id":90,"name":"Taco Bell","country":null,"description":"Taco Bell es una cadena de restaurantes de comida rápida, especializada en cocina Tex-Mex. La cadena fue fundada en 1962 por Glen Bell y actualmente pertenece a la multinacional Yum! Brands.","url":"https://tacobell.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/taco-bell-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634828991.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_hu1AWga.jpg","sector":{"id":3,"name":"Fast Food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg","created":"2021-05-25T10:47:39.210359Z"},"descriptive_categories":[{"id":13,"name":"mexicano","owner":null,"sector":null,"created":"2021-10-21T15:08:54.024427Z"},{"id":12,"name":"taco","owner":null,"sector":null,"created":"2021-10-21T15:08:41.941999Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/hd53","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T15:09:06.170930Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.688889,40.4517894]},"address":"Avenida de Concha Espina","number":"6","postal_code":"28036","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:34.090618Z","place_id":"ChIJxekINuIoQg0RQaiQy9ClSi4","formatted_address":"Av. de Concha Espina, 6, 28036 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-21T15:11:06.231546Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":205,"business":{"id":90,"name":"Taco Bell","country":null,"description":"Taco Bell es una cadena de restaurantes de comida rápida, especializada en cocina Tex-Mex. La cadena fue fundada en 1962 por Glen Bell y actualmente pertenece a la multinacional Yum! Brands.","url":"https://tacobell.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/taco-bell-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634828991.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_hu1AWga.jpg","sector":{"id":3,"name":"Fast Food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg","created":"2021-05-25T10:47:39.210359Z"},"descriptive_categories":[{"id":13,"name":"mexicano","owner":null,"sector":null,"created":"2021-10-21T15:08:54.024427Z"},{"id":12,"name":"taco","owner":null,"sector":null,"created":"2021-10-21T15:08:41.941999Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/hd53","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T15:09:06.170930Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6896416,40.4674056]},"address":"Paseo de la Castellana","number":"191","postal_code":"28046","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:34.314434Z","place_id":"ChIJx_PJAxEpQg0RtbmAUEXOg1c","formatted_address":"P.º de la Castellana, 191, 28046 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-21T15:10:47.820811Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":204,"business":{"id":90,"name":"Taco Bell","country":null,"description":"Taco Bell es una cadena de restaurantes de comida rápida, especializada en cocina Tex-Mex. La cadena fue fundada en 1962 por Glen Bell y actualmente pertenece a la multinacional Yum! Brands.","url":"https://tacobell.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/taco-bell-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634828991.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_hu1AWga.jpg","sector":{"id":3,"name":"Fast Food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg","created":"2021-05-25T10:47:39.210359Z"},"descriptive_categories":[{"id":13,"name":"mexicano","owner":null,"sector":null,"created":"2021-10-21T15:08:54.024427Z"},{"id":12,"name":"taco","owner":null,"sector":null,"created":"2021-10-21T15:08:41.941999Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/hd53","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T15:09:06.170930Z","offers_count":0},"online":true,"url":"https://tacobell.es/","position":null,"address":null,"number":null,"postal_code":null,"state":null,"city":null,"merchants_count":0,"modified":"2023-03-17T08:02:34.402413Z","place_id":null,"formatted_address":"","deleted":false,"deleted_at":null,"created":"2021-10-21T15:10:24.204183Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":"tacobell.es","is_open":false},{"id":203,"business":{"id":89,"name":"Aloha Poke","country":{"id":3,"name":"España","code":"es"},"description":"Conocemos el poder de una alimentación saludable para nutrir una vida activa, equilibrada y feliz.\r\n\r\nCansados de no encontrar opciones de comida sana y sabrosa en la ciudad, decidimos comenzar nuestra propia revolución:\r\n\r\nLa Revolución de la Healthy Fast Food","url":"https://www.alohapoke.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/aloha-poke-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634827016.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0XysFRk.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":11,"name":"Hawaiana","owner":89,"sector":null,"created":"2021-10-21T14:41:44.180293Z"},{"id":10,"name":"Healthy","owner":null,"sector":null,"created":"2021-10-21T14:33:37.426542Z"},{"id":9,"name":"Poke","owner":null,"sector":null,"created":"2021-10-21T14:33:26.133578Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/Fu3N","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T14:33:52.942982Z","offers_count":4},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6574819,40.5201259]},"address":"Avenida de Europa","number":"13","postal_code":"28108","state":"Madrid","city":"Alcobendas","merchants_count":0,"modified":"2023-03-17T08:02:35.204498Z","place_id":"ChIJG0ndC3QsQg0R8RDMnTXlnKA","formatted_address":"Av. de Europa, 13, 28108 Alcobendas, Madrid","deleted":false,"deleted_at":null,"created":"2021-10-21T14:53:53.201168Z","selected_offer":{"id":397,"reward":"15.00","reward_type":"percentage","kind":"A","instant":false,"name":"Prueba franquicias","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":"2023-07-31"},"public_url":null,"is_open":false},{"id":202,"business":{"id":89,"name":"Aloha Poke","country":{"id":3,"name":"España","code":"es"},"description":"Conocemos el poder de una alimentación saludable para nutrir una vida activa, equilibrada y feliz.\r\n\r\nCansados de no encontrar opciones de comida sana y sabrosa en la ciudad, decidimos comenzar nuestra propia revolución:\r\n\r\nLa Revolución de la Healthy Fast Food","url":"https://www.alohapoke.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/aloha-poke-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634827016.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0XysFRk.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":11,"name":"Hawaiana","owner":89,"sector":null,"created":"2021-10-21T14:41:44.180293Z"},{"id":10,"name":"Healthy","owner":null,"sector":null,"created":"2021-10-21T14:33:37.426542Z"},{"id":9,"name":"Poke","owner":null,"sector":null,"created":"2021-10-21T14:33:26.133578Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/Fu3N","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T14:33:52.942982Z","offers_count":4},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6909334,40.3882448]},"address":"Calle de Embajadores","number":"197","postal_code":"28045","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:35.727371Z","place_id":"ChIJt3aUcEYmQg0RFts9lwvmLm0","formatted_address":"C. de Embajadores, 197, 28045 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-21T14:49:28.085158Z","selected_offer":{"id":397,"reward":"15.00","reward_type":"percentage","kind":"A","instant":false,"name":"Prueba franquicias","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":"2023-07-31"},"public_url":null,"is_open":false},{"id":201,"business":{"id":89,"name":"Aloha Poke","country":{"id":3,"name":"España","code":"es"},"description":"Conocemos el poder de una alimentación saludable para nutrir una vida activa, equilibrada y feliz.\r\n\r\nCansados de no encontrar opciones de comida sana y sabrosa en la ciudad, decidimos comenzar nuestra propia revolución:\r\n\r\nLa Revolución de la Healthy Fast Food","url":"https://www.alohapoke.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/aloha-poke-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634827016.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0XysFRk.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":11,"name":"Hawaiana","owner":89,"sector":null,"created":"2021-10-21T14:41:44.180293Z"},{"id":10,"name":"Healthy","owner":null,"sector":null,"created":"2021-10-21T14:33:37.426542Z"},{"id":9,"name":"Poke","owner":null,"sector":null,"created":"2021-10-21T14:33:26.133578Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/Fu3N","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T14:33:52.942982Z","offers_count":4},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7015722,40.4055139]},"address":"Ronda de Valencia","number":"14","postal_code":"28012","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:36.301643Z","place_id":"ChIJC8LC4CwmQg0RDzok9E97F-Y","formatted_address":"Rda. de Valencia, 14, 28012 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-21T14:49:11.732916Z","selected_offer":{"id":397,"reward":"15.00","reward_type":"percentage","kind":"A","instant":false,"name":"Prueba franquicias","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":"2023-07-31"},"public_url":null,"is_open":false},{"id":200,"business":{"id":89,"name":"Aloha Poke","country":{"id":3,"name":"España","code":"es"},"description":"Conocemos el poder de una alimentación saludable para nutrir una vida activa, equilibrada y feliz.\r\n\r\nCansados de no encontrar opciones de comida sana y sabrosa en la ciudad, decidimos comenzar nuestra propia revolución:\r\n\r\nLa Revolución de la Healthy Fast Food","url":"https://www.alohapoke.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/aloha-poke-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634827016.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0XysFRk.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":11,"name":"Hawaiana","owner":89,"sector":null,"created":"2021-10-21T14:41:44.180293Z"},{"id":10,"name":"Healthy","owner":null,"sector":null,"created":"2021-10-21T14:33:37.426542Z"},{"id":9,"name":"Poke","owner":null,"sector":null,"created":"2021-10-21T14:33:26.133578Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/Fu3N","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T14:33:52.942982Z","offers_count":4},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6784682,40.5112122]},"address":"Calle de María Tubau","number":"19","postal_code":"28050","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:37.296373Z","place_id":"ChIJgZpOvusrQg0RUHycpQwzQaA","formatted_address":"Calle de María Tubau, 19, 28050 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-21T14:48:47.018341Z","selected_offer":{"id":397,"reward":"15.00","reward_type":"percentage","kind":"A","instant":false,"name":"Prueba franquicias","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":"2023-07-31"},"public_url":null,"is_open":false},{"id":199,"business":{"id":89,"name":"Aloha Poke","country":{"id":3,"name":"España","code":"es"},"description":"Conocemos el poder de una alimentación saludable para nutrir una vida activa, equilibrada y feliz.\r\n\r\nCansados de no encontrar opciones de comida sana y sabrosa en la ciudad, decidimos comenzar nuestra propia revolución:\r\n\r\nLa Revolución de la Healthy Fast Food","url":"https://www.alohapoke.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/aloha-poke-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634827016.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0XysFRk.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":11,"name":"Hawaiana","owner":89,"sector":null,"created":"2021-10-21T14:41:44.180293Z"},{"id":10,"name":"Healthy","owner":null,"sector":null,"created":"2021-10-21T14:33:37.426542Z"},{"id":9,"name":"Poke","owner":null,"sector":null,"created":"2021-10-21T14:33:26.133578Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/Fu3N","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T14:33:52.942982Z","offers_count":4},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7021041,40.4247199]},"address":"Corredera Alta de San Pablo","number":"5","postal_code":"28004","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:37.912591Z","place_id":"ChIJiW9_O4goQg0RY0sqW6u3TJA","formatted_address":"Corre. Alta de San Pablo, 5, 28004 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-21T14:48:20.300215Z","selected_offer":{"id":397,"reward":"15.00","reward_type":"percentage","kind":"A","instant":false,"name":"Prueba franquicias","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":"2023-07-31"},"public_url":null,"is_open":false}]}
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=57",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=55",
+	"results": [
+		{
+			"id": 208,
+			"business": {
+				"id": 90,
+				"name": "Taco Bell",
+				"country": null,
+				"description": "Taco Bell es una cadena de restaurantes de comida rápida, especializada en cocina Tex-Mex. La cadena fue fundada en 1962 por Glen Bell y actualmente pertenece a la multinacional Yum! Brands.",
+				"url": "https://tacobell.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/taco-bell-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634828991.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_hu1AWga.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 13,
+						"name": "mexicano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:54.024427Z"
+					},
+					{
+						"id": 12,
+						"name": "taco",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:41.941999Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/hd53",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T15:09:06.170930Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.707023,
+					40.4798322
+				]
+			},
+			"address": "Avenida de Monforte de Lemos",
+			"number": "36",
+			"postal_code": "28029",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:33.709303Z",
+			"place_id": "ChIJN8jMP5wpQg0R4ex88Tkmgis",
+			"formatted_address": "Av. de Monforte de Lemos, 36, 28029 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T15:12:09.095299Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 207,
+			"business": {
+				"id": 90,
+				"name": "Taco Bell",
+				"country": null,
+				"description": "Taco Bell es una cadena de restaurantes de comida rápida, especializada en cocina Tex-Mex. La cadena fue fundada en 1962 por Glen Bell y actualmente pertenece a la multinacional Yum! Brands.",
+				"url": "https://tacobell.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/taco-bell-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634828991.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_hu1AWga.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 13,
+						"name": "mexicano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:54.024427Z"
+					},
+					{
+						"id": 12,
+						"name": "taco",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:41.941999Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/hd53",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T15:09:06.170930Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7036305,
+					40.4480253
+				]
+			},
+			"address": "Calle de Bravo Murillo",
+			"number": "108",
+			"postal_code": "28020",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:33.894026Z",
+			"place_id": "ChIJu-m8D1YoQg0RJCL_xr1uCso",
+			"formatted_address": "C. de Bravo Murillo, 108, 28020 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T15:11:22.223889Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 206,
+			"business": {
+				"id": 90,
+				"name": "Taco Bell",
+				"country": null,
+				"description": "Taco Bell es una cadena de restaurantes de comida rápida, especializada en cocina Tex-Mex. La cadena fue fundada en 1962 por Glen Bell y actualmente pertenece a la multinacional Yum! Brands.",
+				"url": "https://tacobell.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/taco-bell-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634828991.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_hu1AWga.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 13,
+						"name": "mexicano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:54.024427Z"
+					},
+					{
+						"id": 12,
+						"name": "taco",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:41.941999Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/hd53",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T15:09:06.170930Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.688889,
+					40.4517894
+				]
+			},
+			"address": "Avenida de Concha Espina",
+			"number": "6",
+			"postal_code": "28036",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:34.090618Z",
+			"place_id": "ChIJxekINuIoQg0RQaiQy9ClSi4",
+			"formatted_address": "Av. de Concha Espina, 6, 28036 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T15:11:06.231546Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 205,
+			"business": {
+				"id": 90,
+				"name": "Taco Bell",
+				"country": null,
+				"description": "Taco Bell es una cadena de restaurantes de comida rápida, especializada en cocina Tex-Mex. La cadena fue fundada en 1962 por Glen Bell y actualmente pertenece a la multinacional Yum! Brands.",
+				"url": "https://tacobell.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/taco-bell-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634828991.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_hu1AWga.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 13,
+						"name": "mexicano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:54.024427Z"
+					},
+					{
+						"id": 12,
+						"name": "taco",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:41.941999Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/hd53",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T15:09:06.170930Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6896416,
+					40.4674056
+				]
+			},
+			"address": "Paseo de la Castellana",
+			"number": "191",
+			"postal_code": "28046",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:34.314434Z",
+			"place_id": "ChIJx_PJAxEpQg0RtbmAUEXOg1c",
+			"formatted_address": "P.º de la Castellana, 191, 28046 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T15:10:47.820811Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 204,
+			"business": {
+				"id": 90,
+				"name": "Taco Bell",
+				"country": null,
+				"description": "Taco Bell es una cadena de restaurantes de comida rápida, especializada en cocina Tex-Mex. La cadena fue fundada en 1962 por Glen Bell y actualmente pertenece a la multinacional Yum! Brands.",
+				"url": "https://tacobell.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/taco-bell-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634828991.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_hu1AWga.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 13,
+						"name": "mexicano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:54.024427Z"
+					},
+					{
+						"id": 12,
+						"name": "taco",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:41.941999Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/hd53",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T15:09:06.170930Z",
+				"offers_count": 0
+			},
+			"online": true,
+			"url": "https://tacobell.es/",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:34.402413Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T15:10:24.204183Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": "tacobell.es",
+			"is_open": false
+		},
+		{
+			"id": 203,
+			"business": {
+				"id": 89,
+				"name": "Aloha Poke",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Conocemos el poder de una alimentación saludable para nutrir una vida activa, equilibrada y feliz.\r\n\r\nCansados de no encontrar opciones de comida sana y sabrosa en la ciudad, decidimos comenzar nuestra propia revolución:\r\n\r\nLa Revolución de la Healthy Fast Food",
+				"url": "https://www.alohapoke.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/aloha-poke-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634827016.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0XysFRk.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 11,
+						"name": "Hawaiana",
+						"owner": 89,
+						"sector": null,
+						"created": "2021-10-21T14:41:44.180293Z"
+					},
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 9,
+						"name": "Poke",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:26.133578Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Fu3N",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T14:33:52.942982Z",
+				"offers_count": 4
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6574819,
+					40.5201259
+				]
+			},
+			"address": "Avenida de Europa",
+			"number": "13",
+			"postal_code": "28108",
+			"state": "Madrid",
+			"city": "Alcobendas",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:35.204498Z",
+			"place_id": "ChIJG0ndC3QsQg0R8RDMnTXlnKA",
+			"formatted_address": "Av. de Europa, 13, 28108 Alcobendas, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T14:53:53.201168Z",
+			"selected_offer": {
+				"id": 397,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Prueba franquicias",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-07-31"
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 202,
+			"business": {
+				"id": 89,
+				"name": "Aloha Poke",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Conocemos el poder de una alimentación saludable para nutrir una vida activa, equilibrada y feliz.\r\n\r\nCansados de no encontrar opciones de comida sana y sabrosa en la ciudad, decidimos comenzar nuestra propia revolución:\r\n\r\nLa Revolución de la Healthy Fast Food",
+				"url": "https://www.alohapoke.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/aloha-poke-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634827016.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0XysFRk.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 11,
+						"name": "Hawaiana",
+						"owner": 89,
+						"sector": null,
+						"created": "2021-10-21T14:41:44.180293Z"
+					},
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 9,
+						"name": "Poke",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:26.133578Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Fu3N",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T14:33:52.942982Z",
+				"offers_count": 4
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6909334,
+					40.3882448
+				]
+			},
+			"address": "Calle de Embajadores",
+			"number": "197",
+			"postal_code": "28045",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:35.727371Z",
+			"place_id": "ChIJt3aUcEYmQg0RFts9lwvmLm0",
+			"formatted_address": "C. de Embajadores, 197, 28045 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T14:49:28.085158Z",
+			"selected_offer": {
+				"id": 397,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Prueba franquicias",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-07-31"
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 201,
+			"business": {
+				"id": 89,
+				"name": "Aloha Poke",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Conocemos el poder de una alimentación saludable para nutrir una vida activa, equilibrada y feliz.\r\n\r\nCansados de no encontrar opciones de comida sana y sabrosa en la ciudad, decidimos comenzar nuestra propia revolución:\r\n\r\nLa Revolución de la Healthy Fast Food",
+				"url": "https://www.alohapoke.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/aloha-poke-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634827016.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0XysFRk.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 11,
+						"name": "Hawaiana",
+						"owner": 89,
+						"sector": null,
+						"created": "2021-10-21T14:41:44.180293Z"
+					},
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 9,
+						"name": "Poke",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:26.133578Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Fu3N",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T14:33:52.942982Z",
+				"offers_count": 4
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7015722,
+					40.4055139
+				]
+			},
+			"address": "Ronda de Valencia",
+			"number": "14",
+			"postal_code": "28012",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:36.301643Z",
+			"place_id": "ChIJC8LC4CwmQg0RDzok9E97F-Y",
+			"formatted_address": "Rda. de Valencia, 14, 28012 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T14:49:11.732916Z",
+			"selected_offer": {
+				"id": 397,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Prueba franquicias",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-07-31"
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 200,
+			"business": {
+				"id": 89,
+				"name": "Aloha Poke",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Conocemos el poder de una alimentación saludable para nutrir una vida activa, equilibrada y feliz.\r\n\r\nCansados de no encontrar opciones de comida sana y sabrosa en la ciudad, decidimos comenzar nuestra propia revolución:\r\n\r\nLa Revolución de la Healthy Fast Food",
+				"url": "https://www.alohapoke.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/aloha-poke-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634827016.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0XysFRk.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 11,
+						"name": "Hawaiana",
+						"owner": 89,
+						"sector": null,
+						"created": "2021-10-21T14:41:44.180293Z"
+					},
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 9,
+						"name": "Poke",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:26.133578Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Fu3N",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T14:33:52.942982Z",
+				"offers_count": 4
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6784682,
+					40.5112122
+				]
+			},
+			"address": "Calle de María Tubau",
+			"number": "19",
+			"postal_code": "28050",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:37.296373Z",
+			"place_id": "ChIJgZpOvusrQg0RUHycpQwzQaA",
+			"formatted_address": "Calle de María Tubau, 19, 28050 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T14:48:47.018341Z",
+			"selected_offer": {
+				"id": 397,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Prueba franquicias",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-07-31"
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 199,
+			"business": {
+				"id": 89,
+				"name": "Aloha Poke",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Conocemos el poder de una alimentación saludable para nutrir una vida activa, equilibrada y feliz.\r\n\r\nCansados de no encontrar opciones de comida sana y sabrosa en la ciudad, decidimos comenzar nuestra propia revolución:\r\n\r\nLa Revolución de la Healthy Fast Food",
+				"url": "https://www.alohapoke.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/aloha-poke-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634827016.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0XysFRk.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 11,
+						"name": "Hawaiana",
+						"owner": 89,
+						"sector": null,
+						"created": "2021-10-21T14:41:44.180293Z"
+					},
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 9,
+						"name": "Poke",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:26.133578Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Fu3N",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T14:33:52.942982Z",
+				"offers_count": 4
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7021041,
+					40.4247199
+				]
+			},
+			"address": "Corredera Alta de San Pablo",
+			"number": "5",
+			"postal_code": "28004",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:37.912591Z",
+			"place_id": "ChIJiW9_O4goQg0RY0sqW6u3TJA",
+			"formatted_address": "Corre. Alta de San Pablo, 5, 28004 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T14:48:20.300215Z",
+			"selected_offer": {
+				"id": 397,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Prueba franquicias",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-07-31"
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

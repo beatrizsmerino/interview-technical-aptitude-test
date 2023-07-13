@@ -1,1 +1,679 @@
-{"count":579,"next":null,"previous":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=57","results":[{"id":101,"business":{"id":23,"name":"llaollao","country":{"id":2,"name":"Malta","code":"mt"},"description":"llaollao es una franquicia española de heladerías especializada en yogur helado, granizados y batidos. Se fundó en 2009 con la apertura de un local en Denia y cuenta con más de 220 establecimientos tanto en España como a nivel internacional.","url":"https://www.llaollaoweb.com/es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/llao-llao-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635419152.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/llao-llao-portada.png","sector":{"id":6,"name":"Heladería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_oEA91PT.svg","created":"2021-05-25T10:48:59.349078Z"},"descriptive_categories":[{"id":55,"name":"helado","owner":null,"sector":null,"created":"2021-11-29T12:03:57.629516Z"},{"id":65,"name":"yogur helado","owner":23,"sector":null,"created":"2022-06-13T08:52:30.589536Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/YaCK","is_franchisee_of":null,"is_favorite":false,"created":"2021-06-10T11:00:45.772916Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7070622,40.419787]},"address":"Calle de Preciados","number":"40","postal_code":"28013","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:43.922753Z","place_id":null,"formatted_address":"Calle de Preciados, 40, 28013, Madrid","deleted":false,"deleted_at":null,"created":"2021-06-18T07:47:52.859591Z","selected_offer":{"id":32,"reward":"15.00","reward_type":"percentage","kind":"A","instant":true,"name":"Llao Llao test","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":100,"business":{"id":23,"name":"llaollao","country":{"id":2,"name":"Malta","code":"mt"},"description":"llaollao es una franquicia española de heladerías especializada en yogur helado, granizados y batidos. Se fundó en 2009 con la apertura de un local en Denia y cuenta con más de 220 establecimientos tanto en España como a nivel internacional.","url":"https://www.llaollaoweb.com/es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/llao-llao-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635419152.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/llao-llao-portada.png","sector":{"id":6,"name":"Heladería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_oEA91PT.svg","created":"2021-05-25T10:48:59.349078Z"},"descriptive_categories":[{"id":55,"name":"helado","owner":null,"sector":null,"created":"2021-11-29T12:03:57.629516Z"},{"id":65,"name":"yogur helado","owner":23,"sector":null,"created":"2022-06-13T08:52:30.589536Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/YaCK","is_franchisee_of":null,"is_favorite":false,"created":"2021-06-10T11:00:45.772916Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7017704,40.4190659]},"address":"Calle de la Montera","number":"36","postal_code":"28013","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:43.994045Z","place_id":null,"formatted_address":"Calle de la Montera, 36, 28013, Madrid","deleted":false,"deleted_at":null,"created":"2021-06-18T07:47:30.578347Z","selected_offer":{"id":32,"reward":"15.00","reward_type":"percentage","kind":"A","instant":true,"name":"Llao Llao test","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":99,"business":{"id":23,"name":"llaollao","country":{"id":2,"name":"Malta","code":"mt"},"description":"llaollao es una franquicia española de heladerías especializada en yogur helado, granizados y batidos. Se fundó en 2009 con la apertura de un local en Denia y cuenta con más de 220 establecimientos tanto en España como a nivel internacional.","url":"https://www.llaollaoweb.com/es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/llao-llao-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635419152.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/llao-llao-portada.png","sector":{"id":6,"name":"Heladería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_oEA91PT.svg","created":"2021-05-25T10:48:59.349078Z"},"descriptive_categories":[{"id":55,"name":"helado","owner":null,"sector":null,"created":"2021-11-29T12:03:57.629516Z"},{"id":65,"name":"yogur helado","owner":23,"sector":null,"created":"2022-06-13T08:52:30.589536Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/YaCK","is_franchisee_of":null,"is_favorite":false,"created":"2021-06-10T11:00:45.772916Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.703705,40.41784709999999]},"address":"Calle del Carmen","number":"6","postal_code":"28013","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:44.111735Z","place_id":null,"formatted_address":"Calle del Carmen, 6, 28013, Madrid","deleted":false,"deleted_at":null,"created":"2021-06-18T07:46:59.799554Z","selected_offer":{"id":32,"reward":"15.00","reward_type":"percentage","kind":"A","instant":true,"name":"Llao Llao test","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":87,"business":{"id":30,"name":"Empanadas Malvon","country":null,"description":"Para gustos, Malvón! Tú te encargas de celebrar y disfrutar, nosotros nos encargamos del resto con nuestras empanadas artesanales.","url":"https://www.malvon.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_GeCFiw9.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1624001112.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Xt19oj5.jpg","sector":{"id":3,"name":"Fast Food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg","created":"2021-05-25T10:47:39.210359Z"},"descriptive_categories":[],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/zRx8","is_franchisee_of":null,"is_favorite":false,"created":"2021-06-10T11:01:38.640807Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6995325,40.4385894]},"address":"Calle de José Abascal","number":"23","postal_code":"28003","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:44.268783Z","place_id":null,"formatted_address":"Calle de José Abascal, 23, 28003, Madrid","deleted":false,"deleted_at":null,"created":"2021-06-18T07:15:32.836983Z","selected_offer":{"id":253,"reward":"10.00","reward_type":"percentage","kind":"A","instant":false,"name":"Oferta para finalizar","standalone":false,"purchases":null,"online":true,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":85,"business":{"id":30,"name":"Empanadas Malvon","country":null,"description":"Para gustos, Malvón! Tú te encargas de celebrar y disfrutar, nosotros nos encargamos del resto con nuestras empanadas artesanales.","url":"https://www.malvon.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_GeCFiw9.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1624001112.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Xt19oj5.jpg","sector":{"id":3,"name":"Fast Food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg","created":"2021-05-25T10:47:39.210359Z"},"descriptive_categories":[],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/zRx8","is_franchisee_of":null,"is_favorite":false,"created":"2021-06-10T11:01:38.640807Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7012639,40.4292655]},"address":"Calle de Luchana","number":"4","postal_code":"28010","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:44.399215Z","place_id":null,"formatted_address":"Calle de Luchana, 4, 28010, Madrid","deleted":false,"deleted_at":null,"created":"2021-06-18T07:15:15.059251Z","selected_offer":{"id":253,"reward":"10.00","reward_type":"percentage","kind":"A","instant":false,"name":"Oferta para finalizar","standalone":false,"purchases":null,"online":true,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":84,"business":{"id":30,"name":"Empanadas Malvon","country":null,"description":"Para gustos, Malvón! Tú te encargas de celebrar y disfrutar, nosotros nos encargamos del resto con nuestras empanadas artesanales.","url":"https://www.malvon.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_GeCFiw9.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1624001112.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Xt19oj5.jpg","sector":{"id":3,"name":"Fast Food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg","created":"2021-05-25T10:47:39.210359Z"},"descriptive_categories":[],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/zRx8","is_franchisee_of":null,"is_favorite":false,"created":"2021-06-10T11:01:38.640807Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6929512,40.4344725]},"address":"Calle de Zurbano","number":"56","postal_code":"28010","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:44.535192Z","place_id":null,"formatted_address":"Calle de Zurbano, 56, 28010, Madrid","deleted":false,"deleted_at":null,"created":"2021-06-18T07:14:58.840047Z","selected_offer":{"id":253,"reward":"10.00","reward_type":"percentage","kind":"A","instant":false,"name":"Oferta para finalizar","standalone":false,"purchases":null,"online":true,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":37,"business":{"id":20,"name":"Delina's","country":null,"description":"Diariamente, Delina’s ofrece soluciones gastronómicas con la mejor materia prima que existe: la experiencia, la calidad y el talento. Unas soluciones apetitosas, competitivas y sostenibles que gozan del respeto del mercado desde hace más de 20 años.","url":"https://www.delinas.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/delinas-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635415771.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/delinas-portada.png","sector":{"id":5,"name":"Cafetería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg","created":"2021-05-25T10:48:41.547333Z"},"descriptive_categories":[],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/d6o5","is_franchisee_of":null,"is_favorite":false,"created":"2021-06-10T09:24:27.089021Z","offers_count":1},"online":false,"url":null,"position":null,"address":"Calle de Recoletos","number":"15","postal_code":"28001","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:44.572065Z","place_id":null,"formatted_address":"Calle de Recoletos, 15, 28001, Madrid","deleted":false,"deleted_at":null,"created":"2021-06-17T11:32:00.984553Z","selected_offer":{"id":15,"reward":"15.00","reward_type":"fixed","kind":"C","instant":true,"name":"Delinas test Sellos","standalone":false,"purchases":6,"online":false,"applicable":false,"available_percentage":1,"available_rewards":66,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":36,"business":{"id":20,"name":"Delina's","country":null,"description":"Diariamente, Delina’s ofrece soluciones gastronómicas con la mejor materia prima que existe: la experiencia, la calidad y el talento. Unas soluciones apetitosas, competitivas y sostenibles que gozan del respeto del mercado desde hace más de 20 años.","url":"https://www.delinas.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/delinas-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635415771.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/delinas-portada.png","sector":{"id":5,"name":"Cafetería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg","created":"2021-05-25T10:48:41.547333Z"},"descriptive_categories":[],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/d6o5","is_franchisee_of":null,"is_favorite":false,"created":"2021-06-10T09:24:27.089021Z","offers_count":1},"online":false,"url":null,"position":null,"address":"Avenida del General Peron","number":"40","postal_code":"28020","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:44.697265Z","place_id":null,"formatted_address":"Avenida del General Peron, 40, 28020, Madrid","deleted":false,"deleted_at":null,"created":"2021-06-17T11:31:06.620584Z","selected_offer":{"id":15,"reward":"15.00","reward_type":"fixed","kind":"C","instant":true,"name":"Delinas test Sellos","standalone":false,"purchases":6,"online":false,"applicable":false,"available_percentage":1,"available_rewards":66,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":6,"business":{"id":12,"name":"Scalpers","country":{"id":3,"name":"España","code":"es"},"description":"Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\n¡Descubre la nueva colección online de Scalpers!","url":"https://www.scalpers.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg","sector":{"id":43,"name":"Tienda de ropa","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg","created":"2022-09-27T14:17:28.722813Z"},"descriptive_categories":[{"id":80,"name":"estilo","owner":null,"sector":43,"created":"2022-09-27T14:18:12.393840Z"},{"id":79,"name":"moda","owner":12,"sector":null,"created":"2022-09-27T14:18:03.512523Z"},{"id":78,"name":"ropa","owner":null,"sector":43,"created":"2022-09-27T14:17:59.578804Z"},{"id":77,"name":"ropa hombre","owner":12,"sector":null,"created":"2022-09-27T14:17:51.818605Z"},{"id":81,"name":"ropa mujer","owner":12,"sector":null,"created":"2022-09-27T14:18:16.628726Z"},{"id":82,"name":"ropa niños","owner":12,"sector":null,"created":"2022-09-27T14:18:21.910520Z"}],"return_period":30,"dynamic_link":"https://app.dev.woowbe.com/share/jdF1","is_franchisee_of":null,"is_favorite":false,"created":"2021-06-10T09:23:04.551544Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6869075,40.4241114]},"address":"Calle de Jorge Juan","number":"7","postal_code":"28009","state":"Spain","city":"Comunidad de Madrid","merchants_count":0,"modified":"2023-03-17T08:02:45.817752Z","place_id":null,"formatted_address":"Calle de Jorge Juan, 7, 28009, Comunidad de Madrid","deleted":false,"deleted_at":null,"created":"2021-06-14T15:15:16.649844Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false}]}
+{
+	"count": 579,
+	"next": null,
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=57",
+	"results": [
+		{
+			"id": 101,
+			"business": {
+				"id": 23,
+				"name": "llaollao",
+				"country": {
+					"id": 2,
+					"name": "Malta",
+					"code": "mt"
+				},
+				"description": "llaollao es una franquicia española de heladerías especializada en yogur helado, granizados y batidos. Se fundó en 2009 con la apertura de un local en Denia y cuenta con más de 220 establecimientos tanto en España como a nivel internacional.",
+				"url": "https://www.llaollaoweb.com/es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/llao-llao-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635419152.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/llao-llao-portada.png",
+				"sector": {
+					"id": 6,
+					"name": "Heladería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_oEA91PT.svg",
+					"created": "2021-05-25T10:48:59.349078Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 55,
+						"name": "helado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T12:03:57.629516Z"
+					},
+					{
+						"id": 65,
+						"name": "yogur helado",
+						"owner": 23,
+						"sector": null,
+						"created": "2022-06-13T08:52:30.589536Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/YaCK",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-06-10T11:00:45.772916Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7070622,
+					40.419787
+				]
+			},
+			"address": "Calle de Preciados",
+			"number": "40",
+			"postal_code": "28013",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:43.922753Z",
+			"place_id": null,
+			"formatted_address": "Calle de Preciados, 40, 28013, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-06-18T07:47:52.859591Z",
+			"selected_offer": {
+				"id": 32,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": true,
+				"name": "Llao Llao test",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 100,
+			"business": {
+				"id": 23,
+				"name": "llaollao",
+				"country": {
+					"id": 2,
+					"name": "Malta",
+					"code": "mt"
+				},
+				"description": "llaollao es una franquicia española de heladerías especializada en yogur helado, granizados y batidos. Se fundó en 2009 con la apertura de un local en Denia y cuenta con más de 220 establecimientos tanto en España como a nivel internacional.",
+				"url": "https://www.llaollaoweb.com/es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/llao-llao-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635419152.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/llao-llao-portada.png",
+				"sector": {
+					"id": 6,
+					"name": "Heladería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_oEA91PT.svg",
+					"created": "2021-05-25T10:48:59.349078Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 55,
+						"name": "helado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T12:03:57.629516Z"
+					},
+					{
+						"id": 65,
+						"name": "yogur helado",
+						"owner": 23,
+						"sector": null,
+						"created": "2022-06-13T08:52:30.589536Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/YaCK",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-06-10T11:00:45.772916Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7017704,
+					40.4190659
+				]
+			},
+			"address": "Calle de la Montera",
+			"number": "36",
+			"postal_code": "28013",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:43.994045Z",
+			"place_id": null,
+			"formatted_address": "Calle de la Montera, 36, 28013, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-06-18T07:47:30.578347Z",
+			"selected_offer": {
+				"id": 32,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": true,
+				"name": "Llao Llao test",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 99,
+			"business": {
+				"id": 23,
+				"name": "llaollao",
+				"country": {
+					"id": 2,
+					"name": "Malta",
+					"code": "mt"
+				},
+				"description": "llaollao es una franquicia española de heladerías especializada en yogur helado, granizados y batidos. Se fundó en 2009 con la apertura de un local en Denia y cuenta con más de 220 establecimientos tanto en España como a nivel internacional.",
+				"url": "https://www.llaollaoweb.com/es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/llao-llao-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635419152.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/llao-llao-portada.png",
+				"sector": {
+					"id": 6,
+					"name": "Heladería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_oEA91PT.svg",
+					"created": "2021-05-25T10:48:59.349078Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 55,
+						"name": "helado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T12:03:57.629516Z"
+					},
+					{
+						"id": 65,
+						"name": "yogur helado",
+						"owner": 23,
+						"sector": null,
+						"created": "2022-06-13T08:52:30.589536Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/YaCK",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-06-10T11:00:45.772916Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.703705,
+					40.41784709999999
+				]
+			},
+			"address": "Calle del Carmen",
+			"number": "6",
+			"postal_code": "28013",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:44.111735Z",
+			"place_id": null,
+			"formatted_address": "Calle del Carmen, 6, 28013, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-06-18T07:46:59.799554Z",
+			"selected_offer": {
+				"id": 32,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": true,
+				"name": "Llao Llao test",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 87,
+			"business": {
+				"id": 30,
+				"name": "Empanadas Malvon",
+				"country": null,
+				"description": "Para gustos, Malvón! Tú te encargas de celebrar y disfrutar, nosotros nos encargamos del resto con nuestras empanadas artesanales.",
+				"url": "https://www.malvon.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_GeCFiw9.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1624001112.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Xt19oj5.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/zRx8",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-06-10T11:01:38.640807Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6995325,
+					40.4385894
+				]
+			},
+			"address": "Calle de José Abascal",
+			"number": "23",
+			"postal_code": "28003",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:44.268783Z",
+			"place_id": null,
+			"formatted_address": "Calle de José Abascal, 23, 28003, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-06-18T07:15:32.836983Z",
+			"selected_offer": {
+				"id": 253,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Oferta para finalizar",
+				"standalone": false,
+				"purchases": null,
+				"online": true,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 85,
+			"business": {
+				"id": 30,
+				"name": "Empanadas Malvon",
+				"country": null,
+				"description": "Para gustos, Malvón! Tú te encargas de celebrar y disfrutar, nosotros nos encargamos del resto con nuestras empanadas artesanales.",
+				"url": "https://www.malvon.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_GeCFiw9.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1624001112.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Xt19oj5.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/zRx8",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-06-10T11:01:38.640807Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7012639,
+					40.4292655
+				]
+			},
+			"address": "Calle de Luchana",
+			"number": "4",
+			"postal_code": "28010",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:44.399215Z",
+			"place_id": null,
+			"formatted_address": "Calle de Luchana, 4, 28010, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-06-18T07:15:15.059251Z",
+			"selected_offer": {
+				"id": 253,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Oferta para finalizar",
+				"standalone": false,
+				"purchases": null,
+				"online": true,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 84,
+			"business": {
+				"id": 30,
+				"name": "Empanadas Malvon",
+				"country": null,
+				"description": "Para gustos, Malvón! Tú te encargas de celebrar y disfrutar, nosotros nos encargamos del resto con nuestras empanadas artesanales.",
+				"url": "https://www.malvon.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_GeCFiw9.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1624001112.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Xt19oj5.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/zRx8",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-06-10T11:01:38.640807Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6929512,
+					40.4344725
+				]
+			},
+			"address": "Calle de Zurbano",
+			"number": "56",
+			"postal_code": "28010",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:44.535192Z",
+			"place_id": null,
+			"formatted_address": "Calle de Zurbano, 56, 28010, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-06-18T07:14:58.840047Z",
+			"selected_offer": {
+				"id": 253,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Oferta para finalizar",
+				"standalone": false,
+				"purchases": null,
+				"online": true,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 37,
+			"business": {
+				"id": 20,
+				"name": "Delina's",
+				"country": null,
+				"description": "Diariamente, Delina’s ofrece soluciones gastronómicas con la mejor materia prima que existe: la experiencia, la calidad y el talento. Unas soluciones apetitosas, competitivas y sostenibles que gozan del respeto del mercado desde hace más de 20 años.",
+				"url": "https://www.delinas.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/delinas-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635415771.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/delinas-portada.png",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/d6o5",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-06-10T09:24:27.089021Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": null,
+			"address": "Calle de Recoletos",
+			"number": "15",
+			"postal_code": "28001",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:44.572065Z",
+			"place_id": null,
+			"formatted_address": "Calle de Recoletos, 15, 28001, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-06-17T11:32:00.984553Z",
+			"selected_offer": {
+				"id": 15,
+				"reward": "15.00",
+				"reward_type": "fixed",
+				"kind": "C",
+				"instant": true,
+				"name": "Delinas test Sellos",
+				"standalone": false,
+				"purchases": 6,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 66,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 36,
+			"business": {
+				"id": 20,
+				"name": "Delina's",
+				"country": null,
+				"description": "Diariamente, Delina’s ofrece soluciones gastronómicas con la mejor materia prima que existe: la experiencia, la calidad y el talento. Unas soluciones apetitosas, competitivas y sostenibles que gozan del respeto del mercado desde hace más de 20 años.",
+				"url": "https://www.delinas.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/delinas-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635415771.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/delinas-portada.png",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/d6o5",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-06-10T09:24:27.089021Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": null,
+			"address": "Avenida del General Peron",
+			"number": "40",
+			"postal_code": "28020",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:44.697265Z",
+			"place_id": null,
+			"formatted_address": "Avenida del General Peron, 40, 28020, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-06-17T11:31:06.620584Z",
+			"selected_offer": {
+				"id": 15,
+				"reward": "15.00",
+				"reward_type": "fixed",
+				"kind": "C",
+				"instant": true,
+				"name": "Delinas test Sellos",
+				"standalone": false,
+				"purchases": 6,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 66,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 6,
+			"business": {
+				"id": 12,
+				"name": "Scalpers",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\n¡Descubre la nueva colección online de Scalpers!",
+				"url": "https://www.scalpers.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg",
+				"sector": {
+					"id": 43,
+					"name": "Tienda de ropa",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg",
+					"created": "2022-09-27T14:17:28.722813Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 80,
+						"name": "estilo",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:18:12.393840Z"
+					},
+					{
+						"id": 79,
+						"name": "moda",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:03.512523Z"
+					},
+					{
+						"id": 78,
+						"name": "ropa",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:17:59.578804Z"
+					},
+					{
+						"id": 77,
+						"name": "ropa hombre",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:17:51.818605Z"
+					},
+					{
+						"id": 81,
+						"name": "ropa mujer",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:16.628726Z"
+					},
+					{
+						"id": 82,
+						"name": "ropa niños",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:21.910520Z"
+					}
+				],
+				"return_period": 30,
+				"dynamic_link": "https://app.dev.woowbe.com/share/jdF1",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-06-10T09:23:04.551544Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6869075,
+					40.4241114
+				]
+			},
+			"address": "Calle de Jorge Juan",
+			"number": "7",
+			"postal_code": "28009",
+			"state": "Spain",
+			"city": "Comunidad de Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:45.817752Z",
+			"place_id": null,
+			"formatted_address": "Calle de Jorge Juan, 7, 28009, Comunidad de Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-06-14T15:15:16.649844Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

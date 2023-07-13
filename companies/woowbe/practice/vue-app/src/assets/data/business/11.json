@@ -1,1 +1,401 @@
-{"count":137,"next":"https://backend.dev.woowbe.com/api/v1/business/public/?page=12","previous":"https://backend.dev.woowbe.com/api/v1/business/public/?page=10","results":[{"id":236,"name":"Yogui QA","country":{"id":3,"name":"España","code":"es"},"description":"Yogui QA es el comercio offline \n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages","url":"https://www.yogui.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631810.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1665492408_Z9SKuNG.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_HYuhoAb.jpg","sector":{"id":24,"name":"Gimnasio","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/sport.svg","created":"2021-05-25T11:07:47.157431Z"},"descriptive_categories":[{"id":10,"name":"Healthy","owner":null,"sector":null,"created":"2021-10-21T14:33:37.426542Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/KcyB","is_franchisee_of":null,"is_favorite":false,"created":"2022-10-11T11:27:09.183229Z","selected_offer":{"id":551,"reward":"4.00","reward_type":"fixed","kind":"C","instant":false,"name":"sellos pull to refresh","standalone":false,"purchases":4,"online":false,"applicable":false},"offers_count":1},{"id":238,"name":"Yogui QA","country":{"id":3,"name":"España","code":"es"},"description":"Yogui QA es el comercio offline \n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages","url":"https://www.yogui.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631811.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1665492408_Z9SKuNG.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_HYuhoAb.jpg","sector":{"id":24,"name":"Gimnasio","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/sport.svg","created":"2021-05-25T11:07:47.157431Z"},"descriptive_categories":[{"id":10,"name":"Healthy","owner":null,"sector":null,"created":"2021-10-21T14:33:37.426542Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/8UT1","is_franchisee_of":236,"is_favorite":false,"created":"2022-10-17T15:15:08.575890Z","selected_offer":null,"offers_count":0},{"id":239,"name":"Cafeteria QA","country":{"id":3,"name":"España","code":"es"},"description":"Programa de Test QA","url":"http://aa.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg","sector":{"id":4,"name":"Bar","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg","created":"2021-05-25T10:47:46.399740Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"},{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":67,"name":"patata","owner":177,"sector":null,"created":"2022-08-22T13:01:31.983340Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/5ni7","is_franchisee_of":177,"is_favorite":false,"created":"2022-10-17T15:31:43.939441Z","selected_offer":null,"offers_count":0},{"id":241,"name":"Churreria churrito feliz","country":{"id":3,"name":"España","code":"es"},"description":"Churreria churrito feliz\r\n\r\nMejor churreria del mundo mundial!!","url":"https://www.churritofeliz.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631812.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631812_lJI83Xu.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_sYvVFYh.jpg","sector":{"id":5,"name":"Cafetería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg","created":"2021-05-25T10:48:41.547333Z"},"descriptive_categories":[{"id":54,"name":"café","owner":null,"sector":null,"created":"2021-11-29T11:15:07.797534Z"},{"id":60,"name":"repostería","owner":null,"sector":null,"created":"2021-11-29T13:55:03.905322Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/vNHX","is_franchisee_of":null,"is_favorite":false,"created":"2022-10-25T15:08:00.574858Z","selected_offer":null,"offers_count":0},{"id":242,"name":"franquicia prueba iñigo","country":{"id":3,"name":"España","code":"es"},"description":"","url":null,"square_picture":null,"widescreen_picture":null,"cover":null,"sector":null,"descriptive_categories":[],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/455n","is_franchisee_of":null,"is_favorite":false,"created":"2022-10-26T10:38:35.278882Z","selected_offer":null,"offers_count":0},{"id":243,"name":"Negocio Facturacion","country":{"id":3,"name":"España","code":"es"},"description":"Negocio Facturacion descripcion","url":"https://www.facturacion.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631813.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1666952262_2VZ6Qea.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_PjPUN60.jpg","sector":{"id":4,"name":"Bar","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg","created":"2021-05-25T10:47:46.399740Z"},"descriptive_categories":[{"id":44,"name":"barbería","owner":null,"sector":null,"created":"2021-10-26T07:38:49.830200Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/4q1m","is_franchisee_of":null,"is_favorite":false,"created":"2022-10-28T10:12:30.694988Z","selected_offer":null,"offers_count":0},{"id":244,"name":"Dale's Business","country":null,"description":"","url":null,"square_picture":null,"widescreen_picture":null,"cover":null,"sector":null,"descriptive_categories":[],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/XwPa","is_franchisee_of":null,"is_favorite":false,"created":"2022-11-07T14:47:43.004364Z","selected_offer":null,"offers_count":0},{"id":245,"name":"dale´s test","country":{"id":3,"name":"España","code":"es"},"description":"fgrggrr","url":"http://test.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1667833547.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1667833548.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_w6x6uEg.jpg","sector":{"id":22,"name":"Alimentación animal","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg","created":"2021-05-25T11:07:08.658870Z"},"descriptive_categories":[{"id":46,"name":"americana","owner":null,"sector":null,"created":"2021-11-29T09:27:36.991965Z"},{"id":22,"name":"asiática","owner":null,"sector":2,"created":"2021-10-21T20:53:02.997177Z"},{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":44,"name":"barbería","owner":null,"sector":null,"created":"2021-10-26T07:38:49.830200Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/JeZB","is_franchisee_of":null,"is_favorite":false,"created":"2022-11-07T14:58:10.334063Z","selected_offer":null,"offers_count":0},{"id":246,"name":"Veterinaria QA aaaaaddddddbbbbbbb","country":{"id":3,"name":"España","code":"es"},"description":"clinica veterinaria con mucha experiencia en el cuidado de animales. Tratamos a todos los animales como si fuesen parte de nuestra familia.","url":"http://www.vete.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1667842927.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1669722210.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0hwbWev.jpg","sector":{"id":33,"name":"Veterinario","icon":null,"created":"2021-05-25T11:17:24.318169Z"},"descriptive_categories":[{"id":84,"name":"perro","owner":246,"sector":null,"created":"2022-11-07T17:42:00.446793Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/gJuv","is_franchisee_of":null,"is_favorite":false,"created":"2022-11-07T17:23:35.313746Z","selected_offer":{"id":584,"reward":"15.00","reward_type":"percentage","kind":"A","instant":false,"name":"q","standalone":false,"purchases":null,"online":false,"applicable":false},"offers_count":1},{"id":247,"name":"Libreria online QA","country":{"id":3,"name":"España","code":"es"},"description":"Libreria online QA para todo libros","url":"https://www.libreriaqa.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631814.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1668524738_5vLecQN.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_iU6Xv5u.jpg","sector":{"id":45,"name":"Biblioteca","icon":null,"created":"2022-11-15T15:04:41.343522Z"},"descriptive_categories":[{"id":85,"name":"libros","owner":247,"sector":null,"created":"2022-11-15T15:05:34.911963Z"}],"return_period":7,"dynamic_link":"https://app.dev.woowbe.com/share/PwSy","is_franchisee_of":null,"is_favorite":false,"created":"2022-11-15T14:57:58.069603Z","selected_offer":null,"offers_count":0}]}
+{
+	"count": 137,
+	"next": "https://backend.dev.woowbe.com/api/v1/business/public/?page=12",
+	"previous": "https://backend.dev.woowbe.com/api/v1/business/public/?page=10",
+	"results": [
+		{
+			"id": 236,
+			"name": "Yogui QA",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "Yogui QA es el comercio offline \n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages",
+			"url": "https://www.yogui.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631810.jpeg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1665492408_Z9SKuNG.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_HYuhoAb.jpg",
+			"sector": {
+				"id": 24,
+				"name": "Gimnasio",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/sport.svg",
+				"created": "2021-05-25T11:07:47.157431Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 10,
+					"name": "Healthy",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-21T14:33:37.426542Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/KcyB",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2022-10-11T11:27:09.183229Z",
+			"selected_offer": {
+				"id": 551,
+				"reward": "4.00",
+				"reward_type": "fixed",
+				"kind": "C",
+				"instant": false,
+				"name": "sellos pull to refresh",
+				"standalone": false,
+				"purchases": 4,
+				"online": false,
+				"applicable": false
+			},
+			"offers_count": 1
+		},
+		{
+			"id": 238,
+			"name": "Yogui QA",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "Yogui QA es el comercio offline \n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages",
+			"url": "https://www.yogui.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631811.jpeg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1665492408_Z9SKuNG.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_HYuhoAb.jpg",
+			"sector": {
+				"id": 24,
+				"name": "Gimnasio",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/sport.svg",
+				"created": "2021-05-25T11:07:47.157431Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 10,
+					"name": "Healthy",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-21T14:33:37.426542Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/8UT1",
+			"is_franchisee_of": 236,
+			"is_favorite": false,
+			"created": "2022-10-17T15:15:08.575890Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 239,
+			"name": "Cafeteria QA",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "Programa de Test QA",
+			"url": "http://aa.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg",
+			"sector": {
+				"id": 4,
+				"name": "Bar",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg",
+				"created": "2021-05-25T10:47:46.399740Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 30,
+					"name": "afterwork",
+					"owner": null,
+					"sector": 4,
+					"created": "2021-10-24T10:04:24.581445Z"
+				},
+				{
+					"id": 43,
+					"name": "barba",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-26T07:38:43.587103Z"
+				},
+				{
+					"id": 67,
+					"name": "patata",
+					"owner": 177,
+					"sector": null,
+					"created": "2022-08-22T13:01:31.983340Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/5ni7",
+			"is_franchisee_of": 177,
+			"is_favorite": false,
+			"created": "2022-10-17T15:31:43.939441Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 241,
+			"name": "Churreria churrito feliz",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "Churreria churrito feliz\r\n\r\nMejor churreria del mundo mundial!!",
+			"url": "https://www.churritofeliz.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631812.jpeg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631812_lJI83Xu.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_sYvVFYh.jpg",
+			"sector": {
+				"id": 5,
+				"name": "Cafetería",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+				"created": "2021-05-25T10:48:41.547333Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 54,
+					"name": "café",
+					"owner": null,
+					"sector": null,
+					"created": "2021-11-29T11:15:07.797534Z"
+				},
+				{
+					"id": 60,
+					"name": "repostería",
+					"owner": null,
+					"sector": null,
+					"created": "2021-11-29T13:55:03.905322Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/vNHX",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2022-10-25T15:08:00.574858Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 242,
+			"name": "franquicia prueba iñigo",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "",
+			"url": null,
+			"square_picture": null,
+			"widescreen_picture": null,
+			"cover": null,
+			"sector": null,
+			"descriptive_categories": [],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/455n",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2022-10-26T10:38:35.278882Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 243,
+			"name": "Negocio Facturacion",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "Negocio Facturacion descripcion",
+			"url": "https://www.facturacion.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631813.jpeg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1666952262_2VZ6Qea.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_PjPUN60.jpg",
+			"sector": {
+				"id": 4,
+				"name": "Bar",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg",
+				"created": "2021-05-25T10:47:46.399740Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 44,
+					"name": "barbería",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-26T07:38:49.830200Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/4q1m",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2022-10-28T10:12:30.694988Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 244,
+			"name": "Dale's Business",
+			"country": null,
+			"description": "",
+			"url": null,
+			"square_picture": null,
+			"widescreen_picture": null,
+			"cover": null,
+			"sector": null,
+			"descriptive_categories": [],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/XwPa",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2022-11-07T14:47:43.004364Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 245,
+			"name": "dale´s test",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "fgrggrr",
+			"url": "http://test.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1667833547.jpeg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1667833548.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_w6x6uEg.jpg",
+			"sector": {
+				"id": 22,
+				"name": "Alimentación animal",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg",
+				"created": "2021-05-25T11:07:08.658870Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 46,
+					"name": "americana",
+					"owner": null,
+					"sector": null,
+					"created": "2021-11-29T09:27:36.991965Z"
+				},
+				{
+					"id": 22,
+					"name": "asiática",
+					"owner": null,
+					"sector": 2,
+					"created": "2021-10-21T20:53:02.997177Z"
+				},
+				{
+					"id": 43,
+					"name": "barba",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-26T07:38:43.587103Z"
+				},
+				{
+					"id": 44,
+					"name": "barbería",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-26T07:38:49.830200Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/JeZB",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2022-11-07T14:58:10.334063Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 246,
+			"name": "Veterinaria QA aaaaaddddddbbbbbbb",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "clinica veterinaria con mucha experiencia en el cuidado de animales. Tratamos a todos los animales como si fuesen parte de nuestra familia.",
+			"url": "http://www.vete.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1667842927.jpeg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1669722210.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0hwbWev.jpg",
+			"sector": {
+				"id": 33,
+				"name": "Veterinario",
+				"icon": null,
+				"created": "2021-05-25T11:17:24.318169Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 84,
+					"name": "perro",
+					"owner": 246,
+					"sector": null,
+					"created": "2022-11-07T17:42:00.446793Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/gJuv",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2022-11-07T17:23:35.313746Z",
+			"selected_offer": {
+				"id": 584,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "q",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false
+			},
+			"offers_count": 1
+		},
+		{
+			"id": 247,
+			"name": "Libreria online QA",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "Libreria online QA para todo libros",
+			"url": "https://www.libreriaqa.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631814.jpeg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1668524738_5vLecQN.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_iU6Xv5u.jpg",
+			"sector": {
+				"id": 45,
+				"name": "Biblioteca",
+				"icon": null,
+				"created": "2022-11-15T15:04:41.343522Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 85,
+					"name": "libros",
+					"owner": 247,
+					"sector": null,
+					"created": "2022-11-15T15:05:34.911963Z"
+				}
+			],
+			"return_period": 7,
+			"dynamic_link": "https://app.dev.woowbe.com/share/PwSy",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2022-11-15T14:57:58.069603Z",
+			"selected_offer": null,
+			"offers_count": 0
+		}
+	]
+}

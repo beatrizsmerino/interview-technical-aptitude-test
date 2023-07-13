@@ -1,1 +1,766 @@
-{"count":579,"next":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=14","previous":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=12","results":[{"id":706,"business":{"id":221,"name":"Comercio Pilar","country":{"id":3,"name":"España","code":"es"},"description":"aaaa","url":"https://www.a.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ukH6r9K.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1660835863.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_7YXUFpi.jpg","sector":{"id":22,"name":"Alimentación animal","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg","created":"2021-05-25T11:07:08.658870Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"},{"id":67,"name":"patata","owner":177,"sector":null,"created":"2022-08-22T13:01:31.983340Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/qztb","is_franchisee_of":180,"is_favorite":false,"created":"2022-09-13T13:35:15.345051Z","offers_count":0},"online":false,"url":null,"position":null,"address":null,"number":null,"postal_code":null,"state":null,"city":null,"merchants_count":0,"modified":"2023-03-17T08:01:19.592796Z","place_id":null,"formatted_address":"","deleted":false,"deleted_at":null,"created":"2022-09-13T13:35:16.022246Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":704,"business":{"id":218,"name":"Scalpers prueba 2","country":{"id":3,"name":"España","code":"es"},"description":"hjsdhjshdjsd","url":"https://www.scalpers.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_3XLleKF.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_BM0JE6D.jpg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_jJSjEhH.jpg","sector":{"id":9,"name":"Tienda de bebé","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/child.svg","created":"2021-05-25T11:00:26.206013Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"}],"return_period":30,"dynamic_link":"https://app.dev.woowbe.com/share/SxYT","is_franchisee_of":12,"is_favorite":false,"created":"2022-09-13T13:25:11.138773Z","offers_count":0},"online":false,"url":null,"position":null,"address":null,"number":null,"postal_code":null,"state":null,"city":null,"merchants_count":0,"modified":"2023-03-17T08:01:19.772065Z","place_id":null,"formatted_address":"","deleted":false,"deleted_at":null,"created":"2022-09-13T13:25:11.466289Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":703,"business":{"id":217,"name":"Scalpers prueba","country":{"id":3,"name":"España","code":"es"},"description":"hjsdhjshdjsd","url":"https://www.scalpers.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_3XLleKF.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_BM0JE6D.jpg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_jJSjEhH.jpg","sector":{"id":9,"name":"Tienda de bebé","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/child.svg","created":"2021-05-25T11:00:26.206013Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"}],"return_period":30,"dynamic_link":"https://app.dev.woowbe.com/share/zuxE","is_franchisee_of":12,"is_favorite":false,"created":"2022-09-13T13:25:10.469393Z","offers_count":0},"online":false,"url":null,"position":null,"address":null,"number":null,"postal_code":null,"state":null,"city":null,"merchants_count":0,"modified":"2023-03-17T08:01:20.000007Z","place_id":null,"formatted_address":"","deleted":false,"deleted_at":null,"created":"2022-09-13T13:25:11.095932Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":700,"business":{"id":211,"name":"Sandra Flores","country":{"id":3,"name":"España","code":"es"},"description":"Negocio familiar de flores únicas.","url":"https://asodkos.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_IFB7Mny.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1663066803.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_JjF5T5y.jpg","sector":{"id":10,"name":"Tienda de deporte","icon":null,"created":"2021-05-25T11:00:54.849631Z"},"descriptive_categories":[{"id":46,"name":"americana","owner":null,"sector":null,"created":"2021-11-29T09:27:36.991965Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/jyye","is_franchisee_of":null,"is_favorite":false,"created":"2022-09-13T10:37:21.496000Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6863889,40.425537]},"address":"Calle de Goya","number":"21","postal_code":"28001","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:20.107941Z","place_id":"ChIJv1CSF5coQg0REJuflsgOkU8","formatted_address":"Calle de Goya, 21, 28001 Madrid","deleted":false,"deleted_at":null,"created":"2022-09-13T11:00:50.485400Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":699,"business":{"id":214,"name":"CALCEDONIA","country":{"id":3,"name":"España","code":"es"},"description":"Moda medias y calcetines","url":"http://calcedonia.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_0sOtu22.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1663066534.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_52RMw5b.jpg","sector":{"id":34,"name":"Asociación empresarial","icon":null,"created":"2021-05-25T11:17:48.433219Z"},"descriptive_categories":[{"id":75,"name":"moda","owner":214,"sector":null,"created":"2022-09-13T10:55:06.956590Z"},{"id":76,"name":"moda medias","owner":214,"sector":null,"created":"2022-09-13T10:55:18.851310Z"}],"return_period":15,"dynamic_link":"https://app.dev.woowbe.com/share/3Wvu","is_franchisee_of":null,"is_favorite":false,"created":"2022-09-13T10:37:31.544340Z","offers_count":0},"online":true,"url":"http://www.calcedonia.com","position":null,"address":null,"number":null,"postal_code":null,"state":null,"city":null,"merchants_count":0,"modified":"2023-03-17T08:01:20.197079Z","place_id":null,"formatted_address":"","deleted":false,"deleted_at":null,"created":"2022-09-13T10:59:57.352855Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":"www.calcedonia.com","is_open":false},{"id":698,"business":{"id":214,"name":"CALCEDONIA","country":{"id":3,"name":"España","code":"es"},"description":"Moda medias y calcetines","url":"http://calcedonia.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_0sOtu22.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1663066534.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_52RMw5b.jpg","sector":{"id":34,"name":"Asociación empresarial","icon":null,"created":"2021-05-25T11:17:48.433219Z"},"descriptive_categories":[{"id":75,"name":"moda","owner":214,"sector":null,"created":"2022-09-13T10:55:06.956590Z"},{"id":76,"name":"moda medias","owner":214,"sector":null,"created":"2022-09-13T10:55:18.851310Z"}],"return_period":15,"dynamic_link":"https://app.dev.woowbe.com/share/3Wvu","is_franchisee_of":null,"is_favorite":false,"created":"2022-09-13T10:37:31.544340Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7002221,40.4197502]},"address":"Calle Gran Vía","number":"15","postal_code":"28013","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:20.296951Z","place_id":"ChIJiQdL4oYoQg0RSAMzYaIK3b0","formatted_address":"C/ Gran Vía, 15, 28013 Madrid","deleted":false,"deleted_at":null,"created":"2022-09-13T10:59:02.874040Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":697,"business":{"id":208,"name":"demomartes","country":{"id":3,"name":"España","code":"es"},"description":"es un negocio de prueba de formacion de comercial","url":"https://prueba.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_SQGSdpA.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_6WSy6BM.jpg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_I54WtiB.jpg","sector":{"id":14,"name":"Electrónica","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/electronic.svg","created":"2021-05-25T11:03:50.040033Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"},{"id":73,"name":"cafe","owner":208,"sector":null,"created":"2022-09-13T08:53:59.790587Z"},{"id":74,"name":"café americano","owner":208,"sector":null,"created":"2022-09-13T08:55:00.647300Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/D5Fm","is_franchisee_of":null,"is_favorite":false,"created":"2022-09-13T08:42:51.803739Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7002221,40.4197502]},"address":"Calle Gran Vía","number":"15","postal_code":"28013","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:20.503075Z","place_id":"ChIJiQdL4oYoQg0RSAMzYaIK3b0","formatted_address":"C/ Gran Vía, 15, 28013 Madrid","deleted":false,"deleted_at":null,"created":"2022-09-13T08:59:29.578850Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":696,"business":{"id":198,"name":"inigotest10","country":{"id":3,"name":"España","code":"es"},"description":"lkldkj","url":"http://test.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_1UCivDt.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_hUT0VnC.jpg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_k7ZkeQ7.jpg","sector":{"id":28,"name":"Alquiler de coches","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/mobility.svg","created":"2021-05-25T11:10:59.951129Z"},"descriptive_categories":[{"id":46,"name":"americana","owner":null,"sector":null,"created":"2021-11-29T09:27:36.991965Z"},{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/BWwn","is_franchisee_of":null,"is_favorite":false,"created":"2022-09-12T14:29:10.436684Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7084017,40.4216158]},"address":"Calle Gran Vía","number":"55","postal_code":"28013","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:20.804300Z","place_id":"ChIJEe9IknwoQg0R0_UPAHHwrME","formatted_address":"C/ Gran Vía, 55, 28013 Madrid","deleted":false,"deleted_at":null,"created":"2022-09-12T15:42:43.613126Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":687,"business":{"id":186,"name":"inigotest3","country":{"id":3,"name":"España","code":"es"},"description":"aljddlfjdsl","url":"http://www.as.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_AQDIr2C.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_beDii74.jpg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_h1ThLyq.jpg","sector":{"id":4,"name":"Bar","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg","created":"2021-05-25T10:47:46.399740Z"},"descriptive_categories":[{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":20,"name":"italiano","owner":null,"sector":null,"created":"2021-10-21T20:22:55.462166Z"}],"return_period":34,"dynamic_link":"https://app.dev.woowbe.com/share/dXd5","is_franchisee_of":null,"is_favorite":false,"created":"2022-09-07T08:48:25.509791Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.8664677,40.4651074]},"address":"Avenida España","number":"s/n","postal_code":"28220","state":"Madrid","city":"Majadahonda","merchants_count":0,"modified":"2023-03-17T08:01:21.674943Z","place_id":"ChIJM9cZl4iEQQ0RCpjZJMYKgQc","formatted_address":"Av. España, s/n, 28220 Majadahonda, Madrid","deleted":false,"deleted_at":null,"created":"2022-09-07T11:41:42.803405Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":685,"business":{"id":185,"name":"inigotest2","country":{"id":3,"name":"España","code":"es"},"description":"34","url":"https://www.test2.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_AMzbBii.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631772.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_ejZs8a8.jpg","sector":{"id":5,"name":"Cafetería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg","created":"2021-05-25T10:48:41.547333Z"},"descriptive_categories":[{"id":46,"name":"americana","owner":null,"sector":null,"created":"2021-11-29T09:27:36.991965Z"},{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":72,"name":"cosas","owner":185,"sector":null,"created":"2022-09-07T07:35:57.419399Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/KgaR","is_franchisee_of":null,"is_favorite":false,"created":"2022-09-07T07:28:47.431750Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7084017,40.4216158]},"address":"Calle Gran Vía","number":"55","postal_code":"28013","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:21.835699Z","place_id":"ChIJEe9IknwoQg0R0_UPAHHwrME","formatted_address":"C/ Gran Vía, 55, 28013 Madrid","deleted":false,"deleted_at":null,"created":"2022-09-07T07:42:21.565408Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false}]}
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=14",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=12",
+	"results": [
+		{
+			"id": 706,
+			"business": {
+				"id": 221,
+				"name": "Comercio Pilar",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "aaaa",
+				"url": "https://www.a.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ukH6r9K.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1660835863.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_7YXUFpi.jpg",
+				"sector": {
+					"id": 22,
+					"name": "Alimentación animal",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg",
+					"created": "2021-05-25T11:07:08.658870Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					},
+					{
+						"id": 67,
+						"name": "patata",
+						"owner": 177,
+						"sector": null,
+						"created": "2022-08-22T13:01:31.983340Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/qztb",
+				"is_franchisee_of": 180,
+				"is_favorite": false,
+				"created": "2022-09-13T13:35:15.345051Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:19.592796Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-09-13T13:35:16.022246Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 704,
+			"business": {
+				"id": 218,
+				"name": "Scalpers prueba 2",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "hjsdhjshdjsd",
+				"url": "https://www.scalpers.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_3XLleKF.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_BM0JE6D.jpg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_jJSjEhH.jpg",
+				"sector": {
+					"id": 9,
+					"name": "Tienda de bebé",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/child.svg",
+					"created": "2021-05-25T11:00:26.206013Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					}
+				],
+				"return_period": 30,
+				"dynamic_link": "https://app.dev.woowbe.com/share/SxYT",
+				"is_franchisee_of": 12,
+				"is_favorite": false,
+				"created": "2022-09-13T13:25:11.138773Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:19.772065Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-09-13T13:25:11.466289Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 703,
+			"business": {
+				"id": 217,
+				"name": "Scalpers prueba",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "hjsdhjshdjsd",
+				"url": "https://www.scalpers.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_3XLleKF.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_BM0JE6D.jpg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_jJSjEhH.jpg",
+				"sector": {
+					"id": 9,
+					"name": "Tienda de bebé",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/child.svg",
+					"created": "2021-05-25T11:00:26.206013Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					}
+				],
+				"return_period": 30,
+				"dynamic_link": "https://app.dev.woowbe.com/share/zuxE",
+				"is_franchisee_of": 12,
+				"is_favorite": false,
+				"created": "2022-09-13T13:25:10.469393Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:20.000007Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-09-13T13:25:11.095932Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 700,
+			"business": {
+				"id": 211,
+				"name": "Sandra Flores",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Negocio familiar de flores únicas.",
+				"url": "https://asodkos.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_IFB7Mny.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1663066803.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_JjF5T5y.jpg",
+				"sector": {
+					"id": 10,
+					"name": "Tienda de deporte",
+					"icon": null,
+					"created": "2021-05-25T11:00:54.849631Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 46,
+						"name": "americana",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:36.991965Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/jyye",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-09-13T10:37:21.496000Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6863889,
+					40.425537
+				]
+			},
+			"address": "Calle de Goya",
+			"number": "21",
+			"postal_code": "28001",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:20.107941Z",
+			"place_id": "ChIJv1CSF5coQg0REJuflsgOkU8",
+			"formatted_address": "Calle de Goya, 21, 28001 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-09-13T11:00:50.485400Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 699,
+			"business": {
+				"id": 214,
+				"name": "CALCEDONIA",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Moda medias y calcetines",
+				"url": "http://calcedonia.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_0sOtu22.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1663066534.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_52RMw5b.jpg",
+				"sector": {
+					"id": 34,
+					"name": "Asociación empresarial",
+					"icon": null,
+					"created": "2021-05-25T11:17:48.433219Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 75,
+						"name": "moda",
+						"owner": 214,
+						"sector": null,
+						"created": "2022-09-13T10:55:06.956590Z"
+					},
+					{
+						"id": 76,
+						"name": "moda medias",
+						"owner": 214,
+						"sector": null,
+						"created": "2022-09-13T10:55:18.851310Z"
+					}
+				],
+				"return_period": 15,
+				"dynamic_link": "https://app.dev.woowbe.com/share/3Wvu",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-09-13T10:37:31.544340Z",
+				"offers_count": 0
+			},
+			"online": true,
+			"url": "http://www.calcedonia.com",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:20.197079Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-09-13T10:59:57.352855Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": "www.calcedonia.com",
+			"is_open": false
+		},
+		{
+			"id": 698,
+			"business": {
+				"id": 214,
+				"name": "CALCEDONIA",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Moda medias y calcetines",
+				"url": "http://calcedonia.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_0sOtu22.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1663066534.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_52RMw5b.jpg",
+				"sector": {
+					"id": 34,
+					"name": "Asociación empresarial",
+					"icon": null,
+					"created": "2021-05-25T11:17:48.433219Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 75,
+						"name": "moda",
+						"owner": 214,
+						"sector": null,
+						"created": "2022-09-13T10:55:06.956590Z"
+					},
+					{
+						"id": 76,
+						"name": "moda medias",
+						"owner": 214,
+						"sector": null,
+						"created": "2022-09-13T10:55:18.851310Z"
+					}
+				],
+				"return_period": 15,
+				"dynamic_link": "https://app.dev.woowbe.com/share/3Wvu",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-09-13T10:37:31.544340Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7002221,
+					40.4197502
+				]
+			},
+			"address": "Calle Gran Vía",
+			"number": "15",
+			"postal_code": "28013",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:20.296951Z",
+			"place_id": "ChIJiQdL4oYoQg0RSAMzYaIK3b0",
+			"formatted_address": "C/ Gran Vía, 15, 28013 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-09-13T10:59:02.874040Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 697,
+			"business": {
+				"id": 208,
+				"name": "demomartes",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "es un negocio de prueba de formacion de comercial",
+				"url": "https://prueba.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_SQGSdpA.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_6WSy6BM.jpg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_I54WtiB.jpg",
+				"sector": {
+					"id": 14,
+					"name": "Electrónica",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/electronic.svg",
+					"created": "2021-05-25T11:03:50.040033Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					},
+					{
+						"id": 73,
+						"name": "cafe",
+						"owner": 208,
+						"sector": null,
+						"created": "2022-09-13T08:53:59.790587Z"
+					},
+					{
+						"id": 74,
+						"name": "café americano",
+						"owner": 208,
+						"sector": null,
+						"created": "2022-09-13T08:55:00.647300Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/D5Fm",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-09-13T08:42:51.803739Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7002221,
+					40.4197502
+				]
+			},
+			"address": "Calle Gran Vía",
+			"number": "15",
+			"postal_code": "28013",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:20.503075Z",
+			"place_id": "ChIJiQdL4oYoQg0RSAMzYaIK3b0",
+			"formatted_address": "C/ Gran Vía, 15, 28013 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-09-13T08:59:29.578850Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 696,
+			"business": {
+				"id": 198,
+				"name": "inigotest10",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "lkldkj",
+				"url": "http://test.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_1UCivDt.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_hUT0VnC.jpg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_k7ZkeQ7.jpg",
+				"sector": {
+					"id": 28,
+					"name": "Alquiler de coches",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/mobility.svg",
+					"created": "2021-05-25T11:10:59.951129Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 46,
+						"name": "americana",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:36.991965Z"
+					},
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/BWwn",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-09-12T14:29:10.436684Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7084017,
+					40.4216158
+				]
+			},
+			"address": "Calle Gran Vía",
+			"number": "55",
+			"postal_code": "28013",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:20.804300Z",
+			"place_id": "ChIJEe9IknwoQg0R0_UPAHHwrME",
+			"formatted_address": "C/ Gran Vía, 55, 28013 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-09-12T15:42:43.613126Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 687,
+			"business": {
+				"id": 186,
+				"name": "inigotest3",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "aljddlfjdsl",
+				"url": "http://www.as.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_AQDIr2C.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_beDii74.jpg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_h1ThLyq.jpg",
+				"sector": {
+					"id": 4,
+					"name": "Bar",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg",
+					"created": "2021-05-25T10:47:46.399740Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 20,
+						"name": "italiano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T20:22:55.462166Z"
+					}
+				],
+				"return_period": 34,
+				"dynamic_link": "https://app.dev.woowbe.com/share/dXd5",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-09-07T08:48:25.509791Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.8664677,
+					40.4651074
+				]
+			},
+			"address": "Avenida España",
+			"number": "s/n",
+			"postal_code": "28220",
+			"state": "Madrid",
+			"city": "Majadahonda",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:21.674943Z",
+			"place_id": "ChIJM9cZl4iEQQ0RCpjZJMYKgQc",
+			"formatted_address": "Av. España, s/n, 28220 Majadahonda, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-09-07T11:41:42.803405Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 685,
+			"business": {
+				"id": 185,
+				"name": "inigotest2",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "34",
+				"url": "https://www.test2.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_AMzbBii.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631772.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_ejZs8a8.jpg",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 46,
+						"name": "americana",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:36.991965Z"
+					},
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 72,
+						"name": "cosas",
+						"owner": 185,
+						"sector": null,
+						"created": "2022-09-07T07:35:57.419399Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/KgaR",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-09-07T07:28:47.431750Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7084017,
+					40.4216158
+				]
+			},
+			"address": "Calle Gran Vía",
+			"number": "55",
+			"postal_code": "28013",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:21.835699Z",
+			"place_id": "ChIJEe9IknwoQg0R0_UPAHHwrME",
+			"formatted_address": "C/ Gran Vía, 55, 28013 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-09-07T07:42:21.565408Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

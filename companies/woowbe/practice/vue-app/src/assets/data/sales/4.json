@@ -1,1 +1,757 @@
-{"count":579,"next":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=5","previous":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=3","results":[{"id":886,"business":{"id":305,"name":"Test App Shop","country":{"id":2,"name":"Malta","code":"mt"},"description":"AAA","url":"https://google.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1667494635.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_ZiLjO4p.jpg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_kvUvSKN.jpg","sector":{"id":22,"name":"Alimentación animal","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg","created":"2021-05-25T11:07:08.658870Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"}],"return_period":10,"dynamic_link":"https://app.dev.woowbe.com/share/vTNq","is_franchisee_of":143,"is_favorite":false,"created":"2023-03-05T21:23:42.695486Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-0.4841399,38.3447883]},"address":"Carrer Girona","number":"3","postal_code":"03001","state":"Alicante","city":"Alacant","merchants_count":0,"modified":"2023-03-09T10:13:43.863881Z","place_id":"ChIJbzJJLLI3Yg0RxDhx7vYJcYM","formatted_address":"Carrer Girona, 3, 03001 Alacant, Alicante","deleted":true,"deleted_at":"2023-03-09T10:13:43.835361Z","created":"2023-03-08T15:41:57.895264Z","selected_offer":{"id":521,"reward":"10.00","reward_type":"percentage","kind":"A","instant":false,"name":"Nuevo programa","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":"2023-09-08"},"public_url":null,"is_open":false},{"id":885,"business":{"id":143,"name":"Test App","country":{"id":2,"name":"Malta","code":"mt"},"description":"Descri","url":"https://google.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1667494635.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_ZiLjO4p.jpg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_kvUvSKN.jpg","sector":{"id":22,"name":"Alimentación animal","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg","created":"2021-05-25T11:07:08.658870Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/9CqB","is_franchisee_of":null,"is_favorite":false,"created":"2022-05-18T16:12:43.026936Z","offers_count":16},"online":false,"url":null,"position":{"type":"Point","coordinates":[-0.6255536,38.564658199999975]},"address":"Calle Murcia","number":"93","postal_code":"03420","state":"Alicante","city":"Castalla","merchants_count":0,"modified":"2023-03-13T11:06:02.395924Z","place_id":"ChIJn7zl0mPTYw0RGEwwmTWmm9I","formatted_address":"C. Murcia, 93, 03420 Castalla, Alicante","deleted":true,"deleted_at":"2023-03-12T10:19:13Z","created":"2023-03-08T15:30:57.236934Z","selected_offer":{"id":521,"reward":"10.00","reward_type":"percentage","kind":"A","instant":false,"name":"Nuevo programa","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":"2023-09-08"},"public_url":null,"is_open":false},{"id":884,"business":{"id":305,"name":"Test App Shop","country":{"id":2,"name":"Malta","code":"mt"},"description":"AAA","url":"https://google.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1667494635.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_ZiLjO4p.jpg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_kvUvSKN.jpg","sector":{"id":22,"name":"Alimentación animal","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg","created":"2021-05-25T11:07:08.658870Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"}],"return_period":10,"dynamic_link":"https://app.dev.woowbe.com/share/vTNq","is_franchisee_of":143,"is_favorite":false,"created":"2023-03-05T21:23:42.695486Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-0.6936008,37.9748757]},"address":"Calle Valencia","number":"12","postal_code":"03185","state":"Alicante","city":"Torrevieja","merchants_count":0,"modified":"2023-03-08T15:37:02.518560Z","place_id":"ChIJ3x-KC18HYw0RZB38GtE-V-c","formatted_address":"C. Valencia, 12, 03185 Torrevieja, Alicante","deleted":true,"deleted_at":"2023-03-08T15:37:02.491921Z","created":"2023-03-08T15:28:36.499329Z","selected_offer":{"id":521,"reward":"10.00","reward_type":"percentage","kind":"A","instant":false,"name":"Nuevo programa","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":"2023-09-08"},"public_url":null,"is_open":false},{"id":883,"business":{"id":305,"name":"Test App Shop","country":{"id":2,"name":"Malta","code":"mt"},"description":"AAA","url":"https://google.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1667494635.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_ZiLjO4p.jpg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_kvUvSKN.jpg","sector":{"id":22,"name":"Alimentación animal","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg","created":"2021-05-25T11:07:08.658870Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"}],"return_period":10,"dynamic_link":"https://app.dev.woowbe.com/share/vTNq","is_franchisee_of":143,"is_favorite":false,"created":"2023-03-05T21:23:42.695486Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6227545,37.1391177]},"address":"Calle Murcia","number":"23","postal_code":"18100","state":"Granada","city":"Armilla","merchants_count":0,"modified":"2023-03-09T10:14:28.771952Z","place_id":"ChIJr1VzFp77cQ0RYRChMsuSLkI","formatted_address":"C. Murcia, 23, 18100 Armilla, Granada","deleted":true,"deleted_at":"2023-03-09T10:14:28.736501Z","created":"2023-03-08T15:28:05.685667Z","selected_offer":{"id":521,"reward":"10.00","reward_type":"percentage","kind":"A","instant":false,"name":"Nuevo programa","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":"2023-09-08"},"public_url":null,"is_open":false},{"id":882,"business":{"id":143,"name":"Test App","country":{"id":2,"name":"Malta","code":"mt"},"description":"Descri","url":"https://google.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1667494635.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_ZiLjO4p.jpg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_kvUvSKN.jpg","sector":{"id":22,"name":"Alimentación animal","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg","created":"2021-05-25T11:07:08.658870Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/9CqB","is_franchisee_of":null,"is_favorite":false,"created":"2022-05-18T16:12:43.026936Z","offers_count":16},"online":false,"url":null,"position":{"type":"Point","coordinates":[-0.787346,38.4743488]},"address":"Calle Murcia","number":"42","postal_code":"03600","state":"Alicante","city":"Elda","merchants_count":0,"modified":"2023-04-14T09:29:30.381525Z","place_id":"ChIJU2b_2CjFYw0RNOihZweKDGg","formatted_address":"C. Murcia, 42, 03600 Elda, Alicante","deleted":true,"deleted_at":"2023-04-14T09:29:30.188632Z","created":"2023-03-08T15:01:57.032649Z","selected_offer":{"id":521,"reward":"10.00","reward_type":"percentage","kind":"A","instant":false,"name":"Nuevo programa","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":"2023-09-08"},"public_url":null,"is_open":false},{"id":881,"business":{"id":143,"name":"Test App","country":{"id":2,"name":"Malta","code":"mt"},"description":"Descri","url":"https://google.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1667494635.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_ZiLjO4p.jpg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_kvUvSKN.jpg","sector":{"id":22,"name":"Alimentación animal","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg","created":"2021-05-25T11:07:08.658870Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/9CqB","is_franchisee_of":null,"is_favorite":false,"created":"2022-05-18T16:12:43.026936Z","offers_count":16},"online":false,"url":null,"position":{"type":"Point","coordinates":[2.1501406,41.3825492]},"address":"Carrer de València","number":"92","postal_code":"08015","state":"Barcelona","city":"Barcelona","merchants_count":0,"modified":"2023-03-17T08:00:30.702910Z","place_id":"ChIJYQoDNYeipBIR5YuKuv-HhBc","formatted_address":"C/ de València, 92, 08015 Barcelona","deleted":false,"deleted_at":null,"created":"2023-03-08T15:00:33.717604Z","selected_offer":{"id":521,"reward":"10.00","reward_type":"percentage","kind":"A","instant":false,"name":"Nuevo programa","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":"2023-09-08"},"public_url":null,"is_open":false},{"id":880,"business":{"id":236,"name":"Yogui QA","country":{"id":3,"name":"España","code":"es"},"description":"Yogui QA es el comercio offline \n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages","url":"https://www.yogui.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631810.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1665492408_Z9SKuNG.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_HYuhoAb.jpg","sector":{"id":24,"name":"Gimnasio","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/sport.svg","created":"2021-05-25T11:07:47.157431Z"},"descriptive_categories":[{"id":10,"name":"Healthy","owner":null,"sector":null,"created":"2021-10-21T14:33:37.426542Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/KcyB","is_franchisee_of":null,"is_favorite":false,"created":"2022-10-11T11:27:09.183229Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[2.1828688,41.4010283]},"address":"Carrer de Padilla","number":"173","postal_code":"08013","state":"Barcelona","city":"Barcelona","merchants_count":0,"modified":"2023-03-17T08:00:41.706974Z","place_id":"ChIJVx8l3d-ipBIRKdsYkB89Bpw","formatted_address":"C/ de Padilla, 173, 08013 Barcelona","deleted":false,"deleted_at":null,"created":"2023-03-08T14:49:39.801168Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":865,"business":{"id":260,"name":"Prueba devolucion presupuesto","country":{"id":3,"name":"España","code":"es"},"description":"devolucion presupuesto","url":"https://www.aa.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_wGfyXAX.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1673614842.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_H4n5vL4.jpg","sector":{"id":28,"name":"Alquiler de coches","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/mobility.svg","created":"2021-05-25T11:10:59.951129Z"},"descriptive_categories":[{"id":58,"name":"rotisserie","owner":null,"sector":null,"created":"2021-11-29T12:57:28.377827Z"}],"return_period":3,"dynamic_link":"https://app.dev.woowbe.com/share/Qm2j","is_franchisee_of":null,"is_favorite":false,"created":"2023-01-13T12:58:26.780285Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6034269,37.1795932]},"address":"Calle San Juan de Dios","number":"5","postal_code":"18001","state":"Granada","city":"Granada","merchants_count":0,"modified":"2023-03-17T08:00:52.095504Z","place_id":"ChIJkYDRwur8cQ0RDwzGS9-9O94","formatted_address":"C/ San Juan de Dios, 5, 18001 Granada","deleted":false,"deleted_at":null,"created":"2023-03-07T13:51:40.678473Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":851,"business":{"id":302,"name":"Bill's","country":{"id":3,"name":"España","code":"es"},"description":"Cositas","url":"http://hola.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_R99Kjdw.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1677662994.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_cKBoJtf.jpg","sector":{"id":4,"name":"Bar","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg","created":"2021-05-25T10:47:46.399740Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/XE5a","is_franchisee_of":null,"is_favorite":false,"created":"2023-03-01T09:28:04.100558Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6739766,40.427892]},"address":"Calle de Alcántara","number":"23","postal_code":"28006","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:00:52.108997Z","place_id":"ChIJ8VxqP7ooQg0RuB5tMFQDSiY","formatted_address":"C. de Alcántara, 23, 28006 Madrid","deleted":false,"deleted_at":null,"created":"2023-03-01T09:30:24.905197Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":850,"business":{"id":260,"name":"Prueba devolucion presupuesto","country":{"id":3,"name":"España","code":"es"},"description":"devolucion presupuesto","url":"https://www.aa.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_wGfyXAX.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1673614842.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_H4n5vL4.jpg","sector":{"id":28,"name":"Alquiler de coches","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/mobility.svg","created":"2021-05-25T11:10:59.951129Z"},"descriptive_categories":[{"id":58,"name":"rotisserie","owner":null,"sector":null,"created":"2021-11-29T12:57:28.377827Z"}],"return_period":3,"dynamic_link":"https://app.dev.woowbe.com/share/Qm2j","is_franchisee_of":null,"is_favorite":false,"created":"2023-01-13T12:58:26.780285Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7293162,40.3050966]},"address":"Calle Arboleda","number":"5","postal_code":"28901","state":"Madrid","city":"Getafe","merchants_count":0,"modified":"2023-03-17T08:00:52.580662Z","place_id":"ChIJ96DWtJYgQg0RZlpNPhxHhrQ","formatted_address":"C. Arboleda, 5, 28901 Getafe, Madrid","deleted":false,"deleted_at":null,"created":"2023-02-28T14:38:01.099542Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false}]}
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=5",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=3",
+	"results": [
+		{
+			"id": 886,
+			"business": {
+				"id": 305,
+				"name": "Test App Shop",
+				"country": {
+					"id": 2,
+					"name": "Malta",
+					"code": "mt"
+				},
+				"description": "AAA",
+				"url": "https://google.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1667494635.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_ZiLjO4p.jpg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_kvUvSKN.jpg",
+				"sector": {
+					"id": 22,
+					"name": "Alimentación animal",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg",
+					"created": "2021-05-25T11:07:08.658870Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					}
+				],
+				"return_period": 10,
+				"dynamic_link": "https://app.dev.woowbe.com/share/vTNq",
+				"is_franchisee_of": 143,
+				"is_favorite": false,
+				"created": "2023-03-05T21:23:42.695486Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-0.4841399,
+					38.3447883
+				]
+			},
+			"address": "Carrer Girona",
+			"number": "3",
+			"postal_code": "03001",
+			"state": "Alicante",
+			"city": "Alacant",
+			"merchants_count": 0,
+			"modified": "2023-03-09T10:13:43.863881Z",
+			"place_id": "ChIJbzJJLLI3Yg0RxDhx7vYJcYM",
+			"formatted_address": "Carrer Girona, 3, 03001 Alacant, Alicante",
+			"deleted": true,
+			"deleted_at": "2023-03-09T10:13:43.835361Z",
+			"created": "2023-03-08T15:41:57.895264Z",
+			"selected_offer": {
+				"id": 521,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Nuevo programa",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-09-08"
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 885,
+			"business": {
+				"id": 143,
+				"name": "Test App",
+				"country": {
+					"id": 2,
+					"name": "Malta",
+					"code": "mt"
+				},
+				"description": "Descri",
+				"url": "https://google.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1667494635.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_ZiLjO4p.jpg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_kvUvSKN.jpg",
+				"sector": {
+					"id": 22,
+					"name": "Alimentación animal",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg",
+					"created": "2021-05-25T11:07:08.658870Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/9CqB",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-05-18T16:12:43.026936Z",
+				"offers_count": 16
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-0.6255536,
+					38.564658199999975
+				]
+			},
+			"address": "Calle Murcia",
+			"number": "93",
+			"postal_code": "03420",
+			"state": "Alicante",
+			"city": "Castalla",
+			"merchants_count": 0,
+			"modified": "2023-03-13T11:06:02.395924Z",
+			"place_id": "ChIJn7zl0mPTYw0RGEwwmTWmm9I",
+			"formatted_address": "C. Murcia, 93, 03420 Castalla, Alicante",
+			"deleted": true,
+			"deleted_at": "2023-03-12T10:19:13Z",
+			"created": "2023-03-08T15:30:57.236934Z",
+			"selected_offer": {
+				"id": 521,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Nuevo programa",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-09-08"
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 884,
+			"business": {
+				"id": 305,
+				"name": "Test App Shop",
+				"country": {
+					"id": 2,
+					"name": "Malta",
+					"code": "mt"
+				},
+				"description": "AAA",
+				"url": "https://google.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1667494635.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_ZiLjO4p.jpg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_kvUvSKN.jpg",
+				"sector": {
+					"id": 22,
+					"name": "Alimentación animal",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg",
+					"created": "2021-05-25T11:07:08.658870Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					}
+				],
+				"return_period": 10,
+				"dynamic_link": "https://app.dev.woowbe.com/share/vTNq",
+				"is_franchisee_of": 143,
+				"is_favorite": false,
+				"created": "2023-03-05T21:23:42.695486Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-0.6936008,
+					37.9748757
+				]
+			},
+			"address": "Calle Valencia",
+			"number": "12",
+			"postal_code": "03185",
+			"state": "Alicante",
+			"city": "Torrevieja",
+			"merchants_count": 0,
+			"modified": "2023-03-08T15:37:02.518560Z",
+			"place_id": "ChIJ3x-KC18HYw0RZB38GtE-V-c",
+			"formatted_address": "C. Valencia, 12, 03185 Torrevieja, Alicante",
+			"deleted": true,
+			"deleted_at": "2023-03-08T15:37:02.491921Z",
+			"created": "2023-03-08T15:28:36.499329Z",
+			"selected_offer": {
+				"id": 521,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Nuevo programa",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-09-08"
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 883,
+			"business": {
+				"id": 305,
+				"name": "Test App Shop",
+				"country": {
+					"id": 2,
+					"name": "Malta",
+					"code": "mt"
+				},
+				"description": "AAA",
+				"url": "https://google.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1667494635.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_ZiLjO4p.jpg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_kvUvSKN.jpg",
+				"sector": {
+					"id": 22,
+					"name": "Alimentación animal",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg",
+					"created": "2021-05-25T11:07:08.658870Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					}
+				],
+				"return_period": 10,
+				"dynamic_link": "https://app.dev.woowbe.com/share/vTNq",
+				"is_franchisee_of": 143,
+				"is_favorite": false,
+				"created": "2023-03-05T21:23:42.695486Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6227545,
+					37.1391177
+				]
+			},
+			"address": "Calle Murcia",
+			"number": "23",
+			"postal_code": "18100",
+			"state": "Granada",
+			"city": "Armilla",
+			"merchants_count": 0,
+			"modified": "2023-03-09T10:14:28.771952Z",
+			"place_id": "ChIJr1VzFp77cQ0RYRChMsuSLkI",
+			"formatted_address": "C. Murcia, 23, 18100 Armilla, Granada",
+			"deleted": true,
+			"deleted_at": "2023-03-09T10:14:28.736501Z",
+			"created": "2023-03-08T15:28:05.685667Z",
+			"selected_offer": {
+				"id": 521,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Nuevo programa",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-09-08"
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 882,
+			"business": {
+				"id": 143,
+				"name": "Test App",
+				"country": {
+					"id": 2,
+					"name": "Malta",
+					"code": "mt"
+				},
+				"description": "Descri",
+				"url": "https://google.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1667494635.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_ZiLjO4p.jpg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_kvUvSKN.jpg",
+				"sector": {
+					"id": 22,
+					"name": "Alimentación animal",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg",
+					"created": "2021-05-25T11:07:08.658870Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/9CqB",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-05-18T16:12:43.026936Z",
+				"offers_count": 16
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-0.787346,
+					38.4743488
+				]
+			},
+			"address": "Calle Murcia",
+			"number": "42",
+			"postal_code": "03600",
+			"state": "Alicante",
+			"city": "Elda",
+			"merchants_count": 0,
+			"modified": "2023-04-14T09:29:30.381525Z",
+			"place_id": "ChIJU2b_2CjFYw0RNOihZweKDGg",
+			"formatted_address": "C. Murcia, 42, 03600 Elda, Alicante",
+			"deleted": true,
+			"deleted_at": "2023-04-14T09:29:30.188632Z",
+			"created": "2023-03-08T15:01:57.032649Z",
+			"selected_offer": {
+				"id": 521,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Nuevo programa",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-09-08"
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 881,
+			"business": {
+				"id": 143,
+				"name": "Test App",
+				"country": {
+					"id": 2,
+					"name": "Malta",
+					"code": "mt"
+				},
+				"description": "Descri",
+				"url": "https://google.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1667494635.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_ZiLjO4p.jpg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_kvUvSKN.jpg",
+				"sector": {
+					"id": 22,
+					"name": "Alimentación animal",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg",
+					"created": "2021-05-25T11:07:08.658870Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/9CqB",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-05-18T16:12:43.026936Z",
+				"offers_count": 16
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					2.1501406,
+					41.3825492
+				]
+			},
+			"address": "Carrer de València",
+			"number": "92",
+			"postal_code": "08015",
+			"state": "Barcelona",
+			"city": "Barcelona",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:00:30.702910Z",
+			"place_id": "ChIJYQoDNYeipBIR5YuKuv-HhBc",
+			"formatted_address": "C/ de València, 92, 08015 Barcelona",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2023-03-08T15:00:33.717604Z",
+			"selected_offer": {
+				"id": 521,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Nuevo programa",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-09-08"
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 880,
+			"business": {
+				"id": 236,
+				"name": "Yogui QA",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Yogui QA es el comercio offline \n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages",
+				"url": "https://www.yogui.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631810.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1665492408_Z9SKuNG.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_HYuhoAb.jpg",
+				"sector": {
+					"id": 24,
+					"name": "Gimnasio",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/sport.svg",
+					"created": "2021-05-25T11:07:47.157431Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/KcyB",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-10-11T11:27:09.183229Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					2.1828688,
+					41.4010283
+				]
+			},
+			"address": "Carrer de Padilla",
+			"number": "173",
+			"postal_code": "08013",
+			"state": "Barcelona",
+			"city": "Barcelona",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:00:41.706974Z",
+			"place_id": "ChIJVx8l3d-ipBIRKdsYkB89Bpw",
+			"formatted_address": "C/ de Padilla, 173, 08013 Barcelona",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2023-03-08T14:49:39.801168Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 865,
+			"business": {
+				"id": 260,
+				"name": "Prueba devolucion presupuesto",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "devolucion presupuesto",
+				"url": "https://www.aa.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_wGfyXAX.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1673614842.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_H4n5vL4.jpg",
+				"sector": {
+					"id": 28,
+					"name": "Alquiler de coches",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/mobility.svg",
+					"created": "2021-05-25T11:10:59.951129Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 58,
+						"name": "rotisserie",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T12:57:28.377827Z"
+					}
+				],
+				"return_period": 3,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Qm2j",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2023-01-13T12:58:26.780285Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6034269,
+					37.1795932
+				]
+			},
+			"address": "Calle San Juan de Dios",
+			"number": "5",
+			"postal_code": "18001",
+			"state": "Granada",
+			"city": "Granada",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:00:52.095504Z",
+			"place_id": "ChIJkYDRwur8cQ0RDwzGS9-9O94",
+			"formatted_address": "C/ San Juan de Dios, 5, 18001 Granada",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2023-03-07T13:51:40.678473Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 851,
+			"business": {
+				"id": 302,
+				"name": "Bill's",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Cositas",
+				"url": "http://hola.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_R99Kjdw.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1677662994.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_cKBoJtf.jpg",
+				"sector": {
+					"id": 4,
+					"name": "Bar",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg",
+					"created": "2021-05-25T10:47:46.399740Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/XE5a",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2023-03-01T09:28:04.100558Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6739766,
+					40.427892
+				]
+			},
+			"address": "Calle de Alcántara",
+			"number": "23",
+			"postal_code": "28006",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:00:52.108997Z",
+			"place_id": "ChIJ8VxqP7ooQg0RuB5tMFQDSiY",
+			"formatted_address": "C. de Alcántara, 23, 28006 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2023-03-01T09:30:24.905197Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 850,
+			"business": {
+				"id": 260,
+				"name": "Prueba devolucion presupuesto",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "devolucion presupuesto",
+				"url": "https://www.aa.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_wGfyXAX.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1673614842.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_H4n5vL4.jpg",
+				"sector": {
+					"id": 28,
+					"name": "Alquiler de coches",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/mobility.svg",
+					"created": "2021-05-25T11:10:59.951129Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 58,
+						"name": "rotisserie",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T12:57:28.377827Z"
+					}
+				],
+				"return_period": 3,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Qm2j",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2023-01-13T12:58:26.780285Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7293162,
+					40.3050966
+				]
+			},
+			"address": "Calle Arboleda",
+			"number": "5",
+			"postal_code": "28901",
+			"state": "Madrid",
+			"city": "Getafe",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:00:52.580662Z",
+			"place_id": "ChIJ96DWtJYgQg0RZlpNPhxHhrQ",
+			"formatted_address": "C. Arboleda, 5, 28901 Getafe, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2023-02-28T14:38:01.099542Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

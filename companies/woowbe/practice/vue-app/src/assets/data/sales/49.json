@@ -1,1 +1,750 @@
-{"count":579,"next":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=50","previous":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=48","results":[{"id":283,"business":{"id":95,"name":"Grosso Napoletano","country":null,"description":"Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.","url":"https://www.grossonapoletano.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":20,"name":"italiano","owner":null,"sector":null,"created":"2021-10-21T20:22:55.462166Z"},{"id":19,"name":"pizza","owner":null,"sector":3,"created":"2021-10-21T20:22:48.209376Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/47bd","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T20:23:07.362551Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7153775,40.435229]},"address":"Calle de Gaztambide","number":"36","postal_code":"28015","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:25.714214Z","place_id":"ChIJyfVX_kIoQg0R4vC2QCL3SKs","formatted_address":"C. de Gaztambide, 36, 28015 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-21T20:28:49.366096Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":282,"business":{"id":95,"name":"Grosso Napoletano","country":null,"description":"Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.","url":"https://www.grossonapoletano.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":20,"name":"italiano","owner":null,"sector":null,"created":"2021-10-21T20:22:55.462166Z"},{"id":19,"name":"pizza","owner":null,"sector":3,"created":"2021-10-21T20:22:48.209376Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/47bd","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T20:23:07.362551Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7051003,40.4233723]},"address":"Calle del Pez","number":"11","postal_code":"28004","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:25.809207Z","place_id":"ChIJ15RL1XwoQg0Ruc8exqKqRAM","formatted_address":"C. del Pez, 11, 28004 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-21T20:28:33.966235Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":281,"business":{"id":95,"name":"Grosso Napoletano","country":null,"description":"Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.","url":"https://www.grossonapoletano.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":20,"name":"italiano","owner":null,"sector":null,"created":"2021-10-21T20:22:55.462166Z"},{"id":19,"name":"pizza","owner":null,"sector":3,"created":"2021-10-21T20:22:48.209376Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/47bd","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T20:23:07.362551Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6866494,40.4512923]},"address":"Paseo de la Habana","number":"27","postal_code":"28036","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:25.849964Z","place_id":"ChIJ5ycTdOEoQg0RI0J5mJv5tB4","formatted_address":"P.º de la Habana, 27, 28036 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-21T20:28:17.244800Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":280,"business":{"id":95,"name":"Grosso Napoletano","country":null,"description":"Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.","url":"https://www.grossonapoletano.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":20,"name":"italiano","owner":null,"sector":null,"created":"2021-10-21T20:22:55.462166Z"},{"id":19,"name":"pizza","owner":null,"sector":3,"created":"2021-10-21T20:22:48.209376Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/47bd","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T20:23:07.362551Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7134917,40.4257299]},"address":"Calle de Ventura Rodríguez","number":"5","postal_code":"28008","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:25.914701Z","place_id":"ChIJKSG7e28oQg0RtY9XWI6PpxY","formatted_address":"C. de Ventura Rodríguez, 5, 28008 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-21T20:27:49.253305Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":279,"business":{"id":95,"name":"Grosso Napoletano","country":null,"description":"Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.","url":"https://www.grossonapoletano.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":20,"name":"italiano","owner":null,"sector":null,"created":"2021-10-21T20:22:55.462166Z"},{"id":19,"name":"pizza","owner":null,"sector":3,"created":"2021-10-21T20:22:48.209376Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/47bd","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T20:23:07.362551Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6979453,40.4339953]},"address":"Calle de Santa Engracia","number":"48","postal_code":"28010","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:25.954262Z","place_id":"ChIJK35oqPQoQg0REf7zEeq9TLw","formatted_address":"Calle de Sta Engracia, 48, 28010 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-21T20:27:29.053801Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":278,"business":{"id":95,"name":"Grosso Napoletano","country":null,"description":"Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.","url":"https://www.grossonapoletano.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":20,"name":"italiano","owner":null,"sector":null,"created":"2021-10-21T20:22:55.462166Z"},{"id":19,"name":"pizza","owner":null,"sector":3,"created":"2021-10-21T20:22:48.209376Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/47bd","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T20:23:07.362551Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6704528,40.4482195]},"address":"Calle Sánchez Pacheco","number":"69","postal_code":"28002","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:25.996579Z","place_id":"ChIJQbc35tAoQg0ReTa7yOl_yK8","formatted_address":"C. Sánchez Pacheco, 69, 28002 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-21T20:27:12.722445Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":277,"business":{"id":95,"name":"Grosso Napoletano","country":null,"description":"Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.","url":"https://www.grossonapoletano.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":20,"name":"italiano","owner":null,"sector":null,"created":"2021-10-21T20:22:55.462166Z"},{"id":19,"name":"pizza","owner":null,"sector":3,"created":"2021-10-21T20:22:48.209376Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/47bd","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T20:23:07.362551Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.695596,40.4247921]},"address":"Calle de Fernando VI","number":"23","postal_code":"28004","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:26.102559Z","place_id":"ChIJEa6PC48oQg0Rmaec-1R1MnA","formatted_address":"C. de Fernando VI, 23, 28004 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-21T20:26:22.074588Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":276,"business":{"id":95,"name":"Grosso Napoletano","country":null,"description":"Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.","url":"https://www.grossonapoletano.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":20,"name":"italiano","owner":null,"sector":null,"created":"2021-10-21T20:22:55.462166Z"},{"id":19,"name":"pizza","owner":null,"sector":3,"created":"2021-10-21T20:22:48.209376Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/47bd","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T20:23:07.362551Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6769046,40.4261344]},"address":"Calle de Hermosilla","number":"85","postal_code":"28001","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:26.219142Z","place_id":"ChIJ_bQJersoQg0RpuX2fZDtj8k","formatted_address":"C. de Hermosilla, 85, 28001 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-21T20:25:53.319177Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":275,"business":{"id":95,"name":"Grosso Napoletano","country":null,"description":"Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.","url":"https://www.grossonapoletano.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":20,"name":"italiano","owner":null,"sector":null,"created":"2021-10-21T20:22:55.462166Z"},{"id":19,"name":"pizza","owner":null,"sector":3,"created":"2021-10-21T20:22:48.209376Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/47bd","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T20:23:07.362551Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7000857,40.4073706]},"address":"Calle de Valencia","number":"9","postal_code":"28012","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:26.326599Z","place_id":"ChIJvaKcDywmQg0RgR-arjacTTU","formatted_address":"C. de Valencia, 9, 28012 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-21T20:25:28.973587Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":273,"business":{"id":94,"name":"Saona","country":null,"description":"Saona empezó con un pequeño restaurante familiar, hoy son muchos más restaurantes familiares, la única diferencia es que la familia ahora es mucho más grande. Descubre la personalidad de cada uno de ellos","url":"https://www.gruposaona.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_TEKrspD.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634846102.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_wmnj91d.jpg","sector":{"id":38,"name":"Casual food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg","created":"2021-10-21T19:51:53.839559Z"},"descriptive_categories":[{"id":18,"name":"mediterráneo","owner":null,"sector":null,"created":"2021-10-21T19:52:31.502016Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/o7L9","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T19:52:42.042306Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6921905,40.46610159999999]},"address":"Calle del Conde de Serrallo","number":"1","postal_code":"28029","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:26.366610Z","place_id":"ChIJv5CEJRApQg0RCGFjPHw_V34","formatted_address":"C. del Conde de Serrallo, 1, 28029 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-21T20:00:16.642647Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false}]}
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=50",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=48",
+	"results": [
+		{
+			"id": 283,
+			"business": {
+				"id": 95,
+				"name": "Grosso Napoletano",
+				"country": null,
+				"description": "Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.",
+				"url": "https://www.grossonapoletano.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 20,
+						"name": "italiano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T20:22:55.462166Z"
+					},
+					{
+						"id": 19,
+						"name": "pizza",
+						"owner": null,
+						"sector": 3,
+						"created": "2021-10-21T20:22:48.209376Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/47bd",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T20:23:07.362551Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7153775,
+					40.435229
+				]
+			},
+			"address": "Calle de Gaztambide",
+			"number": "36",
+			"postal_code": "28015",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:25.714214Z",
+			"place_id": "ChIJyfVX_kIoQg0R4vC2QCL3SKs",
+			"formatted_address": "C. de Gaztambide, 36, 28015 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T20:28:49.366096Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 282,
+			"business": {
+				"id": 95,
+				"name": "Grosso Napoletano",
+				"country": null,
+				"description": "Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.",
+				"url": "https://www.grossonapoletano.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 20,
+						"name": "italiano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T20:22:55.462166Z"
+					},
+					{
+						"id": 19,
+						"name": "pizza",
+						"owner": null,
+						"sector": 3,
+						"created": "2021-10-21T20:22:48.209376Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/47bd",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T20:23:07.362551Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7051003,
+					40.4233723
+				]
+			},
+			"address": "Calle del Pez",
+			"number": "11",
+			"postal_code": "28004",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:25.809207Z",
+			"place_id": "ChIJ15RL1XwoQg0Ruc8exqKqRAM",
+			"formatted_address": "C. del Pez, 11, 28004 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T20:28:33.966235Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 281,
+			"business": {
+				"id": 95,
+				"name": "Grosso Napoletano",
+				"country": null,
+				"description": "Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.",
+				"url": "https://www.grossonapoletano.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 20,
+						"name": "italiano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T20:22:55.462166Z"
+					},
+					{
+						"id": 19,
+						"name": "pizza",
+						"owner": null,
+						"sector": 3,
+						"created": "2021-10-21T20:22:48.209376Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/47bd",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T20:23:07.362551Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6866494,
+					40.4512923
+				]
+			},
+			"address": "Paseo de la Habana",
+			"number": "27",
+			"postal_code": "28036",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:25.849964Z",
+			"place_id": "ChIJ5ycTdOEoQg0RI0J5mJv5tB4",
+			"formatted_address": "P.º de la Habana, 27, 28036 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T20:28:17.244800Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 280,
+			"business": {
+				"id": 95,
+				"name": "Grosso Napoletano",
+				"country": null,
+				"description": "Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.",
+				"url": "https://www.grossonapoletano.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 20,
+						"name": "italiano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T20:22:55.462166Z"
+					},
+					{
+						"id": 19,
+						"name": "pizza",
+						"owner": null,
+						"sector": 3,
+						"created": "2021-10-21T20:22:48.209376Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/47bd",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T20:23:07.362551Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7134917,
+					40.4257299
+				]
+			},
+			"address": "Calle de Ventura Rodríguez",
+			"number": "5",
+			"postal_code": "28008",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:25.914701Z",
+			"place_id": "ChIJKSG7e28oQg0RtY9XWI6PpxY",
+			"formatted_address": "C. de Ventura Rodríguez, 5, 28008 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T20:27:49.253305Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 279,
+			"business": {
+				"id": 95,
+				"name": "Grosso Napoletano",
+				"country": null,
+				"description": "Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.",
+				"url": "https://www.grossonapoletano.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 20,
+						"name": "italiano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T20:22:55.462166Z"
+					},
+					{
+						"id": 19,
+						"name": "pizza",
+						"owner": null,
+						"sector": 3,
+						"created": "2021-10-21T20:22:48.209376Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/47bd",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T20:23:07.362551Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6979453,
+					40.4339953
+				]
+			},
+			"address": "Calle de Santa Engracia",
+			"number": "48",
+			"postal_code": "28010",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:25.954262Z",
+			"place_id": "ChIJK35oqPQoQg0REf7zEeq9TLw",
+			"formatted_address": "Calle de Sta Engracia, 48, 28010 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T20:27:29.053801Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 278,
+			"business": {
+				"id": 95,
+				"name": "Grosso Napoletano",
+				"country": null,
+				"description": "Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.",
+				"url": "https://www.grossonapoletano.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 20,
+						"name": "italiano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T20:22:55.462166Z"
+					},
+					{
+						"id": 19,
+						"name": "pizza",
+						"owner": null,
+						"sector": 3,
+						"created": "2021-10-21T20:22:48.209376Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/47bd",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T20:23:07.362551Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6704528,
+					40.4482195
+				]
+			},
+			"address": "Calle Sánchez Pacheco",
+			"number": "69",
+			"postal_code": "28002",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:25.996579Z",
+			"place_id": "ChIJQbc35tAoQg0ReTa7yOl_yK8",
+			"formatted_address": "C. Sánchez Pacheco, 69, 28002 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T20:27:12.722445Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 277,
+			"business": {
+				"id": 95,
+				"name": "Grosso Napoletano",
+				"country": null,
+				"description": "Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.",
+				"url": "https://www.grossonapoletano.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 20,
+						"name": "italiano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T20:22:55.462166Z"
+					},
+					{
+						"id": 19,
+						"name": "pizza",
+						"owner": null,
+						"sector": 3,
+						"created": "2021-10-21T20:22:48.209376Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/47bd",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T20:23:07.362551Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.695596,
+					40.4247921
+				]
+			},
+			"address": "Calle de Fernando VI",
+			"number": "23",
+			"postal_code": "28004",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:26.102559Z",
+			"place_id": "ChIJEa6PC48oQg0Rmaec-1R1MnA",
+			"formatted_address": "C. de Fernando VI, 23, 28004 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T20:26:22.074588Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 276,
+			"business": {
+				"id": 95,
+				"name": "Grosso Napoletano",
+				"country": null,
+				"description": "Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.",
+				"url": "https://www.grossonapoletano.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 20,
+						"name": "italiano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T20:22:55.462166Z"
+					},
+					{
+						"id": 19,
+						"name": "pizza",
+						"owner": null,
+						"sector": 3,
+						"created": "2021-10-21T20:22:48.209376Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/47bd",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T20:23:07.362551Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6769046,
+					40.4261344
+				]
+			},
+			"address": "Calle de Hermosilla",
+			"number": "85",
+			"postal_code": "28001",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:26.219142Z",
+			"place_id": "ChIJ_bQJersoQg0RpuX2fZDtj8k",
+			"formatted_address": "C. de Hermosilla, 85, 28001 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T20:25:53.319177Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 275,
+			"business": {
+				"id": 95,
+				"name": "Grosso Napoletano",
+				"country": null,
+				"description": "Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.",
+				"url": "https://www.grossonapoletano.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 20,
+						"name": "italiano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T20:22:55.462166Z"
+					},
+					{
+						"id": 19,
+						"name": "pizza",
+						"owner": null,
+						"sector": 3,
+						"created": "2021-10-21T20:22:48.209376Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/47bd",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T20:23:07.362551Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7000857,
+					40.4073706
+				]
+			},
+			"address": "Calle de Valencia",
+			"number": "9",
+			"postal_code": "28012",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:26.326599Z",
+			"place_id": "ChIJvaKcDywmQg0RgR-arjacTTU",
+			"formatted_address": "C. de Valencia, 9, 28012 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T20:25:28.973587Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 273,
+			"business": {
+				"id": 94,
+				"name": "Saona",
+				"country": null,
+				"description": "Saona empezó con un pequeño restaurante familiar, hoy son muchos más restaurantes familiares, la única diferencia es que la familia ahora es mucho más grande. Descubre la personalidad de cada uno de ellos",
+				"url": "https://www.gruposaona.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_TEKrspD.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634846102.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_wmnj91d.jpg",
+				"sector": {
+					"id": 38,
+					"name": "Casual food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg",
+					"created": "2021-10-21T19:51:53.839559Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 18,
+						"name": "mediterráneo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:52:31.502016Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/o7L9",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T19:52:42.042306Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6921905,
+					40.46610159999999
+				]
+			},
+			"address": "Calle del Conde de Serrallo",
+			"number": "1",
+			"postal_code": "28029",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:26.366610Z",
+			"place_id": "ChIJv5CEJRApQg0RCGFjPHw_V34",
+			"formatted_address": "C. del Conde de Serrallo, 1, 28029 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T20:00:16.642647Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

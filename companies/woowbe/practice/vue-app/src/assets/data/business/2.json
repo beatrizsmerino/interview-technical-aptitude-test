@@ -1,1 +1,433 @@
-{"count":137,"next":"https://backend.dev.woowbe.com/api/v1/business/public/?page=3","previous":"https://backend.dev.woowbe.com/api/v1/business/public/","results":[{"id":94,"name":"Saona","country":null,"description":"Saona empezó con un pequeño restaurante familiar, hoy son muchos más restaurantes familiares, la única diferencia es que la familia ahora es mucho más grande. Descubre la personalidad de cada uno de ellos","url":"https://www.gruposaona.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_TEKrspD.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634846102.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_wmnj91d.jpg","sector":{"id":38,"name":"Casual food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg","created":"2021-10-21T19:51:53.839559Z"},"descriptive_categories":[{"id":18,"name":"mediterráneo","owner":null,"sector":null,"created":"2021-10-21T19:52:31.502016Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/o7L9","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T19:52:42.042306Z","selected_offer":null,"offers_count":0},{"id":95,"name":"Grosso Napoletano","country":null,"description":"Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.","url":"https://www.grossonapoletano.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":20,"name":"italiano","owner":null,"sector":null,"created":"2021-10-21T20:22:55.462166Z"},{"id":19,"name":"pizza","owner":null,"sector":3,"created":"2021-10-21T20:22:48.209376Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/47bd","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T20:23:07.362551Z","selected_offer":null,"offers_count":0},{"id":96,"name":"Mahou","country":null,"description":"Mahou es una marca española de cervezas elaboradas por el Grupo Mahou-San Miguel. La cartera de la marca contiene una variedad de cervezas que incluyen variedades sin alcohol y mixtas. La cervecería Mahou fue fundada en Madrid en 1890.","url":"https://www.tiendasolana.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_fLIwzqv.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634848825.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/mahou-solana-portada.jpeg","sector":{"id":4,"name":"Bar","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg","created":"2021-05-25T10:47:46.399740Z"},"descriptive_categories":[{"id":21,"name":"cerveza","owner":96,"sector":null,"created":"2021-10-21T20:38:55.791124Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/X1xD","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T20:39:05.710709Z","selected_offer":{"id":195,"reward":"10.00","reward_type":"percentage","kind":"A","instant":false,"name":"oferta","standalone":false,"purchases":null,"online":true,"applicable":false},"offers_count":1},{"id":97,"name":"Tuk Tuk","country":{"id":3,"name":"España","code":"es"},"description":"Los orígenes de Tuk Tuk se remontan a las locas aventuras del ex actor de Hong Kong Ricardo Alexander y el empresario Olivier Blomme en las calles de Asia. Rick y Olivier viajaron por Asia durante muchos años y fue entonces cuando se enamoraron de la auténtica Asian Street Food.\r\n\r\nDespués de mucho degustar y conocer los mejores platos del sudeste asiático, aterrizaron en España para que tú también puedas trasladarte a Tailandia, Filipinas, Hong Kong, Malasia, Indonesia... pero en metro, en coche o a pie. Sin hacer escalas, sin renovar el pasaporte y, por supuesto, sin jet lag.","url":"https://tuktukstreetfood.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ZHDrOBd.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634849689.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_dwnCJpQ.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":29,"name":"asiatica","owner":null,"sector":2,"created":"2021-10-24T09:41:55.016467Z"},{"id":22,"name":"asiática","owner":null,"sector":2,"created":"2021-10-21T20:53:02.997177Z"},{"id":17,"name":"japonesa","owner":null,"sector":null,"created":"2021-10-21T19:14:13.483887Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/5WrR","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T20:53:45.090171Z","selected_offer":null,"offers_count":0},{"id":98,"name":"Crusto","country":null,"description":"Todos nuestros productos se elaboran artesanalmente cada día en el obrador a la vista con una masa madre propia y exclusiva según el método tradicional francés de fermentación lenta y natural y una cuidadosa selección de ingredientes.","url":"https://crusto.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_QgiYyWD.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634850388.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Ez6WLd2.jpg","sector":{"id":5,"name":"Cafetería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg","created":"2021-05-25T10:48:41.547333Z"},"descriptive_categories":[{"id":24,"name":"obrador","owner":null,"sector":null,"created":"2021-10-21T21:05:07.177318Z"},{"id":25,"name":"pan","owner":null,"sector":null,"created":"2021-10-21T21:05:17.331228Z"},{"id":23,"name":"panadería","owner":null,"sector":null,"created":"2021-10-21T21:04:59.592984Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/fEv1","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-21T21:05:29.446198Z","selected_offer":null,"offers_count":0},{"id":100,"name":"Juicy Avenue","country":null,"description":"Somos más que tu tienda de Zumos Naturales favoritos. En Juicy Avenue, encontrarás un espacio ideal para amar la hora de la comida.","url":"https://www.juicyavenue.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/juicy-avenue-logo-16-9.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1634978514.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vNoSs89.jpg","sector":{"id":5,"name":"Cafetería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg","created":"2021-05-25T10:48:41.547333Z"},"descriptive_categories":[{"id":28,"name":"batidos","owner":100,"sector":null,"created":"2021-10-23T08:39:27.122811Z"},{"id":26,"name":"detox","owner":null,"sector":null,"created":"2021-10-23T08:39:01.453615Z"},{"id":27,"name":"zumos","owner":null,"sector":null,"created":"2021-10-23T08:39:21.905307Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/aL7u","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-23T08:39:45.676166Z","selected_offer":null,"offers_count":0},{"id":101,"name":"Udon","country":null,"description":"La historia de UDON empieza hace más de 15 años. Viajes, mucha curiosidad y un paladar abierto a nuevos sabores, llevó a los dos fundadores a enamorarse de la cultura y gastronomía asiática. Así nació el primer UDON el 2004, en el corazón del barrio del Born de Barcelona, inspirado en las tascas tradicionales japonesas, con más de 400 años de historia.","url":"https://www.udon.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_HE3Up8p.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635068691.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_jUju1r9.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":29,"name":"asiatica","owner":null,"sector":2,"created":"2021-10-24T09:41:55.016467Z"},{"id":22,"name":"asiática","owner":null,"sector":2,"created":"2021-10-21T20:53:02.997177Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/vyJw","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-24T09:42:03.509058Z","selected_offer":null,"offers_count":0},{"id":102,"name":"Sushita","country":null,"description":"Música en directo, cócteles a base de ingredientes naturales y el mejor sushi de la ciudad. Y, todo ello, en un lugar con una decoración cuidada al detalle y una terraza muy agradable. ¿Acaso se le puede pedir más a un afterwork?","url":"https://www.sushita.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_VmoZjKe.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635069991.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_d4UJ9zz.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":30,"name":"afterwork","owner":null,"sector":4,"created":"2021-10-24T10:04:24.581445Z"},{"id":10,"name":"Healthy","owner":null,"sector":null,"created":"2021-10-21T14:33:37.426542Z"},{"id":16,"name":"sushi","owner":null,"sector":null,"created":"2021-10-21T19:14:06.256566Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/LTVM","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-24T10:04:32.084157Z","selected_offer":{"id":191,"reward":"3.00","reward_type":"fixed","kind":"B","instant":false,"name":"3€ por cenas de +25€","standalone":false,"purchases":null,"online":false,"applicable":false},"offers_count":1},{"id":103,"name":"Supermercado Suma","country":null,"description":"En Suma encontrarás un surtido de proximidad adaptado al entorno y con el que podrás cubrir tus necesidades de compra diarias a unos precios muy competitivos. Primeras marcas, producto regional y local, productos frescos y un amplio surtido de marcas propias (Gourmet, Sabor Español, Mical, Micaderm, GM Wines, Mic&Friends). Todo lo que necesitas, a tu servicio.","url":"https://www.sumasupermercados.es/es","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_DQaAhb4.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635147636.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_XW3kvzk.jpg","sector":{"id":20,"name":"Supermercado o hipermercado","icon":null,"created":"2021-05-25T11:05:57.388449Z"},"descriptive_categories":[],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/mXi3","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T07:36:30.410882Z","selected_offer":null,"offers_count":0},{"id":104,"name":"Subway","country":null,"description":"Subway IP Inc. es una cadena de restaurantes de comida rápida estadounidense especializada en la elaboración de sándwich submarino y bocadillos, ensaladas y pizza por ración. Su sede central se encuentra en Milford. Se encuentra en la tercera posición a nivel de negocios, por detrás de McDonald's y KFC.​","url":"https://subwayspain.com/es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ZDYBoWe.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635148401.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_bpjdx7E.jpg","sector":{"id":3,"name":"Fast Food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg","created":"2021-05-25T10:47:39.210359Z"},"descriptive_categories":[{"id":32,"name":"bocadillo","owner":null,"sector":null,"created":"2021-10-25T07:50:16.230899Z"},{"id":31,"name":"sandwich","owner":null,"sector":null,"created":"2021-10-25T07:50:09.597799Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/UQmb","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T07:50:19.935271Z","selected_offer":{"id":196,"reward":"3.00","reward_type":"fixed","kind":"B","instant":false,"name":"3€ por tus menus sandwich","standalone":false,"purchases":null,"online":false,"applicable":false},"offers_count":1}]}
+{
+	"count": 137,
+	"next": "https://backend.dev.woowbe.com/api/v1/business/public/?page=3",
+	"previous": "https://backend.dev.woowbe.com/api/v1/business/public/",
+	"results": [
+		{
+			"id": 94,
+			"name": "Saona",
+			"country": null,
+			"description": "Saona empezó con un pequeño restaurante familiar, hoy son muchos más restaurantes familiares, la única diferencia es que la familia ahora es mucho más grande. Descubre la personalidad de cada uno de ellos",
+			"url": "https://www.gruposaona.com/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_TEKrspD.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634846102.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_wmnj91d.jpg",
+			"sector": {
+				"id": 38,
+				"name": "Casual food",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg",
+				"created": "2021-10-21T19:51:53.839559Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 18,
+					"name": "mediterráneo",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-21T19:52:31.502016Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/o7L9",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-10-21T19:52:42.042306Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 95,
+			"name": "Grosso Napoletano",
+			"country": null,
+			"description": "Con la cantidad de pizzas que te habrás zampado, es probable que todavía no hayas probado la original. En Grosso Napoletano queremos compartir contigo el secreto mejor guardado de Nápoles: La Verace Pizza Napolitana.",
+			"url": "https://www.grossonapoletano.com/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_zTR4rhR.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634847890.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_J5Qu0Se.jpg",
+			"sector": {
+				"id": 37,
+				"name": "Restaurante temático",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+				"created": "2021-10-21T14:32:58.019404Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 20,
+					"name": "italiano",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-21T20:22:55.462166Z"
+				},
+				{
+					"id": 19,
+					"name": "pizza",
+					"owner": null,
+					"sector": 3,
+					"created": "2021-10-21T20:22:48.209376Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/47bd",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-10-21T20:23:07.362551Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 96,
+			"name": "Mahou",
+			"country": null,
+			"description": "Mahou es una marca española de cervezas elaboradas por el Grupo Mahou-San Miguel. La cartera de la marca contiene una variedad de cervezas que incluyen variedades sin alcohol y mixtas. La cervecería Mahou fue fundada en Madrid en 1890.",
+			"url": "https://www.tiendasolana.com/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_fLIwzqv.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634848825.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/mahou-solana-portada.jpeg",
+			"sector": {
+				"id": 4,
+				"name": "Bar",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg",
+				"created": "2021-05-25T10:47:46.399740Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 21,
+					"name": "cerveza",
+					"owner": 96,
+					"sector": null,
+					"created": "2021-10-21T20:38:55.791124Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/X1xD",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-10-21T20:39:05.710709Z",
+			"selected_offer": {
+				"id": 195,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "oferta",
+				"standalone": false,
+				"purchases": null,
+				"online": true,
+				"applicable": false
+			},
+			"offers_count": 1
+		},
+		{
+			"id": 97,
+			"name": "Tuk Tuk",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "Los orígenes de Tuk Tuk se remontan a las locas aventuras del ex actor de Hong Kong Ricardo Alexander y el empresario Olivier Blomme en las calles de Asia. Rick y Olivier viajaron por Asia durante muchos años y fue entonces cuando se enamoraron de la auténtica Asian Street Food.\r\n\r\nDespués de mucho degustar y conocer los mejores platos del sudeste asiático, aterrizaron en España para que tú también puedas trasladarte a Tailandia, Filipinas, Hong Kong, Malasia, Indonesia... pero en metro, en coche o a pie. Sin hacer escalas, sin renovar el pasaporte y, por supuesto, sin jet lag.",
+			"url": "https://tuktukstreetfood.es/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ZHDrOBd.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634849689.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_dwnCJpQ.jpg",
+			"sector": {
+				"id": 37,
+				"name": "Restaurante temático",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+				"created": "2021-10-21T14:32:58.019404Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 29,
+					"name": "asiatica",
+					"owner": null,
+					"sector": 2,
+					"created": "2021-10-24T09:41:55.016467Z"
+				},
+				{
+					"id": 22,
+					"name": "asiática",
+					"owner": null,
+					"sector": 2,
+					"created": "2021-10-21T20:53:02.997177Z"
+				},
+				{
+					"id": 17,
+					"name": "japonesa",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-21T19:14:13.483887Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/5WrR",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-10-21T20:53:45.090171Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 98,
+			"name": "Crusto",
+			"country": null,
+			"description": "Todos nuestros productos se elaboran artesanalmente cada día en el obrador a la vista con una masa madre propia y exclusiva según el método tradicional francés de fermentación lenta y natural y una cuidadosa selección de ingredientes.",
+			"url": "https://crusto.es/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_QgiYyWD.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634850388.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Ez6WLd2.jpg",
+			"sector": {
+				"id": 5,
+				"name": "Cafetería",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+				"created": "2021-05-25T10:48:41.547333Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 24,
+					"name": "obrador",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-21T21:05:07.177318Z"
+				},
+				{
+					"id": 25,
+					"name": "pan",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-21T21:05:17.331228Z"
+				},
+				{
+					"id": 23,
+					"name": "panadería",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-21T21:04:59.592984Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/fEv1",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-10-21T21:05:29.446198Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 100,
+			"name": "Juicy Avenue",
+			"country": null,
+			"description": "Somos más que tu tienda de Zumos Naturales favoritos. En Juicy Avenue, encontrarás un espacio ideal para amar la hora de la comida.",
+			"url": "https://www.juicyavenue.es/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/juicy-avenue-logo-16-9.png",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634978514.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vNoSs89.jpg",
+			"sector": {
+				"id": 5,
+				"name": "Cafetería",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+				"created": "2021-05-25T10:48:41.547333Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 28,
+					"name": "batidos",
+					"owner": 100,
+					"sector": null,
+					"created": "2021-10-23T08:39:27.122811Z"
+				},
+				{
+					"id": 26,
+					"name": "detox",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-23T08:39:01.453615Z"
+				},
+				{
+					"id": 27,
+					"name": "zumos",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-23T08:39:21.905307Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/aL7u",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-10-23T08:39:45.676166Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 101,
+			"name": "Udon",
+			"country": null,
+			"description": "La historia de UDON empieza hace más de 15 años. Viajes, mucha curiosidad y un paladar abierto a nuevos sabores, llevó a los dos fundadores a enamorarse de la cultura y gastronomía asiática. Así nació el primer UDON el 2004, en el corazón del barrio del Born de Barcelona, inspirado en las tascas tradicionales japonesas, con más de 400 años de historia.",
+			"url": "https://www.udon.com/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_HE3Up8p.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635068691.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_jUju1r9.jpg",
+			"sector": {
+				"id": 37,
+				"name": "Restaurante temático",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+				"created": "2021-10-21T14:32:58.019404Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 29,
+					"name": "asiatica",
+					"owner": null,
+					"sector": 2,
+					"created": "2021-10-24T09:41:55.016467Z"
+				},
+				{
+					"id": 22,
+					"name": "asiática",
+					"owner": null,
+					"sector": 2,
+					"created": "2021-10-21T20:53:02.997177Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/vyJw",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-10-24T09:42:03.509058Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 102,
+			"name": "Sushita",
+			"country": null,
+			"description": "Música en directo, cócteles a base de ingredientes naturales y el mejor sushi de la ciudad. Y, todo ello, en un lugar con una decoración cuidada al detalle y una terraza muy agradable. ¿Acaso se le puede pedir más a un afterwork?",
+			"url": "https://www.sushita.com/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_VmoZjKe.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635069991.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_d4UJ9zz.jpg",
+			"sector": {
+				"id": 37,
+				"name": "Restaurante temático",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+				"created": "2021-10-21T14:32:58.019404Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 30,
+					"name": "afterwork",
+					"owner": null,
+					"sector": 4,
+					"created": "2021-10-24T10:04:24.581445Z"
+				},
+				{
+					"id": 10,
+					"name": "Healthy",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-21T14:33:37.426542Z"
+				},
+				{
+					"id": 16,
+					"name": "sushi",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-21T19:14:06.256566Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/LTVM",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-10-24T10:04:32.084157Z",
+			"selected_offer": {
+				"id": 191,
+				"reward": "3.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "3€ por cenas de +25€",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false
+			},
+			"offers_count": 1
+		},
+		{
+			"id": 103,
+			"name": "Supermercado Suma",
+			"country": null,
+			"description": "En Suma encontrarás un surtido de proximidad adaptado al entorno y con el que podrás cubrir tus necesidades de compra diarias a unos precios muy competitivos. Primeras marcas, producto regional y local, productos frescos y un amplio surtido de marcas propias (Gourmet, Sabor Español, Mical, Micaderm, GM Wines, Mic&Friends). Todo lo que necesitas, a tu servicio.",
+			"url": "https://www.sumasupermercados.es/es",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_DQaAhb4.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635147636.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_XW3kvzk.jpg",
+			"sector": {
+				"id": 20,
+				"name": "Supermercado o hipermercado",
+				"icon": null,
+				"created": "2021-05-25T11:05:57.388449Z"
+			},
+			"descriptive_categories": [],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/mXi3",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-10-25T07:36:30.410882Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 104,
+			"name": "Subway",
+			"country": null,
+			"description": "Subway IP Inc. es una cadena de restaurantes de comida rápida estadounidense especializada en la elaboración de sándwich submarino y bocadillos, ensaladas y pizza por ración. Su sede central se encuentra en Milford. Se encuentra en la tercera posición a nivel de negocios, por detrás de McDonald's y KFC.​",
+			"url": "https://subwayspain.com/es/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ZDYBoWe.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635148401.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_bpjdx7E.jpg",
+			"sector": {
+				"id": 3,
+				"name": "Fast Food",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+				"created": "2021-05-25T10:47:39.210359Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 32,
+					"name": "bocadillo",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-25T07:50:16.230899Z"
+				},
+				{
+					"id": 31,
+					"name": "sandwich",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-25T07:50:09.597799Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/UQmb",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-10-25T07:50:19.935271Z",
+			"selected_offer": {
+				"id": 196,
+				"reward": "3.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "3€ por tus menus sandwich",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false
+			},
+			"offers_count": 1
+		}
+	]
+}

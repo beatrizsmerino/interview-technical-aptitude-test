@@ -1,1 +1,827 @@
-{"count":579,"next":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=36","previous":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=34","results":[{"id":431,"business":{"id":111,"name":"Carlos Conde peluqueros","country":null,"description":"Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.","url":"https://www.carloscondepeluqueros.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg","sector":{"id":13,"name":"Peluquería","icon":null,"created":"2021-05-25T11:02:31.426987Z"},"descriptive_categories":[{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":44,"name":"barbería","owner":null,"sector":null,"created":"2021-10-26T07:38:49.830200Z"},{"id":41,"name":"corte de pelo","owner":null,"sector":null,"created":"2021-10-25T13:02:44.637545Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/znLw","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-26T07:39:07.521908Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6926308,40.4365119]},"address":"Calle de García de Paredes","number":"84","postal_code":"28010","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:07.915289Z","place_id":"ChIJSR0Wh-0oQg0R_uSLfe14AfI","formatted_address":"Calle de García de Paredes, 84, 28010 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-26T07:44:58.559497Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":430,"business":{"id":111,"name":"Carlos Conde peluqueros","country":null,"description":"Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.","url":"https://www.carloscondepeluqueros.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg","sector":{"id":13,"name":"Peluquería","icon":null,"created":"2021-05-25T11:02:31.426987Z"},"descriptive_categories":[{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":44,"name":"barbería","owner":null,"sector":null,"created":"2021-10-26T07:38:49.830200Z"},{"id":41,"name":"corte de pelo","owner":null,"sector":null,"created":"2021-10-25T13:02:44.637545Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/znLw","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-26T07:39:07.521908Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6741883,40.4331808]},"address":"Calle de Maldonado","number":"60","postal_code":"28006","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:08.110706Z","place_id":"ChIJx1LPbrgoQg0RixIZHcQ_aZI","formatted_address":"Calle de Maldonado, 60, 28006 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-26T07:44:43.826222Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":429,"business":{"id":111,"name":"Carlos Conde peluqueros","country":null,"description":"Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.","url":"https://www.carloscondepeluqueros.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg","sector":{"id":13,"name":"Peluquería","icon":null,"created":"2021-05-25T11:02:31.426987Z"},"descriptive_categories":[{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":44,"name":"barbería","owner":null,"sector":null,"created":"2021-10-26T07:38:49.830200Z"},{"id":41,"name":"corte de pelo","owner":null,"sector":null,"created":"2021-10-25T13:02:44.637545Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/znLw","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-26T07:39:07.521908Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7128281,40.4392486]},"address":"Calle de Guzmán el Bueno","number":"93","postal_code":"28003","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:08.295571Z","place_id":"EjFDLiBkZSBHdXptw6FuIGVsIEJ1ZW5vLCA5MywgMjgwMDMgTWFkcmlkLCBFc3Bhw7FhIlASTgo0CjIJ-46zS1soQg0RGGT18BaTprQaHgsQ7sHuoQEaFAoSCVdKC81ZKEINEZCrizP3QAMcDBBdKhQKEgmxaFNZWyhCDRFSKBo7v8kodA","formatted_address":"C. de Guzmán el Bueno, 93, 28003 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-26T07:44:29.423763Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":428,"business":{"id":111,"name":"Carlos Conde peluqueros","country":null,"description":"Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.","url":"https://www.carloscondepeluqueros.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg","sector":{"id":13,"name":"Peluquería","icon":null,"created":"2021-05-25T11:02:31.426987Z"},"descriptive_categories":[{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":44,"name":"barbería","owner":null,"sector":null,"created":"2021-10-26T07:38:49.830200Z"},{"id":41,"name":"corte de pelo","owner":null,"sector":null,"created":"2021-10-25T13:02:44.637545Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/znLw","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-26T07:39:07.521908Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6690976,40.4471527]},"address":"Calle de López de Hoyos","number":"176","postal_code":"28002","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:08.397514Z","place_id":"ChIJ8S1UCNEoQg0RExuQytkWZDc","formatted_address":"C. de López de Hoyos, 176, 28002 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-26T07:44:14.600286Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":427,"business":{"id":111,"name":"Carlos Conde peluqueros","country":null,"description":"Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.","url":"https://www.carloscondepeluqueros.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg","sector":{"id":13,"name":"Peluquería","icon":null,"created":"2021-05-25T11:02:31.426987Z"},"descriptive_categories":[{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":44,"name":"barbería","owner":null,"sector":null,"created":"2021-10-26T07:38:49.830200Z"},{"id":41,"name":"corte de pelo","owner":null,"sector":null,"created":"2021-10-25T13:02:44.637545Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/znLw","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-26T07:39:07.521908Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6750014,40.458249]},"address":"Calle de Costa Rica","number":"14","postal_code":"28016","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:08.594631Z","place_id":"ChIJaRh1YCYpQg0RKUPniZQCe_M","formatted_address":"C. de Costa Rica, 14, 28016 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-26T07:43:57.663912Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":426,"business":{"id":111,"name":"Carlos Conde peluqueros","country":null,"description":"Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.","url":"https://www.carloscondepeluqueros.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg","sector":{"id":13,"name":"Peluquería","icon":null,"created":"2021-05-25T11:02:31.426987Z"},"descriptive_categories":[{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":44,"name":"barbería","owner":null,"sector":null,"created":"2021-10-26T07:38:49.830200Z"},{"id":41,"name":"corte de pelo","owner":null,"sector":null,"created":"2021-10-25T13:02:44.637545Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/znLw","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-26T07:39:07.521908Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6998479,40.4469698]},"address":"Calle de Raimundo Fernández Villaverde","number":"35","postal_code":"28003","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:08.796490Z","place_id":"ChIJNQTYGvkoQg0Ri1O3iTtkub0","formatted_address":"C. de Raimundo Fernández Villaverde, 35, 28003 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-26T07:43:40.812977Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":425,"business":{"id":111,"name":"Carlos Conde peluqueros","country":null,"description":"Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.","url":"https://www.carloscondepeluqueros.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg","sector":{"id":13,"name":"Peluquería","icon":null,"created":"2021-05-25T11:02:31.426987Z"},"descriptive_categories":[{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":44,"name":"barbería","owner":null,"sector":null,"created":"2021-10-26T07:38:49.830200Z"},{"id":41,"name":"corte de pelo","owner":null,"sector":null,"created":"2021-10-25T13:02:44.637545Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/znLw","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-26T07:39:07.521908Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7045014,40.4790788]},"address":"Avenida de Monforte de Lemos","number":"101","postal_code":"28029","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:08.913818Z","place_id":"ChIJYzDA150pQg0R7CLoX_MKoMQ","formatted_address":"Av. de Monforte de Lemos, 101, 28029 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-26T07:43:26.569156Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":424,"business":{"id":111,"name":"Carlos Conde peluqueros","country":null,"description":"Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.","url":"https://www.carloscondepeluqueros.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg","sector":{"id":13,"name":"Peluquería","icon":null,"created":"2021-05-25T11:02:31.426987Z"},"descriptive_categories":[{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":44,"name":"barbería","owner":null,"sector":null,"created":"2021-10-26T07:38:49.830200Z"},{"id":41,"name":"corte de pelo","owner":null,"sector":null,"created":"2021-10-25T13:02:44.637545Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/znLw","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-26T07:39:07.521908Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6879685,40.4616328]},"address":"Calle del Doctor Fleming","number":"35","postal_code":"28036","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:09.197621Z","place_id":"ChIJYamm1BspQg0R7yzyKKO-VZw","formatted_address":"Calle del Dr. Fleming, 35, 28036 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-26T07:43:10.911489Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":423,"business":{"id":110,"name":"Marco Aldany","country":null,"description":"La cadena líder en el sector de la peluquería y estética femenina y másculina en España con más de 400 salones. ¡Sin cita previa y al mejor precio!","url":"https://www.marcoaldany.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_SjjTIjm.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635167238.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_UAKZThD.jpg","sector":{"id":13,"name":"Peluquería","icon":null,"created":"2021-05-25T11:02:31.426987Z"},"descriptive_categories":[{"id":41,"name":"corte de pelo","owner":null,"sector":null,"created":"2021-10-25T13:02:44.637545Z"},{"id":40,"name":"peinado","owner":null,"sector":null,"created":"2021-10-25T13:02:38.018824Z"},{"id":42,"name":"pelo","owner":null,"sector":44,"created":"2021-10-25T13:02:49.420892Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/VNTe","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T13:02:51.421328Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6682469,40.4257978]},"address":"Calle Doctor Esquerdo","number":"23","postal_code":"28028","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:09.299307Z","place_id":"ChIJHTN3kbEoQg0R23ddArk-L40","formatted_address":"C. Dr. Esquerdo, 23, 28028 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T13:12:38.397211Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":422,"business":{"id":110,"name":"Marco Aldany","country":null,"description":"La cadena líder en el sector de la peluquería y estética femenina y másculina en España con más de 400 salones. ¡Sin cita previa y al mejor precio!","url":"https://www.marcoaldany.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_SjjTIjm.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635167238.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_UAKZThD.jpg","sector":{"id":13,"name":"Peluquería","icon":null,"created":"2021-05-25T11:02:31.426987Z"},"descriptive_categories":[{"id":41,"name":"corte de pelo","owner":null,"sector":null,"created":"2021-10-25T13:02:44.637545Z"},{"id":40,"name":"peinado","owner":null,"sector":null,"created":"2021-10-25T13:02:38.018824Z"},{"id":42,"name":"pelo","owner":null,"sector":44,"created":"2021-10-25T13:02:49.420892Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/VNTe","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T13:02:51.421328Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6692567,40.476879]},"address":"Calle de Caleruega","number":"3","postal_code":"28033","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:09.343567Z","place_id":"ChIJ3SSuukkpQg0Rv2Slo3F1_Cw","formatted_address":"C. de Caleruega, 3, 28033 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T13:12:21.963104Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false}]}
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=36",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=34",
+	"results": [
+		{
+			"id": 431,
+			"business": {
+				"id": 111,
+				"name": "Carlos Conde peluqueros",
+				"country": null,
+				"description": "Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.",
+				"url": "https://www.carloscondepeluqueros.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 44,
+						"name": "barbería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:49.830200Z"
+					},
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/znLw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-26T07:39:07.521908Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6926308,
+					40.4365119
+				]
+			},
+			"address": "Calle de García de Paredes",
+			"number": "84",
+			"postal_code": "28010",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:07.915289Z",
+			"place_id": "ChIJSR0Wh-0oQg0R_uSLfe14AfI",
+			"formatted_address": "Calle de García de Paredes, 84, 28010 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-26T07:44:58.559497Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 430,
+			"business": {
+				"id": 111,
+				"name": "Carlos Conde peluqueros",
+				"country": null,
+				"description": "Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.",
+				"url": "https://www.carloscondepeluqueros.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 44,
+						"name": "barbería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:49.830200Z"
+					},
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/znLw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-26T07:39:07.521908Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6741883,
+					40.4331808
+				]
+			},
+			"address": "Calle de Maldonado",
+			"number": "60",
+			"postal_code": "28006",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:08.110706Z",
+			"place_id": "ChIJx1LPbrgoQg0RixIZHcQ_aZI",
+			"formatted_address": "Calle de Maldonado, 60, 28006 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-26T07:44:43.826222Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 429,
+			"business": {
+				"id": 111,
+				"name": "Carlos Conde peluqueros",
+				"country": null,
+				"description": "Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.",
+				"url": "https://www.carloscondepeluqueros.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 44,
+						"name": "barbería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:49.830200Z"
+					},
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/znLw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-26T07:39:07.521908Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7128281,
+					40.4392486
+				]
+			},
+			"address": "Calle de Guzmán el Bueno",
+			"number": "93",
+			"postal_code": "28003",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:08.295571Z",
+			"place_id": "EjFDLiBkZSBHdXptw6FuIGVsIEJ1ZW5vLCA5MywgMjgwMDMgTWFkcmlkLCBFc3Bhw7FhIlASTgo0CjIJ-46zS1soQg0RGGT18BaTprQaHgsQ7sHuoQEaFAoSCVdKC81ZKEINEZCrizP3QAMcDBBdKhQKEgmxaFNZWyhCDRFSKBo7v8kodA",
+			"formatted_address": "C. de Guzmán el Bueno, 93, 28003 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-26T07:44:29.423763Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 428,
+			"business": {
+				"id": 111,
+				"name": "Carlos Conde peluqueros",
+				"country": null,
+				"description": "Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.",
+				"url": "https://www.carloscondepeluqueros.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 44,
+						"name": "barbería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:49.830200Z"
+					},
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/znLw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-26T07:39:07.521908Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6690976,
+					40.4471527
+				]
+			},
+			"address": "Calle de López de Hoyos",
+			"number": "176",
+			"postal_code": "28002",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:08.397514Z",
+			"place_id": "ChIJ8S1UCNEoQg0RExuQytkWZDc",
+			"formatted_address": "C. de López de Hoyos, 176, 28002 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-26T07:44:14.600286Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 427,
+			"business": {
+				"id": 111,
+				"name": "Carlos Conde peluqueros",
+				"country": null,
+				"description": "Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.",
+				"url": "https://www.carloscondepeluqueros.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 44,
+						"name": "barbería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:49.830200Z"
+					},
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/znLw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-26T07:39:07.521908Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6750014,
+					40.458249
+				]
+			},
+			"address": "Calle de Costa Rica",
+			"number": "14",
+			"postal_code": "28016",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:08.594631Z",
+			"place_id": "ChIJaRh1YCYpQg0RKUPniZQCe_M",
+			"formatted_address": "C. de Costa Rica, 14, 28016 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-26T07:43:57.663912Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 426,
+			"business": {
+				"id": 111,
+				"name": "Carlos Conde peluqueros",
+				"country": null,
+				"description": "Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.",
+				"url": "https://www.carloscondepeluqueros.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 44,
+						"name": "barbería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:49.830200Z"
+					},
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/znLw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-26T07:39:07.521908Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6998479,
+					40.4469698
+				]
+			},
+			"address": "Calle de Raimundo Fernández Villaverde",
+			"number": "35",
+			"postal_code": "28003",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:08.796490Z",
+			"place_id": "ChIJNQTYGvkoQg0Ri1O3iTtkub0",
+			"formatted_address": "C. de Raimundo Fernández Villaverde, 35, 28003 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-26T07:43:40.812977Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 425,
+			"business": {
+				"id": 111,
+				"name": "Carlos Conde peluqueros",
+				"country": null,
+				"description": "Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.",
+				"url": "https://www.carloscondepeluqueros.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 44,
+						"name": "barbería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:49.830200Z"
+					},
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/znLw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-26T07:39:07.521908Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7045014,
+					40.4790788
+				]
+			},
+			"address": "Avenida de Monforte de Lemos",
+			"number": "101",
+			"postal_code": "28029",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:08.913818Z",
+			"place_id": "ChIJYzDA150pQg0R7CLoX_MKoMQ",
+			"formatted_address": "Av. de Monforte de Lemos, 101, 28029 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-26T07:43:26.569156Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 424,
+			"business": {
+				"id": 111,
+				"name": "Carlos Conde peluqueros",
+				"country": null,
+				"description": "Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.",
+				"url": "https://www.carloscondepeluqueros.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 44,
+						"name": "barbería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:49.830200Z"
+					},
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/znLw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-26T07:39:07.521908Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6879685,
+					40.4616328
+				]
+			},
+			"address": "Calle del Doctor Fleming",
+			"number": "35",
+			"postal_code": "28036",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:09.197621Z",
+			"place_id": "ChIJYamm1BspQg0R7yzyKKO-VZw",
+			"formatted_address": "Calle del Dr. Fleming, 35, 28036 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-26T07:43:10.911489Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 423,
+			"business": {
+				"id": 110,
+				"name": "Marco Aldany",
+				"country": null,
+				"description": "La cadena líder en el sector de la peluquería y estética femenina y másculina en España con más de 400 salones. ¡Sin cita previa y al mejor precio!",
+				"url": "https://www.marcoaldany.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_SjjTIjm.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635167238.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_UAKZThD.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					},
+					{
+						"id": 40,
+						"name": "peinado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:38.018824Z"
+					},
+					{
+						"id": 42,
+						"name": "pelo",
+						"owner": null,
+						"sector": 44,
+						"created": "2021-10-25T13:02:49.420892Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/VNTe",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T13:02:51.421328Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6682469,
+					40.4257978
+				]
+			},
+			"address": "Calle Doctor Esquerdo",
+			"number": "23",
+			"postal_code": "28028",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:09.299307Z",
+			"place_id": "ChIJHTN3kbEoQg0R23ddArk-L40",
+			"formatted_address": "C. Dr. Esquerdo, 23, 28028 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T13:12:38.397211Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 422,
+			"business": {
+				"id": 110,
+				"name": "Marco Aldany",
+				"country": null,
+				"description": "La cadena líder en el sector de la peluquería y estética femenina y másculina en España con más de 400 salones. ¡Sin cita previa y al mejor precio!",
+				"url": "https://www.marcoaldany.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_SjjTIjm.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635167238.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_UAKZThD.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					},
+					{
+						"id": 40,
+						"name": "peinado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:38.018824Z"
+					},
+					{
+						"id": 42,
+						"name": "pelo",
+						"owner": null,
+						"sector": 44,
+						"created": "2021-10-25T13:02:49.420892Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/VNTe",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T13:02:51.421328Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6692567,
+					40.476879
+				]
+			},
+			"address": "Calle de Caleruega",
+			"number": "3",
+			"postal_code": "28033",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:09.343567Z",
+			"place_id": "ChIJ3SSuukkpQg0Rv2Slo3F1_Cw",
+			"formatted_address": "C. de Caleruega, 3, 28033 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T13:12:21.963104Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

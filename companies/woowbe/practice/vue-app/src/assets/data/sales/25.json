@@ -1,1 +1,877 @@
-{"count":579,"next":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=26","previous":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=24","results":[{"id":541,"business":{"id":128,"name":"Viena Capellanes","country":null,"description":"Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.","url":"https://www.vienacapellanes.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg","sector":{"id":39,"name":"Pastelería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg","created":"2021-11-29T13:54:48.886365Z"},"descriptive_categories":[{"id":25,"name":"pan","owner":null,"sector":null,"created":"2021-10-21T21:05:17.331228Z"},{"id":23,"name":"panadería","owner":null,"sector":null,"created":"2021-10-21T21:04:59.592984Z"},{"id":60,"name":"repostería","owner":null,"sector":null,"created":"2021-11-29T13:55:03.905322Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/TYCN","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T13:55:07.721203Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6369464,40.4631031]},"address":"Calle de Silvano","number":"77","postal_code":"28043","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:52.335959Z","place_id":"ChIJbSMfN-QuQg0RrzvqiTjAus0","formatted_address":"Centro Comercial Palacio de Hielo, C. de Silvano, 77, 28043 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T14:09:57.483094Z","selected_offer":{"id":238,"reward":"9.00","reward_type":"percentage","kind":"A","instant":false,"name":"Viena Capellanes 9%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":0.985,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":540,"business":{"id":128,"name":"Viena Capellanes","country":null,"description":"Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.","url":"https://www.vienacapellanes.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg","sector":{"id":39,"name":"Pastelería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg","created":"2021-11-29T13:54:48.886365Z"},"descriptive_categories":[{"id":25,"name":"pan","owner":null,"sector":null,"created":"2021-10-21T21:05:17.331228Z"},{"id":23,"name":"panadería","owner":null,"sector":null,"created":"2021-10-21T21:04:59.592984Z"},{"id":60,"name":"repostería","owner":null,"sector":null,"created":"2021-11-29T13:55:03.905322Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/TYCN","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T13:55:07.721203Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6868252,40.429401]},"address":"Calle Serrano","number":"34","postal_code":"28001","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:52.510211Z","place_id":"EiVDLiBTZXJyYW5vLCAzNCwgMjgwMDEgTWFkcmlkLCBFc3Bhw7FhIlASTgo0CjIJDTm7EpQoQg0RjSkD3na3jp4aHgsQ7sHuoQEaFAoSCX33rL-XKEINEaCsizP3QAMcDBAiKhQKEglRb4AL6ihCDREnK9oSt8DvbA","formatted_address":"C. Serrano, 34, 28001 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T14:09:33.961806Z","selected_offer":{"id":238,"reward":"9.00","reward_type":"percentage","kind":"A","instant":false,"name":"Viena Capellanes 9%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":0.985,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":539,"business":{"id":128,"name":"Viena Capellanes","country":null,"description":"Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.","url":"https://www.vienacapellanes.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg","sector":{"id":39,"name":"Pastelería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg","created":"2021-11-29T13:54:48.886365Z"},"descriptive_categories":[{"id":25,"name":"pan","owner":null,"sector":null,"created":"2021-10-21T21:05:17.331228Z"},{"id":23,"name":"panadería","owner":null,"sector":null,"created":"2021-10-21T21:04:59.592984Z"},{"id":60,"name":"repostería","owner":null,"sector":null,"created":"2021-11-29T13:55:03.905322Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/TYCN","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T13:55:07.721203Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6539459,40.4441971]},"address":"Calle Condesa de Venadito","number":"14","postal_code":"28027","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:52.554614Z","place_id":"ChIJL_gZOzAvQg0RLrfFvD1QL_A","formatted_address":"C. Condesa de Venadito, 14, 28027 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T14:01:38.311340Z","selected_offer":{"id":238,"reward":"9.00","reward_type":"percentage","kind":"A","instant":false,"name":"Viena Capellanes 9%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":0.985,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":538,"business":{"id":128,"name":"Viena Capellanes","country":null,"description":"Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.","url":"https://www.vienacapellanes.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg","sector":{"id":39,"name":"Pastelería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg","created":"2021-11-29T13:54:48.886365Z"},"descriptive_categories":[{"id":25,"name":"pan","owner":null,"sector":null,"created":"2021-10-21T21:05:17.331228Z"},{"id":23,"name":"panadería","owner":null,"sector":null,"created":"2021-10-21T21:04:59.592984Z"},{"id":60,"name":"repostería","owner":null,"sector":null,"created":"2021-11-29T13:55:03.905322Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/TYCN","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T13:55:07.721203Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6913888,40.4161708]},"address":"Calle de Ruiz de Alarcón","number":"9","postal_code":"28014","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:52.609678Z","place_id":"ChIJM5ZA55woQg0R3M5Qt6nZYPE","formatted_address":"C. de Ruiz de Alarcón, 9, 28014 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T14:01:19.796634Z","selected_offer":{"id":238,"reward":"9.00","reward_type":"percentage","kind":"A","instant":false,"name":"Viena Capellanes 9%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":0.985,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":537,"business":{"id":128,"name":"Viena Capellanes","country":null,"description":"Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.","url":"https://www.vienacapellanes.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg","sector":{"id":39,"name":"Pastelería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg","created":"2021-11-29T13:54:48.886365Z"},"descriptive_categories":[{"id":25,"name":"pan","owner":null,"sector":null,"created":"2021-10-21T21:05:17.331228Z"},{"id":23,"name":"panadería","owner":null,"sector":null,"created":"2021-10-21T21:04:59.592984Z"},{"id":60,"name":"repostería","owner":null,"sector":null,"created":"2021-11-29T13:55:03.905322Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/TYCN","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T13:55:07.721203Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6925385,40.4262704]},"address":"Calle de Génova","number":"25","postal_code":"28004","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:52.644898Z","place_id":"ChIJg4cq1JEoQg0R3oTzoOrct5Y","formatted_address":"Calle de Génova, 25, 28004 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T14:00:57.107198Z","selected_offer":{"id":238,"reward":"9.00","reward_type":"percentage","kind":"A","instant":false,"name":"Viena Capellanes 9%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":0.985,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":536,"business":{"id":128,"name":"Viena Capellanes","country":null,"description":"Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.","url":"https://www.vienacapellanes.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg","sector":{"id":39,"name":"Pastelería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg","created":"2021-11-29T13:54:48.886365Z"},"descriptive_categories":[{"id":25,"name":"pan","owner":null,"sector":null,"created":"2021-10-21T21:05:17.331228Z"},{"id":23,"name":"panadería","owner":null,"sector":null,"created":"2021-10-21T21:04:59.592984Z"},{"id":60,"name":"repostería","owner":null,"sector":null,"created":"2021-11-29T13:55:03.905322Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/TYCN","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T13:55:07.721203Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7152896,40.4260275]},"address":"Calle de Martín de los Heros","number":"33","postal_code":"28008","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:52.720797Z","place_id":"ChIJy7p3HG8oQg0RO5o8ljGBhGo","formatted_address":"C. de Martín de los Heros, 33, 28008 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T14:00:33.760439Z","selected_offer":{"id":238,"reward":"9.00","reward_type":"percentage","kind":"A","instant":false,"name":"Viena Capellanes 9%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":0.985,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":535,"business":{"id":128,"name":"Viena Capellanes","country":null,"description":"Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.","url":"https://www.vienacapellanes.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg","sector":{"id":39,"name":"Pastelería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg","created":"2021-11-29T13:54:48.886365Z"},"descriptive_categories":[{"id":25,"name":"pan","owner":null,"sector":null,"created":"2021-10-21T21:05:17.331228Z"},{"id":23,"name":"panadería","owner":null,"sector":null,"created":"2021-10-21T21:04:59.592984Z"},{"id":60,"name":"repostería","owner":null,"sector":null,"created":"2021-11-29T13:55:03.905322Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/TYCN","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T13:55:07.721203Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7179901,40.4299094]},"address":"Calle del Marqués de Urquijo","number":"17","postal_code":"28008","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:52.770581Z","place_id":"ChIJRzd6fmkoQg0RnfMazdIulag","formatted_address":"C. del Marqués de Urquijo, 17, 28008 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T14:00:13.163411Z","selected_offer":{"id":238,"reward":"9.00","reward_type":"percentage","kind":"A","instant":false,"name":"Viena Capellanes 9%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":0.985,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":534,"business":{"id":128,"name":"Viena Capellanes","country":null,"description":"Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.","url":"https://www.vienacapellanes.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg","sector":{"id":39,"name":"Pastelería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg","created":"2021-11-29T13:54:48.886365Z"},"descriptive_categories":[{"id":25,"name":"pan","owner":null,"sector":null,"created":"2021-10-21T21:05:17.331228Z"},{"id":23,"name":"panadería","owner":null,"sector":null,"created":"2021-10-21T21:04:59.592984Z"},{"id":60,"name":"repostería","owner":null,"sector":null,"created":"2021-11-29T13:55:03.905322Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/TYCN","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T13:55:07.721203Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7073943,40.4169646]},"address":"Calle de Bordadores","number":"9","postal_code":"28013","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:52.811158Z","place_id":"ChIJVV6SsH4oQg0R051kvouM6ok","formatted_address":"C. de Bordadores, 9, 28013 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T13:59:54.167199Z","selected_offer":{"id":238,"reward":"9.00","reward_type":"percentage","kind":"A","instant":false,"name":"Viena Capellanes 9%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":0.985,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":533,"business":{"id":128,"name":"Viena Capellanes","country":null,"description":"Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.","url":"https://www.vienacapellanes.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg","sector":{"id":39,"name":"Pastelería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg","created":"2021-11-29T13:54:48.886365Z"},"descriptive_categories":[{"id":25,"name":"pan","owner":null,"sector":null,"created":"2021-10-21T21:05:17.331228Z"},{"id":23,"name":"panadería","owner":null,"sector":null,"created":"2021-10-21T21:04:59.592984Z"},{"id":60,"name":"repostería","owner":null,"sector":null,"created":"2021-11-29T13:55:03.905322Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/TYCN","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T13:55:07.721203Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6796572,40.4232011]},"address":"Calle de Alcalá","number":"127","postal_code":"28009","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:52.852877Z","place_id":"ChIJ9XlmL6MoQg0ROciSSxDqZ4M","formatted_address":"C. de Alcalá, 127, 28009 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T13:59:38.453708Z","selected_offer":{"id":238,"reward":"9.00","reward_type":"percentage","kind":"A","instant":false,"name":"Viena Capellanes 9%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":0.985,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":532,"business":{"id":128,"name":"Viena Capellanes","country":null,"description":"Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.","url":"https://www.vienacapellanes.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg","sector":{"id":39,"name":"Pastelería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg","created":"2021-11-29T13:54:48.886365Z"},"descriptive_categories":[{"id":25,"name":"pan","owner":null,"sector":null,"created":"2021-10-21T21:05:17.331228Z"},{"id":23,"name":"panadería","owner":null,"sector":null,"created":"2021-10-21T21:04:59.592984Z"},{"id":60,"name":"repostería","owner":null,"sector":null,"created":"2021-11-29T13:55:03.905322Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/TYCN","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T13:55:07.721203Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6953822,40.4272713]},"address":"Calle de Génova","number":"4","postal_code":"28001","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:52.912171Z","place_id":"ChIJf6BljJAoQg0RwZlKrBUZK7M","formatted_address":"Calle de Génova, 4, 28001 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T13:59:19.691721Z","selected_offer":{"id":238,"reward":"9.00","reward_type":"percentage","kind":"A","instant":false,"name":"Viena Capellanes 9%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":0.985,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false}]}
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=26",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=24",
+	"results": [
+		{
+			"id": 541,
+			"business": {
+				"id": 128,
+				"name": "Viena Capellanes",
+				"country": null,
+				"description": "Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.",
+				"url": "https://www.vienacapellanes.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg",
+				"sector": {
+					"id": 39,
+					"name": "Pastelería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg",
+					"created": "2021-11-29T13:54:48.886365Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					},
+					{
+						"id": 60,
+						"name": "repostería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T13:55:03.905322Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/TYCN",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T13:55:07.721203Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6369464,
+					40.4631031
+				]
+			},
+			"address": "Calle de Silvano",
+			"number": "77",
+			"postal_code": "28043",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:52.335959Z",
+			"place_id": "ChIJbSMfN-QuQg0RrzvqiTjAus0",
+			"formatted_address": "Centro Comercial Palacio de Hielo, C. de Silvano, 77, 28043 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T14:09:57.483094Z",
+			"selected_offer": {
+				"id": 238,
+				"reward": "9.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Viena Capellanes 9%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 0.985,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 540,
+			"business": {
+				"id": 128,
+				"name": "Viena Capellanes",
+				"country": null,
+				"description": "Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.",
+				"url": "https://www.vienacapellanes.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg",
+				"sector": {
+					"id": 39,
+					"name": "Pastelería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg",
+					"created": "2021-11-29T13:54:48.886365Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					},
+					{
+						"id": 60,
+						"name": "repostería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T13:55:03.905322Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/TYCN",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T13:55:07.721203Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6868252,
+					40.429401
+				]
+			},
+			"address": "Calle Serrano",
+			"number": "34",
+			"postal_code": "28001",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:52.510211Z",
+			"place_id": "EiVDLiBTZXJyYW5vLCAzNCwgMjgwMDEgTWFkcmlkLCBFc3Bhw7FhIlASTgo0CjIJDTm7EpQoQg0RjSkD3na3jp4aHgsQ7sHuoQEaFAoSCX33rL-XKEINEaCsizP3QAMcDBAiKhQKEglRb4AL6ihCDREnK9oSt8DvbA",
+			"formatted_address": "C. Serrano, 34, 28001 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T14:09:33.961806Z",
+			"selected_offer": {
+				"id": 238,
+				"reward": "9.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Viena Capellanes 9%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 0.985,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 539,
+			"business": {
+				"id": 128,
+				"name": "Viena Capellanes",
+				"country": null,
+				"description": "Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.",
+				"url": "https://www.vienacapellanes.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg",
+				"sector": {
+					"id": 39,
+					"name": "Pastelería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg",
+					"created": "2021-11-29T13:54:48.886365Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					},
+					{
+						"id": 60,
+						"name": "repostería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T13:55:03.905322Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/TYCN",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T13:55:07.721203Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6539459,
+					40.4441971
+				]
+			},
+			"address": "Calle Condesa de Venadito",
+			"number": "14",
+			"postal_code": "28027",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:52.554614Z",
+			"place_id": "ChIJL_gZOzAvQg0RLrfFvD1QL_A",
+			"formatted_address": "C. Condesa de Venadito, 14, 28027 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T14:01:38.311340Z",
+			"selected_offer": {
+				"id": 238,
+				"reward": "9.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Viena Capellanes 9%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 0.985,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 538,
+			"business": {
+				"id": 128,
+				"name": "Viena Capellanes",
+				"country": null,
+				"description": "Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.",
+				"url": "https://www.vienacapellanes.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg",
+				"sector": {
+					"id": 39,
+					"name": "Pastelería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg",
+					"created": "2021-11-29T13:54:48.886365Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					},
+					{
+						"id": 60,
+						"name": "repostería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T13:55:03.905322Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/TYCN",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T13:55:07.721203Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6913888,
+					40.4161708
+				]
+			},
+			"address": "Calle de Ruiz de Alarcón",
+			"number": "9",
+			"postal_code": "28014",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:52.609678Z",
+			"place_id": "ChIJM5ZA55woQg0R3M5Qt6nZYPE",
+			"formatted_address": "C. de Ruiz de Alarcón, 9, 28014 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T14:01:19.796634Z",
+			"selected_offer": {
+				"id": 238,
+				"reward": "9.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Viena Capellanes 9%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 0.985,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 537,
+			"business": {
+				"id": 128,
+				"name": "Viena Capellanes",
+				"country": null,
+				"description": "Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.",
+				"url": "https://www.vienacapellanes.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg",
+				"sector": {
+					"id": 39,
+					"name": "Pastelería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg",
+					"created": "2021-11-29T13:54:48.886365Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					},
+					{
+						"id": 60,
+						"name": "repostería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T13:55:03.905322Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/TYCN",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T13:55:07.721203Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6925385,
+					40.4262704
+				]
+			},
+			"address": "Calle de Génova",
+			"number": "25",
+			"postal_code": "28004",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:52.644898Z",
+			"place_id": "ChIJg4cq1JEoQg0R3oTzoOrct5Y",
+			"formatted_address": "Calle de Génova, 25, 28004 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T14:00:57.107198Z",
+			"selected_offer": {
+				"id": 238,
+				"reward": "9.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Viena Capellanes 9%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 0.985,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 536,
+			"business": {
+				"id": 128,
+				"name": "Viena Capellanes",
+				"country": null,
+				"description": "Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.",
+				"url": "https://www.vienacapellanes.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg",
+				"sector": {
+					"id": 39,
+					"name": "Pastelería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg",
+					"created": "2021-11-29T13:54:48.886365Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					},
+					{
+						"id": 60,
+						"name": "repostería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T13:55:03.905322Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/TYCN",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T13:55:07.721203Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7152896,
+					40.4260275
+				]
+			},
+			"address": "Calle de Martín de los Heros",
+			"number": "33",
+			"postal_code": "28008",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:52.720797Z",
+			"place_id": "ChIJy7p3HG8oQg0RO5o8ljGBhGo",
+			"formatted_address": "C. de Martín de los Heros, 33, 28008 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T14:00:33.760439Z",
+			"selected_offer": {
+				"id": 238,
+				"reward": "9.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Viena Capellanes 9%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 0.985,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 535,
+			"business": {
+				"id": 128,
+				"name": "Viena Capellanes",
+				"country": null,
+				"description": "Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.",
+				"url": "https://www.vienacapellanes.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg",
+				"sector": {
+					"id": 39,
+					"name": "Pastelería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg",
+					"created": "2021-11-29T13:54:48.886365Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					},
+					{
+						"id": 60,
+						"name": "repostería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T13:55:03.905322Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/TYCN",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T13:55:07.721203Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7179901,
+					40.4299094
+				]
+			},
+			"address": "Calle del Marqués de Urquijo",
+			"number": "17",
+			"postal_code": "28008",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:52.770581Z",
+			"place_id": "ChIJRzd6fmkoQg0RnfMazdIulag",
+			"formatted_address": "C. del Marqués de Urquijo, 17, 28008 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T14:00:13.163411Z",
+			"selected_offer": {
+				"id": 238,
+				"reward": "9.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Viena Capellanes 9%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 0.985,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 534,
+			"business": {
+				"id": 128,
+				"name": "Viena Capellanes",
+				"country": null,
+				"description": "Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.",
+				"url": "https://www.vienacapellanes.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg",
+				"sector": {
+					"id": 39,
+					"name": "Pastelería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg",
+					"created": "2021-11-29T13:54:48.886365Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					},
+					{
+						"id": 60,
+						"name": "repostería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T13:55:03.905322Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/TYCN",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T13:55:07.721203Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7073943,
+					40.4169646
+				]
+			},
+			"address": "Calle de Bordadores",
+			"number": "9",
+			"postal_code": "28013",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:52.811158Z",
+			"place_id": "ChIJVV6SsH4oQg0R051kvouM6ok",
+			"formatted_address": "C. de Bordadores, 9, 28013 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T13:59:54.167199Z",
+			"selected_offer": {
+				"id": 238,
+				"reward": "9.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Viena Capellanes 9%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 0.985,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 533,
+			"business": {
+				"id": 128,
+				"name": "Viena Capellanes",
+				"country": null,
+				"description": "Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.",
+				"url": "https://www.vienacapellanes.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg",
+				"sector": {
+					"id": 39,
+					"name": "Pastelería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg",
+					"created": "2021-11-29T13:54:48.886365Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					},
+					{
+						"id": 60,
+						"name": "repostería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T13:55:03.905322Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/TYCN",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T13:55:07.721203Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6796572,
+					40.4232011
+				]
+			},
+			"address": "Calle de Alcalá",
+			"number": "127",
+			"postal_code": "28009",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:52.852877Z",
+			"place_id": "ChIJ9XlmL6MoQg0ROciSSxDqZ4M",
+			"formatted_address": "C. de Alcalá, 127, 28009 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T13:59:38.453708Z",
+			"selected_offer": {
+				"id": 238,
+				"reward": "9.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Viena Capellanes 9%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 0.985,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 532,
+			"business": {
+				"id": 128,
+				"name": "Viena Capellanes",
+				"country": null,
+				"description": "Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.",
+				"url": "https://www.vienacapellanes.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg",
+				"sector": {
+					"id": 39,
+					"name": "Pastelería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg",
+					"created": "2021-11-29T13:54:48.886365Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					},
+					{
+						"id": 60,
+						"name": "repostería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T13:55:03.905322Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/TYCN",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T13:55:07.721203Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6953822,
+					40.4272713
+				]
+			},
+			"address": "Calle de Génova",
+			"number": "4",
+			"postal_code": "28001",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:52.912171Z",
+			"place_id": "ChIJf6BljJAoQg0RwZlKrBUZK7M",
+			"formatted_address": "Calle de Génova, 4, 28001 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T13:59:19.691721Z",
+			"selected_offer": {
+				"id": 238,
+				"reward": "9.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Viena Capellanes 9%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 0.985,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

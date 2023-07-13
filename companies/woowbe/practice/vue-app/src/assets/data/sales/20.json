@@ -1,1 +1,716 @@
-{"count":579,"next":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=21","previous":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=19","results":[{"id":595,"business":{"id":119,"name":"Brasa y Leña","country":null,"description":"Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.","url":"https://brasaylena.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":47,"name":"brasas","owner":null,"sector":null,"created":"2021-11-29T09:27:43.625917Z"},{"id":36,"name":"carne","owner":null,"sector":null,"created":"2021-10-25T11:59:13.899272Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/poqq","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:00:49.864858Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-99.1828043,19.4372861]},"address":"Avenida Ejército Nacional Mexicano","number":"302","postal_code":"11590","state":"","city":"Ciudad de México","merchants_count":0,"modified":"2023-03-17T08:01:40.403717Z","place_id":"ChIJmYvfmK740YURuOdoiG1rpdE","formatted_address":"Av. Ejército Nacional Mexicano 302, Anáhuac I Secc, Miguel Hidalgo, 11590 Ciudad de México, CDMX","deleted":false,"deleted_at":null,"created":"2022-05-18T10:50:38.805555Z","selected_offer":{"id":220,"reward":"5.00","reward_type":"fixed","kind":"B","instant":false,"name":"Brasa y Leña 5€","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":60,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":594,"business":{"id":119,"name":"Brasa y Leña","country":null,"description":"Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.","url":"https://brasaylena.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":47,"name":"brasas","owner":null,"sector":null,"created":"2021-11-29T09:27:43.625917Z"},{"id":36,"name":"carne","owner":null,"sector":null,"created":"2021-10-25T11:59:13.899272Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/poqq","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:00:49.864858Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-99.1995336,19.4306328]},"address":"Calle Calderón de la Barca","number":"60","postal_code":"11550","state":"","city":"Ciudad de México","merchants_count":0,"modified":"2023-03-17T08:01:40.609209Z","place_id":"El9DYWxsZSBDYWxkZXLDs24gZGUgbGEgQmFyY2EgNjAsIFBvbGFuY28sIFBvbGFuY28gSUlJIFNlY2Npw7NuLCBDaXVkYWQgZGUgTcOpeGljbywgQ0RNWCwgTcOpeGljbyJQEk4KNAoyCTGwNpECAtKFEdZ4nkhhbS8XGh4LEO7B7qEBGhQKEgn5YsVaAgLShRHQE8d7YRWMRQwQPCoUChIJL2wAHgMC0oURk-pVg6wPGSE","formatted_address":"C. Calderón de la Barca 60, Polanco, Polanco III Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX","deleted":false,"deleted_at":null,"created":"2022-05-18T10:47:46.954129Z","selected_offer":{"id":220,"reward":"5.00","reward_type":"fixed","kind":"B","instant":false,"name":"Brasa y Leña 5€","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":60,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":593,"business":{"id":119,"name":"Brasa y Leña","country":null,"description":"Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.","url":"https://brasaylena.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":47,"name":"brasas","owner":null,"sector":null,"created":"2021-11-29T09:27:43.625917Z"},{"id":36,"name":"carne","owner":null,"sector":null,"created":"2021-10-25T11:59:13.899272Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/poqq","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:00:49.864858Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-99.1944936,19.4296965]},"address":"Avenida Emilio Castelar","number":"51","postal_code":"11550","state":"","city":"Ciudad de México","merchants_count":0,"modified":"2023-03-17T08:01:40.804038Z","place_id":"ElpBdmVuaWRhIEVtaWxpbyBDYXN0ZWxhciA1MSwgUG9sYW5jbywgUG9sYW5jbyBJViBTZWNjacOzbiwgQ2l1ZGFkIGRlIE3DqXhpY28sIENETVgsIE3DqXhpY28iUBJOCjQKMgkXbeFC_wHShREHIthQvM9g5hoeCxDuwe6hARoUChIJ-WLFWgIC0oUR0BPHe2EVjEUMEDMqFAoSCQEmYwsCAtKFEeFQYfxGRtv6","formatted_address":"Av. Emilio Castelar 51, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX","deleted":false,"deleted_at":null,"created":"2022-05-18T10:46:51.321965Z","selected_offer":{"id":220,"reward":"5.00","reward_type":"fixed","kind":"B","instant":false,"name":"Brasa y Leña 5€","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":60,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":592,"business":{"id":119,"name":"Brasa y Leña","country":null,"description":"Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.","url":"https://brasaylena.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":47,"name":"brasas","owner":null,"sector":null,"created":"2021-11-29T09:27:43.625917Z"},{"id":36,"name":"carne","owner":null,"sector":null,"created":"2021-10-25T11:59:13.899272Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/poqq","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:00:49.864858Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-99.2017796,19.4357978]},"address":"Avenida Moliere","number":"180","postal_code":"11550","state":"","city":"Ciudad de México","merchants_count":0,"modified":"2023-03-17T08:01:40.916345Z","place_id":"ElRBdmVuaWRhIE1vbGllcmUgMTgwLCBQb2xhbmNvLCBQb2xhbmNvIElJSSBTZWNjacOzbiwgQ2l1ZGFkIGRlIE3DqXhpY28sIENETVgsIE3DqXhpY28iURJPCjQKMglBAs6uHALShREU_6PwSrxRpRoeCxDuwe6hARoUChIJ-WLFWgIC0oUR0BPHe2EVjEUMELQBKhQKEgk7PnZTGwLShRHb7-sky0_RPQ","formatted_address":"Av Moliere 180, Polanco, Polanco II Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX","deleted":false,"deleted_at":null,"created":"2022-05-18T10:45:38.868752Z","selected_offer":{"id":220,"reward":"5.00","reward_type":"fixed","kind":"B","instant":false,"name":"Brasa y Leña 5€","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":60,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":591,"business":{"id":140,"name":"Pako's Donuts","country":null,"description":"Esta es la descripción de mi negocio de donuts","url":"http://www.pakosdonuts.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_d0YTkuG.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1652178849.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_sMkXPAU.jpg","sector":{"id":5,"name":"Cafetería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg","created":"2021-05-25T10:48:41.547333Z"},"descriptive_categories":[{"id":64,"name":"chocolate","owner":140,"sector":null,"created":"2022-05-10T10:36:54.526338Z"},{"id":63,"name":"donuts","owner":140,"sector":null,"created":"2022-05-10T10:36:46.452910Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/nHK9","is_franchisee_of":null,"is_favorite":false,"created":"2022-05-10T10:08:15.925926Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6840115,40.4600943]},"address":"Calle de Henri Dunant","number":"17","postal_code":"28036","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:41.715451Z","place_id":"ChIJJRMExxgpQg0RBk71eSl0yBM","formatted_address":"C. de Henri Dunant, 17, 28036 Madrid","deleted":false,"deleted_at":null,"created":"2022-05-10T10:38:39.159305Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":590,"business":{"id":30,"name":"Empanadas Malvon","country":null,"description":"Para gustos, Malvón! Tú te encargas de celebrar y disfrutar, nosotros nos encargamos del resto con nuestras empanadas artesanales.","url":"https://www.malvon.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_GeCFiw9.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1624001112.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Xt19oj5.jpg","sector":{"id":3,"name":"Fast Food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg","created":"2021-05-25T10:47:39.210359Z"},"descriptive_categories":[],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/zRx8","is_franchisee_of":null,"is_favorite":false,"created":"2021-06-10T11:01:38.640807Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6840115,40.4600943]},"address":"Calle de Henri Dunant","number":"17","postal_code":"28036","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:41.803189Z","place_id":"ChIJJRMExxgpQg0RBk71eSl0yBM","formatted_address":"C. de Henri Dunant, 17, 28036 Madrid","deleted":false,"deleted_at":null,"created":"2022-05-05T09:24:23.903882Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":588,"business":{"id":139,"name":"Álex Business","country":null,"description":"SpeedDating Dinners for people with little or no time","url":"https://www.alexintheworld.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_cdwiuPe.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631740.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_LnV0w5w.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":60,"name":"repostería","owner":null,"sector":null,"created":"2021-11-29T13:55:03.905322Z"}],"return_period":30,"dynamic_link":"https://app.dev.woowbe.com/share/36XF","is_franchisee_of":null,"is_favorite":false,"created":"2022-04-28T08:55:59.573646Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.700705,40.4149691]},"address":"Plaza de Santa Ana","number":"3","postal_code":"28012","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:41.819243Z","place_id":"ChIJ_5OvUYAoQg0RPzrOwDA1RuU","formatted_address":"Plaza de Sta. Ana, 3, 28012 Madrid","deleted":false,"deleted_at":null,"created":"2022-04-28T09:23:33.654152Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":587,"business":{"id":138,"name":"NewCOM Business","country":{"id":3,"name":"España","code":"es"},"description":"This is a Demo Business","url":"https://www.newco.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ojLUO22.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1649862498.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_BYp7Oqs.jpg","sector":{"id":28,"name":"Alquiler de coches","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/mobility.svg","created":"2021-05-25T11:10:59.951129Z"},"descriptive_categories":[],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/ewdc","is_franchisee_of":null,"is_favorite":false,"created":"2022-04-11T11:12:11.912145Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6838764,40.4254758]},"address":"Calle de Velázquez","number":"34","postal_code":"28001","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:42.103274Z","place_id":"ChIJVcl2uJcoQg0RbfZBhGzzLu0","formatted_address":"C. de Velázquez, 34, 28001 Madrid","deleted":false,"deleted_at":null,"created":"2022-04-13T15:07:03.632747Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":586,"business":{"id":138,"name":"NewCOM Business","country":{"id":3,"name":"España","code":"es"},"description":"This is a Demo Business","url":"https://www.newco.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ojLUO22.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1649862498.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_BYp7Oqs.jpg","sector":{"id":28,"name":"Alquiler de coches","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/mobility.svg","created":"2021-05-25T11:10:59.951129Z"},"descriptive_categories":[],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/ewdc","is_franchisee_of":null,"is_favorite":false,"created":"2022-04-11T11:12:11.912145Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6876779,40.425148]},"address":"Calle Serrano","number":"34","postal_code":"28001","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:42.117348Z","place_id":"ChIJQ2ZOy5AoQg0RL6rm2ocK_W8","formatted_address":"C. Serrano, 34, 28001 Madrid","deleted":false,"deleted_at":null,"created":"2022-04-13T15:06:43.104075Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":585,"business":{"id":138,"name":"NewCOM Business","country":{"id":3,"name":"España","code":"es"},"description":"This is a Demo Business","url":"https://www.newco.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ojLUO22.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1649862498.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_BYp7Oqs.jpg","sector":{"id":28,"name":"Alquiler de coches","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/mobility.svg","created":"2021-05-25T11:10:59.951129Z"},"descriptive_categories":[],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/ewdc","is_franchisee_of":null,"is_favorite":false,"created":"2022-04-11T11:12:11.912145Z","offers_count":0},"online":true,"url":"https://www.newco.com","position":null,"address":null,"number":null,"postal_code":null,"state":null,"city":null,"merchants_count":0,"modified":"2023-03-17T08:01:42.605284Z","place_id":null,"formatted_address":"","deleted":false,"deleted_at":null,"created":"2022-04-13T15:05:53.844399Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":"www.newco.com","is_open":false}]}
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=21",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=19",
+	"results": [
+		{
+			"id": 595,
+			"business": {
+				"id": 119,
+				"name": "Brasa y Leña",
+				"country": null,
+				"description": "Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.",
+				"url": "https://brasaylena.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 36,
+						"name": "carne",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:13.899272Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/poqq",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:00:49.864858Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.1828043,
+					19.4372861
+				]
+			},
+			"address": "Avenida Ejército Nacional Mexicano",
+			"number": "302",
+			"postal_code": "11590",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:40.403717Z",
+			"place_id": "ChIJmYvfmK740YURuOdoiG1rpdE",
+			"formatted_address": "Av. Ejército Nacional Mexicano 302, Anáhuac I Secc, Miguel Hidalgo, 11590 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T10:50:38.805555Z",
+			"selected_offer": {
+				"id": 220,
+				"reward": "5.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "Brasa y Leña 5€",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 60,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 594,
+			"business": {
+				"id": 119,
+				"name": "Brasa y Leña",
+				"country": null,
+				"description": "Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.",
+				"url": "https://brasaylena.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 36,
+						"name": "carne",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:13.899272Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/poqq",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:00:49.864858Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.1995336,
+					19.4306328
+				]
+			},
+			"address": "Calle Calderón de la Barca",
+			"number": "60",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:40.609209Z",
+			"place_id": "El9DYWxsZSBDYWxkZXLDs24gZGUgbGEgQmFyY2EgNjAsIFBvbGFuY28sIFBvbGFuY28gSUlJIFNlY2Npw7NuLCBDaXVkYWQgZGUgTcOpeGljbywgQ0RNWCwgTcOpeGljbyJQEk4KNAoyCTGwNpECAtKFEdZ4nkhhbS8XGh4LEO7B7qEBGhQKEgn5YsVaAgLShRHQE8d7YRWMRQwQPCoUChIJL2wAHgMC0oURk-pVg6wPGSE",
+			"formatted_address": "C. Calderón de la Barca 60, Polanco, Polanco III Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T10:47:46.954129Z",
+			"selected_offer": {
+				"id": 220,
+				"reward": "5.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "Brasa y Leña 5€",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 60,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 593,
+			"business": {
+				"id": 119,
+				"name": "Brasa y Leña",
+				"country": null,
+				"description": "Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.",
+				"url": "https://brasaylena.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 36,
+						"name": "carne",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:13.899272Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/poqq",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:00:49.864858Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.1944936,
+					19.4296965
+				]
+			},
+			"address": "Avenida Emilio Castelar",
+			"number": "51",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:40.804038Z",
+			"place_id": "ElpBdmVuaWRhIEVtaWxpbyBDYXN0ZWxhciA1MSwgUG9sYW5jbywgUG9sYW5jbyBJViBTZWNjacOzbiwgQ2l1ZGFkIGRlIE3DqXhpY28sIENETVgsIE3DqXhpY28iUBJOCjQKMgkXbeFC_wHShREHIthQvM9g5hoeCxDuwe6hARoUChIJ-WLFWgIC0oUR0BPHe2EVjEUMEDMqFAoSCQEmYwsCAtKFEeFQYfxGRtv6",
+			"formatted_address": "Av. Emilio Castelar 51, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T10:46:51.321965Z",
+			"selected_offer": {
+				"id": 220,
+				"reward": "5.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "Brasa y Leña 5€",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 60,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 592,
+			"business": {
+				"id": 119,
+				"name": "Brasa y Leña",
+				"country": null,
+				"description": "Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.",
+				"url": "https://brasaylena.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 36,
+						"name": "carne",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:13.899272Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/poqq",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:00:49.864858Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.2017796,
+					19.4357978
+				]
+			},
+			"address": "Avenida Moliere",
+			"number": "180",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:40.916345Z",
+			"place_id": "ElRBdmVuaWRhIE1vbGllcmUgMTgwLCBQb2xhbmNvLCBQb2xhbmNvIElJSSBTZWNjacOzbiwgQ2l1ZGFkIGRlIE3DqXhpY28sIENETVgsIE3DqXhpY28iURJPCjQKMglBAs6uHALShREU_6PwSrxRpRoeCxDuwe6hARoUChIJ-WLFWgIC0oUR0BPHe2EVjEUMELQBKhQKEgk7PnZTGwLShRHb7-sky0_RPQ",
+			"formatted_address": "Av Moliere 180, Polanco, Polanco II Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T10:45:38.868752Z",
+			"selected_offer": {
+				"id": 220,
+				"reward": "5.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "Brasa y Leña 5€",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 60,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 591,
+			"business": {
+				"id": 140,
+				"name": "Pako's Donuts",
+				"country": null,
+				"description": "Esta es la descripción de mi negocio de donuts",
+				"url": "http://www.pakosdonuts.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_d0YTkuG.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1652178849.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_sMkXPAU.jpg",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 64,
+						"name": "chocolate",
+						"owner": 140,
+						"sector": null,
+						"created": "2022-05-10T10:36:54.526338Z"
+					},
+					{
+						"id": 63,
+						"name": "donuts",
+						"owner": 140,
+						"sector": null,
+						"created": "2022-05-10T10:36:46.452910Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/nHK9",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-05-10T10:08:15.925926Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6840115,
+					40.4600943
+				]
+			},
+			"address": "Calle de Henri Dunant",
+			"number": "17",
+			"postal_code": "28036",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:41.715451Z",
+			"place_id": "ChIJJRMExxgpQg0RBk71eSl0yBM",
+			"formatted_address": "C. de Henri Dunant, 17, 28036 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-10T10:38:39.159305Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 590,
+			"business": {
+				"id": 30,
+				"name": "Empanadas Malvon",
+				"country": null,
+				"description": "Para gustos, Malvón! Tú te encargas de celebrar y disfrutar, nosotros nos encargamos del resto con nuestras empanadas artesanales.",
+				"url": "https://www.malvon.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_GeCFiw9.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1624001112.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Xt19oj5.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/zRx8",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-06-10T11:01:38.640807Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6840115,
+					40.4600943
+				]
+			},
+			"address": "Calle de Henri Dunant",
+			"number": "17",
+			"postal_code": "28036",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:41.803189Z",
+			"place_id": "ChIJJRMExxgpQg0RBk71eSl0yBM",
+			"formatted_address": "C. de Henri Dunant, 17, 28036 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-05T09:24:23.903882Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 588,
+			"business": {
+				"id": 139,
+				"name": "Álex Business",
+				"country": null,
+				"description": "SpeedDating Dinners for people with little or no time",
+				"url": "https://www.alexintheworld.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_cdwiuPe.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631740.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_LnV0w5w.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 60,
+						"name": "repostería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T13:55:03.905322Z"
+					}
+				],
+				"return_period": 30,
+				"dynamic_link": "https://app.dev.woowbe.com/share/36XF",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-04-28T08:55:59.573646Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.700705,
+					40.4149691
+				]
+			},
+			"address": "Plaza de Santa Ana",
+			"number": "3",
+			"postal_code": "28012",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:41.819243Z",
+			"place_id": "ChIJ_5OvUYAoQg0RPzrOwDA1RuU",
+			"formatted_address": "Plaza de Sta. Ana, 3, 28012 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-04-28T09:23:33.654152Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 587,
+			"business": {
+				"id": 138,
+				"name": "NewCOM Business",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "This is a Demo Business",
+				"url": "https://www.newco.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ojLUO22.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1649862498.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_BYp7Oqs.jpg",
+				"sector": {
+					"id": 28,
+					"name": "Alquiler de coches",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/mobility.svg",
+					"created": "2021-05-25T11:10:59.951129Z"
+				},
+				"descriptive_categories": [],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/ewdc",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-04-11T11:12:11.912145Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6838764,
+					40.4254758
+				]
+			},
+			"address": "Calle de Velázquez",
+			"number": "34",
+			"postal_code": "28001",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:42.103274Z",
+			"place_id": "ChIJVcl2uJcoQg0RbfZBhGzzLu0",
+			"formatted_address": "C. de Velázquez, 34, 28001 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-04-13T15:07:03.632747Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 586,
+			"business": {
+				"id": 138,
+				"name": "NewCOM Business",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "This is a Demo Business",
+				"url": "https://www.newco.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ojLUO22.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1649862498.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_BYp7Oqs.jpg",
+				"sector": {
+					"id": 28,
+					"name": "Alquiler de coches",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/mobility.svg",
+					"created": "2021-05-25T11:10:59.951129Z"
+				},
+				"descriptive_categories": [],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/ewdc",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-04-11T11:12:11.912145Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6876779,
+					40.425148
+				]
+			},
+			"address": "Calle Serrano",
+			"number": "34",
+			"postal_code": "28001",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:42.117348Z",
+			"place_id": "ChIJQ2ZOy5AoQg0RL6rm2ocK_W8",
+			"formatted_address": "C. Serrano, 34, 28001 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-04-13T15:06:43.104075Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 585,
+			"business": {
+				"id": 138,
+				"name": "NewCOM Business",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "This is a Demo Business",
+				"url": "https://www.newco.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ojLUO22.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1649862498.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_BYp7Oqs.jpg",
+				"sector": {
+					"id": 28,
+					"name": "Alquiler de coches",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/mobility.svg",
+					"created": "2021-05-25T11:10:59.951129Z"
+				},
+				"descriptive_categories": [],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/ewdc",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-04-11T11:12:11.912145Z",
+				"offers_count": 0
+			},
+			"online": true,
+			"url": "https://www.newco.com",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:42.605284Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-04-13T15:05:53.844399Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": "www.newco.com",
+			"is_open": false
+		}
+	]
+}

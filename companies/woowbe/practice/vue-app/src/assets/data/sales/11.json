@@ -1,1 +1,780 @@
-{"count":579,"next":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=12","previous":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=10","results":[{"id":737,"business":{"id":251,"name":"Starbucks","country":{"id":3,"name":"España","code":"es"},"description":"Disfruta tu experiencia Starbucks® donde quieras. ¿Eres más de café, de smoothie, de latte o de Frappuccino®? ¡No esperes más y pide Starbucks a domicilio o para llevar!\n\nEn Starbucks queremos estar cerca de ti y por eso te llevamos tus productos favoritos y tu café Starbucks® a domicilio. \n\n¡Empieza a disfrutar de todos nuestros productos Starbucks® donde quieras!","url":"https://www.starbucks.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ZWnzePl.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1669300395.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_W8n00mn.jpg","sector":{"id":5,"name":"Cafetería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg","created":"2021-05-25T10:48:41.547333Z"},"descriptive_categories":[{"id":92,"name":"Cafés","owner":251,"sector":null,"created":"2022-11-24T14:33:04.883825Z"},{"id":91,"name":"Frappuccino","owner":251,"sector":null,"created":"2022-11-24T14:32:50.194186Z"},{"id":93,"name":"Muffins","owner":251,"sector":null,"created":"2022-11-24T14:33:13.206404Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/jSqv","is_franchisee_of":null,"is_favorite":false,"created":"2022-11-24T14:17:30.242011Z","offers_count":0},"online":true,"url":"https://www.starbucks.es/","position":null,"address":null,"number":null,"postal_code":null,"state":null,"city":null,"merchants_count":0,"modified":"2023-03-17T08:01:14.146417Z","place_id":null,"formatted_address":"","deleted":false,"deleted_at":null,"created":"2022-11-24T14:38:38.078150Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":"www.starbucks.es","is_open":false},{"id":735,"business":{"id":246,"name":"Veterinaria QA aaaaaddddddbbbbbbb","country":{"id":3,"name":"España","code":"es"},"description":"clinica veterinaria con mucha experiencia en el cuidado de animales. Tratamos a todos los animales como si fuesen parte de nuestra familia.","url":"http://www.vete.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1667842927.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1669722210.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0hwbWev.jpg","sector":{"id":33,"name":"Veterinario","icon":null,"created":"2021-05-25T11:17:24.318169Z"},"descriptive_categories":[{"id":84,"name":"perro","owner":246,"sector":null,"created":"2022-11-07T17:42:00.446793Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/gJuv","is_franchisee_of":null,"is_favorite":false,"created":"2022-11-07T17:23:35.313746Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6892205,40.4555108]},"address":"Calle de Manuel de Falla","number":"65","postal_code":"28036","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:14.476042Z","place_id":"EipDYWxsZSBNYW51ZWwgZGUgRmFsbGEsIDY1LCBNYWRyaWQsIEVzcGHDsWEiMBIuChQKEgmPipm-HSlCDRHL4_aFmqtUMhBBKhQKEgm_cnnBHSlCDRF57ei4-lYzoQ","formatted_address":"C. de Manuel de Falla, 65, 28036 Madrid","deleted":false,"deleted_at":null,"created":"2022-11-22T16:10:57.632851Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":729,"business":{"id":248,"name":"Adidas","country":{"id":3,"name":"España","code":"es"},"description":"El 18 de agosto de 1949, Adi Dassler fundó adidas con el deseo de ayudar a mejorar el rendimiento de los deportistas. Setenta años después, adidas no solo ha dejado huella en el deporte y en los atletas, sino también en la moda, la cultura, la sostenibilidad y en muchos otros ámbitos. Acompáñanos en un viaje en el tiempo y descubre la historia de adidas y los estilos que han influido en nuestras vidas hasta hoy.","url":"https://www.adidas.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_mk5CEIv.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1668529037.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_RYgACZk.jpg","sector":{"id":10,"name":"Tienda de deporte","icon":null,"created":"2021-05-25T11:00:54.849631Z"},"descriptive_categories":[{"id":87,"name":"adidas","owner":248,"sector":null,"created":"2022-11-15T16:16:47.536980Z"},{"id":89,"name":"clothes","owner":248,"sector":null,"created":"2022-11-15T16:17:02.079185Z"},{"id":88,"name":"shoes","owner":248,"sector":null,"created":"2022-11-15T16:16:55.033952Z"},{"id":86,"name":"sport","owner":248,"sector":null,"created":"2022-11-15T16:16:40.903353Z"}],"return_period":5,"dynamic_link":"https://app.dev.woowbe.com/share/ej5S","is_franchisee_of":null,"is_favorite":false,"created":"2022-11-15T16:08:43.337659Z","offers_count":0},"online":true,"url":"https://www.adidas.es/","position":null,"address":null,"number":null,"postal_code":null,"state":null,"city":null,"merchants_count":0,"modified":"2023-03-17T08:01:14.677607Z","place_id":null,"formatted_address":"","deleted":false,"deleted_at":null,"created":"2022-11-15T16:18:50.127546Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":"www.adidas.es","is_open":false},{"id":728,"business":{"id":247,"name":"Libreria online QA","country":{"id":3,"name":"España","code":"es"},"description":"Libreria online QA para todo libros","url":"https://www.libreriaqa.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631814.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1668524738_5vLecQN.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_iU6Xv5u.jpg","sector":{"id":45,"name":"Biblioteca","icon":null,"created":"2022-11-15T15:04:41.343522Z"},"descriptive_categories":[{"id":85,"name":"libros","owner":247,"sector":null,"created":"2022-11-15T15:05:34.911963Z"}],"return_period":7,"dynamic_link":"https://app.dev.woowbe.com/share/PwSy","is_franchisee_of":null,"is_favorite":false,"created":"2022-11-15T14:57:58.069603Z","offers_count":0},"online":true,"url":"https://www.casadellibro.com/","position":null,"address":null,"number":null,"postal_code":null,"state":null,"city":null,"merchants_count":0,"modified":"2023-03-17T08:01:14.853654Z","place_id":null,"formatted_address":"","deleted":false,"deleted_at":null,"created":"2022-11-15T14:59:52.493983Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":"www.casadellibro.com","is_open":false},{"id":727,"business":{"id":246,"name":"Veterinaria QA aaaaaddddddbbbbbbb","country":{"id":3,"name":"España","code":"es"},"description":"clinica veterinaria con mucha experiencia en el cuidado de animales. Tratamos a todos los animales como si fuesen parte de nuestra familia.","url":"http://www.vete.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1667842927.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1669722210.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0hwbWev.jpg","sector":{"id":33,"name":"Veterinario","icon":null,"created":"2021-05-25T11:17:24.318169Z"},"descriptive_categories":[{"id":84,"name":"perro","owner":246,"sector":null,"created":"2022-11-07T17:42:00.446793Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/gJuv","is_franchisee_of":null,"is_favorite":false,"created":"2022-11-07T17:23:35.313746Z","offers_count":1},"online":true,"url":"https://www.veterinario.com","position":null,"address":null,"number":null,"postal_code":null,"state":null,"city":null,"merchants_count":0,"modified":"2023-03-17T08:01:15.210865Z","place_id":null,"formatted_address":"","deleted":false,"deleted_at":null,"created":"2022-11-15T12:23:49.995412Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":"www.veterinario.com","is_open":false},{"id":726,"business":{"id":246,"name":"Veterinaria QA aaaaaddddddbbbbbbb","country":{"id":3,"name":"España","code":"es"},"description":"clinica veterinaria con mucha experiencia en el cuidado de animales. Tratamos a todos los animales como si fuesen parte de nuestra familia.","url":"http://www.vete.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1667842927.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1669722210.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0hwbWev.jpg","sector":{"id":33,"name":"Veterinario","icon":null,"created":"2021-05-25T11:17:24.318169Z"},"descriptive_categories":[{"id":84,"name":"perro","owner":246,"sector":null,"created":"2022-11-07T17:42:00.446793Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/gJuv","is_franchisee_of":null,"is_favorite":false,"created":"2022-11-07T17:23:35.313746Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6359312,40.5424009]},"address":"Calle de la Constitución","number":"34","postal_code":"28100","state":"Madrid","city":"Alcobendas","merchants_count":0,"modified":"2023-03-17T08:01:15.807186Z","place_id":"ChIJsfzeS_EsQg0RBXGkdehd0l4","formatted_address":"C. de la Constitución, 34, 28100 Alcobendas, Madrid","deleted":false,"deleted_at":null,"created":"2022-11-07T17:42:33.747255Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":725,"business":{"id":245,"name":"dale´s test","country":{"id":3,"name":"España","code":"es"},"description":"fgrggrr","url":"http://test.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1667833547.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1667833548.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_w6x6uEg.jpg","sector":{"id":22,"name":"Alimentación animal","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg","created":"2021-05-25T11:07:08.658870Z"},"descriptive_categories":[{"id":46,"name":"americana","owner":null,"sector":null,"created":"2021-11-29T09:27:36.991965Z"},{"id":22,"name":"asiática","owner":null,"sector":2,"created":"2021-10-21T20:53:02.997177Z"},{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":44,"name":"barbería","owner":null,"sector":null,"created":"2021-10-26T07:38:49.830200Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/JeZB","is_franchisee_of":null,"is_favorite":false,"created":"2022-11-07T14:58:10.334063Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6988371,40.4197392]},"address":"Calle Gran Vía","number":"12","postal_code":"28013","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:16.116861Z","place_id":"ChIJ29RxlIYoQg0R0MZA_eNdwGU","formatted_address":"C/ Gran Vía, 12, 28013 Madrid","deleted":false,"deleted_at":null,"created":"2022-11-07T15:08:35.997451Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":722,"business":{"id":241,"name":"Churreria churrito feliz","country":{"id":3,"name":"España","code":"es"},"description":"Churreria churrito feliz\r\n\r\nMejor churreria del mundo mundial!!","url":"https://www.churritofeliz.com","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631812.jpeg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631812_lJI83Xu.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_sYvVFYh.jpg","sector":{"id":5,"name":"Cafetería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg","created":"2021-05-25T10:48:41.547333Z"},"descriptive_categories":[{"id":54,"name":"café","owner":null,"sector":null,"created":"2021-11-29T11:15:07.797534Z"},{"id":60,"name":"repostería","owner":null,"sector":null,"created":"2021-11-29T13:55:03.905322Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/vNHX","is_franchisee_of":null,"is_favorite":false,"created":"2022-10-25T15:08:00.574858Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7124453,40.4257458]},"address":"Calle de la Princesa","number":"12","postal_code":"28008","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:16.506285Z","place_id":"ChIJZ6gqhWUoQg0RmfQ__tVvZ0w","formatted_address":"C. de la Princesa, 12, 28008 Madrid","deleted":false,"deleted_at":null,"created":"2022-10-25T15:11:10.719219Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":720,"business":{"id":210,"name":"Cines Yelmo","country":null,"description":"Comercio test. Cines Yelmo es la mayor .....","url":null,"square_picture":null,"widescreen_picture":null,"cover":null,"sector":{"id":36,"name":"Cines y teatros","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/leisure.svg","created":"2021-05-25T11:18:32.648878Z"},"descriptive_categories":[{"id":54,"name":"café","owner":null,"sector":null,"created":"2021-11-29T11:15:07.797534Z"},{"id":34,"name":"estrenos","owner":null,"sector":null,"created":"2021-10-25T08:12:39.287584Z"},{"id":35,"name":"películas","owner":null,"sector":null,"created":"2021-10-25T08:12:44.904194Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/aMTF","is_franchisee_of":null,"is_favorite":false,"created":"2022-09-13T10:36:46.535629Z","offers_count":0},"online":true,"url":"https://yelmocines.com","position":null,"address":null,"number":null,"postal_code":null,"state":null,"city":null,"merchants_count":0,"modified":"2023-03-17T08:01:16.593924Z","place_id":null,"formatted_address":"","deleted":false,"deleted_at":null,"created":"2022-10-19T08:51:16.735449Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":"yelmocines.com","is_open":false},{"id":719,"business":{"id":210,"name":"Cines Yelmo","country":null,"description":"Comercio test. Cines Yelmo es la mayor .....","url":null,"square_picture":null,"widescreen_picture":null,"cover":null,"sector":{"id":36,"name":"Cines y teatros","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/leisure.svg","created":"2021-05-25T11:18:32.648878Z"},"descriptive_categories":[{"id":54,"name":"café","owner":null,"sector":null,"created":"2021-11-29T11:15:07.797534Z"},{"id":34,"name":"estrenos","owner":null,"sector":null,"created":"2021-10-25T08:12:39.287584Z"},{"id":35,"name":"películas","owner":null,"sector":null,"created":"2021-10-25T08:12:44.904194Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/aMTF","is_franchisee_of":null,"is_favorite":false,"created":"2022-09-13T10:36:46.535629Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7005243,40.4298906]},"address":"Calle de Luchana","number":"14","postal_code":"28010","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:16.692232Z","place_id":"ChIJ97mKTIooQg0RirhZrWj2yB4","formatted_address":"Calle de Luchana, 14, 28010 Madrid","deleted":false,"deleted_at":null,"created":"2022-10-19T08:50:40.164406Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false}]}
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=12",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=10",
+	"results": [
+		{
+			"id": 737,
+			"business": {
+				"id": 251,
+				"name": "Starbucks",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Disfruta tu experiencia Starbucks® donde quieras. ¿Eres más de café, de smoothie, de latte o de Frappuccino®? ¡No esperes más y pide Starbucks a domicilio o para llevar!\n\nEn Starbucks queremos estar cerca de ti y por eso te llevamos tus productos favoritos y tu café Starbucks® a domicilio. \n\n¡Empieza a disfrutar de todos nuestros productos Starbucks® donde quieras!",
+				"url": "https://www.starbucks.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ZWnzePl.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1669300395.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_W8n00mn.jpg",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 92,
+						"name": "Cafés",
+						"owner": 251,
+						"sector": null,
+						"created": "2022-11-24T14:33:04.883825Z"
+					},
+					{
+						"id": 91,
+						"name": "Frappuccino",
+						"owner": 251,
+						"sector": null,
+						"created": "2022-11-24T14:32:50.194186Z"
+					},
+					{
+						"id": 93,
+						"name": "Muffins",
+						"owner": 251,
+						"sector": null,
+						"created": "2022-11-24T14:33:13.206404Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/jSqv",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-11-24T14:17:30.242011Z",
+				"offers_count": 0
+			},
+			"online": true,
+			"url": "https://www.starbucks.es/",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:14.146417Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-11-24T14:38:38.078150Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": "www.starbucks.es",
+			"is_open": false
+		},
+		{
+			"id": 735,
+			"business": {
+				"id": 246,
+				"name": "Veterinaria QA aaaaaddddddbbbbbbb",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "clinica veterinaria con mucha experiencia en el cuidado de animales. Tratamos a todos los animales como si fuesen parte de nuestra familia.",
+				"url": "http://www.vete.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1667842927.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1669722210.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0hwbWev.jpg",
+				"sector": {
+					"id": 33,
+					"name": "Veterinario",
+					"icon": null,
+					"created": "2021-05-25T11:17:24.318169Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 84,
+						"name": "perro",
+						"owner": 246,
+						"sector": null,
+						"created": "2022-11-07T17:42:00.446793Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/gJuv",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-11-07T17:23:35.313746Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6892205,
+					40.4555108
+				]
+			},
+			"address": "Calle de Manuel de Falla",
+			"number": "65",
+			"postal_code": "28036",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:14.476042Z",
+			"place_id": "EipDYWxsZSBNYW51ZWwgZGUgRmFsbGEsIDY1LCBNYWRyaWQsIEVzcGHDsWEiMBIuChQKEgmPipm-HSlCDRHL4_aFmqtUMhBBKhQKEgm_cnnBHSlCDRF57ei4-lYzoQ",
+			"formatted_address": "C. de Manuel de Falla, 65, 28036 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-11-22T16:10:57.632851Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 729,
+			"business": {
+				"id": 248,
+				"name": "Adidas",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "El 18 de agosto de 1949, Adi Dassler fundó adidas con el deseo de ayudar a mejorar el rendimiento de los deportistas. Setenta años después, adidas no solo ha dejado huella en el deporte y en los atletas, sino también en la moda, la cultura, la sostenibilidad y en muchos otros ámbitos. Acompáñanos en un viaje en el tiempo y descubre la historia de adidas y los estilos que han influido en nuestras vidas hasta hoy.",
+				"url": "https://www.adidas.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_mk5CEIv.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1668529037.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_RYgACZk.jpg",
+				"sector": {
+					"id": 10,
+					"name": "Tienda de deporte",
+					"icon": null,
+					"created": "2021-05-25T11:00:54.849631Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 87,
+						"name": "adidas",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:47.536980Z"
+					},
+					{
+						"id": 89,
+						"name": "clothes",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:17:02.079185Z"
+					},
+					{
+						"id": 88,
+						"name": "shoes",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:55.033952Z"
+					},
+					{
+						"id": 86,
+						"name": "sport",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:40.903353Z"
+					}
+				],
+				"return_period": 5,
+				"dynamic_link": "https://app.dev.woowbe.com/share/ej5S",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-11-15T16:08:43.337659Z",
+				"offers_count": 0
+			},
+			"online": true,
+			"url": "https://www.adidas.es/",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:14.677607Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-11-15T16:18:50.127546Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": "www.adidas.es",
+			"is_open": false
+		},
+		{
+			"id": 728,
+			"business": {
+				"id": 247,
+				"name": "Libreria online QA",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Libreria online QA para todo libros",
+				"url": "https://www.libreriaqa.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631814.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1668524738_5vLecQN.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_iU6Xv5u.jpg",
+				"sector": {
+					"id": 45,
+					"name": "Biblioteca",
+					"icon": null,
+					"created": "2022-11-15T15:04:41.343522Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 85,
+						"name": "libros",
+						"owner": 247,
+						"sector": null,
+						"created": "2022-11-15T15:05:34.911963Z"
+					}
+				],
+				"return_period": 7,
+				"dynamic_link": "https://app.dev.woowbe.com/share/PwSy",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-11-15T14:57:58.069603Z",
+				"offers_count": 0
+			},
+			"online": true,
+			"url": "https://www.casadellibro.com/",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:14.853654Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-11-15T14:59:52.493983Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": "www.casadellibro.com",
+			"is_open": false
+		},
+		{
+			"id": 727,
+			"business": {
+				"id": 246,
+				"name": "Veterinaria QA aaaaaddddddbbbbbbb",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "clinica veterinaria con mucha experiencia en el cuidado de animales. Tratamos a todos los animales como si fuesen parte de nuestra familia.",
+				"url": "http://www.vete.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1667842927.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1669722210.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0hwbWev.jpg",
+				"sector": {
+					"id": 33,
+					"name": "Veterinario",
+					"icon": null,
+					"created": "2021-05-25T11:17:24.318169Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 84,
+						"name": "perro",
+						"owner": 246,
+						"sector": null,
+						"created": "2022-11-07T17:42:00.446793Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/gJuv",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-11-07T17:23:35.313746Z",
+				"offers_count": 1
+			},
+			"online": true,
+			"url": "https://www.veterinario.com",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:15.210865Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-11-15T12:23:49.995412Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": "www.veterinario.com",
+			"is_open": false
+		},
+		{
+			"id": 726,
+			"business": {
+				"id": 246,
+				"name": "Veterinaria QA aaaaaddddddbbbbbbb",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "clinica veterinaria con mucha experiencia en el cuidado de animales. Tratamos a todos los animales como si fuesen parte de nuestra familia.",
+				"url": "http://www.vete.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1667842927.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1669722210.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0hwbWev.jpg",
+				"sector": {
+					"id": 33,
+					"name": "Veterinario",
+					"icon": null,
+					"created": "2021-05-25T11:17:24.318169Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 84,
+						"name": "perro",
+						"owner": 246,
+						"sector": null,
+						"created": "2022-11-07T17:42:00.446793Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/gJuv",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-11-07T17:23:35.313746Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6359312,
+					40.5424009
+				]
+			},
+			"address": "Calle de la Constitución",
+			"number": "34",
+			"postal_code": "28100",
+			"state": "Madrid",
+			"city": "Alcobendas",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:15.807186Z",
+			"place_id": "ChIJsfzeS_EsQg0RBXGkdehd0l4",
+			"formatted_address": "C. de la Constitución, 34, 28100 Alcobendas, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-11-07T17:42:33.747255Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 725,
+			"business": {
+				"id": 245,
+				"name": "dale´s test",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "fgrggrr",
+				"url": "http://test.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1667833547.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1667833548.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_w6x6uEg.jpg",
+				"sector": {
+					"id": 22,
+					"name": "Alimentación animal",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg",
+					"created": "2021-05-25T11:07:08.658870Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 46,
+						"name": "americana",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:36.991965Z"
+					},
+					{
+						"id": 22,
+						"name": "asiática",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-21T20:53:02.997177Z"
+					},
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 44,
+						"name": "barbería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:49.830200Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/JeZB",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-11-07T14:58:10.334063Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6988371,
+					40.4197392
+				]
+			},
+			"address": "Calle Gran Vía",
+			"number": "12",
+			"postal_code": "28013",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:16.116861Z",
+			"place_id": "ChIJ29RxlIYoQg0R0MZA_eNdwGU",
+			"formatted_address": "C/ Gran Vía, 12, 28013 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-11-07T15:08:35.997451Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 722,
+			"business": {
+				"id": 241,
+				"name": "Churreria churrito feliz",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Churreria churrito feliz\r\n\r\nMejor churreria del mundo mundial!!",
+				"url": "https://www.churritofeliz.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631812.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631812_lJI83Xu.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_sYvVFYh.jpg",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 54,
+						"name": "café",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T11:15:07.797534Z"
+					},
+					{
+						"id": 60,
+						"name": "repostería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T13:55:03.905322Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/vNHX",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-10-25T15:08:00.574858Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7124453,
+					40.4257458
+				]
+			},
+			"address": "Calle de la Princesa",
+			"number": "12",
+			"postal_code": "28008",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:16.506285Z",
+			"place_id": "ChIJZ6gqhWUoQg0RmfQ__tVvZ0w",
+			"formatted_address": "C. de la Princesa, 12, 28008 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-10-25T15:11:10.719219Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 720,
+			"business": {
+				"id": 210,
+				"name": "Cines Yelmo",
+				"country": null,
+				"description": "Comercio test. Cines Yelmo es la mayor .....",
+				"url": null,
+				"square_picture": null,
+				"widescreen_picture": null,
+				"cover": null,
+				"sector": {
+					"id": 36,
+					"name": "Cines y teatros",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/leisure.svg",
+					"created": "2021-05-25T11:18:32.648878Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 54,
+						"name": "café",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T11:15:07.797534Z"
+					},
+					{
+						"id": 34,
+						"name": "estrenos",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:39.287584Z"
+					},
+					{
+						"id": 35,
+						"name": "películas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:44.904194Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/aMTF",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-09-13T10:36:46.535629Z",
+				"offers_count": 0
+			},
+			"online": true,
+			"url": "https://yelmocines.com",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:16.593924Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-10-19T08:51:16.735449Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": "yelmocines.com",
+			"is_open": false
+		},
+		{
+			"id": 719,
+			"business": {
+				"id": 210,
+				"name": "Cines Yelmo",
+				"country": null,
+				"description": "Comercio test. Cines Yelmo es la mayor .....",
+				"url": null,
+				"square_picture": null,
+				"widescreen_picture": null,
+				"cover": null,
+				"sector": {
+					"id": 36,
+					"name": "Cines y teatros",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/leisure.svg",
+					"created": "2021-05-25T11:18:32.648878Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 54,
+						"name": "café",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T11:15:07.797534Z"
+					},
+					{
+						"id": 34,
+						"name": "estrenos",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:39.287584Z"
+					},
+					{
+						"id": 35,
+						"name": "películas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:44.904194Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/aMTF",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-09-13T10:36:46.535629Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7005243,
+					40.4298906
+				]
+			},
+			"address": "Calle de Luchana",
+			"number": "14",
+			"postal_code": "28010",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:16.692232Z",
+			"place_id": "ChIJ97mKTIooQg0RirhZrWj2yB4",
+			"formatted_address": "Calle de Luchana, 14, 28010 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-10-19T08:50:40.164406Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

@@ -1,1 +1,750 @@
-{"count":579,"next":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=34","previous":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=32","results":[{"id":451,"business":{"id":113,"name":"Granier","country":null,"description":"Pans Granier son panaderías con pan artesano cerca de casa, elaborado en nuestro obrador siguiendo las recetas y tiempos de fermentación tradicionales.","url":"https://pansgranier.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_5W2BYMH.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635411299.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_RC8Wr1o.jpg","sector":{"id":19,"name":"Panadería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_I8A0AM0.svg","created":"2021-05-25T11:05:24.276505Z"},"descriptive_categories":[{"id":25,"name":"pan","owner":null,"sector":null,"created":"2021-10-21T21:05:17.331228Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/ytHt","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-28T08:51:16.798668Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6723714,40.445438]},"address":"Calle de López de Hoyos","number":"105","postal_code":"28002","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:03.990644Z","place_id":"ChIJuZBBCtAoQg0Rs40mYWmJjLQ","formatted_address":"C. de López de Hoyos, 105, 28002 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-28T08:55:43.995394Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":450,"business":{"id":113,"name":"Granier","country":null,"description":"Pans Granier son panaderías con pan artesano cerca de casa, elaborado en nuestro obrador siguiendo las recetas y tiempos de fermentación tradicionales.","url":"https://pansgranier.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_5W2BYMH.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635411299.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_RC8Wr1o.jpg","sector":{"id":19,"name":"Panadería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_I8A0AM0.svg","created":"2021-05-25T11:05:24.276505Z"},"descriptive_categories":[{"id":25,"name":"pan","owner":null,"sector":null,"created":"2021-10-21T21:05:17.331228Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/ytHt","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-28T08:51:16.798668Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6979177,40.4523105]},"address":"Avenida del General Perón","number":"10","postal_code":"28020","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:04.114266Z","place_id":"ChIJK0-Gdf4oQg0Rn8pJnEf_-hw","formatted_address":"Av. del General Perón, 10, 28020 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-28T08:55:30.885104Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":449,"business":{"id":113,"name":"Granier","country":null,"description":"Pans Granier son panaderías con pan artesano cerca de casa, elaborado en nuestro obrador siguiendo las recetas y tiempos de fermentación tradicionales.","url":"https://pansgranier.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_5W2BYMH.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635411299.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_RC8Wr1o.jpg","sector":{"id":19,"name":"Panadería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_I8A0AM0.svg","created":"2021-05-25T11:05:24.276505Z"},"descriptive_categories":[{"id":25,"name":"pan","owner":null,"sector":null,"created":"2021-10-21T21:05:17.331228Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/ytHt","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-28T08:51:16.798668Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6995202,40.4591998]},"address":"Calle de Bravo Murillo","number":"242","postal_code":"28020","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:04.302454Z","place_id":"ChIJDQyKzgYpQg0RP3wOiIrFWk4","formatted_address":"C. de Bravo Murillo, 242, 28020 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-28T08:55:17.300960Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":448,"business":{"id":112,"name":"Honest Greens","country":null,"description":"Creemos que la posibilidad de disfrutar de un estilo de vida saludable es un derecho básico. Nuestra misión es hacer que la vida saludable sea asequible, conveniente e increíblemente deliciosa, y así ayudar a que las personas de nuestra comunidad vivan vidas más largas y mejores.","url":"https://honestgreens.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_CGCsD0L.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635235831.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_IFQXO3k.jpg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":10,"name":"Healthy","owner":null,"sector":null,"created":"2021-10-21T14:33:37.426542Z"},{"id":45,"name":"real food","owner":null,"sector":null,"created":"2021-10-26T08:08:39.568572Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/wjxG","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-26T08:08:42.722336Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6919604,40.4483737]},"address":"Calle de Raimundo Fernández Villaverde","number":"65","postal_code":"28003","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:04.419329Z","place_id":"ChIJc8v4pOQoQg0R4bLWKCHBnuw","formatted_address":"C. de Raimundo Fernández Villaverde, 65, 28003 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-26T08:11:51.517842Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":447,"business":{"id":112,"name":"Honest Greens","country":null,"description":"Creemos que la posibilidad de disfrutar de un estilo de vida saludable es un derecho básico. Nuestra misión es hacer que la vida saludable sea asequible, conveniente e increíblemente deliciosa, y así ayudar a que las personas de nuestra comunidad vivan vidas más largas y mejores.","url":"https://honestgreens.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_CGCsD0L.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635235831.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_IFQXO3k.jpg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":10,"name":"Healthy","owner":null,"sector":null,"created":"2021-10-21T14:33:37.426542Z"},{"id":45,"name":"real food","owner":null,"sector":null,"created":"2021-10-26T08:08:39.568572Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/wjxG","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-26T08:08:42.722336Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6875762,40.4285275]},"address":"Calle Serrano","number":"41","postal_code":"28001","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:04.527927Z","place_id":"ChIJV55bqpYoQg0RYxbJ69ZbWKE","formatted_address":"C. Serrano, 41, 28001 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-26T08:11:35.959352Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":446,"business":{"id":112,"name":"Honest Greens","country":null,"description":"Creemos que la posibilidad de disfrutar de un estilo de vida saludable es un derecho básico. Nuestra misión es hacer que la vida saludable sea asequible, conveniente e increíblemente deliciosa, y así ayudar a que las personas de nuestra comunidad vivan vidas más largas y mejores.","url":"https://honestgreens.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_CGCsD0L.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635235831.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_IFQXO3k.jpg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":10,"name":"Healthy","owner":null,"sector":null,"created":"2021-10-21T14:33:37.426542Z"},{"id":45,"name":"real food","owner":null,"sector":null,"created":"2021-10-26T08:08:39.568572Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/wjxG","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-26T08:08:42.722336Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6975687,40.4246861]},"address":"Calle de Hortaleza","number":"100","postal_code":"28004","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:04.597385Z","place_id":"ChIJaXX2NI8oQg0RjGwWw_ZMSTw","formatted_address":"C. de Hortaleza, 100, 28004 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-26T08:11:20.789721Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":445,"business":{"id":112,"name":"Honest Greens","country":null,"description":"Creemos que la posibilidad de disfrutar de un estilo de vida saludable es un derecho básico. Nuestra misión es hacer que la vida saludable sea asequible, conveniente e increíblemente deliciosa, y así ayudar a que las personas de nuestra comunidad vivan vidas más largas y mejores.","url":"https://honestgreens.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_CGCsD0L.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635235831.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_IFQXO3k.jpg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":10,"name":"Healthy","owner":null,"sector":null,"created":"2021-10-21T14:33:37.426542Z"},{"id":45,"name":"real food","owner":null,"sector":null,"created":"2021-10-26T08:08:39.568572Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/wjxG","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-26T08:08:42.722336Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6834599,40.4374573]},"address":"Calle de Velázquez","number":"123","postal_code":"28006","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:04.803207Z","place_id":"ChIJMV6haeooQg0RZE3K3teGE4Y","formatted_address":"C. de Velázquez, 123, 28006 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-26T08:11:05.118735Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":444,"business":{"id":112,"name":"Honest Greens","country":null,"description":"Creemos que la posibilidad de disfrutar de un estilo de vida saludable es un derecho básico. Nuestra misión es hacer que la vida saludable sea asequible, conveniente e increíblemente deliciosa, y así ayudar a que las personas de nuestra comunidad vivan vidas más largas y mejores.","url":"https://honestgreens.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_CGCsD0L.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635235831.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_IFQXO3k.jpg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":10,"name":"Healthy","owner":null,"sector":null,"created":"2021-10-21T14:33:37.426542Z"},{"id":45,"name":"real food","owner":null,"sector":null,"created":"2021-10-26T08:08:39.568572Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/wjxG","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-26T08:08:42.722336Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6919802,40.4496248]},"address":"Paseo de la Castellana","number":"89","postal_code":"28046","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:05.017441Z","place_id":"ChIJp1kBReMoQg0RmadlrI2LESQ","formatted_address":"P.º de la Castellana, 89, 28046 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-26T08:10:50.267404Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":443,"business":{"id":111,"name":"Carlos Conde peluqueros","country":null,"description":"Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.","url":"https://www.carloscondepeluqueros.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg","sector":{"id":13,"name":"Peluquería","icon":null,"created":"2021-05-25T11:02:31.426987Z"},"descriptive_categories":[{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":44,"name":"barbería","owner":null,"sector":null,"created":"2021-10-26T07:38:49.830200Z"},{"id":41,"name":"corte de pelo","owner":null,"sector":null,"created":"2021-10-25T13:02:44.637545Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/znLw","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-26T07:39:07.521908Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6918659,40.3633103]},"address":"Avenida de Andalucía","number":"1","postal_code":"28041","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:05.309599Z","place_id":"ChIJ3VurD_AmQg0RSO_l5KMX80Q","formatted_address":"Av. de Andalucía, 1, 28041 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-26T07:48:40.707887Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":442,"business":{"id":111,"name":"Carlos Conde peluqueros","country":null,"description":"Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.","url":"https://www.carloscondepeluqueros.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg","sector":{"id":13,"name":"Peluquería","icon":null,"created":"2021-05-25T11:02:31.426987Z"},"descriptive_categories":[{"id":43,"name":"barba","owner":null,"sector":null,"created":"2021-10-26T07:38:43.587103Z"},{"id":44,"name":"barbería","owner":null,"sector":null,"created":"2021-10-26T07:38:49.830200Z"},{"id":41,"name":"corte de pelo","owner":null,"sector":null,"created":"2021-10-25T13:02:44.637545Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/znLw","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-26T07:39:07.521908Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7073651,40.4117592]},"address":"Calle de los Estudios","number":"12","postal_code":"28012","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:05.590902Z","place_id":"ChIJh-MD5tUnQg0Rbro86bpamG0","formatted_address":"C. de los Estudios, 12, 28012 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-26T07:48:08.909554Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false}]}
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=34",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=32",
+	"results": [
+		{
+			"id": 451,
+			"business": {
+				"id": 113,
+				"name": "Granier",
+				"country": null,
+				"description": "Pans Granier son panaderías con pan artesano cerca de casa, elaborado en nuestro obrador siguiendo las recetas y tiempos de fermentación tradicionales.",
+				"url": "https://pansgranier.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_5W2BYMH.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635411299.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_RC8Wr1o.jpg",
+				"sector": {
+					"id": 19,
+					"name": "Panadería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_I8A0AM0.svg",
+					"created": "2021-05-25T11:05:24.276505Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/ytHt",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-28T08:51:16.798668Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6723714,
+					40.445438
+				]
+			},
+			"address": "Calle de López de Hoyos",
+			"number": "105",
+			"postal_code": "28002",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:03.990644Z",
+			"place_id": "ChIJuZBBCtAoQg0Rs40mYWmJjLQ",
+			"formatted_address": "C. de López de Hoyos, 105, 28002 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-28T08:55:43.995394Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 450,
+			"business": {
+				"id": 113,
+				"name": "Granier",
+				"country": null,
+				"description": "Pans Granier son panaderías con pan artesano cerca de casa, elaborado en nuestro obrador siguiendo las recetas y tiempos de fermentación tradicionales.",
+				"url": "https://pansgranier.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_5W2BYMH.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635411299.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_RC8Wr1o.jpg",
+				"sector": {
+					"id": 19,
+					"name": "Panadería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_I8A0AM0.svg",
+					"created": "2021-05-25T11:05:24.276505Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/ytHt",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-28T08:51:16.798668Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6979177,
+					40.4523105
+				]
+			},
+			"address": "Avenida del General Perón",
+			"number": "10",
+			"postal_code": "28020",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:04.114266Z",
+			"place_id": "ChIJK0-Gdf4oQg0Rn8pJnEf_-hw",
+			"formatted_address": "Av. del General Perón, 10, 28020 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-28T08:55:30.885104Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 449,
+			"business": {
+				"id": 113,
+				"name": "Granier",
+				"country": null,
+				"description": "Pans Granier son panaderías con pan artesano cerca de casa, elaborado en nuestro obrador siguiendo las recetas y tiempos de fermentación tradicionales.",
+				"url": "https://pansgranier.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_5W2BYMH.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635411299.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_RC8Wr1o.jpg",
+				"sector": {
+					"id": 19,
+					"name": "Panadería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_I8A0AM0.svg",
+					"created": "2021-05-25T11:05:24.276505Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/ytHt",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-28T08:51:16.798668Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6995202,
+					40.4591998
+				]
+			},
+			"address": "Calle de Bravo Murillo",
+			"number": "242",
+			"postal_code": "28020",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:04.302454Z",
+			"place_id": "ChIJDQyKzgYpQg0RP3wOiIrFWk4",
+			"formatted_address": "C. de Bravo Murillo, 242, 28020 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-28T08:55:17.300960Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 448,
+			"business": {
+				"id": 112,
+				"name": "Honest Greens",
+				"country": null,
+				"description": "Creemos que la posibilidad de disfrutar de un estilo de vida saludable es un derecho básico. Nuestra misión es hacer que la vida saludable sea asequible, conveniente e increíblemente deliciosa, y así ayudar a que las personas de nuestra comunidad vivan vidas más largas y mejores.",
+				"url": "https://honestgreens.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_CGCsD0L.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635235831.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_IFQXO3k.jpg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 45,
+						"name": "real food",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T08:08:39.568572Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/wjxG",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-26T08:08:42.722336Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6919604,
+					40.4483737
+				]
+			},
+			"address": "Calle de Raimundo Fernández Villaverde",
+			"number": "65",
+			"postal_code": "28003",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:04.419329Z",
+			"place_id": "ChIJc8v4pOQoQg0R4bLWKCHBnuw",
+			"formatted_address": "C. de Raimundo Fernández Villaverde, 65, 28003 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-26T08:11:51.517842Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 447,
+			"business": {
+				"id": 112,
+				"name": "Honest Greens",
+				"country": null,
+				"description": "Creemos que la posibilidad de disfrutar de un estilo de vida saludable es un derecho básico. Nuestra misión es hacer que la vida saludable sea asequible, conveniente e increíblemente deliciosa, y así ayudar a que las personas de nuestra comunidad vivan vidas más largas y mejores.",
+				"url": "https://honestgreens.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_CGCsD0L.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635235831.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_IFQXO3k.jpg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 45,
+						"name": "real food",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T08:08:39.568572Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/wjxG",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-26T08:08:42.722336Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6875762,
+					40.4285275
+				]
+			},
+			"address": "Calle Serrano",
+			"number": "41",
+			"postal_code": "28001",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:04.527927Z",
+			"place_id": "ChIJV55bqpYoQg0RYxbJ69ZbWKE",
+			"formatted_address": "C. Serrano, 41, 28001 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-26T08:11:35.959352Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 446,
+			"business": {
+				"id": 112,
+				"name": "Honest Greens",
+				"country": null,
+				"description": "Creemos que la posibilidad de disfrutar de un estilo de vida saludable es un derecho básico. Nuestra misión es hacer que la vida saludable sea asequible, conveniente e increíblemente deliciosa, y así ayudar a que las personas de nuestra comunidad vivan vidas más largas y mejores.",
+				"url": "https://honestgreens.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_CGCsD0L.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635235831.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_IFQXO3k.jpg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 45,
+						"name": "real food",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T08:08:39.568572Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/wjxG",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-26T08:08:42.722336Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6975687,
+					40.4246861
+				]
+			},
+			"address": "Calle de Hortaleza",
+			"number": "100",
+			"postal_code": "28004",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:04.597385Z",
+			"place_id": "ChIJaXX2NI8oQg0RjGwWw_ZMSTw",
+			"formatted_address": "C. de Hortaleza, 100, 28004 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-26T08:11:20.789721Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 445,
+			"business": {
+				"id": 112,
+				"name": "Honest Greens",
+				"country": null,
+				"description": "Creemos que la posibilidad de disfrutar de un estilo de vida saludable es un derecho básico. Nuestra misión es hacer que la vida saludable sea asequible, conveniente e increíblemente deliciosa, y así ayudar a que las personas de nuestra comunidad vivan vidas más largas y mejores.",
+				"url": "https://honestgreens.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_CGCsD0L.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635235831.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_IFQXO3k.jpg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 45,
+						"name": "real food",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T08:08:39.568572Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/wjxG",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-26T08:08:42.722336Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6834599,
+					40.4374573
+				]
+			},
+			"address": "Calle de Velázquez",
+			"number": "123",
+			"postal_code": "28006",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:04.803207Z",
+			"place_id": "ChIJMV6haeooQg0RZE3K3teGE4Y",
+			"formatted_address": "C. de Velázquez, 123, 28006 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-26T08:11:05.118735Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 444,
+			"business": {
+				"id": 112,
+				"name": "Honest Greens",
+				"country": null,
+				"description": "Creemos que la posibilidad de disfrutar de un estilo de vida saludable es un derecho básico. Nuestra misión es hacer que la vida saludable sea asequible, conveniente e increíblemente deliciosa, y así ayudar a que las personas de nuestra comunidad vivan vidas más largas y mejores.",
+				"url": "https://honestgreens.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_CGCsD0L.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635235831.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_IFQXO3k.jpg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 45,
+						"name": "real food",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T08:08:39.568572Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/wjxG",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-26T08:08:42.722336Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6919802,
+					40.4496248
+				]
+			},
+			"address": "Paseo de la Castellana",
+			"number": "89",
+			"postal_code": "28046",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:05.017441Z",
+			"place_id": "ChIJp1kBReMoQg0RmadlrI2LESQ",
+			"formatted_address": "P.º de la Castellana, 89, 28046 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-26T08:10:50.267404Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 443,
+			"business": {
+				"id": 111,
+				"name": "Carlos Conde peluqueros",
+				"country": null,
+				"description": "Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.",
+				"url": "https://www.carloscondepeluqueros.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 44,
+						"name": "barbería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:49.830200Z"
+					},
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/znLw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-26T07:39:07.521908Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6918659,
+					40.3633103
+				]
+			},
+			"address": "Avenida de Andalucía",
+			"number": "1",
+			"postal_code": "28041",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:05.309599Z",
+			"place_id": "ChIJ3VurD_AmQg0RSO_l5KMX80Q",
+			"formatted_address": "Av. de Andalucía, 1, 28041 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-26T07:48:40.707887Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 442,
+			"business": {
+				"id": 111,
+				"name": "Carlos Conde peluqueros",
+				"country": null,
+				"description": "Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.",
+				"url": "https://www.carloscondepeluqueros.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 44,
+						"name": "barbería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:49.830200Z"
+					},
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/znLw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-26T07:39:07.521908Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7073651,
+					40.4117592
+				]
+			},
+			"address": "Calle de los Estudios",
+			"number": "12",
+			"postal_code": "28012",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:05.590902Z",
+			"place_id": "ChIJh-MD5tUnQg0Rbro86bpamG0",
+			"formatted_address": "C. de los Estudios, 12, 28012 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-26T07:48:08.909554Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

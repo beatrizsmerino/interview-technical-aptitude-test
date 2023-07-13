@@ -1,1 +1,813 @@
-{"count":579,"next":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=40","previous":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=38","results":[{"id":391,"business":{"id":109,"name":"Faborit","country":null,"description":"Cafés tés, infusiones, zumos y ensaladas, con los mejores ingredientes y en un ambiente acogedor para que disfrutes de estupendos momentos Faborit.","url":"https://www.faborit.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_cVUk2PT.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635166099.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_9ZWnEMe.jpg","sector":{"id":38,"name":"Casual food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg","created":"2021-10-21T19:51:53.839559Z"},"descriptive_categories":[{"id":28,"name":"batidos","owner":100,"sector":null,"created":"2021-10-23T08:39:27.122811Z"},{"id":39,"name":"ensaladas","owner":null,"sector":null,"created":"2021-10-25T12:45:54.528824Z"},{"id":27,"name":"zumos","owner":null,"sector":null,"created":"2021-10-23T08:39:21.905307Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/1XPf","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T12:45:57.078698Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6942395,40.4548241]},"address":"Calle de Pedro Teixeira","number":"8","postal_code":"28020","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:14.313856Z","place_id":"ChIJi1WhlQIpQg0RhiwpwpuxpEM","formatted_address":"C. de Pedro Teixeira, 8, 28020 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T12:49:03.033424Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":390,"business":{"id":109,"name":"Faborit","country":null,"description":"Cafés tés, infusiones, zumos y ensaladas, con los mejores ingredientes y en un ambiente acogedor para que disfrutes de estupendos momentos Faborit.","url":"https://www.faborit.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_cVUk2PT.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635166099.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_9ZWnEMe.jpg","sector":{"id":38,"name":"Casual food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg","created":"2021-10-21T19:51:53.839559Z"},"descriptive_categories":[{"id":28,"name":"batidos","owner":100,"sector":null,"created":"2021-10-23T08:39:27.122811Z"},{"id":39,"name":"ensaladas","owner":null,"sector":null,"created":"2021-10-25T12:45:54.528824Z"},{"id":27,"name":"zumos","owner":null,"sector":null,"created":"2021-10-23T08:39:21.905307Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/1XPf","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T12:45:57.078698Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6905955,40.4604425]},"address":"Paseo de la Castellana","number":"149","postal_code":"28046","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:14.404956Z","place_id":"ChIJObK3uxspQg0RYIXP6sNFOzo","formatted_address":"P.º de la Castellana, 149, 28046 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T12:48:48.796013Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":389,"business":{"id":109,"name":"Faborit","country":null,"description":"Cafés tés, infusiones, zumos y ensaladas, con los mejores ingredientes y en un ambiente acogedor para que disfrutes de estupendos momentos Faborit.","url":"https://www.faborit.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_cVUk2PT.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635166099.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_9ZWnEMe.jpg","sector":{"id":38,"name":"Casual food","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg","created":"2021-10-21T19:51:53.839559Z"},"descriptive_categories":[{"id":28,"name":"batidos","owner":100,"sector":null,"created":"2021-10-23T08:39:27.122811Z"},{"id":39,"name":"ensaladas","owner":null,"sector":null,"created":"2021-10-25T12:45:54.528824Z"},{"id":27,"name":"zumos","owner":null,"sector":null,"created":"2021-10-23T08:39:21.905307Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/1XPf","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T12:45:57.078698Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6884184,40.46745749999999]},"address":"Paseo de la Castellana","number":"218","postal_code":"28046","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:14.437252Z","place_id":"ChIJWQU7JREpQg0RRk1GxITcshc","formatted_address":"P.º de la Castellana, 218, 28046 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T12:48:35.331966Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":388,"business":{"id":108,"name":"Oven mozzarella bar","country":null,"description":"Descubre todos los platos de Oven, donde encontrarás lo mejor de la cocina italiana, junto con el especial toque del chef Fabio Morisi. Entrantes a elegir, ensaladas, nuestra especialidad en burratas, pastas y pizzas… ¡y no te de olvides dejar un hueco para el postre!\r\n\r\nSi lo tuyo son las pizzas, prueba nuestra masa de espelta, elaboramos la masa con harina de espelta… y disfruta del mejor sabor.\r\n\r\n*También disponemos de menú del día","url":"https://www.oven.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_4D3jJZh.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635165347.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_LoyygPo.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":20,"name":"italiano","owner":null,"sector":null,"created":"2021-10-21T20:22:55.462166Z"},{"id":38,"name":"pasta","owner":null,"sector":null,"created":"2021-10-25T12:32:26.685985Z"},{"id":19,"name":"pizza","owner":null,"sector":3,"created":"2021-10-21T20:22:48.209376Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/tzH3","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T12:32:29.427780Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7086286,40.42155]},"address":"Calle Gran Vía","number":"55","postal_code":"28013","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:14.537399Z","place_id":"ChIJk0T9Z3soQg0Ra7VpOv2cFjU","formatted_address":"C/ Gran Vía, 55, 28013 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T12:37:04.276264Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":387,"business":{"id":108,"name":"Oven mozzarella bar","country":null,"description":"Descubre todos los platos de Oven, donde encontrarás lo mejor de la cocina italiana, junto con el especial toque del chef Fabio Morisi. Entrantes a elegir, ensaladas, nuestra especialidad en burratas, pastas y pizzas… ¡y no te de olvides dejar un hueco para el postre!\r\n\r\nSi lo tuyo son las pizzas, prueba nuestra masa de espelta, elaboramos la masa con harina de espelta… y disfruta del mejor sabor.\r\n\r\n*También disponemos de menú del día","url":"https://www.oven.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_4D3jJZh.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635165347.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_LoyygPo.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":20,"name":"italiano","owner":null,"sector":null,"created":"2021-10-21T20:22:55.462166Z"},{"id":38,"name":"pasta","owner":null,"sector":null,"created":"2021-10-25T12:32:26.685985Z"},{"id":19,"name":"pizza","owner":null,"sector":3,"created":"2021-10-21T20:22:48.209376Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/tzH3","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T12:32:29.427780Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6933107,40.4094376]},"address":"Calle de Atocha","number":"114","postal_code":"28012","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:14.578883Z","place_id":"ChIJ0cAXmCgmQg0RXAOTkHBC7qo","formatted_address":"C. de Atocha, 114, 28012 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T12:36:48.453778Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":386,"business":{"id":108,"name":"Oven mozzarella bar","country":null,"description":"Descubre todos los platos de Oven, donde encontrarás lo mejor de la cocina italiana, junto con el especial toque del chef Fabio Morisi. Entrantes a elegir, ensaladas, nuestra especialidad en burratas, pastas y pizzas… ¡y no te de olvides dejar un hueco para el postre!\r\n\r\nSi lo tuyo son las pizzas, prueba nuestra masa de espelta, elaboramos la masa con harina de espelta… y disfruta del mejor sabor.\r\n\r\n*También disponemos de menú del día","url":"https://www.oven.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_4D3jJZh.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635165347.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_LoyygPo.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":20,"name":"italiano","owner":null,"sector":null,"created":"2021-10-21T20:22:55.462166Z"},{"id":38,"name":"pasta","owner":null,"sector":null,"created":"2021-10-25T12:32:26.685985Z"},{"id":19,"name":"pizza","owner":null,"sector":3,"created":"2021-10-21T20:22:48.209376Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/tzH3","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T12:32:29.427780Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6749106,40.504576]},"address":"Calle San Juan de Ortega","number":"36","postal_code":"28050","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:14.613377Z","place_id":"ChIJIyG5d-UrQg0RvhuhxZbjgNE","formatted_address":"C. San Juan de Ortega, 36, 28050 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T12:36:34.549801Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":385,"business":{"id":108,"name":"Oven mozzarella bar","country":null,"description":"Descubre todos los platos de Oven, donde encontrarás lo mejor de la cocina italiana, junto con el especial toque del chef Fabio Morisi. Entrantes a elegir, ensaladas, nuestra especialidad en burratas, pastas y pizzas… ¡y no te de olvides dejar un hueco para el postre!\r\n\r\nSi lo tuyo son las pizzas, prueba nuestra masa de espelta, elaboramos la masa con harina de espelta… y disfruta del mejor sabor.\r\n\r\n*También disponemos de menú del día","url":"https://www.oven.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_4D3jJZh.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635165347.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_LoyygPo.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":20,"name":"italiano","owner":null,"sector":null,"created":"2021-10-21T20:22:55.462166Z"},{"id":38,"name":"pasta","owner":null,"sector":null,"created":"2021-10-25T12:32:26.685985Z"},{"id":19,"name":"pizza","owner":null,"sector":3,"created":"2021-10-21T20:22:48.209376Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/tzH3","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T12:32:29.427780Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.700576,40.4252501]},"address":"Calle de Fuencarral","number":"74","postal_code":"28004","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:14.646093Z","place_id":"ChIJ05jgUIgoQg0RHslGcoEABww","formatted_address":"Calle de Fuencarral, 74, 28004 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T12:36:19.490664Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":384,"business":{"id":108,"name":"Oven mozzarella bar","country":null,"description":"Descubre todos los platos de Oven, donde encontrarás lo mejor de la cocina italiana, junto con el especial toque del chef Fabio Morisi. Entrantes a elegir, ensaladas, nuestra especialidad en burratas, pastas y pizzas… ¡y no te de olvides dejar un hueco para el postre!\r\n\r\nSi lo tuyo son las pizzas, prueba nuestra masa de espelta, elaboramos la masa con harina de espelta… y disfruta del mejor sabor.\r\n\r\n*También disponemos de menú del día","url":"https://www.oven.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_4D3jJZh.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635165347.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_LoyygPo.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":20,"name":"italiano","owner":null,"sector":null,"created":"2021-10-21T20:22:55.462166Z"},{"id":38,"name":"pasta","owner":null,"sector":null,"created":"2021-10-25T12:32:26.685985Z"},{"id":19,"name":"pizza","owner":null,"sector":3,"created":"2021-10-21T20:22:48.209376Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/tzH3","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T12:32:29.427780Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6978611,40.4195131]},"address":"Calle Gran Vía","number":"6","postal_code":"28013","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:14.676758Z","place_id":"ChIJTS8YoIYoQg0R6aa9uRkDfLQ","formatted_address":"C/ Gran Vía, 6, 28013 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T12:36:05.067011Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":383,"business":{"id":107,"name":"Steak Burger","country":null,"description":"Las mejores hamburguesas de Madrid y Murcia están en SteakBurger: hamburguesas gourmet de ternera y buey. Calidad a buen precio.","url":"https://www.steakburger.es/nuestros-restaurantes/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_wdDt5gW.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635163467.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_pSQeN7T.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":36,"name":"carne","owner":null,"sector":null,"created":"2021-10-25T11:59:13.899272Z"},{"id":37,"name":"hamburguesa","owner":null,"sector":null,"created":"2021-10-25T11:59:24.358507Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/w3An","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T11:59:40.482490Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7006243,40.4303493]},"address":"Calle de Luchana","number":"17","postal_code":"28010","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:14.721103Z","place_id":"ChIJ4QbQU4ooQg0Rvuss8yjGu6M","formatted_address":"Calle de Luchana, 17, 28010 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T12:06:37.520774Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":382,"business":{"id":107,"name":"Steak Burger","country":null,"description":"Las mejores hamburguesas de Madrid y Murcia están en SteakBurger: hamburguesas gourmet de ternera y buey. Calidad a buen precio.","url":"https://www.steakburger.es/nuestros-restaurantes/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_wdDt5gW.jpg","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1635163467.jpeg","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/cover_pSQeN7T.jpg","sector":{"id":37,"name":"Restaurante temático","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg","created":"2021-10-21T14:32:58.019404Z"},"descriptive_categories":[{"id":36,"name":"carne","owner":null,"sector":null,"created":"2021-10-25T11:59:13.899272Z"},{"id":37,"name":"hamburguesa","owner":null,"sector":null,"created":"2021-10-25T11:59:24.358507Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/w3An","is_franchisee_of":null,"is_favorite":false,"created":"2021-10-25T11:59:40.482490Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7086286,40.42155]},"address":"Calle Gran Vía","number":"55","postal_code":"28013","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:02:14.762315Z","place_id":"ChIJk0T9Z3soQg0Ra7VpOv2cFjU","formatted_address":"C/ Gran Vía, 55, 28013 Madrid","deleted":false,"deleted_at":null,"created":"2021-10-25T12:06:22.011610Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false}]}
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=40",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=38",
+	"results": [
+		{
+			"id": 391,
+			"business": {
+				"id": 109,
+				"name": "Faborit",
+				"country": null,
+				"description": "Cafés tés, infusiones, zumos y ensaladas, con los mejores ingredientes y en un ambiente acogedor para que disfrutes de estupendos momentos Faborit.",
+				"url": "https://www.faborit.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_cVUk2PT.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635166099.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_9ZWnEMe.jpg",
+				"sector": {
+					"id": 38,
+					"name": "Casual food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg",
+					"created": "2021-10-21T19:51:53.839559Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 28,
+						"name": "batidos",
+						"owner": 100,
+						"sector": null,
+						"created": "2021-10-23T08:39:27.122811Z"
+					},
+					{
+						"id": 39,
+						"name": "ensaladas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T12:45:54.528824Z"
+					},
+					{
+						"id": 27,
+						"name": "zumos",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-23T08:39:21.905307Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/1XPf",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T12:45:57.078698Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6942395,
+					40.4548241
+				]
+			},
+			"address": "Calle de Pedro Teixeira",
+			"number": "8",
+			"postal_code": "28020",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:14.313856Z",
+			"place_id": "ChIJi1WhlQIpQg0RhiwpwpuxpEM",
+			"formatted_address": "C. de Pedro Teixeira, 8, 28020 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T12:49:03.033424Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 390,
+			"business": {
+				"id": 109,
+				"name": "Faborit",
+				"country": null,
+				"description": "Cafés tés, infusiones, zumos y ensaladas, con los mejores ingredientes y en un ambiente acogedor para que disfrutes de estupendos momentos Faborit.",
+				"url": "https://www.faborit.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_cVUk2PT.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635166099.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_9ZWnEMe.jpg",
+				"sector": {
+					"id": 38,
+					"name": "Casual food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg",
+					"created": "2021-10-21T19:51:53.839559Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 28,
+						"name": "batidos",
+						"owner": 100,
+						"sector": null,
+						"created": "2021-10-23T08:39:27.122811Z"
+					},
+					{
+						"id": 39,
+						"name": "ensaladas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T12:45:54.528824Z"
+					},
+					{
+						"id": 27,
+						"name": "zumos",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-23T08:39:21.905307Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/1XPf",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T12:45:57.078698Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6905955,
+					40.4604425
+				]
+			},
+			"address": "Paseo de la Castellana",
+			"number": "149",
+			"postal_code": "28046",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:14.404956Z",
+			"place_id": "ChIJObK3uxspQg0RYIXP6sNFOzo",
+			"formatted_address": "P.º de la Castellana, 149, 28046 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T12:48:48.796013Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 389,
+			"business": {
+				"id": 109,
+				"name": "Faborit",
+				"country": null,
+				"description": "Cafés tés, infusiones, zumos y ensaladas, con los mejores ingredientes y en un ambiente acogedor para que disfrutes de estupendos momentos Faborit.",
+				"url": "https://www.faborit.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_cVUk2PT.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635166099.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_9ZWnEMe.jpg",
+				"sector": {
+					"id": 38,
+					"name": "Casual food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg",
+					"created": "2021-10-21T19:51:53.839559Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 28,
+						"name": "batidos",
+						"owner": 100,
+						"sector": null,
+						"created": "2021-10-23T08:39:27.122811Z"
+					},
+					{
+						"id": 39,
+						"name": "ensaladas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T12:45:54.528824Z"
+					},
+					{
+						"id": 27,
+						"name": "zumos",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-23T08:39:21.905307Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/1XPf",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T12:45:57.078698Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6884184,
+					40.46745749999999
+				]
+			},
+			"address": "Paseo de la Castellana",
+			"number": "218",
+			"postal_code": "28046",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:14.437252Z",
+			"place_id": "ChIJWQU7JREpQg0RRk1GxITcshc",
+			"formatted_address": "P.º de la Castellana, 218, 28046 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T12:48:35.331966Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 388,
+			"business": {
+				"id": 108,
+				"name": "Oven mozzarella bar",
+				"country": null,
+				"description": "Descubre todos los platos de Oven, donde encontrarás lo mejor de la cocina italiana, junto con el especial toque del chef Fabio Morisi. Entrantes a elegir, ensaladas, nuestra especialidad en burratas, pastas y pizzas… ¡y no te de olvides dejar un hueco para el postre!\r\n\r\nSi lo tuyo son las pizzas, prueba nuestra masa de espelta, elaboramos la masa con harina de espelta… y disfruta del mejor sabor.\r\n\r\n*También disponemos de menú del día",
+				"url": "https://www.oven.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_4D3jJZh.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635165347.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_LoyygPo.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 20,
+						"name": "italiano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T20:22:55.462166Z"
+					},
+					{
+						"id": 38,
+						"name": "pasta",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T12:32:26.685985Z"
+					},
+					{
+						"id": 19,
+						"name": "pizza",
+						"owner": null,
+						"sector": 3,
+						"created": "2021-10-21T20:22:48.209376Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/tzH3",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T12:32:29.427780Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7086286,
+					40.42155
+				]
+			},
+			"address": "Calle Gran Vía",
+			"number": "55",
+			"postal_code": "28013",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:14.537399Z",
+			"place_id": "ChIJk0T9Z3soQg0Ra7VpOv2cFjU",
+			"formatted_address": "C/ Gran Vía, 55, 28013 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T12:37:04.276264Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 387,
+			"business": {
+				"id": 108,
+				"name": "Oven mozzarella bar",
+				"country": null,
+				"description": "Descubre todos los platos de Oven, donde encontrarás lo mejor de la cocina italiana, junto con el especial toque del chef Fabio Morisi. Entrantes a elegir, ensaladas, nuestra especialidad en burratas, pastas y pizzas… ¡y no te de olvides dejar un hueco para el postre!\r\n\r\nSi lo tuyo son las pizzas, prueba nuestra masa de espelta, elaboramos la masa con harina de espelta… y disfruta del mejor sabor.\r\n\r\n*También disponemos de menú del día",
+				"url": "https://www.oven.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_4D3jJZh.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635165347.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_LoyygPo.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 20,
+						"name": "italiano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T20:22:55.462166Z"
+					},
+					{
+						"id": 38,
+						"name": "pasta",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T12:32:26.685985Z"
+					},
+					{
+						"id": 19,
+						"name": "pizza",
+						"owner": null,
+						"sector": 3,
+						"created": "2021-10-21T20:22:48.209376Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/tzH3",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T12:32:29.427780Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6933107,
+					40.4094376
+				]
+			},
+			"address": "Calle de Atocha",
+			"number": "114",
+			"postal_code": "28012",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:14.578883Z",
+			"place_id": "ChIJ0cAXmCgmQg0RXAOTkHBC7qo",
+			"formatted_address": "C. de Atocha, 114, 28012 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T12:36:48.453778Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 386,
+			"business": {
+				"id": 108,
+				"name": "Oven mozzarella bar",
+				"country": null,
+				"description": "Descubre todos los platos de Oven, donde encontrarás lo mejor de la cocina italiana, junto con el especial toque del chef Fabio Morisi. Entrantes a elegir, ensaladas, nuestra especialidad en burratas, pastas y pizzas… ¡y no te de olvides dejar un hueco para el postre!\r\n\r\nSi lo tuyo son las pizzas, prueba nuestra masa de espelta, elaboramos la masa con harina de espelta… y disfruta del mejor sabor.\r\n\r\n*También disponemos de menú del día",
+				"url": "https://www.oven.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_4D3jJZh.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635165347.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_LoyygPo.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 20,
+						"name": "italiano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T20:22:55.462166Z"
+					},
+					{
+						"id": 38,
+						"name": "pasta",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T12:32:26.685985Z"
+					},
+					{
+						"id": 19,
+						"name": "pizza",
+						"owner": null,
+						"sector": 3,
+						"created": "2021-10-21T20:22:48.209376Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/tzH3",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T12:32:29.427780Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6749106,
+					40.504576
+				]
+			},
+			"address": "Calle San Juan de Ortega",
+			"number": "36",
+			"postal_code": "28050",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:14.613377Z",
+			"place_id": "ChIJIyG5d-UrQg0RvhuhxZbjgNE",
+			"formatted_address": "C. San Juan de Ortega, 36, 28050 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T12:36:34.549801Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 385,
+			"business": {
+				"id": 108,
+				"name": "Oven mozzarella bar",
+				"country": null,
+				"description": "Descubre todos los platos de Oven, donde encontrarás lo mejor de la cocina italiana, junto con el especial toque del chef Fabio Morisi. Entrantes a elegir, ensaladas, nuestra especialidad en burratas, pastas y pizzas… ¡y no te de olvides dejar un hueco para el postre!\r\n\r\nSi lo tuyo son las pizzas, prueba nuestra masa de espelta, elaboramos la masa con harina de espelta… y disfruta del mejor sabor.\r\n\r\n*También disponemos de menú del día",
+				"url": "https://www.oven.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_4D3jJZh.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635165347.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_LoyygPo.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 20,
+						"name": "italiano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T20:22:55.462166Z"
+					},
+					{
+						"id": 38,
+						"name": "pasta",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T12:32:26.685985Z"
+					},
+					{
+						"id": 19,
+						"name": "pizza",
+						"owner": null,
+						"sector": 3,
+						"created": "2021-10-21T20:22:48.209376Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/tzH3",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T12:32:29.427780Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.700576,
+					40.4252501
+				]
+			},
+			"address": "Calle de Fuencarral",
+			"number": "74",
+			"postal_code": "28004",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:14.646093Z",
+			"place_id": "ChIJ05jgUIgoQg0RHslGcoEABww",
+			"formatted_address": "Calle de Fuencarral, 74, 28004 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T12:36:19.490664Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 384,
+			"business": {
+				"id": 108,
+				"name": "Oven mozzarella bar",
+				"country": null,
+				"description": "Descubre todos los platos de Oven, donde encontrarás lo mejor de la cocina italiana, junto con el especial toque del chef Fabio Morisi. Entrantes a elegir, ensaladas, nuestra especialidad en burratas, pastas y pizzas… ¡y no te de olvides dejar un hueco para el postre!\r\n\r\nSi lo tuyo son las pizzas, prueba nuestra masa de espelta, elaboramos la masa con harina de espelta… y disfruta del mejor sabor.\r\n\r\n*También disponemos de menú del día",
+				"url": "https://www.oven.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_4D3jJZh.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635165347.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_LoyygPo.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 20,
+						"name": "italiano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T20:22:55.462166Z"
+					},
+					{
+						"id": 38,
+						"name": "pasta",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T12:32:26.685985Z"
+					},
+					{
+						"id": 19,
+						"name": "pizza",
+						"owner": null,
+						"sector": 3,
+						"created": "2021-10-21T20:22:48.209376Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/tzH3",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T12:32:29.427780Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6978611,
+					40.4195131
+				]
+			},
+			"address": "Calle Gran Vía",
+			"number": "6",
+			"postal_code": "28013",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:14.676758Z",
+			"place_id": "ChIJTS8YoIYoQg0R6aa9uRkDfLQ",
+			"formatted_address": "C/ Gran Vía, 6, 28013 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T12:36:05.067011Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 383,
+			"business": {
+				"id": 107,
+				"name": "Steak Burger",
+				"country": null,
+				"description": "Las mejores hamburguesas de Madrid y Murcia están en SteakBurger: hamburguesas gourmet de ternera y buey. Calidad a buen precio.",
+				"url": "https://www.steakburger.es/nuestros-restaurantes/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_wdDt5gW.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635163467.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_pSQeN7T.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 36,
+						"name": "carne",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:13.899272Z"
+					},
+					{
+						"id": 37,
+						"name": "hamburguesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:24.358507Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/w3An",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T11:59:40.482490Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7006243,
+					40.4303493
+				]
+			},
+			"address": "Calle de Luchana",
+			"number": "17",
+			"postal_code": "28010",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:14.721103Z",
+			"place_id": "ChIJ4QbQU4ooQg0Rvuss8yjGu6M",
+			"formatted_address": "Calle de Luchana, 17, 28010 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T12:06:37.520774Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 382,
+			"business": {
+				"id": 107,
+				"name": "Steak Burger",
+				"country": null,
+				"description": "Las mejores hamburguesas de Madrid y Murcia están en SteakBurger: hamburguesas gourmet de ternera y buey. Calidad a buen precio.",
+				"url": "https://www.steakburger.es/nuestros-restaurantes/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_wdDt5gW.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635163467.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_pSQeN7T.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 36,
+						"name": "carne",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:13.899272Z"
+					},
+					{
+						"id": 37,
+						"name": "hamburguesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:24.358507Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/w3An",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T11:59:40.482490Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7086286,
+					40.42155
+				]
+			},
+			"address": "Calle Gran Vía",
+			"number": "55",
+			"postal_code": "28013",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:14.762315Z",
+			"place_id": "ChIJk0T9Z3soQg0Ra7VpOv2cFjU",
+			"formatted_address": "C/ Gran Vía, 55, 28013 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T12:06:22.011610Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

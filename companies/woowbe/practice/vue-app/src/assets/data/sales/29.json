@@ -1,1 +1,802 @@
-{"count":579,"next":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=30","previous":"https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=28","results":[{"id":498,"business":{"id":122,"name":"Good News","country":null,"description":"¡Esto no va solo de buen café, ni de café solo!\r\n\r\nBuen rollo, alegría, positivismo, felicidad o empoderamiento, son algunos de los Good Feelings que sentirás con cada sorbo de un café GoodNews.\r\n\r\n¡Disfruta del buen rollo que te dará beberte el café GoodNews!","url":"https://goodnewsco.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/good-news-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638184510.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/good-news-portada.jpeg","sector":{"id":5,"name":"Cafetería","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg","created":"2021-05-25T10:48:41.547333Z"},"descriptive_categories":[{"id":54,"name":"café","owner":null,"sector":null,"created":"2021-11-29T11:15:07.797534Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/Sbq9","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T11:15:10.513173Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6964193,40.4275849]},"address":"Plaza de Santa Bárbara","number":"4","postal_code":"28004","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:57.692973Z","place_id":"ChIJE-MBl44oQg0RAUYb3IENoj4","formatted_address":"Plaza de Sta. Bárbara, 4, 28004 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T11:34:53.391692Z","selected_offer":{"id":223,"reward":"12.00","reward_type":"percentage","kind":"A","instant":false,"name":"Good News 12%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":497,"business":{"id":121,"name":"Distrito Ceviche","country":null,"description":"Si compartes nuestra misma pasión por el ceviche o quieres empezar a sentirla, visítanos en nuestro restaurante de Calle Princesa 79, en nuestro puesto n° 17 del Mercado de La Paz  o en nuestro puesto del Mercado de Vallehermoso 36. También puedes venir a recoger tu pedido o incluso, pedir a domicilio a través de nuestra página web o plataformas asociadas. Llámanos y estaremos encantados de ayudarte. Todas las locaciones tienen cartas distintas,","url":"https://www.distritoceviche.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/distrito-cevivhe-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638181745.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/distrito-ceviche-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":53,"name":"ceviche","owner":null,"sector":null,"created":"2021-11-29T10:28:59.539689Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/D2KP","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:29:05.333711Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7177513,40.4324056]},"address":"Calle de la Princesa","number":"79","postal_code":"28008","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:57.728808Z","place_id":"ChIJjfrv-2koQg0Rin78oA1ls0Q","formatted_address":"C. de la Princesa, 79, 28008 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T10:38:43.428833Z","selected_offer":{"id":222,"reward":"10.00","reward_type":"percentage","kind":"A","instant":false,"name":"Distrito Ceviche 10%","standalone":false,"purchases":null,"online":false,"applicable":false,"available_percentage":1,"available_rewards":null,"is_used":false,"finish_date":null},"public_url":null,"is_open":false},{"id":496,"business":{"id":120,"name":"Miss Sushi","country":null,"description":"Disfruta la experiencia Miss Sushi, restaurante japonés de ambiente acogedor, con reparto a domicilio & take away de la mejor comida japonesa.","url":"https://misssushi.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/miss-sushi-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180793.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/miss-sushi-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":22,"name":"asiática","owner":null,"sector":2,"created":"2021-10-21T20:53:02.997177Z"},{"id":17,"name":"japonesa","owner":null,"sector":null,"created":"2021-10-21T19:14:13.483887Z"},{"id":16,"name":"sushi","owner":null,"sector":null,"created":"2021-10-21T19:14:06.256566Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/8QZw","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:13:13.249393Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7865681,40.4402574]},"address":"Vía de las Dos Castillas","number":"33","postal_code":"28224","state":"Madrid","city":"Pozuelo de Alarcón","merchants_count":0,"modified":"2023-03-17T08:01:57.762447Z","place_id":"ChIJ4VVIXE2GQQ0R_isTr7_2_WQ","formatted_address":"Vía de las Dos Castillas, 33, 28224 Pozuelo de Alarcón, Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T10:19:31.331206Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":495,"business":{"id":120,"name":"Miss Sushi","country":null,"description":"Disfruta la experiencia Miss Sushi, restaurante japonés de ambiente acogedor, con reparto a domicilio & take away de la mejor comida japonesa.","url":"https://misssushi.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/miss-sushi-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180793.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/miss-sushi-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":22,"name":"asiática","owner":null,"sector":2,"created":"2021-10-21T20:53:02.997177Z"},{"id":17,"name":"japonesa","owner":null,"sector":null,"created":"2021-10-21T19:14:13.483887Z"},{"id":16,"name":"sushi","owner":null,"sector":null,"created":"2021-10-21T19:14:06.256566Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/8QZw","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:13:13.249393Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6384816,40.5302788]},"address":"Avenida de Bruselas","number":"21","postal_code":"28108","state":"Madrid","city":"Alcobendas","merchants_count":0,"modified":"2023-03-17T08:01:57.799449Z","place_id":"ChIJ0YjsC1wsQg0Rn9Nf8nwyllk","formatted_address":"Av. de Bruselas, 21, 28108 Alcobendas, Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T10:19:11.320355Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":494,"business":{"id":120,"name":"Miss Sushi","country":null,"description":"Disfruta la experiencia Miss Sushi, restaurante japonés de ambiente acogedor, con reparto a domicilio & take away de la mejor comida japonesa.","url":"https://misssushi.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/miss-sushi-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180793.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/miss-sushi-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":22,"name":"asiática","owner":null,"sector":2,"created":"2021-10-21T20:53:02.997177Z"},{"id":17,"name":"japonesa","owner":null,"sector":null,"created":"2021-10-21T19:14:13.483887Z"},{"id":16,"name":"sushi","owner":null,"sector":null,"created":"2021-10-21T19:14:06.256566Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/8QZw","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:13:13.249393Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6649955,40.5081882]},"address":"Paseo Tierra de Melide","number":"32","postal_code":"28050","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:57.837746Z","place_id":"ChIJIR4PVfYrQg0RFjxgQSF_IZc","formatted_address":"P.º Tierra de Melide, 32, 28050 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T10:18:54.290199Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":493,"business":{"id":120,"name":"Miss Sushi","country":null,"description":"Disfruta la experiencia Miss Sushi, restaurante japonés de ambiente acogedor, con reparto a domicilio & take away de la mejor comida japonesa.","url":"https://misssushi.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/miss-sushi-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180793.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/miss-sushi-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":22,"name":"asiática","owner":null,"sector":2,"created":"2021-10-21T20:53:02.997177Z"},{"id":17,"name":"japonesa","owner":null,"sector":null,"created":"2021-10-21T19:14:13.483887Z"},{"id":16,"name":"sushi","owner":null,"sector":null,"created":"2021-10-21T19:14:06.256566Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/8QZw","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:13:13.249393Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.7000128,40.4145354]},"address":"Calle del Prado","number":"2","postal_code":"28014","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:57.870594Z","place_id":"ChIJzxuktoEoQg0R67dq1pGQ6n4","formatted_address":"C. del Prado, 2, 28014 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T10:18:33.632625Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":492,"business":{"id":120,"name":"Miss Sushi","country":null,"description":"Disfruta la experiencia Miss Sushi, restaurante japonés de ambiente acogedor, con reparto a domicilio & take away de la mejor comida japonesa.","url":"https://misssushi.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/miss-sushi-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180793.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/miss-sushi-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":22,"name":"asiática","owner":null,"sector":2,"created":"2021-10-21T20:53:02.997177Z"},{"id":17,"name":"japonesa","owner":null,"sector":null,"created":"2021-10-21T19:14:13.483887Z"},{"id":16,"name":"sushi","owner":null,"sector":null,"created":"2021-10-21T19:14:06.256566Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/8QZw","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:13:13.249393Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6970138,40.4255386]},"address":"Calle de Hortaleza","number":"108","postal_code":"28036","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:57.901973Z","place_id":"ChIJgyeQJo8oQg0RfMs-fFTOZP0","formatted_address":"C. de Hortaleza, 108, 28036 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T10:18:16.301645Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":491,"business":{"id":120,"name":"Miss Sushi","country":null,"description":"Disfruta la experiencia Miss Sushi, restaurante japonés de ambiente acogedor, con reparto a domicilio & take away de la mejor comida japonesa.","url":"https://misssushi.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/miss-sushi-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180793.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/miss-sushi-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":22,"name":"asiática","owner":null,"sector":2,"created":"2021-10-21T20:53:02.997177Z"},{"id":17,"name":"japonesa","owner":null,"sector":null,"created":"2021-10-21T19:14:13.483887Z"},{"id":16,"name":"sushi","owner":null,"sector":null,"created":"2021-10-21T19:14:06.256566Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/8QZw","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:13:13.249393Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6863131,40.4315637]},"address":"Calle de Padilla","number":"4","postal_code":"28006","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:57.934053Z","place_id":"ChIJgTlh85QoQg0R2B09-EXXSSk","formatted_address":"C. de Padilla, 4, 28006 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T10:15:13.247583Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":490,"business":{"id":120,"name":"Miss Sushi","country":null,"description":"Disfruta la experiencia Miss Sushi, restaurante japonés de ambiente acogedor, con reparto a domicilio & take away de la mejor comida japonesa.","url":"https://misssushi.es/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/miss-sushi-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180793.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/miss-sushi-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":22,"name":"asiática","owner":null,"sector":2,"created":"2021-10-21T20:53:02.997177Z"},{"id":17,"name":"japonesa","owner":null,"sector":null,"created":"2021-10-21T19:14:13.483887Z"},{"id":16,"name":"sushi","owner":null,"sector":null,"created":"2021-10-21T19:14:06.256566Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/8QZw","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:13:13.249393Z","offers_count":0},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.6931649,40.4554955]},"address":"Avenida de Brasil","number":"16","postal_code":"28020","state":"Madrid","city":"Madrid","merchants_count":0,"modified":"2023-03-17T08:01:57.972421Z","place_id":"ChIJVXLLzgIpQg0RtXsmacIjTfM","formatted_address":"Av. de Brasil, 16, 28020 Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T10:14:44.419813Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false},{"id":489,"business":{"id":119,"name":"Brasa y Leña","country":null,"description":"Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.","url":"https://brasaylena.com/","square_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png","widescreen_picture":"https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png","cover":"https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg","sector":{"id":2,"name":"Restaurante","icon":"https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg","created":"2021-05-25T10:46:14.371617Z"},"descriptive_categories":[{"id":47,"name":"brasas","owner":null,"sector":null,"created":"2021-11-29T09:27:43.625917Z"},{"id":36,"name":"carne","owner":null,"sector":null,"created":"2021-10-25T11:59:13.899272Z"}],"return_period":0,"dynamic_link":"https://app.dev.woowbe.com/share/poqq","is_franchisee_of":null,"is_favorite":false,"created":"2021-11-29T10:00:49.864858Z","offers_count":1},"online":false,"url":null,"position":{"type":"Point","coordinates":[-3.8313617,40.3584463]},"address":"Avenida de América","number":"7-9","postal_code":"28922","state":"Madrid","city":"Alcorcón","merchants_count":0,"modified":"2023-03-17T08:01:57.986100Z","place_id":"ChIJFQZW3dGOQQ0RcT2wr_cV6Hs","formatted_address":"Av. de América, 7-9, 28922 Alcorcón, Madrid","deleted":false,"deleted_at":null,"created":"2021-11-29T10:05:51.662825Z","selected_offer":{"reward":null,"reward_type":null,"kind":null,"instant":false,"name":"","standalone":false,"purchases":null,"online":false,"finish_date":null},"public_url":null,"is_open":false}]}
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=30",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=28",
+	"results": [
+		{
+			"id": 498,
+			"business": {
+				"id": 122,
+				"name": "Good News",
+				"country": null,
+				"description": "¡Esto no va solo de buen café, ni de café solo!\r\n\r\nBuen rollo, alegría, positivismo, felicidad o empoderamiento, son algunos de los Good Feelings que sentirás con cada sorbo de un café GoodNews.\r\n\r\n¡Disfruta del buen rollo que te dará beberte el café GoodNews!",
+				"url": "https://goodnewsco.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/good-news-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638184510.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/good-news-portada.jpeg",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 54,
+						"name": "café",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T11:15:07.797534Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Sbq9",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T11:15:10.513173Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6964193,
+					40.4275849
+				]
+			},
+			"address": "Plaza de Santa Bárbara",
+			"number": "4",
+			"postal_code": "28004",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:57.692973Z",
+			"place_id": "ChIJE-MBl44oQg0RAUYb3IENoj4",
+			"formatted_address": "Plaza de Sta. Bárbara, 4, 28004 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T11:34:53.391692Z",
+			"selected_offer": {
+				"id": 223,
+				"reward": "12.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Good News 12%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 497,
+			"business": {
+				"id": 121,
+				"name": "Distrito Ceviche",
+				"country": null,
+				"description": "Si compartes nuestra misma pasión por el ceviche o quieres empezar a sentirla, visítanos en nuestro restaurante de Calle Princesa 79, en nuestro puesto n° 17 del Mercado de La Paz  o en nuestro puesto del Mercado de Vallehermoso 36. También puedes venir a recoger tu pedido o incluso, pedir a domicilio a través de nuestra página web o plataformas asociadas. Llámanos y estaremos encantados de ayudarte. Todas las locaciones tienen cartas distintas,",
+				"url": "https://www.distritoceviche.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/distrito-cevivhe-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638181745.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/distrito-ceviche-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 53,
+						"name": "ceviche",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T10:28:59.539689Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/D2KP",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:29:05.333711Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7177513,
+					40.4324056
+				]
+			},
+			"address": "Calle de la Princesa",
+			"number": "79",
+			"postal_code": "28008",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:57.728808Z",
+			"place_id": "ChIJjfrv-2koQg0Rin78oA1ls0Q",
+			"formatted_address": "C. de la Princesa, 79, 28008 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T10:38:43.428833Z",
+			"selected_offer": {
+				"id": 222,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Distrito Ceviche 10%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 496,
+			"business": {
+				"id": 120,
+				"name": "Miss Sushi",
+				"country": null,
+				"description": "Disfruta la experiencia Miss Sushi, restaurante japonés de ambiente acogedor, con reparto a domicilio & take away de la mejor comida japonesa.",
+				"url": "https://misssushi.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/miss-sushi-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180793.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/miss-sushi-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 22,
+						"name": "asiática",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-21T20:53:02.997177Z"
+					},
+					{
+						"id": 17,
+						"name": "japonesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:13.483887Z"
+					},
+					{
+						"id": 16,
+						"name": "sushi",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:06.256566Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/8QZw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:13:13.249393Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7865681,
+					40.4402574
+				]
+			},
+			"address": "Vía de las Dos Castillas",
+			"number": "33",
+			"postal_code": "28224",
+			"state": "Madrid",
+			"city": "Pozuelo de Alarcón",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:57.762447Z",
+			"place_id": "ChIJ4VVIXE2GQQ0R_isTr7_2_WQ",
+			"formatted_address": "Vía de las Dos Castillas, 33, 28224 Pozuelo de Alarcón, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T10:19:31.331206Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 495,
+			"business": {
+				"id": 120,
+				"name": "Miss Sushi",
+				"country": null,
+				"description": "Disfruta la experiencia Miss Sushi, restaurante japonés de ambiente acogedor, con reparto a domicilio & take away de la mejor comida japonesa.",
+				"url": "https://misssushi.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/miss-sushi-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180793.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/miss-sushi-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 22,
+						"name": "asiática",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-21T20:53:02.997177Z"
+					},
+					{
+						"id": 17,
+						"name": "japonesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:13.483887Z"
+					},
+					{
+						"id": 16,
+						"name": "sushi",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:06.256566Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/8QZw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:13:13.249393Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6384816,
+					40.5302788
+				]
+			},
+			"address": "Avenida de Bruselas",
+			"number": "21",
+			"postal_code": "28108",
+			"state": "Madrid",
+			"city": "Alcobendas",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:57.799449Z",
+			"place_id": "ChIJ0YjsC1wsQg0Rn9Nf8nwyllk",
+			"formatted_address": "Av. de Bruselas, 21, 28108 Alcobendas, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T10:19:11.320355Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 494,
+			"business": {
+				"id": 120,
+				"name": "Miss Sushi",
+				"country": null,
+				"description": "Disfruta la experiencia Miss Sushi, restaurante japonés de ambiente acogedor, con reparto a domicilio & take away de la mejor comida japonesa.",
+				"url": "https://misssushi.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/miss-sushi-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180793.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/miss-sushi-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 22,
+						"name": "asiática",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-21T20:53:02.997177Z"
+					},
+					{
+						"id": 17,
+						"name": "japonesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:13.483887Z"
+					},
+					{
+						"id": 16,
+						"name": "sushi",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:06.256566Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/8QZw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:13:13.249393Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6649955,
+					40.5081882
+				]
+			},
+			"address": "Paseo Tierra de Melide",
+			"number": "32",
+			"postal_code": "28050",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:57.837746Z",
+			"place_id": "ChIJIR4PVfYrQg0RFjxgQSF_IZc",
+			"formatted_address": "P.º Tierra de Melide, 32, 28050 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T10:18:54.290199Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 493,
+			"business": {
+				"id": 120,
+				"name": "Miss Sushi",
+				"country": null,
+				"description": "Disfruta la experiencia Miss Sushi, restaurante japonés de ambiente acogedor, con reparto a domicilio & take away de la mejor comida japonesa.",
+				"url": "https://misssushi.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/miss-sushi-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180793.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/miss-sushi-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 22,
+						"name": "asiática",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-21T20:53:02.997177Z"
+					},
+					{
+						"id": 17,
+						"name": "japonesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:13.483887Z"
+					},
+					{
+						"id": 16,
+						"name": "sushi",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:06.256566Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/8QZw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:13:13.249393Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7000128,
+					40.4145354
+				]
+			},
+			"address": "Calle del Prado",
+			"number": "2",
+			"postal_code": "28014",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:57.870594Z",
+			"place_id": "ChIJzxuktoEoQg0R67dq1pGQ6n4",
+			"formatted_address": "C. del Prado, 2, 28014 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T10:18:33.632625Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 492,
+			"business": {
+				"id": 120,
+				"name": "Miss Sushi",
+				"country": null,
+				"description": "Disfruta la experiencia Miss Sushi, restaurante japonés de ambiente acogedor, con reparto a domicilio & take away de la mejor comida japonesa.",
+				"url": "https://misssushi.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/miss-sushi-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180793.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/miss-sushi-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 22,
+						"name": "asiática",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-21T20:53:02.997177Z"
+					},
+					{
+						"id": 17,
+						"name": "japonesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:13.483887Z"
+					},
+					{
+						"id": 16,
+						"name": "sushi",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:06.256566Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/8QZw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:13:13.249393Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6970138,
+					40.4255386
+				]
+			},
+			"address": "Calle de Hortaleza",
+			"number": "108",
+			"postal_code": "28036",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:57.901973Z",
+			"place_id": "ChIJgyeQJo8oQg0RfMs-fFTOZP0",
+			"formatted_address": "C. de Hortaleza, 108, 28036 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T10:18:16.301645Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 491,
+			"business": {
+				"id": 120,
+				"name": "Miss Sushi",
+				"country": null,
+				"description": "Disfruta la experiencia Miss Sushi, restaurante japonés de ambiente acogedor, con reparto a domicilio & take away de la mejor comida japonesa.",
+				"url": "https://misssushi.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/miss-sushi-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180793.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/miss-sushi-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 22,
+						"name": "asiática",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-21T20:53:02.997177Z"
+					},
+					{
+						"id": 17,
+						"name": "japonesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:13.483887Z"
+					},
+					{
+						"id": 16,
+						"name": "sushi",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:06.256566Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/8QZw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:13:13.249393Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6863131,
+					40.4315637
+				]
+			},
+			"address": "Calle de Padilla",
+			"number": "4",
+			"postal_code": "28006",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:57.934053Z",
+			"place_id": "ChIJgTlh85QoQg0R2B09-EXXSSk",
+			"formatted_address": "C. de Padilla, 4, 28006 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T10:15:13.247583Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 490,
+			"business": {
+				"id": 120,
+				"name": "Miss Sushi",
+				"country": null,
+				"description": "Disfruta la experiencia Miss Sushi, restaurante japonés de ambiente acogedor, con reparto a domicilio & take away de la mejor comida japonesa.",
+				"url": "https://misssushi.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/miss-sushi-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180793.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/miss-sushi-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 22,
+						"name": "asiática",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-21T20:53:02.997177Z"
+					},
+					{
+						"id": 17,
+						"name": "japonesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:13.483887Z"
+					},
+					{
+						"id": 16,
+						"name": "sushi",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:06.256566Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/8QZw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:13:13.249393Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6931649,
+					40.4554955
+				]
+			},
+			"address": "Avenida de Brasil",
+			"number": "16",
+			"postal_code": "28020",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:57.972421Z",
+			"place_id": "ChIJVXLLzgIpQg0RtXsmacIjTfM",
+			"formatted_address": "Av. de Brasil, 16, 28020 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T10:14:44.419813Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 489,
+			"business": {
+				"id": 119,
+				"name": "Brasa y Leña",
+				"country": null,
+				"description": "Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.",
+				"url": "https://brasaylena.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 36,
+						"name": "carne",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:13.899272Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/poqq",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T10:00:49.864858Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.8313617,
+					40.3584463
+				]
+			},
+			"address": "Avenida de América",
+			"number": "7-9",
+			"postal_code": "28922",
+			"state": "Madrid",
+			"city": "Alcorcón",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:57.986100Z",
+			"place_id": "ChIJFQZW3dGOQQ0RcT2wr_cV6Hs",
+			"formatted_address": "Av. de América, 7-9, 28922 Alcorcón, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-11-29T10:05:51.662825Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}
