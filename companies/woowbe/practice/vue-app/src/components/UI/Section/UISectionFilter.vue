@@ -8,6 +8,7 @@
 					:select-label="`Select a sector:`"
 					:select-options="getSectorList"
 					:select-value="sectorSelectedSaved"
+					select-size="xs"
 					@update:select-selected="$emit('update:sector-selected', (sectorSelectedSaved = $event))"
 				/>
 			</li>

@@ -1,5 +1,5 @@
 <template>
-	<div class="select select--xs">
+	<div :class="selectClass">
 		<label
 			class="select__label"
 			:for="selectName"
@@ -52,11 +52,23 @@
 				],
 				"required": true,
 			},
+			"selectSize": {
+				"type": String,
+				"default": "",
+			},
 		},
 		data() {
 			return {
 				"selectSelected": this.selectValue,
 			};
+		},
+		"computed": {
+			selectClass() {
+				return {
+					"select": true,
+					"select--xs": this.selectSize === "xs",
+				};
+			},
 		},
 		"watch": {
 			selectValue(newValue) {
