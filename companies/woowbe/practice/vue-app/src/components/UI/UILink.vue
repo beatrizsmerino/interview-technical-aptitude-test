@@ -21,7 +21,7 @@
 				"type": String,
 				"required": true,
 			},
-			"linkModifier": {
+			"linkSection": {
 				"type": String,
 				"default": "",
 			},
@@ -30,7 +30,7 @@
 			getLinkClass() {
 				return {
 					"link": true,
-					"link--vue": this.linkModifier === "vue",
+					"link--vue": this.linkSection === "vue",
 				};
 			},
 		},
