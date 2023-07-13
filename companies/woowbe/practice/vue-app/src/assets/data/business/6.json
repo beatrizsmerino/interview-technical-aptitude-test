@@ -1,0 +1,299 @@
+{
+	"count": 137,
+	"next": "https://backend.dev.woowbe.com/api/v1/business/public/?page=7",
+	"previous": "https://backend.dev.woowbe.com/api/v1/business/public/?page=5",
+	"results": [
+		{
+			"id": 141,
+			"name": "Zapatería Susana",
+			"country": null,
+			"description": "",
+			"url": null,
+			"square_picture": null,
+			"widescreen_picture": null,
+			"cover": null,
+			"sector": null,
+			"descriptive_categories": [],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/U7FT",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2022-05-10T10:26:37.162216Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 142,
+			"name": "Sandra Flores",
+			"country": null,
+			"description": "",
+			"url": null,
+			"square_picture": null,
+			"widescreen_picture": null,
+			"cover": null,
+			"sector": null,
+			"descriptive_categories": [],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/NJza",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2022-05-10T10:28:11.335233Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 143,
+			"name": "Test App",
+			"country": {
+				"id": 2,
+				"name": "Malta",
+				"code": "mt"
+			},
+			"description": "Descri",
+			"url": "https://google.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1667494635.jpeg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_ZiLjO4p.jpg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_kvUvSKN.jpg",
+			"sector": {
+				"id": 22,
+				"name": "Alimentación animal",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/pets.svg",
+				"created": "2021-05-25T11:07:08.658870Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 30,
+					"name": "afterwork",
+					"owner": null,
+					"sector": 4,
+					"created": "2021-10-24T10:04:24.581445Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/9CqB",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2022-05-18T16:12:43.026936Z",
+			"selected_offer": {
+				"id": 596,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "grtgrtg",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false
+			},
+			"offers_count": 16
+		},
+		{
+			"id": 166,
+			"name": "bruno test",
+			"country": null,
+			"description": null,
+			"url": null,
+			"square_picture": null,
+			"widescreen_picture": null,
+			"cover": null,
+			"sector": null,
+			"descriptive_categories": [],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/Mw5C",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2022-06-13T09:06:03.887471Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 167,
+			"name": "Prueba negocio test 1",
+			"country": null,
+			"description": "",
+			"url": null,
+			"square_picture": null,
+			"widescreen_picture": null,
+			"cover": null,
+			"sector": null,
+			"descriptive_categories": [],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/cgL2",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2022-06-13T09:07:42.685197Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 168,
+			"name": "Comercio fake de Pako",
+			"country": null,
+			"description": "",
+			"url": null,
+			"square_picture": null,
+			"widescreen_picture": null,
+			"cover": null,
+			"sector": null,
+			"descriptive_categories": [],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/soKC",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2022-06-13T09:23:02.795121Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 169,
+			"name": "Heladeria Santi",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "Una heladería artesanal con varias tiendas por toda España. Destaca por su buena calidad",
+			"url": "https://backoffice.staging.woowbe.com/configure/business-profile",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_mGFLKO7.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1655449538.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_gPR24yE.jpg",
+			"sector": {
+				"id": 38,
+				"name": "Casual food",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg",
+				"created": "2021-10-21T19:51:53.839559Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 55,
+					"name": "helado",
+					"owner": null,
+					"sector": null,
+					"created": "2021-11-29T12:03:57.629516Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/rQ96",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2022-06-17T06:56:32.561215Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 170,
+			"name": "cafeteria de la reina",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "Cafeteria situada en el centro de Madrid. pasan muchos trabajadores todas las mañanas para tomar su cafe antes del trabajo.",
+			"url": "https://browse.cafe.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_GEd8GVF.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1655705897.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_ltj2AO6.jpg",
+			"sector": {
+				"id": 5,
+				"name": "Cafetería",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+				"created": "2021-05-25T10:48:41.547333Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 30,
+					"name": "afterwork",
+					"owner": null,
+					"sector": 4,
+					"created": "2021-10-24T10:04:24.581445Z"
+				},
+				{
+					"id": 54,
+					"name": "café",
+					"owner": null,
+					"sector": null,
+					"created": "2021-11-29T11:15:07.797534Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/GC1U",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2022-06-20T06:04:23.532113Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 171,
+			"name": "CALCAPO GASTRONOMIA SL",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "Taberna Los Gallos es una preciosa casa ubicada en el Callejón de Puigcerdá, justo en el centro de la zona de Jorge Juan y en el corazón del Barrio de Salamanca. Una casa entera, de arriba abajo que se ha convertido en uno de los restaurantes más impresionantes y emblemáticos de Madrid. Tenemos unas terrazas insuperables en la planta calle, dando a un callejón tranquilo y sin coches, salones íntimos y tranquilos, barras con música y muy divertidas y un ático acristalado muy sofisticado.",
+			"url": "https://www.tabernalosgallos.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_KbKlQpV.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1656346787.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_DBBSCaJ.jpg",
+			"sector": {
+				"id": 2,
+				"name": "Restaurante",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+				"created": "2021-05-25T10:46:14.371617Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 48,
+					"name": "burger",
+					"owner": null,
+					"sector": null,
+					"created": "2021-11-29T09:27:58.948006Z"
+				},
+				{
+					"id": 54,
+					"name": "café",
+					"owner": null,
+					"sector": null,
+					"created": "2021-11-29T11:15:07.797534Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/P1ud",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2022-06-27T16:10:59.820934Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 172,
+			"name": "CASTELLANA BOX SL",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "Fabela es un club de boxeo para todos los niveles acompañado de una sala de fitness con todo el equipamiento de ultima generacion.\nAbierto todos los dias de la semana de 07 a 22 horas.",
+			"url": "https://www.fabelaboxingclub.com",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_PqWDTC5.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_0TI6tzr.jpg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_96BIkc1.jpg",
+			"sector": {
+				"id": 24,
+				"name": "Gimnasio",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/sport.svg",
+				"created": "2021-05-25T11:07:47.157431Z"
+			},
+			"descriptive_categories": [],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/WquN",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2022-06-27T16:30:49.993609Z",
+			"selected_offer": null,
+			"offers_count": 0
+		}
+	]
+}

@@ -1,0 +1,110 @@
+<template>
+	<ul class="content-data">
+		<li
+			v-for="(propertyValueLevel1, propertyNameLevel1) in getSortedResultValue"
+			:key="propertyNameLevel1"
+			class="content-data__item"
+		>
+			<template v-if="isListObjectObject(propertyValueLevel1)">
+				<strong>{{ propertyNameLevel1 }}:</strong>
+				<ul>
+					<li
+						v-for="(propertyValueLevel2, propertyNameLevel2) in propertyValueLevel1"
+						:key="propertyNameLevel2"
+					>
+						<template v-if="isListObject(propertyValueLevel2)">
+							<strong>{{ propertyNameLevel2 }}:</strong>
+							<UITable
+								:table-section="sectionName"
+								:table-data="propertyValueLevel2"
+							/>
+						</template>
+						<template v-else-if="isListArrayObject(propertyValueLevel2)">
+							<strong>{{ propertyNameLevel2 }}:</strong>
+							<UITable
+								:table-section="sectionName"
+								:table-data="propertyValueLevel2"
+							/>
+						</template>
+						<template v-else>
+							<UIProperty
+								:property-section="sectionName"
+								:property-name="propertyNameLevel2"
+								:property-value="propertyValueLevel2"
+							/>
+						</template>
+					</li>
+				</ul>
+			</template>
+			<template v-else-if="isListObject(propertyValueLevel1)">
+				<strong>{{ propertyNameLevel1 }}:</strong>
+				<UITable
+					:table-section="sectionName"
+					:table-data="propertyValueLevel1"
+				/>
+			</template>
+			<template v-else-if="isListArrayObject(propertyValueLevel1)">
+				<strong>{{ propertyNameLevel1 }}:</strong>
+				<UITable
+					:table-section="sectionName"
+					:table-data="propertyValueLevel1"
+				/>
+			</template>
+			<template v-else>
+				<UIProperty
+					:property-section="sectionName"
+					:property-name="propertyNameLevel1"
+					:property-value="propertyValueLevel1"
+				/>
+			</template>
+		</li>
+	</ul>
+</template>
+
+<script>
+	import UIProperty from "@/components/UI/UIProperty";
+	import UITable from "@/components/UI/UITable";
+
+	export default {
+		"name": "UISectionArticleContent",
+		"components": {
+			UIProperty,
+			UITable,
+		},
+		"props": {
+			"sectionName": {
+				"type": String,
+				"default": null,
+			},
+			"resultValue": {
+				"type": Object,
+				"required": true,
+			},
+		},
+		data() {
+			return {
+				"resultValueSaved": this.resultValue,
+			};
+		},
+		"computed": {
+			getSortedResultValue() {
+				return this.sortProperties(this.resultValueSaved);
+			},
+		},
+		"watch": {
+			resultValue(newValue) {
+				this.resultValueSaved = newValue;
+			},
+		},
+	};
+</script>
+
+<style lang="scss" scoped>
+	.content-data {
+		&__item {
+			&:not(:last-child) {
+				margin-bottom: 0.5rem;
+			}
+		}
+	}
+</style>

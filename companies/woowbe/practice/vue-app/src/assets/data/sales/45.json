@@ -1,0 +1,769 @@
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=46",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=44",
+	"results": [
+		{
+			"id": 331,
+			"business": {
+				"id": 102,
+				"name": "Sushita",
+				"country": null,
+				"description": "Música en directo, cócteles a base de ingredientes naturales y el mejor sushi de la ciudad. Y, todo ello, en un lugar con una decoración cuidada al detalle y una terraza muy agradable. ¿Acaso se le puede pedir más a un afterwork?",
+				"url": "https://www.sushita.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_VmoZjKe.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635069991.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_d4UJ9zz.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					},
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 16,
+						"name": "sushi",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:06.256566Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/LTVM",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-24T10:04:32.084157Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6916104,
+					40.4354473
+				]
+			},
+			"address": "Calle de Miguel Ángel",
+			"number": "11",
+			"postal_code": "28010",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:20.701142Z",
+			"place_id": "ChIJu261Eu0oQg0R4WMUzunRj2U",
+			"formatted_address": "C. de Miguel Ángel, 11, 28010 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-24T10:06:51.287132Z",
+			"selected_offer": {
+				"id": 191,
+				"reward": "3.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "3€ por cenas de +25€",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 0,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 330,
+			"business": {
+				"id": 101,
+				"name": "Udon",
+				"country": null,
+				"description": "La historia de UDON empieza hace más de 15 años. Viajes, mucha curiosidad y un paladar abierto a nuevos sabores, llevó a los dos fundadores a enamorarse de la cultura y gastronomía asiática. Así nació el primer UDON el 2004, en el corazón del barrio del Born de Barcelona, inspirado en las tascas tradicionales japonesas, con más de 400 años de historia.",
+				"url": "https://www.udon.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_HE3Up8p.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635068691.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_jUju1r9.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 29,
+						"name": "asiatica",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-24T09:41:55.016467Z"
+					},
+					{
+						"id": 22,
+						"name": "asiática",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-21T20:53:02.997177Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/vyJw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-24T09:42:03.509058Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6974675,
+					40.2726713
+				]
+			},
+			"address": "Avenida Río Guadalquivir",
+			"number": "13",
+			"postal_code": "28906",
+			"state": "Madrid",
+			"city": "Getafe",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:20.744161Z",
+			"place_id": "ChIJ6U6Jc7YhQg0RDdMBUVNMvoo",
+			"formatted_address": "Av. Río Guadalquivir, 13, 28906 Getafe, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-24T09:48:27.360333Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 329,
+			"business": {
+				"id": 101,
+				"name": "Udon",
+				"country": null,
+				"description": "La historia de UDON empieza hace más de 15 años. Viajes, mucha curiosidad y un paladar abierto a nuevos sabores, llevó a los dos fundadores a enamorarse de la cultura y gastronomía asiática. Así nació el primer UDON el 2004, en el corazón del barrio del Born de Barcelona, inspirado en las tascas tradicionales japonesas, con más de 400 años de historia.",
+				"url": "https://www.udon.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_HE3Up8p.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635068691.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_jUju1r9.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 29,
+						"name": "asiatica",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-24T09:41:55.016467Z"
+					},
+					{
+						"id": 22,
+						"name": "asiática",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-21T20:53:02.997177Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/vyJw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-24T09:42:03.509058Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7054868,
+					40.4208604
+				]
+			},
+			"address": "Calle de Miguel Moya",
+			"number": "6",
+			"postal_code": "28004",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:20.801686Z",
+			"place_id": "ChIJca2H_XwoQg0R0PoAcaIG81U",
+			"formatted_address": "C de Miguel Moya, 6, 28004 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-24T09:48:09.076584Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 328,
+			"business": {
+				"id": 101,
+				"name": "Udon",
+				"country": null,
+				"description": "La historia de UDON empieza hace más de 15 años. Viajes, mucha curiosidad y un paladar abierto a nuevos sabores, llevó a los dos fundadores a enamorarse de la cultura y gastronomía asiática. Así nació el primer UDON el 2004, en el corazón del barrio del Born de Barcelona, inspirado en las tascas tradicionales japonesas, con más de 400 años de historia.",
+				"url": "https://www.udon.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_HE3Up8p.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635068691.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_jUju1r9.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 29,
+						"name": "asiatica",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-24T09:41:55.016467Z"
+					},
+					{
+						"id": 22,
+						"name": "asiática",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-21T20:53:02.997177Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/vyJw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-24T09:42:03.509058Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6121151,
+					40.5408756
+				]
+			},
+			"address": "Avenida del Juncal",
+			"number": "15-17",
+			"postal_code": "28703",
+			"state": "Madrid",
+			"city": "San Sebastián de los Reyes",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:20.834326Z",
+			"place_id": "ChIJOVPr1wEtQg0RcxI2i53NosI",
+			"formatted_address": "Av. del Juncal, 15-17, 28703 San Sebastián de los Reyes, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-24T09:47:51.123197Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 327,
+			"business": {
+				"id": 101,
+				"name": "Udon",
+				"country": null,
+				"description": "La historia de UDON empieza hace más de 15 años. Viajes, mucha curiosidad y un paladar abierto a nuevos sabores, llevó a los dos fundadores a enamorarse de la cultura y gastronomía asiática. Así nació el primer UDON el 2004, en el corazón del barrio del Born de Barcelona, inspirado en las tascas tradicionales japonesas, con más de 400 años de historia.",
+				"url": "https://www.udon.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_HE3Up8p.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635068691.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_jUju1r9.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 29,
+						"name": "asiatica",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-24T09:41:55.016467Z"
+					},
+					{
+						"id": 22,
+						"name": "asiática",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-21T20:53:02.997177Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/vyJw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-24T09:42:03.509058Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.9263316,
+					40.29952189999999
+				]
+			},
+			"address": "Calle Puerto de Navacerrada",
+			"number": "km 23,5",
+			"postal_code": "28939",
+			"state": "Madrid",
+			"city": "Arroyomolinos",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:20.868449Z",
+			"place_id": "ChIJ-T9meEGSQQ0R0SaZ_DoyO4k",
+			"formatted_address": "C. Puerto de Navacerrada, km 23, 5, 28939 Arroyomolinos, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-24T09:47:34.768608Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 326,
+			"business": {
+				"id": 101,
+				"name": "Udon",
+				"country": null,
+				"description": "La historia de UDON empieza hace más de 15 años. Viajes, mucha curiosidad y un paladar abierto a nuevos sabores, llevó a los dos fundadores a enamorarse de la cultura y gastronomía asiática. Así nació el primer UDON el 2004, en el corazón del barrio del Born de Barcelona, inspirado en las tascas tradicionales japonesas, con más de 400 años de historia.",
+				"url": "https://www.udon.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_HE3Up8p.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635068691.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_jUju1r9.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 29,
+						"name": "asiatica",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-24T09:41:55.016467Z"
+					},
+					{
+						"id": 22,
+						"name": "asiática",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-21T20:53:02.997177Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/vyJw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-24T09:42:03.509058Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6384816,
+					40.5302788
+				]
+			},
+			"address": "Avenida de Bruselas",
+			"number": "21",
+			"postal_code": "28108",
+			"state": "Madrid",
+			"city": "Alcobendas",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:20.900013Z",
+			"place_id": "ChIJ0YjsC1wsQg0Rn9Nf8nwyllk",
+			"formatted_address": "Av. de Bruselas, 21, 28108 Alcobendas, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-24T09:47:19.767682Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 325,
+			"business": {
+				"id": 101,
+				"name": "Udon",
+				"country": null,
+				"description": "La historia de UDON empieza hace más de 15 años. Viajes, mucha curiosidad y un paladar abierto a nuevos sabores, llevó a los dos fundadores a enamorarse de la cultura y gastronomía asiática. Así nació el primer UDON el 2004, en el corazón del barrio del Born de Barcelona, inspirado en las tascas tradicionales japonesas, con más de 400 años de historia.",
+				"url": "https://www.udon.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_HE3Up8p.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635068691.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_jUju1r9.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 29,
+						"name": "asiatica",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-24T09:41:55.016467Z"
+					},
+					{
+						"id": 22,
+						"name": "asiática",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-21T20:53:02.997177Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/vyJw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-24T09:42:03.509058Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7331842,
+					40.3401454
+				]
+			},
+			"address": "Avenida de Gran Bretaña",
+			"number": "S / N",
+			"postal_code": "28916",
+			"state": "Madrid",
+			"city": "Leganés",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:20.940289Z",
+			"place_id": "ChIJAyHCVVYnQg0RJBgbPnKeilQ",
+			"formatted_address": "Av. de Gran Bretaña, S / N, 28916 Leganés, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-24T09:47:02.244689Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 324,
+			"business": {
+				"id": 101,
+				"name": "Udon",
+				"country": null,
+				"description": "La historia de UDON empieza hace más de 15 años. Viajes, mucha curiosidad y un paladar abierto a nuevos sabores, llevó a los dos fundadores a enamorarse de la cultura y gastronomía asiática. Así nació el primer UDON el 2004, en el corazón del barrio del Born de Barcelona, inspirado en las tascas tradicionales japonesas, con más de 400 años de historia.",
+				"url": "https://www.udon.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_HE3Up8p.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635068691.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_jUju1r9.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 29,
+						"name": "asiatica",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-24T09:41:55.016467Z"
+					},
+					{
+						"id": 22,
+						"name": "asiática",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-21T20:53:02.997177Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/vyJw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-24T09:42:03.509058Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.5875084,
+					40.4469408
+				]
+			},
+			"address": "Calle de Aracne",
+			"number": "3",
+			"postal_code": "28022",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:20.981095Z",
+			"place_id": "ChIJr8KPkNAvQg0RhuGFckffGWA",
+			"formatted_address": "C. de Aracne, 3, 28022 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-24T09:46:41.360582Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 323,
+			"business": {
+				"id": 101,
+				"name": "Udon",
+				"country": null,
+				"description": "La historia de UDON empieza hace más de 15 años. Viajes, mucha curiosidad y un paladar abierto a nuevos sabores, llevó a los dos fundadores a enamorarse de la cultura y gastronomía asiática. Así nació el primer UDON el 2004, en el corazón del barrio del Born de Barcelona, inspirado en las tascas tradicionales japonesas, con más de 400 años de historia.",
+				"url": "https://www.udon.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_HE3Up8p.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635068691.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_jUju1r9.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 29,
+						"name": "asiatica",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-24T09:41:55.016467Z"
+					},
+					{
+						"id": 22,
+						"name": "asiática",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-21T20:53:02.997177Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/vyJw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-24T09:42:03.509058Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7026821,
+					40.417526
+				]
+			},
+			"address": "Calle de la Montera",
+			"number": "8",
+			"postal_code": "28013",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:21.102210Z",
+			"place_id": "ChIJIx0mqYAoQg0R1de7YEDxvwM",
+			"formatted_address": "C. de la Montera, 8, 28013 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-24T09:46:22.973485Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 322,
+			"business": {
+				"id": 101,
+				"name": "Udon",
+				"country": null,
+				"description": "La historia de UDON empieza hace más de 15 años. Viajes, mucha curiosidad y un paladar abierto a nuevos sabores, llevó a los dos fundadores a enamorarse de la cultura y gastronomía asiática. Así nació el primer UDON el 2004, en el corazón del barrio del Born de Barcelona, inspirado en las tascas tradicionales japonesas, con más de 400 años de historia.",
+				"url": "https://www.udon.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_HE3Up8p.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635068691.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_jUju1r9.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 29,
+						"name": "asiatica",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-24T09:41:55.016467Z"
+					},
+					{
+						"id": 22,
+						"name": "asiática",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-21T20:53:02.997177Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/vyJw",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-24T09:42:03.509058Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.5984745,
+					40.37103
+				]
+			},
+			"address": "Calle Adolfo Bioy Casares",
+			"number": "2",
+			"postal_code": "28051",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:21.207113Z",
+			"place_id": "ChIJ_-Zij94kQg0R4F3DpaXLt44",
+			"formatted_address": "C. Adolfo Bioy Casares, 2, 28051 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-24T09:46:03.459670Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

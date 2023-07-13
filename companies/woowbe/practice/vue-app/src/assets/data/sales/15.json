@@ -1,0 +1,741 @@
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=16",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=14",
+	"results": [
+		{
+			"id": 652,
+			"business": {
+				"id": 178,
+				"name": "Mahourizio",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Test de Maurizio",
+				"url": "http://maurizio.es",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_a1ZviDm.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631745.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_SNLXm9U.jpg",
+				"sector": {
+					"id": 4,
+					"name": "Bar",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg",
+					"created": "2021-05-25T10:47:46.399740Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					},
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 40,
+						"name": "peinado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:38.018824Z"
+					},
+					{
+						"id": 42,
+						"name": "pelo",
+						"owner": null,
+						"sector": 44,
+						"created": "2021-10-25T13:02:49.420892Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/2Q2J",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-08-17T07:49:52.020588Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6988966,
+					40.4411983
+				]
+			},
+			"address": "Calle de Ponzano",
+			"number": "54",
+			"postal_code": "28003",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:25.905646Z",
+			"place_id": "ChIJ65ZsIfcoQg0R9UB2DOoVHKI",
+			"formatted_address": "C. de Ponzano, 54, 28003 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-08-17T08:08:59.182949Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 651,
+			"business": {
+				"id": 174,
+				"name": "SPAIN GOURMET INVESTMENTS SL",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Puerto Lagasca es un pequeño restaurante en el Barrio Salamanca. Cuidamos y seleccionamos los mejores productos del mercado para ofrecer una gastronomía tradicional, meditarránea y con un toque diferente. Auténtica cocina de autor mimada por nuestro chef.",
+				"url": "https://puertolagasca.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_wxeFMMD.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1657624076.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_RvYX6Fj.jpg",
+				"sector": {
+					"id": 4,
+					"name": "Bar",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg",
+					"created": "2021-05-25T10:47:46.399740Z"
+				},
+				"descriptive_categories": [],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/FKWW",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-07-12T11:05:07.097589Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6992631,
+					40.4182023
+				]
+			},
+			"address": "Calle de Alcalá",
+			"number": "23",
+			"postal_code": "28014",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:27.493319Z",
+			"place_id": "ChIJEdnPyoYoQg0Ro7oQIrTD7sg",
+			"formatted_address": "C. de Alcalá, 23, 28014 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-07-12T11:08:52.153875Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 650,
+			"business": {
+				"id": 172,
+				"name": "CASTELLANA BOX SL",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Fabela es un club de boxeo para todos los niveles acompañado de una sala de fitness con todo el equipamiento de ultima generacion.\nAbierto todos los dias de la semana de 07 a 22 horas.",
+				"url": "https://www.fabelaboxingclub.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_PqWDTC5.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/widescreen_picture_0TI6tzr.jpg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_96BIkc1.jpg",
+				"sector": {
+					"id": 24,
+					"name": "Gimnasio",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/sport.svg",
+					"created": "2021-05-25T11:07:47.157431Z"
+				},
+				"descriptive_categories": [],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/WquN",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-06-27T16:30:49.993609Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6916482,
+					40.4517154
+				]
+			},
+			"address": "Paseo de la Castellana",
+			"number": "95",
+			"postal_code": "28046",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:27.704024Z",
+			"place_id": "ChIJA-NW5h0pQg0RfI4QcltDKgY",
+			"formatted_address": "P.º de la Castellana, 95, 28046 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-07-12T10:54:45.125331Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 649,
+			"business": {
+				"id": 173,
+				"name": "NewCo Business",
+				"country": {
+					"id": 2,
+					"name": "Malta",
+					"code": "mt"
+				},
+				"description": "This is a Demo Business",
+				"url": "https://www.newco.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ojLUO22.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1649862498.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_BYp7Oqs.jpg",
+				"sector": {
+					"id": 28,
+					"name": "Alquiler de coches",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/mobility.svg",
+					"created": "2021-05-25T11:10:59.951129Z"
+				},
+				"descriptive_categories": [],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/ARYf",
+				"is_franchisee_of": 138,
+				"is_favorite": false,
+				"created": "2022-04-11T11:12:11.912145Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:27.718006Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-06-28T13:49:26.288466Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 647,
+			"business": {
+				"id": 171,
+				"name": "CALCAPO GASTRONOMIA SL",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Taberna Los Gallos es una preciosa casa ubicada en el Callejón de Puigcerdá, justo en el centro de la zona de Jorge Juan y en el corazón del Barrio de Salamanca. Una casa entera, de arriba abajo que se ha convertido en uno de los restaurantes más impresionantes y emblemáticos de Madrid. Tenemos unas terrazas insuperables en la planta calle, dando a un callejón tranquilo y sin coches, salones íntimos y tranquilos, barras con música y muy divertidas y un ático acristalado muy sofisticado.",
+				"url": "https://www.tabernalosgallos.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_KbKlQpV.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1656346787.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_DBBSCaJ.jpg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 48,
+						"name": "burger",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:58.948006Z"
+					},
+					{
+						"id": 54,
+						"name": "café",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T11:15:07.797534Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/P1ud",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-06-27T16:10:59.820934Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7049295,
+					40.4195161
+				]
+			},
+			"address": "Plaza del Callao",
+			"number": "2",
+			"postal_code": "28013",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:27.993075Z",
+			"place_id": "ChIJDViBWnwoQg0R5JyS10Vvm0E",
+			"formatted_address": "Pl. del Callao, 2, 28013 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-06-27T16:24:10.364057Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 646,
+			"business": {
+				"id": 170,
+				"name": "cafeteria de la reina",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Cafeteria situada en el centro de Madrid. pasan muchos trabajadores todas las mañanas para tomar su cafe antes del trabajo.",
+				"url": "https://browse.cafe.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_GEd8GVF.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1655705897.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_ltj2AO6.jpg",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					},
+					{
+						"id": 54,
+						"name": "café",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T11:15:07.797534Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/GC1U",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-06-20T06:04:23.532113Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7054967,
+					40.4563851
+				]
+			},
+			"address": "Calle de Francos Rodríguez",
+			"number": "23",
+			"postal_code": "28039",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:28.501342Z",
+			"place_id": "ChIJb2OvrKspQg0RZR9rEwAq46w",
+			"formatted_address": "C. de Francos Rodríguez, 23, 28039 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-06-20T06:19:39.956348Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 645,
+			"business": {
+				"id": 169,
+				"name": "Heladeria Santi",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Una heladería artesanal con varias tiendas por toda España. Destaca por su buena calidad",
+				"url": "https://backoffice.staging.woowbe.com/configure/business-profile",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_mGFLKO7.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1655449538.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_gPR24yE.jpg",
+				"sector": {
+					"id": 38,
+					"name": "Casual food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg",
+					"created": "2021-10-21T19:51:53.839559Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 55,
+						"name": "helado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T12:03:57.629516Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/rQ96",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-06-17T06:56:32.561215Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7001318,
+					40.467807
+				]
+			},
+			"address": "Calle del Plátano",
+			"number": "23",
+			"postal_code": "28029",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:28.603718Z",
+			"place_id": "ChIJb8f2dAkpQg0RjR6ggGD3ei4",
+			"formatted_address": "C. del Plátano, 23, 28029 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-06-17T07:01:29.370066Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 643,
+			"business": {
+				"id": 23,
+				"name": "llaollao",
+				"country": {
+					"id": 2,
+					"name": "Malta",
+					"code": "mt"
+				},
+				"description": "llaollao es una franquicia española de heladerías especializada en yogur helado, granizados y batidos. Se fundó en 2009 con la apertura de un local en Denia y cuenta con más de 220 establecimientos tanto en España como a nivel internacional.",
+				"url": "https://www.llaollaoweb.com/es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/llao-llao-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635419152.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/llao-llao-portada.png",
+				"sector": {
+					"id": 6,
+					"name": "Heladería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_oEA91PT.svg",
+					"created": "2021-05-25T10:48:59.349078Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 55,
+						"name": "helado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T12:03:57.629516Z"
+					},
+					{
+						"id": 65,
+						"name": "yogur helado",
+						"owner": 23,
+						"sector": null,
+						"created": "2022-06-13T08:52:30.589536Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/YaCK",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-06-10T11:00:45.772916Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6840115,
+					40.4600943
+				]
+			},
+			"address": "Calle de Henri Dunant",
+			"number": "17",
+			"postal_code": "28036",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:28.713776Z",
+			"place_id": "ChIJJRMExxgpQg0RBk71eSl0yBM",
+			"formatted_address": "C. de Henri Dunant, 17, 28036 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-06-13T08:55:25.958287Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 640,
+			"business": {
+				"id": 126,
+				"name": "Kilómetros de Pizza",
+				"country": null,
+				"description": "¡Las pizzas campeonas del mundo por fin en tu ciudad!\r\nDespués de 7 años, más de 3 millones de clientes satisfechos, 8 restaurantes propios y mucho, mucho aprendido… estamos preparados para desembarcar contigo en tu ciudad. Si quieres triunfar con un concepto único en el mundo y obtener estupendas rentabilidades esta es tu oportunidad. Si compartes la filosofía “el ojo del amo, engorda el caballo” te acompañaremos al éxito de principio a fin.",
+				"url": "https://kilometrosdepizza.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/km-pizza-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638192019.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/km-pizza-portada.jpeg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 19,
+						"name": "pizza",
+						"owner": null,
+						"sector": 3,
+						"created": "2021-10-21T20:22:48.209376Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/6bFF",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T13:20:18.931261Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.1989695,
+					19.4312202
+				]
+			},
+			"address": "Calle Calderón de la Barca",
+			"number": "83",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:28.899468Z",
+			"place_id": "ChIJ4w4ekgIC0oUREdYTnV0SLPg",
+			"formatted_address": "C. Calderón de la Barca 83, Polanco, Polanco III Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T13:37:13.282954Z",
+			"selected_offer": {
+				"id": 236,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Kilómetros de pizza 10%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 639,
+			"business": {
+				"id": 126,
+				"name": "Kilómetros de Pizza",
+				"country": null,
+				"description": "¡Las pizzas campeonas del mundo por fin en tu ciudad!\r\nDespués de 7 años, más de 3 millones de clientes satisfechos, 8 restaurantes propios y mucho, mucho aprendido… estamos preparados para desembarcar contigo en tu ciudad. Si quieres triunfar con un concepto único en el mundo y obtener estupendas rentabilidades esta es tu oportunidad. Si compartes la filosofía “el ojo del amo, engorda el caballo” te acompañaremos al éxito de principio a fin.",
+				"url": "https://kilometrosdepizza.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/km-pizza-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638192019.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/km-pizza-portada.jpeg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 19,
+						"name": "pizza",
+						"owner": null,
+						"sector": 3,
+						"created": "2021-10-21T20:22:48.209376Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/6bFF",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T13:20:18.931261Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.2015148,
+					19.4332451
+				]
+			},
+			"address": "Avenida Moliere",
+			"number": "105",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:29.013778Z",
+			"place_id": "ChIJlw_Y1hwC0oUR-hRJt2ydVPo",
+			"formatted_address": "Av Moliere 105, Polanco, Polanco III Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T13:36:50.177281Z",
+			"selected_offer": {
+				"id": 236,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Kilómetros de pizza 10%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

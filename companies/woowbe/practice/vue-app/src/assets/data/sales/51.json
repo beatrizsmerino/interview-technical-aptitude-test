@@ -1,0 +1,757 @@
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=52",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=50",
+	"results": [
+		{
+			"id": 261,
+			"business": {
+				"id": 93,
+				"name": "Go Sushing",
+				"country": null,
+				"description": "Restaurante japonés con servicio de sushi a domicilio, take away o en mesa. Una gran variedad de productos hechos al momento: makis, rolls, nigiris, temakis, pokés, menú mediodía, platos vegetarianos ¡y mucho más!",
+				"url": "https://gosushing.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/go-sushing-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634843662.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Edp12ch.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 17,
+						"name": "japonesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:13.483887Z"
+					},
+					{
+						"id": 16,
+						"name": "sushi",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:06.256566Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/2eWh",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T19:14:22.845920Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.8678528,
+					40.4718172
+				]
+			},
+			"address": "Avenida España",
+			"number": "31",
+			"postal_code": "28220",
+			"state": "Madrid",
+			"city": "Majadahonda",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:27.041547Z",
+			"place_id": "ChIJ096iTYqEQQ0R3N58duMHhr8",
+			"formatted_address": "Av. España, 31, 28220 Majadahonda, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T19:38:46.916257Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 260,
+			"business": {
+				"id": 93,
+				"name": "Go Sushing",
+				"country": null,
+				"description": "Restaurante japonés con servicio de sushi a domicilio, take away o en mesa. Una gran variedad de productos hechos al momento: makis, rolls, nigiris, temakis, pokés, menú mediodía, platos vegetarianos ¡y mucho más!",
+				"url": "https://gosushing.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/go-sushing-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634843662.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Edp12ch.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 17,
+						"name": "japonesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:13.483887Z"
+					},
+					{
+						"id": 16,
+						"name": "sushi",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:06.256566Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/2eWh",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T19:14:22.845920Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.5394277,
+					40.4256474
+				]
+			},
+			"address": "Calle Venezuela",
+			"number": "27",
+			"postal_code": "28823",
+			"state": "Madrid",
+			"city": "Coslada",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:27.204720Z",
+			"place_id": "ChIJQTOeCocwQg0RdugHtrGF3EI",
+			"formatted_address": "C. Venezuela, 27, 28823 Coslada, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T19:38:29.510872Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 259,
+			"business": {
+				"id": 93,
+				"name": "Go Sushing",
+				"country": null,
+				"description": "Restaurante japonés con servicio de sushi a domicilio, take away o en mesa. Una gran variedad de productos hechos al momento: makis, rolls, nigiris, temakis, pokés, menú mediodía, platos vegetarianos ¡y mucho más!",
+				"url": "https://gosushing.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/go-sushing-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634843662.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Edp12ch.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 17,
+						"name": "japonesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:13.483887Z"
+					},
+					{
+						"id": 16,
+						"name": "sushi",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:06.256566Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/2eWh",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T19:14:22.845920Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7431519,
+					40.3362808
+				]
+			},
+			"address": "Avenida Rey Juan Carlos I",
+			"number": "63",
+			"postal_code": "28916",
+			"state": "Madrid",
+			"city": "Leganés",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:27.244631Z",
+			"place_id": "ChIJg9hHGVYnQg0R-PnZEvn2ZSU",
+			"formatted_address": "Av. Rey Juan Carlos I, 63, 28916 Leganés, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T19:38:12.465976Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 258,
+			"business": {
+				"id": 93,
+				"name": "Go Sushing",
+				"country": null,
+				"description": "Restaurante japonés con servicio de sushi a domicilio, take away o en mesa. Una gran variedad de productos hechos al momento: makis, rolls, nigiris, temakis, pokés, menú mediodía, platos vegetarianos ¡y mucho más!",
+				"url": "https://gosushing.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/go-sushing-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634843662.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Edp12ch.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 17,
+						"name": "japonesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:13.483887Z"
+					},
+					{
+						"id": 16,
+						"name": "sushi",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:06.256566Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/2eWh",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T19:14:22.845920Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7103916,
+					40.5039852
+				]
+			},
+			"address": "Avenida del Monasterio de Silos",
+			"number": "11",
+			"postal_code": "28049",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:27.289854Z",
+			"place_id": "ChIJ_yiEZY4rQg0RY66jpQQnmQ0",
+			"formatted_address": "Av. del Monasterio de Silos, 11, 28049 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T19:37:55.220617Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 257,
+			"business": {
+				"id": 93,
+				"name": "Go Sushing",
+				"country": null,
+				"description": "Restaurante japonés con servicio de sushi a domicilio, take away o en mesa. Una gran variedad de productos hechos al momento: makis, rolls, nigiris, temakis, pokés, menú mediodía, platos vegetarianos ¡y mucho más!",
+				"url": "https://gosushing.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/go-sushing-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634843662.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Edp12ch.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 17,
+						"name": "japonesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:13.483887Z"
+					},
+					{
+						"id": 16,
+						"name": "sushi",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:06.256566Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/2eWh",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T19:14:22.845920Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.638168,
+					40.5354468
+				]
+			},
+			"address": "Avenida Olímpica",
+			"number": "32",
+			"postal_code": "28108",
+			"state": "Madrid",
+			"city": "Alcobendas",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:27.331667Z",
+			"place_id": "ChIJKdvBcl8sQg0R-7--v-5wer4",
+			"formatted_address": "Av. Olímpica, 32, 28108 Alcobendas, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T19:37:38.584317Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 256,
+			"business": {
+				"id": 93,
+				"name": "Go Sushing",
+				"country": null,
+				"description": "Restaurante japonés con servicio de sushi a domicilio, take away o en mesa. Una gran variedad de productos hechos al momento: makis, rolls, nigiris, temakis, pokés, menú mediodía, platos vegetarianos ¡y mucho más!",
+				"url": "https://gosushing.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/go-sushing-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634843662.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Edp12ch.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 17,
+						"name": "japonesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:13.483887Z"
+					},
+					{
+						"id": 16,
+						"name": "sushi",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:06.256566Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/2eWh",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T19:14:22.845920Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7315211,
+					40.3150397
+				]
+			},
+			"address": "Paseo de La Estación",
+			"number": "13",
+			"postal_code": "28904",
+			"state": "Madrid",
+			"city": "Getafe",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:27.370415Z",
+			"place_id": "ChIJ060mnbwgQg0RKWdBqeNu69M",
+			"formatted_address": "P.º de La Estación, 13, 28904 Getafe, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T19:37:22.916714Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 255,
+			"business": {
+				"id": 93,
+				"name": "Go Sushing",
+				"country": null,
+				"description": "Restaurante japonés con servicio de sushi a domicilio, take away o en mesa. Una gran variedad de productos hechos al momento: makis, rolls, nigiris, temakis, pokés, menú mediodía, platos vegetarianos ¡y mucho más!",
+				"url": "https://gosushing.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/go-sushing-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634843662.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Edp12ch.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 17,
+						"name": "japonesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:13.483887Z"
+					},
+					{
+						"id": 16,
+						"name": "sushi",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:06.256566Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/2eWh",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T19:14:22.845920Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.714794,
+					40.4816228
+				]
+			},
+			"address": "Calle de Fermín Caballero",
+			"number": "76",
+			"postal_code": "28034",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:27.422571Z",
+			"place_id": "ChIJV_q1UJApQg0Rq48mCudf938",
+			"formatted_address": "C. de Fermín Caballero, 76, 28034 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T19:36:41.737289Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 254,
+			"business": {
+				"id": 93,
+				"name": "Go Sushing",
+				"country": null,
+				"description": "Restaurante japonés con servicio de sushi a domicilio, take away o en mesa. Una gran variedad de productos hechos al momento: makis, rolls, nigiris, temakis, pokés, menú mediodía, platos vegetarianos ¡y mucho más!",
+				"url": "https://gosushing.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/go-sushing-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634843662.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Edp12ch.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 17,
+						"name": "japonesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:13.483887Z"
+					},
+					{
+						"id": 16,
+						"name": "sushi",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:06.256566Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/2eWh",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T19:14:22.845920Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6721876,
+					40.5009147
+				]
+			},
+			"address": "Calle de la Sierra de Atapuerca",
+			"number": "6",
+			"postal_code": "28050",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:27.451227Z",
+			"place_id": "ChIJrZuTq-QrQg0R-2oEY6LfVCk",
+			"formatted_address": "C. de la Sierra de Atapuerca, 6, 28050 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T19:36:22.168227Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 253,
+			"business": {
+				"id": 93,
+				"name": "Go Sushing",
+				"country": null,
+				"description": "Restaurante japonés con servicio de sushi a domicilio, take away o en mesa. Una gran variedad de productos hechos al momento: makis, rolls, nigiris, temakis, pokés, menú mediodía, platos vegetarianos ¡y mucho más!",
+				"url": "https://gosushing.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/go-sushing-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634843662.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Edp12ch.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 17,
+						"name": "japonesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:13.483887Z"
+					},
+					{
+						"id": 16,
+						"name": "sushi",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:06.256566Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/2eWh",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T19:14:22.845920Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6242481,
+					40.453587
+				]
+			},
+			"address": "Avenida de los Andes",
+			"number": "8",
+			"postal_code": "28042",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:27.518821Z",
+			"place_id": "ChIJX2GY-AAvQg0REn2r-jn2fng",
+			"formatted_address": "Av. de los Andes, 8, 28042 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T19:36:04.587654Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 252,
+			"business": {
+				"id": 93,
+				"name": "Go Sushing",
+				"country": null,
+				"description": "Restaurante japonés con servicio de sushi a domicilio, take away o en mesa. Una gran variedad de productos hechos al momento: makis, rolls, nigiris, temakis, pokés, menú mediodía, platos vegetarianos ¡y mucho más!",
+				"url": "https://gosushing.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/go-sushing-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634843662.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Edp12ch.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 17,
+						"name": "japonesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:13.483887Z"
+					},
+					{
+						"id": 16,
+						"name": "sushi",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:06.256566Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/2eWh",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T19:14:22.845920Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6610467,
+					40.4570618
+				]
+			},
+			"address": "Calle de López de Hoyos",
+			"number": "261",
+			"postal_code": "28043",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:27.547313Z",
+			"place_id": "ChIJ6YGfGNUuQg0RnGIuPAfjWQ4",
+			"formatted_address": "C. de López de Hoyos, 261, 28043 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T19:35:46.367667Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

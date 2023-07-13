@@ -1,0 +1,929 @@
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=13",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=11",
+	"results": [
+		{
+			"id": 718,
+			"business": {
+				"id": 239,
+				"name": "Cafeteria QA",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Programa de Test QA",
+				"url": "http://aa.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg",
+				"sector": {
+					"id": 4,
+					"name": "Bar",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg",
+					"created": "2021-05-25T10:47:46.399740Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					},
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 67,
+						"name": "patata",
+						"owner": 177,
+						"sector": null,
+						"created": "2022-08-22T13:01:31.983340Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/5ni7",
+				"is_franchisee_of": 177,
+				"is_favorite": false,
+				"created": "2022-10-17T15:31:43.939441Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:16.712626Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-10-17T15:31:44.726393Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 715,
+			"business": {
+				"id": 236,
+				"name": "Yogui QA",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Yogui QA es el comercio offline \n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages",
+				"url": "https://www.yogui.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1676631810.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1665492408_Z9SKuNG.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_HYuhoAb.jpg",
+				"sector": {
+					"id": 24,
+					"name": "Gimnasio",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/sport.svg",
+					"created": "2021-05-25T11:07:47.157431Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/KcyB",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-10-11T11:27:09.183229Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6881495,
+					40.4223343
+				]
+			},
+			"address": "Calle de Serrano",
+			"number": "14",
+			"postal_code": "28001",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:17.105390Z",
+			"place_id": "ChIJwWJgGJooQg0RCXkVf2hu3wI",
+			"formatted_address": "C. de Serrano, 14, 28001 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-10-11T12:49:36.248771Z",
+			"selected_offer": {
+				"id": 551,
+				"reward": "4.00",
+				"reward_type": "fixed",
+				"kind": "C",
+				"instant": false,
+				"name": "sellos pull to refresh",
+				"standalone": false,
+				"purchases": 4,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 0.6666666666666666,
+				"available_rewards": 2,
+				"is_used": false,
+				"finish_date": "2023-08-19"
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 714,
+			"business": {
+				"id": 227,
+				"name": "Scalpers prueba 6",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\r\n¡Descubre la nueva colección online de Scalpers!",
+				"url": "https://www.scalpers.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg",
+				"sector": {
+					"id": 43,
+					"name": "Tienda de ropa",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg",
+					"created": "2022-09-27T14:17:28.722813Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 80,
+						"name": "estilo",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:18:12.393840Z"
+					},
+					{
+						"id": 79,
+						"name": "moda",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:03.512523Z"
+					},
+					{
+						"id": 78,
+						"name": "ropa",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:17:59.578804Z"
+					},
+					{
+						"id": 77,
+						"name": "ropa hombre",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:17:51.818605Z"
+					},
+					{
+						"id": 81,
+						"name": "ropa mujer",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:16.628726Z"
+					},
+					{
+						"id": 82,
+						"name": "ropa niños",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:21.910520Z"
+					}
+				],
+				"return_period": 30,
+				"dynamic_link": "https://app.dev.woowbe.com/share/wYe9",
+				"is_franchisee_of": 12,
+				"is_favorite": false,
+				"created": "2022-10-03T15:33:52.374972Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.4382598,
+					40.3006155
+				]
+			},
+			"address": "Plaza de la Constitución",
+			"number": "12",
+			"postal_code": "28500",
+			"state": "Madrid",
+			"city": "Arganda del Rey",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:17.309037Z",
+			"place_id": "ChIJ__9rF3U_Qg0RAOH1GqYZpN4",
+			"formatted_address": "Pl. de la Constitución, 12, 28500 Arganda del Rey, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-10-03T15:33:53.013548Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 713,
+			"business": {
+				"id": 226,
+				"name": "Scalpers prueba 5",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\r\n¡Descubre la nueva colección online de Scalpers!",
+				"url": "https://www.scalpers.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg",
+				"sector": {
+					"id": 43,
+					"name": "Tienda de ropa",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg",
+					"created": "2022-09-27T14:17:28.722813Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 80,
+						"name": "estilo",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:18:12.393840Z"
+					},
+					{
+						"id": 79,
+						"name": "moda",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:03.512523Z"
+					},
+					{
+						"id": 78,
+						"name": "ropa",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:17:59.578804Z"
+					},
+					{
+						"id": 77,
+						"name": "ropa hombre",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:17:51.818605Z"
+					},
+					{
+						"id": 81,
+						"name": "ropa mujer",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:16.628726Z"
+					},
+					{
+						"id": 82,
+						"name": "ropa niños",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:21.910520Z"
+					}
+				],
+				"return_period": 30,
+				"dynamic_link": "https://app.dev.woowbe.com/share/z57m",
+				"is_franchisee_of": 12,
+				"is_favorite": false,
+				"created": "2022-10-03T15:31:06.060904Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:17.814096Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-10-03T15:31:06.805513Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 712,
+			"business": {
+				"id": 225,
+				"name": "Scalpers prueba 4",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\r\n¡Descubre la nueva colección online de Scalpers!",
+				"url": "https://www.scalpers.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg",
+				"sector": {
+					"id": 43,
+					"name": "Tienda de ropa",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg",
+					"created": "2022-09-27T14:17:28.722813Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 80,
+						"name": "estilo",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:18:12.393840Z"
+					},
+					{
+						"id": 79,
+						"name": "moda",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:03.512523Z"
+					},
+					{
+						"id": 78,
+						"name": "ropa",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:17:59.578804Z"
+					},
+					{
+						"id": 77,
+						"name": "ropa hombre",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:17:51.818605Z"
+					},
+					{
+						"id": 81,
+						"name": "ropa mujer",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:16.628726Z"
+					},
+					{
+						"id": 82,
+						"name": "ropa niños",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:21.910520Z"
+					}
+				],
+				"return_period": 30,
+				"dynamic_link": "https://app.dev.woowbe.com/share/zG3u",
+				"is_franchisee_of": 12,
+				"is_favorite": false,
+				"created": "2022-10-03T14:32:26.113193Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.69779,
+					40.4371618
+				]
+			},
+			"address": "Calle de Alonso Cano",
+			"number": "14",
+			"postal_code": "28010",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:18.610989Z",
+			"place_id": "ChIJxV-jivMoQg0RKBInT1ppM7Y",
+			"formatted_address": "C. de Alonso Cano, 14, 28010 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-10-03T14:47:22.879551Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 711,
+			"business": {
+				"id": 225,
+				"name": "Scalpers prueba 4",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\r\n¡Descubre la nueva colección online de Scalpers!",
+				"url": "https://www.scalpers.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg",
+				"sector": {
+					"id": 43,
+					"name": "Tienda de ropa",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg",
+					"created": "2022-09-27T14:17:28.722813Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 80,
+						"name": "estilo",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:18:12.393840Z"
+					},
+					{
+						"id": 79,
+						"name": "moda",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:03.512523Z"
+					},
+					{
+						"id": 78,
+						"name": "ropa",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:17:59.578804Z"
+					},
+					{
+						"id": 77,
+						"name": "ropa hombre",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:17:51.818605Z"
+					},
+					{
+						"id": 81,
+						"name": "ropa mujer",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:16.628726Z"
+					},
+					{
+						"id": 82,
+						"name": "ropa niños",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:21.910520Z"
+					}
+				],
+				"return_period": 30,
+				"dynamic_link": "https://app.dev.woowbe.com/share/zG3u",
+				"is_franchisee_of": 12,
+				"is_favorite": false,
+				"created": "2022-10-03T14:32:26.113193Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6988371,
+					40.4197392
+				]
+			},
+			"address": "Calle Gran Vía",
+			"number": "12",
+			"postal_code": "28013",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:19.098104Z",
+			"place_id": "ChIJ29RxlIYoQg0R0MZA_eNdwGU",
+			"formatted_address": "C/ Gran Vía, 12, 28013 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-10-03T14:32:26.773298Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 710,
+			"business": {
+				"id": 224,
+				"name": "Scalpers prueba 3",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\r\n¡Descubre la nueva colección online de Scalpers!",
+				"url": "https://www.scalpers.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg",
+				"sector": {
+					"id": 43,
+					"name": "Tienda de ropa",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg",
+					"created": "2022-09-27T14:17:28.722813Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 80,
+						"name": "estilo",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:18:12.393840Z"
+					},
+					{
+						"id": 79,
+						"name": "moda",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:03.512523Z"
+					},
+					{
+						"id": 78,
+						"name": "ropa",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:17:59.578804Z"
+					},
+					{
+						"id": 77,
+						"name": "ropa hombre",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:17:51.818605Z"
+					},
+					{
+						"id": 81,
+						"name": "ropa mujer",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:16.628726Z"
+					},
+					{
+						"id": 82,
+						"name": "ropa niños",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:21.910520Z"
+					}
+				],
+				"return_period": 30,
+				"dynamic_link": "https://app.dev.woowbe.com/share/udhA",
+				"is_franchisee_of": 12,
+				"is_favorite": false,
+				"created": "2022-10-03T14:30:08.723480Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:19.340716Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-10-03T14:30:09.522895Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 709,
+			"business": {
+				"id": 223,
+				"name": "Test Pilar",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Programa de Test QA",
+				"url": "http://aa.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg",
+				"sector": {
+					"id": 34,
+					"name": "Asociación empresarial",
+					"icon": null,
+					"created": "2021-05-25T11:17:48.433219Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					},
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 67,
+						"name": "patata",
+						"owner": 177,
+						"sector": null,
+						"created": "2022-08-22T13:01:31.983340Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/rN1m",
+				"is_franchisee_of": 177,
+				"is_favorite": false,
+				"created": "2022-09-29T08:11:32.610621Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:19.422555Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-09-29T08:11:33.366139Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 708,
+			"business": {
+				"id": 222,
+				"name": "Test Pilar",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Programa de Test QA",
+				"url": "http://aa.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_L5L56Sl.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664189138.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vO8upz4.jpg",
+				"sector": {
+					"id": 34,
+					"name": "Asociación empresarial",
+					"icon": null,
+					"created": "2021-05-25T11:17:48.433219Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 30,
+						"name": "afterwork",
+						"owner": null,
+						"sector": 4,
+						"created": "2021-10-24T10:04:24.581445Z"
+					},
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 67,
+						"name": "patata",
+						"owner": 177,
+						"sector": null,
+						"created": "2022-08-22T13:01:31.983340Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/YykC",
+				"is_franchisee_of": 177,
+				"is_favorite": false,
+				"created": "2022-09-26T10:46:44.834290Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:19.511438Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-09-26T10:46:45.572507Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 707,
+			"business": {
+				"id": 210,
+				"name": "Cines Yelmo",
+				"country": null,
+				"description": "Comercio test. Cines Yelmo es la mayor .....",
+				"url": null,
+				"square_picture": null,
+				"widescreen_picture": null,
+				"cover": null,
+				"sector": {
+					"id": 36,
+					"name": "Cines y teatros",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/leisure.svg",
+					"created": "2021-05-25T11:18:32.648878Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 54,
+						"name": "café",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T11:15:07.797534Z"
+					},
+					{
+						"id": 34,
+						"name": "estrenos",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:39.287584Z"
+					},
+					{
+						"id": 35,
+						"name": "películas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:44.904194Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/aMTF",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-09-13T10:36:46.535629Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					2.213451,
+					41.4098019
+				]
+			},
+			"address": "Avinguda Diagonal",
+			"number": "35",
+			"postal_code": "08019",
+			"state": "Barcelona",
+			"city": "Barcelona",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:19.565491Z",
+			"place_id": "EihBdmVuaWRhIERpYWdvbmFsLCAzNSwgQmFyY2Vsb25hLCBFc3Bhw7FhIjASLgoUChIJ7a8wVEWjpBIRnS-alQXk6vUQIyoUChIJncTYD5SipBIRcnAjh-Ot0O8",
+			"formatted_address": "Avinguda Diagonal, 35, 08019 Barcelona",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-09-22T10:46:34.952249Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

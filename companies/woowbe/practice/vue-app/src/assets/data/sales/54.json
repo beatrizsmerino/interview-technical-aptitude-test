@@ -1,0 +1,741 @@
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=55",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=53",
+	"results": [
+		{
+			"id": 230,
+			"business": {
+				"id": 92,
+				"name": "Tierra Burrito",
+				"country": null,
+				"description": "En Tierra nos gusta hacer las cosas bien.\r\nTodos los días, llegan hasta nosotros frutas y verduras frescas de productores locales y carne procedente de ganaderías cercanas de cría no intensiva. Estos productos constituyen los ingredientes que empleamos para preparar, delante de ti, nuestros platos saludables y auténticos: burritos, desnudos, nachos y mucho más.\r\n\r\nDesde nuestra cocina abierta, los eficientes y simpáticos camareros de Tierra te ayudarán a personalizar tu plato a tu gusto con una gran variedad de sabores y guarniciones distintas. Acompaña tu comida con nuestras margaritas caseras o con una cerveza artesanal, que tienes a tu disposición en la nevera.",
+				"url": "https://www.tierraburritos.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/tierra-burrito-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634832127.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_UuinGHQ.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 15,
+						"name": "burrito",
+						"owner": 92,
+						"sector": null,
+						"created": "2021-10-21T16:01:53.692876Z"
+					},
+					{
+						"id": 13,
+						"name": "mexicano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:54.024427Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/KPoa",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T16:00:35.632774Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.693104,
+					40.4566394
+				]
+			},
+			"address": "Calle de San Germán",
+			"number": "12",
+			"postal_code": "28020",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:29.207169Z",
+			"place_id": "ChIJRyp5KgMpQg0RzJqxY7IQlVI",
+			"formatted_address": "C. de San Germán, 12, 28020 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T16:02:44.704708Z",
+			"selected_offer": {
+				"id": 168,
+				"reward": "4.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "4€ por cada comida",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 0,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 228,
+			"business": {
+				"id": 91,
+				"name": "Juan Valdez",
+				"country": null,
+				"description": "Juan Valdez es el resultado del trabajo de más de 540.000 familias caficultoras colombianas que han cautivado al mundo con el café de la mejor calidad.",
+				"url": "https://www.juanvaldezcafe.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/juan-valdez-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634830938.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_ORmai6S.jpg",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 14,
+						"name": "colombiano",
+						"owner": 91,
+						"sector": null,
+						"created": "2021-10-21T15:41:02.955225Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/N9CY",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T15:41:14.567827Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7535971,
+					40.2403753
+				]
+			},
+			"address": "Calle de Pinto",
+			"number": "S/N",
+			"postal_code": "28983",
+			"state": "Madrid",
+			"city": "Parla",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:29.303016Z",
+			"place_id": "ChIJfaE3dWD1QQ0RdQu_jwllLMs",
+			"formatted_address": "C. de Pinto, S/N, 28983 Parla, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T15:43:49.967523Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 227,
+			"business": {
+				"id": 91,
+				"name": "Juan Valdez",
+				"country": null,
+				"description": "Juan Valdez es el resultado del trabajo de más de 540.000 familias caficultoras colombianas que han cautivado al mundo con el café de la mejor calidad.",
+				"url": "https://www.juanvaldezcafe.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/juan-valdez-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634830938.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_ORmai6S.jpg",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 14,
+						"name": "colombiano",
+						"owner": 91,
+						"sector": null,
+						"created": "2021-10-21T15:41:02.955225Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/N9CY",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T15:41:14.567827Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.5984745,
+					40.37103
+				]
+			},
+			"address": "Calle Adolfo Bioy Casares",
+			"number": "2",
+			"postal_code": "28051",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:29.406191Z",
+			"place_id": "ChIJ_-Zij94kQg0R4F3DpaXLt44",
+			"formatted_address": "C. Adolfo Bioy Casares, 2, 28051 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T15:43:33.163622Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 226,
+			"business": {
+				"id": 91,
+				"name": "Juan Valdez",
+				"country": null,
+				"description": "Juan Valdez es el resultado del trabajo de más de 540.000 familias caficultoras colombianas que han cautivado al mundo con el café de la mejor calidad.",
+				"url": "https://www.juanvaldezcafe.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/juan-valdez-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634830938.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_ORmai6S.jpg",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 14,
+						"name": "colombiano",
+						"owner": 91,
+						"sector": null,
+						"created": "2021-10-21T15:41:02.955225Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/N9CY",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T15:41:14.567827Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7201867,
+					40.4217163
+				]
+			},
+			"address": "Paseo de la Florida",
+			"number": "2",
+			"postal_code": "28008",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:29.600603Z",
+			"place_id": "ChIJJ9J6a3IoQg0Rnr1Uvc7vL9M",
+			"formatted_address": "P.º de la Florida, 2, 28008 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T15:43:13.361919Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 224,
+			"business": {
+				"id": 90,
+				"name": "Taco Bell",
+				"country": null,
+				"description": "Taco Bell es una cadena de restaurantes de comida rápida, especializada en cocina Tex-Mex. La cadena fue fundada en 1962 por Glen Bell y actualmente pertenece a la multinacional Yum! Brands.",
+				"url": "https://tacobell.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/taco-bell-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634828991.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_hu1AWga.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 13,
+						"name": "mexicano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:54.024427Z"
+					},
+					{
+						"id": 12,
+						"name": "taco",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:41.941999Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/hd53",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T15:09:06.170930Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6200784,
+					40.540259
+				]
+			},
+			"address": "Avenida del Juncal",
+			"number": "11",
+			"postal_code": "28703",
+			"state": "Madrid",
+			"city": "San Sebastián de los Reyes",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:29.795419Z",
+			"place_id": "ChIJozVCsQEtQg0R90DNsiBwgQs",
+			"formatted_address": "Av. del Juncal, 11, 28703 San Sebastián de los Reyes, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T15:20:13.629932Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 223,
+			"business": {
+				"id": 90,
+				"name": "Taco Bell",
+				"country": null,
+				"description": "Taco Bell es una cadena de restaurantes de comida rápida, especializada en cocina Tex-Mex. La cadena fue fundada en 1962 por Glen Bell y actualmente pertenece a la multinacional Yum! Brands.",
+				"url": "https://tacobell.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/taco-bell-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634828991.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_hu1AWga.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 13,
+						"name": "mexicano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:54.024427Z"
+					},
+					{
+						"id": 12,
+						"name": "taco",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:41.941999Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/hd53",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T15:09:06.170930Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6373448,
+					40.4631976
+				]
+			},
+			"address": "Calle de Silvano",
+			"number": "77",
+			"postal_code": "28043",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:29.916856Z",
+			"place_id": "ChIJ_6tuaJkwQg0RBfDBsnrIJ18",
+			"formatted_address": "C. de Silvano, 77, 28043 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T15:19:57.740516Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 222,
+			"business": {
+				"id": 90,
+				"name": "Taco Bell",
+				"country": null,
+				"description": "Taco Bell es una cadena de restaurantes de comida rápida, especializada en cocina Tex-Mex. La cadena fue fundada en 1962 por Glen Bell y actualmente pertenece a la multinacional Yum! Brands.",
+				"url": "https://tacobell.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/taco-bell-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634828991.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_hu1AWga.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 13,
+						"name": "mexicano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:54.024427Z"
+					},
+					{
+						"id": 12,
+						"name": "taco",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:41.941999Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/hd53",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T15:09:06.170930Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7206155,
+					40.4221409
+				]
+			},
+			"address": "Paseo de la Florida",
+			"number": "2",
+			"postal_code": "28008",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:30.116547Z",
+			"place_id": "ChIJqRkui3IoQg0R7Hptq1oWq-k",
+			"formatted_address": "P.º de la Florida, 2, 28008 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T15:19:41.546430Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 221,
+			"business": {
+				"id": 90,
+				"name": "Taco Bell",
+				"country": null,
+				"description": "Taco Bell es una cadena de restaurantes de comida rápida, especializada en cocina Tex-Mex. La cadena fue fundada en 1962 por Glen Bell y actualmente pertenece a la multinacional Yum! Brands.",
+				"url": "https://tacobell.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/taco-bell-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634828991.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_hu1AWga.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 13,
+						"name": "mexicano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:54.024427Z"
+					},
+					{
+						"id": 12,
+						"name": "taco",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:41.941999Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/hd53",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T15:09:06.170930Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6556304,
+					40.4938945
+				]
+			},
+			"address": "Calle Príncipe Carlos",
+			"number": "50",
+			"postal_code": "28050",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:30.805860Z",
+			"place_id": "ChIJs1ZHo6kuQg0RDGIYlhxi3jU",
+			"formatted_address": "C. Príncipe Carlos, 50, 28050 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T15:17:44.528523Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 220,
+			"business": {
+				"id": 90,
+				"name": "Taco Bell",
+				"country": null,
+				"description": "Taco Bell es una cadena de restaurantes de comida rápida, especializada en cocina Tex-Mex. La cadena fue fundada en 1962 por Glen Bell y actualmente pertenece a la multinacional Yum! Brands.",
+				"url": "https://tacobell.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/taco-bell-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634828991.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_hu1AWga.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 13,
+						"name": "mexicano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:54.024427Z"
+					},
+					{
+						"id": 12,
+						"name": "taco",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:41.941999Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/hd53",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T15:09:06.170930Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7766788,
+					40.3594243
+				]
+			},
+			"address": "Calle de Mondragón",
+			"number": "s/n",
+			"postal_code": "28917",
+			"state": "Madrid",
+			"city": "Leganés",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:31.010057Z",
+			"place_id": "ChIJ8SPJgqWJQQ0RgsoXHku12e0",
+			"formatted_address": "C. de Mondragón, s/n, 28917 Leganés, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T15:17:07.726774Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 219,
+			"business": {
+				"id": 90,
+				"name": "Taco Bell",
+				"country": null,
+				"description": "Taco Bell es una cadena de restaurantes de comida rápida, especializada en cocina Tex-Mex. La cadena fue fundada en 1962 por Glen Bell y actualmente pertenece a la multinacional Yum! Brands.",
+				"url": "https://tacobell.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/taco-bell-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634828991.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_hu1AWga.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 13,
+						"name": "mexicano",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:54.024427Z"
+					},
+					{
+						"id": 12,
+						"name": "taco",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T15:08:41.941999Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/hd53",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T15:09:06.170930Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7361155,
+					40.3386624
+				]
+			},
+			"address": "Avenida de Gran Bretaña",
+			"number": "s/n",
+			"postal_code": "28916",
+			"state": "Madrid",
+			"city": "Leganés",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:31.227360Z",
+			"place_id": "ChIJ5QFm91AnQg0R_hlFPHbUaYI",
+			"formatted_address": "Av. de Gran Bretaña, s/n, 28916 Leganés, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T15:16:44.831766Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

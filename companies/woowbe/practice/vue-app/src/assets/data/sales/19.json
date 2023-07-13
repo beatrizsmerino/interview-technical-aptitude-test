@@ -1,0 +1,1087 @@
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=20",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=18",
+	"results": [
+		{
+			"id": 607,
+			"business": {
+				"id": 122,
+				"name": "Good News",
+				"country": null,
+				"description": "¡Esto no va solo de buen café, ni de café solo!\r\n\r\nBuen rollo, alegría, positivismo, felicidad o empoderamiento, son algunos de los Good Feelings que sentirás con cada sorbo de un café GoodNews.\r\n\r\n¡Disfruta del buen rollo que te dará beberte el café GoodNews!",
+				"url": "https://goodnewsco.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/good-news-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638184510.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/good-news-portada.jpeg",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 54,
+						"name": "café",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T11:15:07.797534Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Sbq9",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T11:15:10.513173Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.1994368,
+					19.430622
+				]
+			},
+			"address": "Calle Calderón de la Barca",
+			"number": "68",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:35.554912Z",
+			"place_id": "ChIJ301ImQIC0oURNdVNtLDZcFc",
+			"formatted_address": "C. Calderón de la Barca 68, Polanco, Polanco III Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T11:37:00.321255Z",
+			"selected_offer": {
+				"id": 223,
+				"reward": "12.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Good News 12%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 606,
+			"business": {
+				"id": 122,
+				"name": "Good News",
+				"country": null,
+				"description": "¡Esto no va solo de buen café, ni de café solo!\r\n\r\nBuen rollo, alegría, positivismo, felicidad o empoderamiento, son algunos de los Good Feelings que sentirás con cada sorbo de un café GoodNews.\r\n\r\n¡Disfruta del buen rollo que te dará beberte el café GoodNews!",
+				"url": "https://goodnewsco.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/good-news-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638184510.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/good-news-portada.jpeg",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 54,
+						"name": "café",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T11:15:07.797534Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Sbq9",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T11:15:10.513173Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.2017563,
+					19.4359389
+				]
+			},
+			"address": "Avenida Moliere",
+			"number": "204",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:35.703913Z",
+			"place_id": "ElRBdmVuaWRhIE1vbGllcmUgMjA0LCBQb2xhbmNvLCBQb2xhbmNvIElJSSBTZWNjacOzbiwgQ2l1ZGFkIGRlIE3DqXhpY28sIENETVgsIE3DqXhpY28iURJPCjQKMglBAs6uHALShREU_6PwSrxRpRoeCxDuwe6hARoUChIJ-WLFWgIC0oUR0BPHe2EVjEUMEMwBKhQKEgk7PnZTGwLShRHb7-sky0_RPQ",
+			"formatted_address": "Av Moliere 204, Polanco, Polanco II Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T11:36:27.115481Z",
+			"selected_offer": {
+				"id": 223,
+				"reward": "12.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Good News 12%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 604,
+			"business": {
+				"id": 122,
+				"name": "Good News",
+				"country": null,
+				"description": "¡Esto no va solo de buen café, ni de café solo!\r\n\r\nBuen rollo, alegría, positivismo, felicidad o empoderamiento, son algunos de los Good Feelings que sentirás con cada sorbo de un café GoodNews.\r\n\r\n¡Disfruta del buen rollo que te dará beberte el café GoodNews!",
+				"url": "https://goodnewsco.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/good-news-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638184510.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/good-news-portada.jpeg",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 54,
+						"name": "café",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T11:15:07.797534Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Sbq9",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T11:15:10.513173Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.1943909,
+					19.429677
+				]
+			},
+			"address": "Avenida Emilio Castelar",
+			"number": "47",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:35.801328Z",
+			"place_id": "ElpBdmVuaWRhIEVtaWxpbyBDYXN0ZWxhciA0NywgUG9sYW5jbywgUG9sYW5jbyBJViBTZWNjacOzbiwgQ2l1ZGFkIGRlIE3DqXhpY28sIENETVgsIE3DqXhpY28iUBJOCjQKMgkXbeFC_wHShREHIthQvM9g5hoeCxDuwe6hARoUChIJ-WLFWgIC0oUR0BPHe2EVjEUMEC8qFAoSCQEmYwsCAtKFEeFQYfxGRtv6",
+			"formatted_address": "Av. Emilio Castelar 47, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T11:36:03.685792Z",
+			"selected_offer": {
+				"id": 223,
+				"reward": "12.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Good News 12%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 603,
+			"business": {
+				"id": 89,
+				"name": "Aloha Poke",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Conocemos el poder de una alimentación saludable para nutrir una vida activa, equilibrada y feliz.\r\n\r\nCansados de no encontrar opciones de comida sana y sabrosa en la ciudad, decidimos comenzar nuestra propia revolución:\r\n\r\nLa Revolución de la Healthy Fast Food",
+				"url": "https://www.alohapoke.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/aloha-poke-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634827016.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0XysFRk.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 11,
+						"name": "Hawaiana",
+						"owner": 89,
+						"sector": null,
+						"created": "2021-10-21T14:41:44.180293Z"
+					},
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 9,
+						"name": "Poke",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:26.133578Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Fu3N",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T14:33:52.942982Z",
+				"offers_count": 4
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.1994989,
+					19.4308767
+				]
+			},
+			"address": "Calle Calderón de la Barca",
+			"number": "74",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:36.311754Z",
+			"place_id": "El9DYWxsZSBDYWxkZXLDs24gZGUgbGEgQmFyY2EgNzQsIFBvbGFuY28sIFBvbGFuY28gSUlJIFNlY2Npw7NuLCBDaXVkYWQgZGUgTcOpeGljbywgQ0RNWCwgTcOpeGljbyJQEk4KNAoyCTGwNpECAtKFEdZ4nkhhbS8XGh4LEO7B7qEBGhQKEgn5YsVaAgLShRHQE8d7YRWMRQwQSioUChIJL2wAHgMC0oURk-pVg6wPGSE",
+			"formatted_address": "C. Calderón de la Barca 74, Polanco, Polanco III Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T11:29:57.533376Z",
+			"selected_offer": {
+				"id": 397,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Prueba franquicias",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-07-31"
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 601,
+			"business": {
+				"id": 89,
+				"name": "Aloha Poke",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Conocemos el poder de una alimentación saludable para nutrir una vida activa, equilibrada y feliz.\r\n\r\nCansados de no encontrar opciones de comida sana y sabrosa en la ciudad, decidimos comenzar nuestra propia revolución:\r\n\r\nLa Revolución de la Healthy Fast Food",
+				"url": "https://www.alohapoke.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/aloha-poke-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634827016.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0XysFRk.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 11,
+						"name": "Hawaiana",
+						"owner": 89,
+						"sector": null,
+						"created": "2021-10-21T14:41:44.180293Z"
+					},
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 9,
+						"name": "Poke",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:26.133578Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Fu3N",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T14:33:52.942982Z",
+				"offers_count": 4
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.20177210000001,
+					19.4358431
+				]
+			},
+			"address": "Avenida Moliere",
+			"number": "190",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:37.095955Z",
+			"place_id": "ElRBdmVuaWRhIE1vbGllcmUgMTkwLCBQb2xhbmNvLCBQb2xhbmNvIElJSSBTZWNjacOzbiwgQ2l1ZGFkIGRlIE3DqXhpY28sIENETVgsIE3DqXhpY28iURJPCjQKMglBAs6uHALShREU_6PwSrxRpRoeCxDuwe6hARoUChIJ-WLFWgIC0oUR0BPHe2EVjEUMEL4BKhQKEgk7PnZTGwLShRHb7-sky0_RPQ",
+			"formatted_address": "Av Moliere 190, Polanco, Polanco II Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T11:27:13.183325Z",
+			"selected_offer": {
+				"id": 397,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Prueba franquicias",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-07-31"
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 600,
+			"business": {
+				"id": 89,
+				"name": "Aloha Poke",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Conocemos el poder de una alimentación saludable para nutrir una vida activa, equilibrada y feliz.\r\n\r\nCansados de no encontrar opciones de comida sana y sabrosa en la ciudad, decidimos comenzar nuestra propia revolución:\r\n\r\nLa Revolución de la Healthy Fast Food",
+				"url": "https://www.alohapoke.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/aloha-poke-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634827016.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0XysFRk.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 11,
+						"name": "Hawaiana",
+						"owner": 89,
+						"sector": null,
+						"created": "2021-10-21T14:41:44.180293Z"
+					},
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 9,
+						"name": "Poke",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:26.133578Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Fu3N",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T14:33:52.942982Z",
+				"offers_count": 4
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.1959149,
+					19.4301464
+				]
+			},
+			"address": "Avenida Emilio Castelar",
+			"number": "71",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:37.603540Z",
+			"place_id": "ChIJDd0iUv8B0oUROCHJROWKIEg",
+			"formatted_address": "Av. Emilio Castelar 71, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T11:26:53.594739Z",
+			"selected_offer": {
+				"id": 397,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Prueba franquicias",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-07-31"
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 599,
+			"business": {
+				"id": 118,
+				"name": "New York Burger",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Como tú, somos apasionados de la buena comida americana.\r\n\r\nDe aquí evolucionamos a la barbacoa, creando recetas auténticas americanas a base de brasa, madera y humo.\r\n\r\nEn NYB queremos verte disfrutar, sean cuáles sean tus gustos o principios. Por ello, nuestra apuesta más reciente es New York Green con ensaladas y bowls veganos y vegetarianos, que preparamos cada día con ingredientes frescos y de proximidad.",
+				"url": "https://newyorkburger.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-1-1.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-16-9.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/newyorkburger-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 87,
+						"name": "adidas",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:47.536980Z"
+					},
+					{
+						"id": 46,
+						"name": "americana",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:36.991965Z"
+					},
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 48,
+						"name": "burger",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:58.948006Z"
+					},
+					{
+						"id": 39,
+						"name": "ensaladas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T12:45:54.528824Z"
+					},
+					{
+						"id": 37,
+						"name": "hamburguesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:24.358507Z"
+					},
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 49,
+						"name": "niños",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:23.079267Z"
+					},
+					{
+						"id": 50,
+						"name": "saludable",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:31.798207Z"
+					},
+					{
+						"id": 51,
+						"name": "vegana",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:34.948300Z"
+					},
+					{
+						"id": 52,
+						"name": "vegano",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:37.746041Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Tcpk",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T09:28:59.442688Z",
+				"offers_count": 3
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.173119,
+					19.4325262
+				]
+			},
+			"address": "Avenida Ejército Nacional Mexicano",
+			"number": "20",
+			"postal_code": "11590",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:38.104135Z",
+			"place_id": "ChIJW6HQoLT40YURA0fXY2UFsJE",
+			"formatted_address": "Av. Ejército Nacional Mexicano 20, Anzures, Miguel Hidalgo, 11590 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T10:56:05.386280Z",
+			"selected_offer": {
+				"id": 400,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Prueba franquicias",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-08-01"
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 598,
+			"business": {
+				"id": 118,
+				"name": "New York Burger",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Como tú, somos apasionados de la buena comida americana.\r\n\r\nDe aquí evolucionamos a la barbacoa, creando recetas auténticas americanas a base de brasa, madera y humo.\r\n\r\nEn NYB queremos verte disfrutar, sean cuáles sean tus gustos o principios. Por ello, nuestra apuesta más reciente es New York Green con ensaladas y bowls veganos y vegetarianos, que preparamos cada día con ingredientes frescos y de proximidad.",
+				"url": "https://newyorkburger.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-1-1.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-16-9.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/newyorkburger-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 87,
+						"name": "adidas",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:47.536980Z"
+					},
+					{
+						"id": 46,
+						"name": "americana",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:36.991965Z"
+					},
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 48,
+						"name": "burger",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:58.948006Z"
+					},
+					{
+						"id": 39,
+						"name": "ensaladas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T12:45:54.528824Z"
+					},
+					{
+						"id": 37,
+						"name": "hamburguesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:24.358507Z"
+					},
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 49,
+						"name": "niños",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:23.079267Z"
+					},
+					{
+						"id": 50,
+						"name": "saludable",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:31.798207Z"
+					},
+					{
+						"id": 51,
+						"name": "vegana",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:34.948300Z"
+					},
+					{
+						"id": 52,
+						"name": "vegano",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:37.746041Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Tcpk",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T09:28:59.442688Z",
+				"offers_count": 3
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.1993098,
+					19.4292413
+				]
+			},
+			"address": "Calle Calderón de la Barca",
+			"number": "52",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:38.504240Z",
+			"place_id": "El9DYWxsZSBDYWxkZXLDs24gZGUgbGEgQmFyY2EgNTIsIFBvbGFuY28sIFBvbGFuY28gSUlJIFNlY2Npw7NuLCBDaXVkYWQgZGUgTcOpeGljbywgQ0RNWCwgTcOpeGljbyJQEk4KNAoyCUdvLBX4AdKFEdVXYrOs1-_kGh4LEO7B7qEBGhQKEgn5YsVaAgLShRHQE8d7YRWMRQwQNCoUChIJL2wAHgMC0oURk-pVg6wPGSE",
+			"formatted_address": "C. Calderón de la Barca 52, Polanco, Polanco III Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T10:55:13.533557Z",
+			"selected_offer": {
+				"id": 400,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Prueba franquicias",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-08-01"
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 597,
+			"business": {
+				"id": 118,
+				"name": "New York Burger",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Como tú, somos apasionados de la buena comida americana.\r\n\r\nDe aquí evolucionamos a la barbacoa, creando recetas auténticas americanas a base de brasa, madera y humo.\r\n\r\nEn NYB queremos verte disfrutar, sean cuáles sean tus gustos o principios. Por ello, nuestra apuesta más reciente es New York Green con ensaladas y bowls veganos y vegetarianos, que preparamos cada día con ingredientes frescos y de proximidad.",
+				"url": "https://newyorkburger.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-1-1.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-16-9.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/newyorkburger-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 87,
+						"name": "adidas",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:47.536980Z"
+					},
+					{
+						"id": 46,
+						"name": "americana",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:36.991965Z"
+					},
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 48,
+						"name": "burger",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:58.948006Z"
+					},
+					{
+						"id": 39,
+						"name": "ensaladas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T12:45:54.528824Z"
+					},
+					{
+						"id": 37,
+						"name": "hamburguesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:24.358507Z"
+					},
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 49,
+						"name": "niños",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:23.079267Z"
+					},
+					{
+						"id": 50,
+						"name": "saludable",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:31.798207Z"
+					},
+					{
+						"id": 51,
+						"name": "vegana",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:34.948300Z"
+					},
+					{
+						"id": 52,
+						"name": "vegano",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:37.746041Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Tcpk",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T09:28:59.442688Z",
+				"offers_count": 3
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.2018636,
+					19.4352891
+				]
+			},
+			"address": "Avenida Moliere",
+			"number": "78",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:39.090974Z",
+			"place_id": "ElNBdmVuaWRhIE1vbGllcmUgNzgsIFBvbGFuY28sIFBvbGFuY28gSUlJIFNlY2Npw7NuLCBDaXVkYWQgZGUgTcOpeGljbywgQ0RNWCwgTcOpeGljbyJQEk4KNAoyCUECzq4cAtKFERT_o_BKvFGlGh4LEO7B7qEBGhQKEgn5YsVaAgLShRHQE8d7YRWMRQwQTioUChIJOz52UxsC0oUR2-_rJMtP0T0",
+			"formatted_address": "Av Moliere 78, Polanco, Polanco II Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T10:52:44.149915Z",
+			"selected_offer": {
+				"id": 400,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Prueba franquicias",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-08-01"
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 596,
+			"business": {
+				"id": 118,
+				"name": "New York Burger",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Como tú, somos apasionados de la buena comida americana.\r\n\r\nDe aquí evolucionamos a la barbacoa, creando recetas auténticas americanas a base de brasa, madera y humo.\r\n\r\nEn NYB queremos verte disfrutar, sean cuáles sean tus gustos o principios. Por ello, nuestra apuesta más reciente es New York Green con ensaladas y bowls veganos y vegetarianos, que preparamos cada día con ingredientes frescos y de proximidad.",
+				"url": "https://newyorkburger.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-1-1.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-16-9.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/newyorkburger-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 87,
+						"name": "adidas",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:47.536980Z"
+					},
+					{
+						"id": 46,
+						"name": "americana",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:36.991965Z"
+					},
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 48,
+						"name": "burger",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:58.948006Z"
+					},
+					{
+						"id": 39,
+						"name": "ensaladas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T12:45:54.528824Z"
+					},
+					{
+						"id": 37,
+						"name": "hamburguesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:24.358507Z"
+					},
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 49,
+						"name": "niños",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:23.079267Z"
+					},
+					{
+						"id": 50,
+						"name": "saludable",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:31.798207Z"
+					},
+					{
+						"id": 51,
+						"name": "vegana",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:34.948300Z"
+					},
+					{
+						"id": 52,
+						"name": "vegano",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:37.746041Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Tcpk",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T09:28:59.442688Z",
+				"offers_count": 3
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.19243619999999,
+					19.4294345
+				]
+			},
+			"address": "Avenida Emilio Castelar",
+			"number": "19",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:39.707089Z",
+			"place_id": "ChIJEUtJnP8B0oURM7sMsqLDYbM",
+			"formatted_address": "Av. Emilio Castelar 19, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T10:52:21.407581Z",
+			"selected_offer": {
+				"id": 400,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Prueba franquicias",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-08-01"
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

@@ -1,0 +1,488 @@
+{
+	"count": 137,
+	"next": "https://backend.dev.woowbe.com/api/v1/business/public/?page=4",
+	"previous": "https://backend.dev.woowbe.com/api/v1/business/public/?page=2",
+	"results": [
+		{
+			"id": 105,
+			"name": "Yelmo cines",
+			"country": null,
+			"description": "Entradas para Yelmo Cines Ideal, Madrid. Todas las películas en cartelera con sus sesiones. Encuentra los últimos estrenos y compra online tu entrada.",
+			"url": "https://yelmocines.es/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_v1Xv6ub.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635150057.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_7IQTAo0.jpg",
+			"sector": {
+				"id": 36,
+				"name": "Cines y teatros",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/leisure.svg",
+				"created": "2021-05-25T11:18:32.648878Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 33,
+					"name": "cine",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-25T08:12:34.660757Z"
+				},
+				{
+					"id": 34,
+					"name": "estrenos",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-25T08:12:39.287584Z"
+				},
+				{
+					"id": 35,
+					"name": "películas",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-25T08:12:44.904194Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/dL7x",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-10-25T08:12:47.343417Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 106,
+			"name": "Lateral",
+			"country": null,
+			"description": "Lateral es un concepto de restaurantes diferente que combina las recetas más tradicionales con creaciones vanguardistas.",
+			"url": "https://www.lateral.com/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_Dw0X61I.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635151647.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_e0g2OVc.jpg",
+			"sector": {
+				"id": 38,
+				"name": "Casual food",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg",
+				"created": "2021-10-21T19:51:53.839559Z"
+			},
+			"descriptive_categories": [],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/SesU",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-10-25T08:38:22.315729Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 107,
+			"name": "Steak Burger",
+			"country": null,
+			"description": "Las mejores hamburguesas de Madrid y Murcia están en SteakBurger: hamburguesas gourmet de ternera y buey. Calidad a buen precio.",
+			"url": "https://www.steakburger.es/nuestros-restaurantes/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_wdDt5gW.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635163467.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_pSQeN7T.jpg",
+			"sector": {
+				"id": 37,
+				"name": "Restaurante temático",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+				"created": "2021-10-21T14:32:58.019404Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 36,
+					"name": "carne",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-25T11:59:13.899272Z"
+				},
+				{
+					"id": 37,
+					"name": "hamburguesa",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-25T11:59:24.358507Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/w3An",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-10-25T11:59:40.482490Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 108,
+			"name": "Oven mozzarella bar",
+			"country": null,
+			"description": "Descubre todos los platos de Oven, donde encontrarás lo mejor de la cocina italiana, junto con el especial toque del chef Fabio Morisi. Entrantes a elegir, ensaladas, nuestra especialidad en burratas, pastas y pizzas… ¡y no te de olvides dejar un hueco para el postre!\r\n\r\nSi lo tuyo son las pizzas, prueba nuestra masa de espelta, elaboramos la masa con harina de espelta… y disfruta del mejor sabor.\r\n\r\n*También disponemos de menú del día",
+			"url": "https://www.oven.es/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_4D3jJZh.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635165347.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_LoyygPo.jpg",
+			"sector": {
+				"id": 37,
+				"name": "Restaurante temático",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+				"created": "2021-10-21T14:32:58.019404Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 20,
+					"name": "italiano",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-21T20:22:55.462166Z"
+				},
+				{
+					"id": 38,
+					"name": "pasta",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-25T12:32:26.685985Z"
+				},
+				{
+					"id": 19,
+					"name": "pizza",
+					"owner": null,
+					"sector": 3,
+					"created": "2021-10-21T20:22:48.209376Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/tzH3",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-10-25T12:32:29.427780Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 109,
+			"name": "Faborit",
+			"country": null,
+			"description": "Cafés tés, infusiones, zumos y ensaladas, con los mejores ingredientes y en un ambiente acogedor para que disfrutes de estupendos momentos Faborit.",
+			"url": "https://www.faborit.com/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_cVUk2PT.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635166099.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_9ZWnEMe.jpg",
+			"sector": {
+				"id": 38,
+				"name": "Casual food",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_hlfMlAY.svg",
+				"created": "2021-10-21T19:51:53.839559Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 28,
+					"name": "batidos",
+					"owner": 100,
+					"sector": null,
+					"created": "2021-10-23T08:39:27.122811Z"
+				},
+				{
+					"id": 39,
+					"name": "ensaladas",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-25T12:45:54.528824Z"
+				},
+				{
+					"id": 27,
+					"name": "zumos",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-23T08:39:21.905307Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/1XPf",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-10-25T12:45:57.078698Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 110,
+			"name": "Marco Aldany",
+			"country": null,
+			"description": "La cadena líder en el sector de la peluquería y estética femenina y másculina en España con más de 400 salones. ¡Sin cita previa y al mejor precio!",
+			"url": "https://www.marcoaldany.com/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_SjjTIjm.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635167238.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_UAKZThD.jpg",
+			"sector": {
+				"id": 13,
+				"name": "Peluquería",
+				"icon": null,
+				"created": "2021-05-25T11:02:31.426987Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 41,
+					"name": "corte de pelo",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-25T13:02:44.637545Z"
+				},
+				{
+					"id": 40,
+					"name": "peinado",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-25T13:02:38.018824Z"
+				},
+				{
+					"id": 42,
+					"name": "pelo",
+					"owner": null,
+					"sector": 44,
+					"created": "2021-10-25T13:02:49.420892Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/VNTe",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-10-25T13:02:51.421328Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 111,
+			"name": "Carlos Conde peluqueros",
+			"country": null,
+			"description": "Carlos Conde se inicia en el mundo de la peluquería con 15 años. En 1997 se abre la primera barbería Carlos Conde.\r\nPeluquero por vocación, se considera también un hombre de negocios, totalmente vinculado al mundo de las barberías, por eso en el año 2010 comienza a forjar las bases para franquiciar su modelo de negocio.",
+			"url": "https://www.carloscondepeluqueros.com/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_NNjVQc5.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635234170.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_tvoOUZh.jpg",
+			"sector": {
+				"id": 13,
+				"name": "Peluquería",
+				"icon": null,
+				"created": "2021-05-25T11:02:31.426987Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 43,
+					"name": "barba",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-26T07:38:43.587103Z"
+				},
+				{
+					"id": 44,
+					"name": "barbería",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-26T07:38:49.830200Z"
+				},
+				{
+					"id": 41,
+					"name": "corte de pelo",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-25T13:02:44.637545Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/znLw",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-10-26T07:39:07.521908Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 112,
+			"name": "Honest Greens",
+			"country": null,
+			"description": "Creemos que la posibilidad de disfrutar de un estilo de vida saludable es un derecho básico. Nuestra misión es hacer que la vida saludable sea asequible, conveniente e increíblemente deliciosa, y así ayudar a que las personas de nuestra comunidad vivan vidas más largas y mejores.",
+			"url": "https://honestgreens.com/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_CGCsD0L.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635235831.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_IFQXO3k.jpg",
+			"sector": {
+				"id": 2,
+				"name": "Restaurante",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+				"created": "2021-05-25T10:46:14.371617Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 10,
+					"name": "Healthy",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-21T14:33:37.426542Z"
+				},
+				{
+					"id": 45,
+					"name": "real food",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-26T08:08:39.568572Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/wjxG",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-10-26T08:08:42.722336Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 113,
+			"name": "Granier",
+			"country": null,
+			"description": "Pans Granier son panaderías con pan artesano cerca de casa, elaborado en nuestro obrador siguiendo las recetas y tiempos de fermentación tradicionales.",
+			"url": "https://pansgranier.com/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_5W2BYMH.jpg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635411299.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_RC8Wr1o.jpg",
+			"sector": {
+				"id": 19,
+				"name": "Panadería",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_I8A0AM0.svg",
+				"created": "2021-05-25T11:05:24.276505Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 25,
+					"name": "pan",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-21T21:05:17.331228Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/ytHt",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-10-28T08:51:16.798668Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 118,
+			"name": "New York Burger",
+			"country": {
+				"id": 3,
+				"name": "España",
+				"code": "es"
+			},
+			"description": "Como tú, somos apasionados de la buena comida americana.\r\n\r\nDe aquí evolucionamos a la barbacoa, creando recetas auténticas americanas a base de brasa, madera y humo.\r\n\r\nEn NYB queremos verte disfrutar, sean cuáles sean tus gustos o principios. Por ello, nuestra apuesta más reciente es New York Green con ensaladas y bowls veganos y vegetarianos, que preparamos cada día con ingredientes frescos y de proximidad.",
+			"url": "https://newyorkburger.es/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-1-1.jpeg",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-16-9.jpeg",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/newyorkburger-portada.jpeg",
+			"sector": {
+				"id": 2,
+				"name": "Restaurante",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+				"created": "2021-05-25T10:46:14.371617Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 87,
+					"name": "adidas",
+					"owner": 248,
+					"sector": null,
+					"created": "2022-11-15T16:16:47.536980Z"
+				},
+				{
+					"id": 46,
+					"name": "americana",
+					"owner": null,
+					"sector": null,
+					"created": "2021-11-29T09:27:36.991965Z"
+				},
+				{
+					"id": 47,
+					"name": "brasas",
+					"owner": null,
+					"sector": null,
+					"created": "2021-11-29T09:27:43.625917Z"
+				},
+				{
+					"id": 48,
+					"name": "burger",
+					"owner": null,
+					"sector": null,
+					"created": "2021-11-29T09:27:58.948006Z"
+				},
+				{
+					"id": 39,
+					"name": "ensaladas",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-25T12:45:54.528824Z"
+				},
+				{
+					"id": 37,
+					"name": "hamburguesa",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-25T11:59:24.358507Z"
+				},
+				{
+					"id": 10,
+					"name": "Healthy",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-21T14:33:37.426542Z"
+				},
+				{
+					"id": 49,
+					"name": "niños",
+					"owner": 118,
+					"sector": null,
+					"created": "2021-11-29T09:30:23.079267Z"
+				},
+				{
+					"id": 50,
+					"name": "saludable",
+					"owner": 118,
+					"sector": null,
+					"created": "2021-11-29T09:30:31.798207Z"
+				},
+				{
+					"id": 51,
+					"name": "vegana",
+					"owner": 118,
+					"sector": null,
+					"created": "2021-11-29T09:30:34.948300Z"
+				},
+				{
+					"id": 52,
+					"name": "vegano",
+					"owner": 118,
+					"sector": null,
+					"created": "2021-11-29T09:30:37.746041Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/Tcpk",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-11-29T09:28:59.442688Z",
+			"selected_offer": {
+				"id": 214,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "New York Burger 15%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false
+			},
+			"offers_count": 3
+		}
+	]
+}

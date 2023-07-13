@@ -1,0 +1,471 @@
+{
+	"count": 137,
+	"next": "https://backend.dev.woowbe.com/api/v1/business/public/?page=5",
+	"previous": "https://backend.dev.woowbe.com/api/v1/business/public/?page=3",
+	"results": [
+		{
+			"id": 119,
+			"name": "Brasa y Leña",
+			"country": null,
+			"description": "Brasayleña es una churrascaría, un restaurante típico brasileño de carnes a la espada. Nuestra forma de servicio se denomina Rodizio: una selección de excelentes y jugosas carnes de pollo, cerdo y ternera asadas a fuego lento. Las carnes son servidas en tu mesa por nuestros maestros churrasqueros para no perder su jugosidad y temperatura, pudiendo repetir cuantas veces desees, al igual que con las guarniciones. Un Rodizio brasileño único en su clase.",
+			"url": "https://brasaylena.com/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/brasaylena-logo-1-1.png",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180049.png",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/brasaylena-portada.jpeg",
+			"sector": {
+				"id": 2,
+				"name": "Restaurante",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+				"created": "2021-05-25T10:46:14.371617Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 47,
+					"name": "brasas",
+					"owner": null,
+					"sector": null,
+					"created": "2021-11-29T09:27:43.625917Z"
+				},
+				{
+					"id": 36,
+					"name": "carne",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-25T11:59:13.899272Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/poqq",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-11-29T10:00:49.864858Z",
+			"selected_offer": {
+				"id": 220,
+				"reward": "5.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "Brasa y Leña 5€",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false
+			},
+			"offers_count": 1
+		},
+		{
+			"id": 120,
+			"name": "Miss Sushi",
+			"country": null,
+			"description": "Disfruta la experiencia Miss Sushi, restaurante japonés de ambiente acogedor, con reparto a domicilio & take away de la mejor comida japonesa.",
+			"url": "https://misssushi.es/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/miss-sushi-logo-1-1.png",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638180793.png",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/miss-sushi-portada.jpeg",
+			"sector": {
+				"id": 2,
+				"name": "Restaurante",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+				"created": "2021-05-25T10:46:14.371617Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 22,
+					"name": "asiática",
+					"owner": null,
+					"sector": 2,
+					"created": "2021-10-21T20:53:02.997177Z"
+				},
+				{
+					"id": 17,
+					"name": "japonesa",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-21T19:14:13.483887Z"
+				},
+				{
+					"id": 16,
+					"name": "sushi",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-21T19:14:06.256566Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/8QZw",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-11-29T10:13:13.249393Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 121,
+			"name": "Distrito Ceviche",
+			"country": null,
+			"description": "Si compartes nuestra misma pasión por el ceviche o quieres empezar a sentirla, visítanos en nuestro restaurante de Calle Princesa 79, en nuestro puesto n° 17 del Mercado de La Paz  o en nuestro puesto del Mercado de Vallehermoso 36. También puedes venir a recoger tu pedido o incluso, pedir a domicilio a través de nuestra página web o plataformas asociadas. Llámanos y estaremos encantados de ayudarte. Todas las locaciones tienen cartas distintas,",
+			"url": "https://www.distritoceviche.com/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/distrito-cevivhe-logo-1-1.png",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638181745.png",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/distrito-ceviche-portada.jpeg",
+			"sector": {
+				"id": 2,
+				"name": "Restaurante",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+				"created": "2021-05-25T10:46:14.371617Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 53,
+					"name": "ceviche",
+					"owner": null,
+					"sector": null,
+					"created": "2021-11-29T10:28:59.539689Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/D2KP",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-11-29T10:29:05.333711Z",
+			"selected_offer": {
+				"id": 222,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Distrito Ceviche 10%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false
+			},
+			"offers_count": 1
+		},
+		{
+			"id": 122,
+			"name": "Good News",
+			"country": null,
+			"description": "¡Esto no va solo de buen café, ni de café solo!\r\n\r\nBuen rollo, alegría, positivismo, felicidad o empoderamiento, son algunos de los Good Feelings que sentirás con cada sorbo de un café GoodNews.\r\n\r\n¡Disfruta del buen rollo que te dará beberte el café GoodNews!",
+			"url": "https://goodnewsco.es/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/good-news-logo-1-1.png",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638184510.png",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/good-news-portada.jpeg",
+			"sector": {
+				"id": 5,
+				"name": "Cafetería",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+				"created": "2021-05-25T10:48:41.547333Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 54,
+					"name": "café",
+					"owner": null,
+					"sector": null,
+					"created": "2021-11-29T11:15:07.797534Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/Sbq9",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-11-29T11:15:10.513173Z",
+			"selected_offer": {
+				"id": 223,
+				"reward": "12.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Good News 12%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false
+			},
+			"offers_count": 1
+		},
+		{
+			"id": 123,
+			"name": "Mistura",
+			"country": null,
+			"description": "Helados artesanos de alta calidad elaborados con materias primas naturales, personalizables y mezclados sobre una plancha de cuarzo.",
+			"url": "https://misturaicecream.com/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/mistura-logo-1-1.png",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638187452.png",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/mistura-portada.jpeg",
+			"sector": {
+				"id": 6,
+				"name": "Heladería",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_oEA91PT.svg",
+				"created": "2021-05-25T10:48:59.349078Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 55,
+					"name": "helado",
+					"owner": null,
+					"sector": null,
+					"created": "2021-11-29T12:03:57.629516Z"
+				},
+				{
+					"id": 56,
+					"name": "icecream",
+					"owner": null,
+					"sector": null,
+					"created": "2021-11-29T12:04:08.836732Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/RF2L",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-11-29T12:04:12.389745Z",
+			"selected_offer": {
+				"id": 226,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Mistura 15%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false
+			},
+			"offers_count": 1
+		},
+		{
+			"id": 124,
+			"name": "BaRRa de Pintxos",
+			"country": null,
+			"description": "Recetas caseras con toques de autor. Tu lugar perfecto para tapear y comer bien con nuestros pintxos Canallas XL y cazuelas",
+			"url": "https://barradepintxos.com/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/barra-de-pintxos-logo-1-1.png",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638189433.png",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/barra-de-pintxos-portada.jpeg",
+			"sector": {
+				"id": 2,
+				"name": "Restaurante",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+				"created": "2021-05-25T10:46:14.371617Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 57,
+					"name": "pintxos",
+					"owner": null,
+					"sector": null,
+					"created": "2021-11-29T12:37:02.679581Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/b1ar",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-11-29T12:37:12.601056Z",
+			"selected_offer": {
+				"id": 227,
+				"reward": "3.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "Barra de pintxos 3€",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false
+			},
+			"offers_count": 1
+		},
+		{
+			"id": 125,
+			"name": "Le Coq",
+			"country": null,
+			"description": "Le Coq no es solo la mejor rotisserie de aves a las brasas de España, también Le Coq es un modelo de negocio donde todo \"gira\" alrededor de nuestros pollos frescos y de primerísima calidad, marinados previamente con las recetas secretas Le Coq que hacen que la experiencia sea inolvidable y te apetezca repetir una y otra vez.\r\nLe Coq es un viaje permanente por diferentes lugares del mundo, desde la tradición de Francia al exotismo de India o Japón o brindarte la oportunidad de probar el famoso pollo peruano o disfrutar con los sabores de México o Argentina.",
+			"url": "https://lcq.es/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/le-coq-logo-1-1.png",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638190657.png",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/le-coq-portada.jpeg",
+			"sector": {
+				"id": 2,
+				"name": "Restaurante",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+				"created": "2021-05-25T10:46:14.371617Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 59,
+					"name": "pollo asado",
+					"owner": null,
+					"sector": null,
+					"created": "2021-11-29T12:57:34.252585Z"
+				},
+				{
+					"id": 58,
+					"name": "rotisserie",
+					"owner": null,
+					"sector": null,
+					"created": "2021-11-29T12:57:28.377827Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/ut8s",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-11-29T12:57:37.328075Z",
+			"selected_offer": {
+				"id": 228,
+				"reward": "7.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Le Coq 7%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false
+			},
+			"offers_count": 1
+		},
+		{
+			"id": 126,
+			"name": "Kilómetros de Pizza",
+			"country": null,
+			"description": "¡Las pizzas campeonas del mundo por fin en tu ciudad!\r\nDespués de 7 años, más de 3 millones de clientes satisfechos, 8 restaurantes propios y mucho, mucho aprendido… estamos preparados para desembarcar contigo en tu ciudad. Si quieres triunfar con un concepto único en el mundo y obtener estupendas rentabilidades esta es tu oportunidad. Si compartes la filosofía “el ojo del amo, engorda el caballo” te acompañaremos al éxito de principio a fin.",
+			"url": "https://kilometrosdepizza.com/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/km-pizza-logo-1-1.png",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638192019.png",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/km-pizza-portada.jpeg",
+			"sector": {
+				"id": 3,
+				"name": "Fast Food",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+				"created": "2021-05-25T10:47:39.210359Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 19,
+					"name": "pizza",
+					"owner": null,
+					"sector": 3,
+					"created": "2021-10-21T20:22:48.209376Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/6bFF",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-11-29T13:20:18.931261Z",
+			"selected_offer": {
+				"id": 236,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Kilómetros de pizza 10%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false
+			},
+			"offers_count": 1
+		},
+		{
+			"id": 127,
+			"name": "Fratelli Figurato",
+			"country": null,
+			"description": "Dos hermanos napolitanos con una pasión fortísima por la gastronomía italiana. Dejan sus carreras en marketing y business para seguir su gran sueño: llevar la comida italiana popular hasta España, abarcando desde la PIZZA NAPOLETANA, pasando por la PASTA FRESCA, que hacen a diario, y finalizando con las recetas más tradicionales de las abuelas italianas",
+			"url": "https://www.fratellifigurato.es/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/fratelli-figurato-logo-1-1.png",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638193317.png",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_K4GzfQw.jpg",
+			"sector": {
+				"id": 3,
+				"name": "Fast Food",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+				"created": "2021-05-25T10:47:39.210359Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 20,
+					"name": "italiano",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-21T20:22:55.462166Z"
+				},
+				{
+					"id": 19,
+					"name": "pizza",
+					"owner": null,
+					"sector": 3,
+					"created": "2021-10-21T20:22:48.209376Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/G3Mm",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-11-29T13:41:57.782595Z",
+			"selected_offer": null,
+			"offers_count": 0
+		},
+		{
+			"id": 128,
+			"name": "Viena Capellanes",
+			"country": null,
+			"description": "Lo que empezó en 1873 como una pequeña tahona donde se elaboraba el pan de Viena, se ha convertido hoy en una empresa de cientos de trabajadores, líder en el sector del catering y la repostería, gracias a todos los clientes que diariamente depositan en nosotros su confianza.",
+			"url": "https://www.vienacapellanes.com/",
+			"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/viena-capellanes-logo-1-1.png",
+			"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638194107.png",
+			"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/viena-capellanes-portada.jpeg",
+			"sector": {
+				"id": 39,
+				"name": "Pastelería",
+				"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_ZyBTS6v.svg",
+				"created": "2021-11-29T13:54:48.886365Z"
+			},
+			"descriptive_categories": [
+				{
+					"id": 25,
+					"name": "pan",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-21T21:05:17.331228Z"
+				},
+				{
+					"id": 23,
+					"name": "panadería",
+					"owner": null,
+					"sector": null,
+					"created": "2021-10-21T21:04:59.592984Z"
+				},
+				{
+					"id": 60,
+					"name": "repostería",
+					"owner": null,
+					"sector": null,
+					"created": "2021-11-29T13:55:03.905322Z"
+				}
+			],
+			"return_period": 0,
+			"dynamic_link": "https://app.dev.woowbe.com/share/TYCN",
+			"is_franchisee_of": null,
+			"is_favorite": false,
+			"created": "2021-11-29T13:55:07.721203Z",
+			"selected_offer": {
+				"id": 238,
+				"reward": "9.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Viena Capellanes 9%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false
+			},
+			"offers_count": 1
+		}
+	]
+}

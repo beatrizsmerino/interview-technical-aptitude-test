@@ -1,0 +1,786 @@
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=18",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=16",
+	"results": [
+		{
+			"id": 628,
+			"business": {
+				"id": 132,
+				"name": "Panaria",
+				"country": null,
+				"description": "Es el sitio para llevar a tus hijos a merendar o donde comer un bocadillo con una cervecita.\r\nAdemás, si quieres darte un capricho puedes hacerlo con nuestra bollería de calidad o con nuestros batidos y smoothies.\r\nUna carta variada y fresca para que cada vez que nos visites puedas probar algo que combine con tu antojo del día.",
+				"url": "https://panariapanaderias.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/panaria-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197657.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/panaria-portada.webp",
+				"sector": {
+					"id": 19,
+					"name": "Panadería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_I8A0AM0.svg",
+					"created": "2021-05-25T11:05:24.276505Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/qXUY",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T14:54:17.332159Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.2013305,
+					19.436127
+				]
+			},
+			"address": "Avenida Moliere",
+			"number": "173",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:31.221202Z",
+			"place_id": "ElRBdmVuaWRhIE1vbGllcmUgMTczLCBQb2xhbmNvLCBQb2xhbmNvIElJSSBTZWNjacOzbiwgQ2l1ZGFkIGRlIE3DqXhpY28sIENETVgsIE3DqXhpY28iURJPCjQKMgnPAcJNGwLShRH7Ml9ozQi0JBoeCxDuwe6hARoUChIJ-WLFWgIC0oUR0BPHe2EVjEUMEK0BKhQKEgk7PnZTGwLShRHb7-sky0_RPQ",
+			"formatted_address": "Av Moliere 173, Polanco, Polanco II Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T13:24:18.588567Z",
+			"selected_offer": {
+				"id": 244,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Panaria 10%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 627,
+			"business": {
+				"id": 132,
+				"name": "Panaria",
+				"country": null,
+				"description": "Es el sitio para llevar a tus hijos a merendar o donde comer un bocadillo con una cervecita.\r\nAdemás, si quieres darte un capricho puedes hacerlo con nuestra bollería de calidad o con nuestros batidos y smoothies.\r\nUna carta variada y fresca para que cada vez que nos visites puedas probar algo que combine con tu antojo del día.",
+				"url": "https://panariapanaderias.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/panaria-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197657.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/panaria-portada.webp",
+				"sector": {
+					"id": 19,
+					"name": "Panadería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_I8A0AM0.svg",
+					"created": "2021-05-25T11:05:24.276505Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/qXUY",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T14:54:17.332159Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.1993116,
+					19.4292307
+				]
+			},
+			"address": "Calle Calderón de la Barca",
+			"number": "40",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:31.404209Z",
+			"place_id": "El9DYWxsZSBDYWxkZXLDs24gZGUgbGEgQmFyY2EgNDAsIFBvbGFuY28sIFBvbGFuY28gSUlJIFNlY2Npw7NuLCBDaXVkYWQgZGUgTcOpeGljbywgQ0RNWCwgTcOpeGljbyJQEk4KNAoyCUdvLBX4AdKFEdVXYrOs1-_kGh4LEO7B7qEBGhQKEgn5YsVaAgLShRHQE8d7YRWMRQwQKCoUChIJL2wAHgMC0oURk-pVg6wPGSE",
+			"formatted_address": "C. Calderón de la Barca 40, Polanco, Polanco III Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T13:23:37.662380Z",
+			"selected_offer": {
+				"id": 244,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Panaria 10%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 625,
+			"business": {
+				"id": 132,
+				"name": "Panaria",
+				"country": null,
+				"description": "Es el sitio para llevar a tus hijos a merendar o donde comer un bocadillo con una cervecita.\r\nAdemás, si quieres darte un capricho puedes hacerlo con nuestra bollería de calidad o con nuestros batidos y smoothies.\r\nUna carta variada y fresca para que cada vez que nos visites puedas probar algo que combine con tu antojo del día.",
+				"url": "https://panariapanaderias.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/panaria-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638197657.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/panaria-portada.webp",
+				"sector": {
+					"id": 19,
+					"name": "Panadería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_I8A0AM0.svg",
+					"created": "2021-05-25T11:05:24.276505Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/qXUY",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T14:54:17.332159Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.1933931,
+					19.4293386
+				]
+			},
+			"address": "Avenida Emilio Castelar",
+			"number": "29",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:31.515916Z",
+			"place_id": "ChIJ30kZbv8B0oURjs8LuomjDoQ",
+			"formatted_address": "Av. Emilio Castelar 29, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T13:22:07.426722Z",
+			"selected_offer": {
+				"id": 244,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Panaria 10%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 624,
+			"business": {
+				"id": 123,
+				"name": "Mistura",
+				"country": null,
+				"description": "Helados artesanos de alta calidad elaborados con materias primas naturales, personalizables y mezclados sobre una plancha de cuarzo.",
+				"url": "https://misturaicecream.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/mistura-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638187452.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/mistura-portada.jpeg",
+				"sector": {
+					"id": 6,
+					"name": "Heladería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_oEA91PT.svg",
+					"created": "2021-05-25T10:48:59.349078Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 55,
+						"name": "helado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T12:03:57.629516Z"
+					},
+					{
+						"id": 56,
+						"name": "icecream",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T12:04:08.836732Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/RF2L",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T12:04:12.389745Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.1993099,
+					19.4292404
+				]
+			},
+			"address": "Calle Calderón de la Barca",
+			"number": "50",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:31.795625Z",
+			"place_id": "El9DYWxsZSBDYWxkZXLDs24gZGUgbGEgQmFyY2EgNTAsIFBvbGFuY28sIFBvbGFuY28gSUlJIFNlY2Npw7NuLCBDaXVkYWQgZGUgTcOpeGljbywgQ0RNWCwgTcOpeGljbyJQEk4KNAoyCUdvLBX4AdKFEdVXYrOs1-_kGh4LEO7B7qEBGhQKEgn5YsVaAgLShRHQE8d7YRWMRQwQMioUChIJL2wAHgMC0oURk-pVg6wPGSE",
+			"formatted_address": "C. Calderón de la Barca 50, Polanco, Polanco III Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T13:07:46.196614Z",
+			"selected_offer": {
+				"id": 226,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Mistura 15%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 623,
+			"business": {
+				"id": 123,
+				"name": "Mistura",
+				"country": null,
+				"description": "Helados artesanos de alta calidad elaborados con materias primas naturales, personalizables y mezclados sobre una plancha de cuarzo.",
+				"url": "https://misturaicecream.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/mistura-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638187452.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/mistura-portada.jpeg",
+				"sector": {
+					"id": 6,
+					"name": "Heladería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_oEA91PT.svg",
+					"created": "2021-05-25T10:48:59.349078Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 55,
+						"name": "helado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T12:03:57.629516Z"
+					},
+					{
+						"id": 56,
+						"name": "icecream",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T12:04:08.836732Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/RF2L",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T12:04:12.389745Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.194661,
+					19.429712
+				]
+			},
+			"address": "Avenida Emilio Castelar",
+			"number": "83",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:32.005247Z",
+			"place_id": "ChIJq1ntWv8B0oURBjQDr1TbfBI",
+			"formatted_address": "Av. Emilio Castelar 83, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T13:00:54.030998Z",
+			"selected_offer": {
+				"id": 226,
+				"reward": "15.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Mistura 15%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 622,
+			"business": {
+				"id": 124,
+				"name": "BaRRa de Pintxos",
+				"country": null,
+				"description": "Recetas caseras con toques de autor. Tu lugar perfecto para tapear y comer bien con nuestros pintxos Canallas XL y cazuelas",
+				"url": "https://barradepintxos.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/barra-de-pintxos-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638189433.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/barra-de-pintxos-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 57,
+						"name": "pintxos",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T12:37:02.679581Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/b1ar",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T12:37:12.601056Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.1992724,
+					19.4288571
+				]
+			},
+			"address": "Calle Calderón de la Barca",
+			"number": "27",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:32.194958Z",
+			"place_id": "ChIJeVXxafgB0oURzzyMGsbxC20",
+			"formatted_address": "C. Calderón de la Barca 27, Polanco, Polanco III Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T12:49:00.927218Z",
+			"selected_offer": {
+				"id": 227,
+				"reward": "3.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "Barra de pintxos 3€",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 100,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 621,
+			"business": {
+				"id": 124,
+				"name": "BaRRa de Pintxos",
+				"country": null,
+				"description": "Recetas caseras con toques de autor. Tu lugar perfecto para tapear y comer bien con nuestros pintxos Canallas XL y cazuelas",
+				"url": "https://barradepintxos.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/barra-de-pintxos-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638189433.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/barra-de-pintxos-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 57,
+						"name": "pintxos",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T12:37:02.679581Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/b1ar",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T12:37:12.601056Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.2018895,
+					19.4317023
+				]
+			},
+			"address": "Avenida Moliere",
+			"number": "65",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:32.405354Z",
+			"place_id": "ElNBdmVuaWRhIE1vbGllcmUgNjUsIFBvbGFuY28sIFBvbGFuY28gSUlJIFNlY2Npw7NuLCBDaXVkYWQgZGUgTcOpeGljbywgQ0RNWCwgTcOpeGljbyJQEk4KNAoyCe1M3EEdAtKFETDjQCQ0gHU2Gh4LEO7B7qEBGhQKEgn5YsVaAgLShRHQE8d7YRWMRQwQQSoUChIJOz52UxsC0oUR2-_rJMtP0T0",
+			"formatted_address": "Av Moliere 65, Polanco, Polanco II Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T12:48:40.840035Z",
+			"selected_offer": {
+				"id": 227,
+				"reward": "3.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "Barra de pintxos 3€",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 100,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 620,
+			"business": {
+				"id": 124,
+				"name": "BaRRa de Pintxos",
+				"country": null,
+				"description": "Recetas caseras con toques de autor. Tu lugar perfecto para tapear y comer bien con nuestros pintxos Canallas XL y cazuelas",
+				"url": "https://barradepintxos.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/barra-de-pintxos-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638189433.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/barra-de-pintxos-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 57,
+						"name": "pintxos",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T12:37:02.679581Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/b1ar",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T12:37:12.601056Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.1944372,
+					19.4295055
+				]
+			},
+			"address": "Avenida Emilio Castelar",
+			"number": "140",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:32.612772Z",
+			"place_id": "ChIJM828RP8B0oURRm8XLFvKZL4",
+			"formatted_address": "Av. Emilio Castelar 140, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T12:48:18.976638Z",
+			"selected_offer": {
+				"id": 227,
+				"reward": "3.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "Barra de pintxos 3€",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 100,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 619,
+			"business": {
+				"id": 125,
+				"name": "Le Coq",
+				"country": null,
+				"description": "Le Coq no es solo la mejor rotisserie de aves a las brasas de España, también Le Coq es un modelo de negocio donde todo \"gira\" alrededor de nuestros pollos frescos y de primerísima calidad, marinados previamente con las recetas secretas Le Coq que hacen que la experiencia sea inolvidable y te apetezca repetir una y otra vez.\r\nLe Coq es un viaje permanente por diferentes lugares del mundo, desde la tradición de Francia al exotismo de India o Japón o brindarte la oportunidad de probar el famoso pollo peruano o disfrutar con los sabores de México o Argentina.",
+				"url": "https://lcq.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/le-coq-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638190657.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/le-coq-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 59,
+						"name": "pollo asado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T12:57:34.252585Z"
+					},
+					{
+						"id": 58,
+						"name": "rotisserie",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T12:57:28.377827Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/ut8s",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T12:57:37.328075Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.199056,
+					19.4306634
+				]
+			},
+			"address": "Calle Calderón de la Barca",
+			"number": "67",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:32.814781Z",
+			"place_id": "ChIJN7_4mgIC0oURUJilZIW9SGI",
+			"formatted_address": "C. Calderón de la Barca 67, Polanco, Polanco III Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T12:45:49.486564Z",
+			"selected_offer": {
+				"id": 228,
+				"reward": "7.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Le Coq 7%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 618,
+			"business": {
+				"id": 125,
+				"name": "Le Coq",
+				"country": null,
+				"description": "Le Coq no es solo la mejor rotisserie de aves a las brasas de España, también Le Coq es un modelo de negocio donde todo \"gira\" alrededor de nuestros pollos frescos y de primerísima calidad, marinados previamente con las recetas secretas Le Coq que hacen que la experiencia sea inolvidable y te apetezca repetir una y otra vez.\r\nLe Coq es un viaje permanente por diferentes lugares del mundo, desde la tradición de Francia al exotismo de India o Japón o brindarte la oportunidad de probar el famoso pollo peruano o disfrutar con los sabores de México o Argentina.",
+				"url": "https://lcq.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/le-coq-logo-1-1.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1638190657.png",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/le-coq-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 59,
+						"name": "pollo asado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T12:57:34.252585Z"
+					},
+					{
+						"id": 58,
+						"name": "rotisserie",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T12:57:28.377827Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/ut8s",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T12:57:37.328075Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-99.2017477,
+					19.435991
+				]
+			},
+			"address": "Avenida Moliere",
+			"number": "214",
+			"postal_code": "11550",
+			"state": "",
+			"city": "Ciudad de México",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:33.192342Z",
+			"place_id": "ElRBdmVuaWRhIE1vbGllcmUgMjE0LCBQb2xhbmNvLCBQb2xhbmNvIElJSSBTZWNjacOzbiwgQ2l1ZGFkIGRlIE3DqXhpY28sIENETVgsIE3DqXhpY28iURJPCjQKMglBAs6uHALShREU_6PwSrxRpRoeCxDuwe6hARoUChIJ-WLFWgIC0oUR0BPHe2EVjEUMENYBKhQKEgk7PnZTGwLShRHb7-sky0_RPQ",
+			"formatted_address": "Av Moliere 214, Polanco, Polanco II Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-05-18T12:45:31.273192Z",
+			"selected_offer": {
+				"id": 228,
+				"reward": "7.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "Le Coq 7%",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

@@ -1,0 +1,815 @@
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=43",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=41",
+	"results": [
+		{
+			"id": 361,
+			"business": {
+				"id": 105,
+				"name": "Yelmo cines",
+				"country": null,
+				"description": "Entradas para Yelmo Cines Ideal, Madrid. Todas las películas en cartelera con sus sesiones. Encuentra los últimos estrenos y compra online tu entrada.",
+				"url": "https://yelmocines.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_v1Xv6ub.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635150057.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_7IQTAo0.jpg",
+				"sector": {
+					"id": 36,
+					"name": "Cines y teatros",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/leisure.svg",
+					"created": "2021-05-25T11:18:32.648878Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 33,
+						"name": "cine",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:34.660757Z"
+					},
+					{
+						"id": 34,
+						"name": "estrenos",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:39.287584Z"
+					},
+					{
+						"id": 35,
+						"name": "películas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:44.904194Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/dL7x",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T08:12:47.343417Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7374791,
+					40.3637278
+				]
+			},
+			"address": "Calle Calderilla",
+			"number": "1",
+			"postal_code": "28054",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:16.698288Z",
+			"place_id": "ChIJwwsdmnsnQg0Rzwydo1f4Foc",
+			"formatted_address": "C. Calderilla, 1, 28054 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T08:22:00.802544Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 360,
+			"business": {
+				"id": 105,
+				"name": "Yelmo cines",
+				"country": null,
+				"description": "Entradas para Yelmo Cines Ideal, Madrid. Todas las películas en cartelera con sus sesiones. Encuentra los últimos estrenos y compra online tu entrada.",
+				"url": "https://yelmocines.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_v1Xv6ub.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635150057.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_7IQTAo0.jpg",
+				"sector": {
+					"id": 36,
+					"name": "Cines y teatros",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/leisure.svg",
+					"created": "2021-05-25T11:18:32.648878Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 33,
+						"name": "cine",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:34.660757Z"
+					},
+					{
+						"id": 34,
+						"name": "estrenos",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:39.287584Z"
+					},
+					{
+						"id": 35,
+						"name": "películas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:44.904194Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/dL7x",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T08:12:47.343417Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.587576,
+					40.4475939
+				]
+			},
+			"address": "Calle de Aracne",
+			"number": "s/n",
+			"postal_code": "28022",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:16.717276Z",
+			"place_id": "ChIJMUjmCtovQg0Rvqd6GZQ4qkc",
+			"formatted_address": "C. de Aracne, s/n, 28022 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T08:21:46.627063Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 359,
+			"business": {
+				"id": 105,
+				"name": "Yelmo cines",
+				"country": null,
+				"description": "Entradas para Yelmo Cines Ideal, Madrid. Todas las películas en cartelera con sus sesiones. Encuentra los últimos estrenos y compra online tu entrada.",
+				"url": "https://yelmocines.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_v1Xv6ub.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635150057.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_7IQTAo0.jpg",
+				"sector": {
+					"id": 36,
+					"name": "Cines y teatros",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/leisure.svg",
+					"created": "2021-05-25T11:18:32.648878Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 33,
+						"name": "cine",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:34.660757Z"
+					},
+					{
+						"id": 34,
+						"name": "estrenos",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:39.287584Z"
+					},
+					{
+						"id": 35,
+						"name": "películas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:44.904194Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/dL7x",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T08:12:47.343417Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7008983,
+					40.43014489999999
+				]
+			},
+			"address": "Calle de Luchana",
+			"number": "15",
+			"postal_code": "28010",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:16.729132Z",
+			"place_id": "ChIJXf4jUIooQg0RHOCca_1PI58",
+			"formatted_address": "Calle de Luchana, 15, 28010 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T08:21:31.508164Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 358,
+			"business": {
+				"id": 105,
+				"name": "Yelmo cines",
+				"country": null,
+				"description": "Entradas para Yelmo Cines Ideal, Madrid. Todas las películas en cartelera con sus sesiones. Encuentra los últimos estrenos y compra online tu entrada.",
+				"url": "https://yelmocines.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_v1Xv6ub.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635150057.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_7IQTAo0.jpg",
+				"sector": {
+					"id": 36,
+					"name": "Cines y teatros",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/leisure.svg",
+					"created": "2021-05-25T11:18:32.648878Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 33,
+						"name": "cine",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:34.660757Z"
+					},
+					{
+						"id": 34,
+						"name": "estrenos",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:39.287584Z"
+					},
+					{
+						"id": 35,
+						"name": "películas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T08:12:44.904194Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/dL7x",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T08:12:47.343417Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7038405,
+					40.4135301
+				]
+			},
+			"address": "Calle del Doctor Cortezo",
+			"number": "6",
+			"postal_code": "28012",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:16.802964Z",
+			"place_id": "ChIJ__-_7X8oQg0RBUv4ezw7UbY",
+			"formatted_address": "Cine Ideal, Calle del Dr Cortezo, 6, 28012 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T08:21:16.376598Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 357,
+			"business": {
+				"id": 104,
+				"name": "Subway",
+				"country": null,
+				"description": "Subway IP Inc. es una cadena de restaurantes de comida rápida estadounidense especializada en la elaboración de sándwich submarino y bocadillos, ensaladas y pizza por ración. Su sede central se encuentra en Milford. Se encuentra en la tercera posición a nivel de negocios, por detrás de McDonald's y KFC.​",
+				"url": "https://subwayspain.com/es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ZDYBoWe.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635148401.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_bpjdx7E.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 32,
+						"name": "bocadillo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T07:50:16.230899Z"
+					},
+					{
+						"id": 31,
+						"name": "sandwich",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T07:50:09.597799Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/UQmb",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T07:50:19.935271Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6592602,
+					40.5205288
+				]
+			},
+			"address": "Avenida de Europa",
+			"number": "8",
+			"postal_code": "28108",
+			"state": "Madrid",
+			"city": "Alcobendas",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:17.016089Z",
+			"place_id": "ChIJo_K9bHQsQg0Rc64ywTkESTM",
+			"formatted_address": "Av. de Europa, 8, 28108 Alcobendas, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T07:58:41.836420Z",
+			"selected_offer": {
+				"id": 196,
+				"reward": "3.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "3€ por tus menus sandwich",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 0,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 356,
+			"business": {
+				"id": 104,
+				"name": "Subway",
+				"country": null,
+				"description": "Subway IP Inc. es una cadena de restaurantes de comida rápida estadounidense especializada en la elaboración de sándwich submarino y bocadillos, ensaladas y pizza por ración. Su sede central se encuentra en Milford. Se encuentra en la tercera posición a nivel de negocios, por detrás de McDonald's y KFC.​",
+				"url": "https://subwayspain.com/es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ZDYBoWe.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635148401.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_bpjdx7E.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 32,
+						"name": "bocadillo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T07:50:16.230899Z"
+					},
+					{
+						"id": 31,
+						"name": "sandwich",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T07:50:09.597799Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/UQmb",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T07:50:19.935271Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7361155,
+					40.3386624
+				]
+			},
+			"address": "Avenida de Gran Bretaña",
+			"number": "s/n",
+			"postal_code": "28916",
+			"state": "Madrid",
+			"city": "Leganés",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:17.190700Z",
+			"place_id": "ChIJ5QFm91AnQg0R_hlFPHbUaYI",
+			"formatted_address": "Av. de Gran Bretaña, s/n, 28916 Leganés, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T07:58:26.453260Z",
+			"selected_offer": {
+				"id": 196,
+				"reward": "3.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "3€ por tus menus sandwich",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 0,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 355,
+			"business": {
+				"id": 104,
+				"name": "Subway",
+				"country": null,
+				"description": "Subway IP Inc. es una cadena de restaurantes de comida rápida estadounidense especializada en la elaboración de sándwich submarino y bocadillos, ensaladas y pizza por ración. Su sede central se encuentra en Milford. Se encuentra en la tercera posición a nivel de negocios, por detrás de McDonald's y KFC.​",
+				"url": "https://subwayspain.com/es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ZDYBoWe.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635148401.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_bpjdx7E.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 32,
+						"name": "bocadillo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T07:50:16.230899Z"
+					},
+					{
+						"id": 31,
+						"name": "sandwich",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T07:50:09.597799Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/UQmb",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T07:50:19.935271Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6554383,
+					40.5185774
+				]
+			},
+			"address": "Avenida de Europa",
+			"number": "13",
+			"postal_code": "28100",
+			"state": "Madrid",
+			"city": "Alcobendas",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:17.495508Z",
+			"place_id": "ChIJhWlJWp4sQg0RNO1kbJSy8KI",
+			"formatted_address": "Av. de Europa, 13, 28100 Alcobendas, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T07:57:56.042220Z",
+			"selected_offer": {
+				"id": 196,
+				"reward": "3.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "3€ por tus menus sandwich",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 0,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 354,
+			"business": {
+				"id": 104,
+				"name": "Subway",
+				"country": null,
+				"description": "Subway IP Inc. es una cadena de restaurantes de comida rápida estadounidense especializada en la elaboración de sándwich submarino y bocadillos, ensaladas y pizza por ración. Su sede central se encuentra en Milford. Se encuentra en la tercera posición a nivel de negocios, por detrás de McDonald's y KFC.​",
+				"url": "https://subwayspain.com/es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ZDYBoWe.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635148401.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_bpjdx7E.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 32,
+						"name": "bocadillo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T07:50:16.230899Z"
+					},
+					{
+						"id": 31,
+						"name": "sandwich",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T07:50:09.597799Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/UQmb",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T07:50:19.935271Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7771032,
+					40.3603546
+				]
+			},
+			"address": "Calle de Mondragón",
+			"number": "s/n",
+			"postal_code": "28917",
+			"state": "Madrid",
+			"city": "Leganés",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:17.622095Z",
+			"place_id": "ChIJBc05cK-JQQ0RdhdB5DDWf6U",
+			"formatted_address": "C. de Mondragón, s/n, 28917 Leganés, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T07:57:40.696538Z",
+			"selected_offer": {
+				"id": 196,
+				"reward": "3.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "3€ por tus menus sandwich",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 0,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 353,
+			"business": {
+				"id": 104,
+				"name": "Subway",
+				"country": null,
+				"description": "Subway IP Inc. es una cadena de restaurantes de comida rápida estadounidense especializada en la elaboración de sándwich submarino y bocadillos, ensaladas y pizza por ración. Su sede central se encuentra en Milford. Se encuentra en la tercera posición a nivel de negocios, por detrás de McDonald's y KFC.​",
+				"url": "https://subwayspain.com/es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ZDYBoWe.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635148401.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_bpjdx7E.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 32,
+						"name": "bocadillo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T07:50:16.230899Z"
+					},
+					{
+						"id": 31,
+						"name": "sandwich",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T07:50:09.597799Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/UQmb",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T07:50:19.935271Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.688889,
+					40.4517894
+				]
+			},
+			"address": "Avenida de Concha Espina",
+			"number": "6",
+			"postal_code": "28036",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:17.711888Z",
+			"place_id": "ChIJxekINuIoQg0RQaiQy9ClSi4",
+			"formatted_address": "Av. de Concha Espina, 6, 28036 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T07:57:26.866696Z",
+			"selected_offer": {
+				"id": 196,
+				"reward": "3.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "3€ por tus menus sandwich",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 0,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 352,
+			"business": {
+				"id": 104,
+				"name": "Subway",
+				"country": null,
+				"description": "Subway IP Inc. es una cadena de restaurantes de comida rápida estadounidense especializada en la elaboración de sándwich submarino y bocadillos, ensaladas y pizza por ración. Su sede central se encuentra en Milford. Se encuentra en la tercera posición a nivel de negocios, por detrás de McDonald's y KFC.​",
+				"url": "https://subwayspain.com/es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ZDYBoWe.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635148401.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_bpjdx7E.jpg",
+				"sector": {
+					"id": 3,
+					"name": "Fast Food",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_TPGNuc7.svg",
+					"created": "2021-05-25T10:47:39.210359Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 32,
+						"name": "bocadillo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T07:50:16.230899Z"
+					},
+					{
+						"id": 31,
+						"name": "sandwich",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T07:50:09.597799Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/UQmb",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T07:50:19.935271Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7428726,
+					40.3407111
+				]
+			},
+			"address": "Avenida de Gran Bretaña",
+			"number": "",
+			"postal_code": "28916",
+			"state": "Madrid",
+			"city": "Leganés",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:17.750195Z",
+			"place_id": "EjVBdi4gZGUgR3JhbiBCcmV0YcOxYSwgMjg5MTYgTGVnYW7DqXMsIE1hZHJpZCwgRXNwYcOxYSIuKiwKFAoSCXXtC6lRJ0INET6vKqpuGj6FEhQKEglXueyjTydCDRFAqIsz90ADHA",
+			"formatted_address": "Av. de Gran Bretaña, 28916 Leganés, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T07:57:12.156358Z",
+			"selected_offer": {
+				"id": 196,
+				"reward": "3.00",
+				"reward_type": "fixed",
+				"kind": "B",
+				"instant": false,
+				"name": "3€ por tus menus sandwich",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": 0,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

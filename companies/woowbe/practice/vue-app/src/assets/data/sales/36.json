@@ -1,0 +1,827 @@
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=37",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=35",
+	"results": [
+		{
+			"id": 421,
+			"business": {
+				"id": 110,
+				"name": "Marco Aldany",
+				"country": null,
+				"description": "La cadena líder en el sector de la peluquería y estética femenina y másculina en España con más de 400 salones. ¡Sin cita previa y al mejor precio!",
+				"url": "https://www.marcoaldany.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_SjjTIjm.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635167238.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_UAKZThD.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					},
+					{
+						"id": 40,
+						"name": "peinado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:38.018824Z"
+					},
+					{
+						"id": 42,
+						"name": "pelo",
+						"owner": null,
+						"sector": 44,
+						"created": "2021-10-25T13:02:49.420892Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/VNTe",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T13:02:51.421328Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6538081,
+					40.4668629
+				]
+			},
+			"address": "Gran Vía de Hortaleza",
+			"number": "",
+			"postal_code": "",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:09.521948Z",
+			"place_id": "EidHcmFuIFbDrWEgZGUgSG9ydGFsZXphLCBNYWRyaWQsIEVzcGHDsWEiLiosChQKEgkLB3VsxS5CDRH0ksSD_PbDrBIUChIJgTwKgJcpQg0RaSKMYcHeNsQ",
+			"formatted_address": "Gran Vía de Hortaleza, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T13:12:03.009421Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 420,
+			"business": {
+				"id": 110,
+				"name": "Marco Aldany",
+				"country": null,
+				"description": "La cadena líder en el sector de la peluquería y estética femenina y másculina en España con más de 400 salones. ¡Sin cita previa y al mejor precio!",
+				"url": "https://www.marcoaldany.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_SjjTIjm.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635167238.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_UAKZThD.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					},
+					{
+						"id": 40,
+						"name": "peinado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:38.018824Z"
+					},
+					{
+						"id": 42,
+						"name": "pelo",
+						"owner": null,
+						"sector": 44,
+						"created": "2021-10-25T13:02:49.420892Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/VNTe",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T13:02:51.421328Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7146172,
+					40.4415083
+				]
+			},
+			"address": "Paseo de San Francisco de Sales",
+			"number": "23",
+			"postal_code": "28003",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:09.805181Z",
+			"place_id": "ChIJSY9RbUUoQg0RfkWLORjF25g",
+			"formatted_address": "Paseo de S. Fco. de Sales, 23, 28003 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T13:11:48.233354Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 419,
+			"business": {
+				"id": 110,
+				"name": "Marco Aldany",
+				"country": null,
+				"description": "La cadena líder en el sector de la peluquería y estética femenina y másculina en España con más de 400 salones. ¡Sin cita previa y al mejor precio!",
+				"url": "https://www.marcoaldany.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_SjjTIjm.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635167238.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_UAKZThD.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					},
+					{
+						"id": 40,
+						"name": "peinado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:38.018824Z"
+					},
+					{
+						"id": 42,
+						"name": "pelo",
+						"owner": null,
+						"sector": 44,
+						"created": "2021-10-25T13:02:49.420892Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/VNTe",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T13:02:51.421328Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.707023,
+					40.4798322
+				]
+			},
+			"address": "Avenida de Monforte de Lemos",
+			"number": "36",
+			"postal_code": "28029",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:10.092475Z",
+			"place_id": "ChIJN8jMP5wpQg0R4ex88Tkmgis",
+			"formatted_address": "Av. de Monforte de Lemos, 36, 28029 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T13:11:34.591800Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 418,
+			"business": {
+				"id": 110,
+				"name": "Marco Aldany",
+				"country": null,
+				"description": "La cadena líder en el sector de la peluquería y estética femenina y másculina en España con más de 400 salones. ¡Sin cita previa y al mejor precio!",
+				"url": "https://www.marcoaldany.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_SjjTIjm.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635167238.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_UAKZThD.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					},
+					{
+						"id": 40,
+						"name": "peinado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:38.018824Z"
+					},
+					{
+						"id": 42,
+						"name": "pelo",
+						"owner": null,
+						"sector": 44,
+						"created": "2021-10-25T13:02:49.420892Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/VNTe",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T13:02:51.421328Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6963769,
+					40.4395435
+				]
+			},
+			"address": "Calle de Bretón de los Herreros",
+			"number": "45",
+			"postal_code": "28003",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:10.211892Z",
+			"place_id": "ChIJ7ZzOa_EoQg0RrRrM6ykl_GQ",
+			"formatted_address": "Calle de Bretón de los Herreros, 45, 28003 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T13:11:19.516793Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 417,
+			"business": {
+				"id": 110,
+				"name": "Marco Aldany",
+				"country": null,
+				"description": "La cadena líder en el sector de la peluquería y estética femenina y másculina en España con más de 400 salones. ¡Sin cita previa y al mejor precio!",
+				"url": "https://www.marcoaldany.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_SjjTIjm.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635167238.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_UAKZThD.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					},
+					{
+						"id": 40,
+						"name": "peinado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:38.018824Z"
+					},
+					{
+						"id": 42,
+						"name": "pelo",
+						"owner": null,
+						"sector": 44,
+						"created": "2021-10-25T13:02:49.420892Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/VNTe",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T13:02:51.421328Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6988523,
+					40.4123356
+				]
+			},
+			"address": "Calle de Atocha",
+			"number": "69",
+			"postal_code": "28014",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:10.319487Z",
+			"place_id": "ChIJxaJxEiomQg0RWruZtkCSAPQ",
+			"formatted_address": "C. de Atocha, 69, 28014 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T13:11:05.983219Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 416,
+			"business": {
+				"id": 110,
+				"name": "Marco Aldany",
+				"country": null,
+				"description": "La cadena líder en el sector de la peluquería y estética femenina y másculina en España con más de 400 salones. ¡Sin cita previa y al mejor precio!",
+				"url": "https://www.marcoaldany.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_SjjTIjm.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635167238.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_UAKZThD.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					},
+					{
+						"id": 40,
+						"name": "peinado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:38.018824Z"
+					},
+					{
+						"id": 42,
+						"name": "pelo",
+						"owner": null,
+						"sector": 44,
+						"created": "2021-10-25T13:02:49.420892Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/VNTe",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T13:02:51.421328Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6795822,
+					40.4385063
+				]
+			},
+			"address": "Calle del Príncipe de Vergara",
+			"number": "103",
+			"postal_code": "28006",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:10.697883Z",
+			"place_id": "ChIJPRoEb8EoQg0Ra8kWuweZaCI",
+			"formatted_address": "C. del Príncipe de Vergara, 103, 28006 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T13:10:53.749635Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 415,
+			"business": {
+				"id": 110,
+				"name": "Marco Aldany",
+				"country": null,
+				"description": "La cadena líder en el sector de la peluquería y estética femenina y másculina en España con más de 400 salones. ¡Sin cita previa y al mejor precio!",
+				"url": "https://www.marcoaldany.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_SjjTIjm.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635167238.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_UAKZThD.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					},
+					{
+						"id": 40,
+						"name": "peinado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:38.018824Z"
+					},
+					{
+						"id": 42,
+						"name": "pelo",
+						"owner": null,
+						"sector": 44,
+						"created": "2021-10-25T13:02:49.420892Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/VNTe",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T13:02:51.421328Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6822344,
+					40.4347491
+				]
+			},
+			"address": "Calle de Diego de León",
+			"number": "28",
+			"postal_code": "28006",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:10.795163Z",
+			"place_id": "ChIJl0eRG8AoQg0RIjycgQXEXuE",
+			"formatted_address": "Calle de Diego de León, 28, 28006 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T13:10:35.259678Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 414,
+			"business": {
+				"id": 110,
+				"name": "Marco Aldany",
+				"country": null,
+				"description": "La cadena líder en el sector de la peluquería y estética femenina y másculina en España con más de 400 salones. ¡Sin cita previa y al mejor precio!",
+				"url": "https://www.marcoaldany.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_SjjTIjm.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635167238.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_UAKZThD.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					},
+					{
+						"id": 40,
+						"name": "peinado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:38.018824Z"
+					},
+					{
+						"id": 42,
+						"name": "pelo",
+						"owner": null,
+						"sector": 44,
+						"created": "2021-10-25T13:02:49.420892Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/VNTe",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T13:02:51.421328Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.69276,
+					40.4408348
+				]
+			},
+			"address": "Calle de Zurbano",
+			"number": "95",
+			"postal_code": "28003",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:10.895493Z",
+			"place_id": "ChIJ60Qe1vEoQg0RNvDn0tAlZ9w",
+			"formatted_address": "Calle de Zurbano, 95, 28003 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T13:10:19.408637Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 413,
+			"business": {
+				"id": 110,
+				"name": "Marco Aldany",
+				"country": null,
+				"description": "La cadena líder en el sector de la peluquería y estética femenina y másculina en España con más de 400 salones. ¡Sin cita previa y al mejor precio!",
+				"url": "https://www.marcoaldany.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_SjjTIjm.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635167238.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_UAKZThD.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					},
+					{
+						"id": 40,
+						"name": "peinado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:38.018824Z"
+					},
+					{
+						"id": 42,
+						"name": "pelo",
+						"owner": null,
+						"sector": 44,
+						"created": "2021-10-25T13:02:49.420892Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/VNTe",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T13:02:51.421328Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7234626,
+					40.423212
+				]
+			},
+			"address": "Paseo de la Florida",
+			"number": "",
+			"postal_code": "28008",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:11.112492Z",
+			"place_id": "EiRQYXNlbyBkZSBsYSBGbG9yaWRhLCBNYWRyaWQsIEVzcGHDsWEiLiosChQKEgnFb4NTbShCDRGlTVFjYg_FFhIUChIJgTwKgJcpQg0RaSKMYcHeNsQ",
+			"formatted_address": "P.º de la Florida, 28008 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T13:10:04.453818Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 412,
+			"business": {
+				"id": 110,
+				"name": "Marco Aldany",
+				"country": null,
+				"description": "La cadena líder en el sector de la peluquería y estética femenina y másculina en España con más de 400 salones. ¡Sin cita previa y al mejor precio!",
+				"url": "https://www.marcoaldany.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_SjjTIjm.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1635167238.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_UAKZThD.jpg",
+				"sector": {
+					"id": 13,
+					"name": "Peluquería",
+					"icon": null,
+					"created": "2021-05-25T11:02:31.426987Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 41,
+						"name": "corte de pelo",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:44.637545Z"
+					},
+					{
+						"id": 40,
+						"name": "peinado",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T13:02:38.018824Z"
+					},
+					{
+						"id": 42,
+						"name": "pelo",
+						"owner": null,
+						"sector": 44,
+						"created": "2021-10-25T13:02:49.420892Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/VNTe",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-25T13:02:51.421328Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6953589,
+					40.450542
+				]
+			},
+			"address": "Calle de Orense",
+			"number": "21",
+			"postal_code": "28020",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:11.298078Z",
+			"place_id": "ChIJewdpWPwoQg0RgQxAGVXMKkw",
+			"formatted_address": "C. de Orense, 21, 28020 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-25T13:09:33.612748Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

@@ -1,0 +1,1169 @@
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=10",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=8",
+	"results": [
+		{
+			"id": 758,
+			"business": {
+				"id": 253,
+				"name": "Cosméticos QA Franquiciado",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Cosméticos QA descripcion\nadfalsjkfladskjfdas\nhasfasjdfkljasdlkfjasldkfjlsadkfjlsadkjflaskjflsakdjflaskjflsadkjf",
+				"url": "https://cosmeticosqa.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1669720371.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1669720371_Aga8oWX.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_PNbDalT.jpg",
+				"sector": {
+					"id": 44,
+					"name": "Belleza",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/beauty.svg",
+					"created": "2022-10-06T15:45:50.584206Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 26,
+						"name": "detox",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-23T08:39:01.453615Z"
+					},
+					{
+						"id": 80,
+						"name": "estilo",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:18:12.393840Z"
+					},
+					{
+						"id": 42,
+						"name": "pelo",
+						"owner": null,
+						"sector": 44,
+						"created": "2021-10-25T13:02:49.420892Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/hak5",
+				"is_franchisee_of": 252,
+				"is_favorite": false,
+				"created": "2022-12-20T10:43:54.251690Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-4.4214644,
+					36.7197213
+				]
+			},
+			"address": "Calle Marqués de Larios",
+			"number": "5",
+			"postal_code": "29015",
+			"state": "Málaga",
+			"city": "Málaga",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:10.704954Z",
+			"place_id": "ChIJOcU1pZX3cg0Rb6LiEyLGaYE",
+			"formatted_address": "C. Marqués de Larios, 5, 29015 Málaga",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-12-20T10:43:55.022888Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 757,
+			"business": {
+				"id": 118,
+				"name": "New York Burger",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Como tú, somos apasionados de la buena comida americana.\r\n\r\nDe aquí evolucionamos a la barbacoa, creando recetas auténticas americanas a base de brasa, madera y humo.\r\n\r\nEn NYB queremos verte disfrutar, sean cuáles sean tus gustos o principios. Por ello, nuestra apuesta más reciente es New York Green con ensaladas y bowls veganos y vegetarianos, que preparamos cada día con ingredientes frescos y de proximidad.",
+				"url": "https://newyorkburger.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-1-1.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-16-9.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/newyorkburger-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 87,
+						"name": "adidas",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:47.536980Z"
+					},
+					{
+						"id": 46,
+						"name": "americana",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:36.991965Z"
+					},
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 48,
+						"name": "burger",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:58.948006Z"
+					},
+					{
+						"id": 39,
+						"name": "ensaladas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T12:45:54.528824Z"
+					},
+					{
+						"id": 37,
+						"name": "hamburguesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:24.358507Z"
+					},
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 49,
+						"name": "niños",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:23.079267Z"
+					},
+					{
+						"id": 50,
+						"name": "saludable",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:31.798207Z"
+					},
+					{
+						"id": 51,
+						"name": "vegana",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:34.948300Z"
+					},
+					{
+						"id": 52,
+						"name": "vegano",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:37.746041Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Tcpk",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T09:28:59.442688Z",
+				"offers_count": 3
+			},
+			"online": true,
+			"url": "ftp://x649duaj67z34tdgbyq0kxx6sxyomea3.oastify.com",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:10.809328Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-12-13T08:12:26.872040Z",
+			"selected_offer": {
+				"id": 554,
+				"reward": "5.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "example",
+				"standalone": false,
+				"purchases": null,
+				"online": true,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-08-20"
+			},
+			"public_url": "x649duaj67z34tdgbyq0kxx6sxyomea3.oastify.com",
+			"is_open": false
+		},
+		{
+			"id": 756,
+			"business": {
+				"id": 118,
+				"name": "New York Burger",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Como tú, somos apasionados de la buena comida americana.\r\n\r\nDe aquí evolucionamos a la barbacoa, creando recetas auténticas americanas a base de brasa, madera y humo.\r\n\r\nEn NYB queremos verte disfrutar, sean cuáles sean tus gustos o principios. Por ello, nuestra apuesta más reciente es New York Green con ensaladas y bowls veganos y vegetarianos, que preparamos cada día con ingredientes frescos y de proximidad.",
+				"url": "https://newyorkburger.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-1-1.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-16-9.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/newyorkburger-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 87,
+						"name": "adidas",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:47.536980Z"
+					},
+					{
+						"id": 46,
+						"name": "americana",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:36.991965Z"
+					},
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 48,
+						"name": "burger",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:58.948006Z"
+					},
+					{
+						"id": 39,
+						"name": "ensaladas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T12:45:54.528824Z"
+					},
+					{
+						"id": 37,
+						"name": "hamburguesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:24.358507Z"
+					},
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 49,
+						"name": "niños",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:23.079267Z"
+					},
+					{
+						"id": 50,
+						"name": "saludable",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:31.798207Z"
+					},
+					{
+						"id": 51,
+						"name": "vegana",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:34.948300Z"
+					},
+					{
+						"id": 52,
+						"name": "vegano",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:37.746041Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Tcpk",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T09:28:59.442688Z",
+				"offers_count": 3
+			},
+			"online": true,
+			"url": "http://x649duaj67z34tdgbyq0kxx6sxyomea3.oastify.com",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:10.990504Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-12-13T08:12:19.765452Z",
+			"selected_offer": {
+				"id": 554,
+				"reward": "5.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "example",
+				"standalone": false,
+				"purchases": null,
+				"online": true,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-08-20"
+			},
+			"public_url": "x649duaj67z34tdgbyq0kxx6sxyomea3.oastify.com",
+			"is_open": false
+		},
+		{
+			"id": 755,
+			"business": {
+				"id": 118,
+				"name": "New York Burger",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Como tú, somos apasionados de la buena comida americana.\r\n\r\nDe aquí evolucionamos a la barbacoa, creando recetas auténticas americanas a base de brasa, madera y humo.\r\n\r\nEn NYB queremos verte disfrutar, sean cuáles sean tus gustos o principios. Por ello, nuestra apuesta más reciente es New York Green con ensaladas y bowls veganos y vegetarianos, que preparamos cada día con ingredientes frescos y de proximidad.",
+				"url": "https://newyorkburger.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-1-1.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-16-9.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/newyorkburger-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 87,
+						"name": "adidas",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:47.536980Z"
+					},
+					{
+						"id": 46,
+						"name": "americana",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:36.991965Z"
+					},
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 48,
+						"name": "burger",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:58.948006Z"
+					},
+					{
+						"id": 39,
+						"name": "ensaladas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T12:45:54.528824Z"
+					},
+					{
+						"id": 37,
+						"name": "hamburguesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:24.358507Z"
+					},
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 49,
+						"name": "niños",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:23.079267Z"
+					},
+					{
+						"id": 50,
+						"name": "saludable",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:31.798207Z"
+					},
+					{
+						"id": 51,
+						"name": "vegana",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:34.948300Z"
+					},
+					{
+						"id": 52,
+						"name": "vegano",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:37.746041Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Tcpk",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T09:28:59.442688Z",
+				"offers_count": 3
+			},
+			"online": true,
+			"url": "ftp://x649duaj67z34tdgbyq0kxx6sxyomea3.oastify.com",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:11.095782Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-12-13T08:12:12.076372Z",
+			"selected_offer": {
+				"id": 554,
+				"reward": "5.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "example",
+				"standalone": false,
+				"purchases": null,
+				"online": true,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-08-20"
+			},
+			"public_url": "x649duaj67z34tdgbyq0kxx6sxyomea3.oastify.com",
+			"is_open": false
+		},
+		{
+			"id": 754,
+			"business": {
+				"id": 118,
+				"name": "New York Burger",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Como tú, somos apasionados de la buena comida americana.\r\n\r\nDe aquí evolucionamos a la barbacoa, creando recetas auténticas americanas a base de brasa, madera y humo.\r\n\r\nEn NYB queremos verte disfrutar, sean cuáles sean tus gustos o principios. Por ello, nuestra apuesta más reciente es New York Green con ensaladas y bowls veganos y vegetarianos, que preparamos cada día con ingredientes frescos y de proximidad.",
+				"url": "https://newyorkburger.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-1-1.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/newyorkburger-logo-16-9.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/newyorkburger-portada.jpeg",
+				"sector": {
+					"id": 2,
+					"name": "Restaurante",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food_Yc99kSV.svg",
+					"created": "2021-05-25T10:46:14.371617Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 87,
+						"name": "adidas",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:47.536980Z"
+					},
+					{
+						"id": 46,
+						"name": "americana",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:36.991965Z"
+					},
+					{
+						"id": 47,
+						"name": "brasas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:43.625917Z"
+					},
+					{
+						"id": 48,
+						"name": "burger",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T09:27:58.948006Z"
+					},
+					{
+						"id": 39,
+						"name": "ensaladas",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T12:45:54.528824Z"
+					},
+					{
+						"id": 37,
+						"name": "hamburguesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-25T11:59:24.358507Z"
+					},
+					{
+						"id": 10,
+						"name": "Healthy",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T14:33:37.426542Z"
+					},
+					{
+						"id": 49,
+						"name": "niños",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:23.079267Z"
+					},
+					{
+						"id": 50,
+						"name": "saludable",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:31.798207Z"
+					},
+					{
+						"id": 51,
+						"name": "vegana",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:34.948300Z"
+					},
+					{
+						"id": 52,
+						"name": "vegano",
+						"owner": 118,
+						"sector": null,
+						"created": "2021-11-29T09:30:37.746041Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Tcpk",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-11-29T09:28:59.442688Z",
+				"offers_count": 3
+			},
+			"online": true,
+			"url": "https://x649duaj67z34tdgbyq0kxx6sxyomea3.oastify.com",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:11.192668Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-12-13T08:12:02.048700Z",
+			"selected_offer": {
+				"id": 554,
+				"reward": "5.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "example",
+				"standalone": false,
+				"purchases": null,
+				"online": true,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": "2023-08-20"
+			},
+			"public_url": "x649duaj67z34tdgbyq0kxx6sxyomea3.oastify.com",
+			"is_open": false
+		},
+		{
+			"id": 753,
+			"business": {
+				"id": 12,
+				"name": "Scalpers",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\n¡Descubre la nueva colección online de Scalpers!",
+				"url": "https://www.scalpers.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg",
+				"sector": {
+					"id": 43,
+					"name": "Tienda de ropa",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg",
+					"created": "2022-09-27T14:17:28.722813Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 80,
+						"name": "estilo",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:18:12.393840Z"
+					},
+					{
+						"id": 79,
+						"name": "moda",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:03.512523Z"
+					},
+					{
+						"id": 78,
+						"name": "ropa",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:17:59.578804Z"
+					},
+					{
+						"id": 77,
+						"name": "ropa hombre",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:17:51.818605Z"
+					},
+					{
+						"id": 81,
+						"name": "ropa mujer",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:16.628726Z"
+					},
+					{
+						"id": 82,
+						"name": "ropa niños",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:21.910520Z"
+					}
+				],
+				"return_period": 30,
+				"dynamic_link": "https://app.dev.woowbe.com/share/jdF1",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-06-10T09:23:04.551544Z",
+				"offers_count": 0
+			},
+			"online": true,
+			"url": "https://google.com",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:11.300509Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-12-13T08:11:37.376335Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": "google.com",
+			"is_open": false
+		},
+		{
+			"id": 752,
+			"business": {
+				"id": 12,
+				"name": "Scalpers",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\n¡Descubre la nueva colección online de Scalpers!",
+				"url": "https://www.scalpers.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg",
+				"sector": {
+					"id": 43,
+					"name": "Tienda de ropa",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg",
+					"created": "2022-09-27T14:17:28.722813Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 80,
+						"name": "estilo",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:18:12.393840Z"
+					},
+					{
+						"id": 79,
+						"name": "moda",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:03.512523Z"
+					},
+					{
+						"id": 78,
+						"name": "ropa",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:17:59.578804Z"
+					},
+					{
+						"id": 77,
+						"name": "ropa hombre",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:17:51.818605Z"
+					},
+					{
+						"id": 81,
+						"name": "ropa mujer",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:16.628726Z"
+					},
+					{
+						"id": 82,
+						"name": "ropa niños",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:21.910520Z"
+					}
+				],
+				"return_period": 30,
+				"dynamic_link": "https://app.dev.woowbe.com/share/jdF1",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-06-10T09:23:04.551544Z",
+				"offers_count": 0
+			},
+			"online": true,
+			"url": "https://x649duaj67z34tdgbyq0kxx6sxyomea3.oastify.com",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:11.330438Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-12-13T08:11:27.999350Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": "x649duaj67z34tdgbyq0kxx6sxyomea3.oastify.com",
+			"is_open": false
+		},
+		{
+			"id": 751,
+			"business": {
+				"id": 12,
+				"name": "Scalpers",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\n¡Descubre la nueva colección online de Scalpers!",
+				"url": "https://www.scalpers.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg",
+				"sector": {
+					"id": 43,
+					"name": "Tienda de ropa",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg",
+					"created": "2022-09-27T14:17:28.722813Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 80,
+						"name": "estilo",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:18:12.393840Z"
+					},
+					{
+						"id": 79,
+						"name": "moda",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:03.512523Z"
+					},
+					{
+						"id": 78,
+						"name": "ropa",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:17:59.578804Z"
+					},
+					{
+						"id": 77,
+						"name": "ropa hombre",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:17:51.818605Z"
+					},
+					{
+						"id": 81,
+						"name": "ropa mujer",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:16.628726Z"
+					},
+					{
+						"id": 82,
+						"name": "ropa niños",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:21.910520Z"
+					}
+				],
+				"return_period": 30,
+				"dynamic_link": "https://app.dev.woowbe.com/share/jdF1",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-06-10T09:23:04.551544Z",
+				"offers_count": 0
+			},
+			"online": true,
+			"url": "https://google.com",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:11.514058Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-12-13T08:11:14.271075Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": "google.com",
+			"is_open": false
+		},
+		{
+			"id": 750,
+			"business": {
+				"id": 12,
+				"name": "Scalpers",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\n¡Descubre la nueva colección online de Scalpers!",
+				"url": "https://www.scalpers.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg",
+				"sector": {
+					"id": 43,
+					"name": "Tienda de ropa",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg",
+					"created": "2022-09-27T14:17:28.722813Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 80,
+						"name": "estilo",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:18:12.393840Z"
+					},
+					{
+						"id": 79,
+						"name": "moda",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:03.512523Z"
+					},
+					{
+						"id": 78,
+						"name": "ropa",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:17:59.578804Z"
+					},
+					{
+						"id": 77,
+						"name": "ropa hombre",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:17:51.818605Z"
+					},
+					{
+						"id": 81,
+						"name": "ropa mujer",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:16.628726Z"
+					},
+					{
+						"id": 82,
+						"name": "ropa niños",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:21.910520Z"
+					}
+				],
+				"return_period": 30,
+				"dynamic_link": "https://app.dev.woowbe.com/share/jdF1",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-06-10T09:23:04.551544Z",
+				"offers_count": 0
+			},
+			"online": true,
+			"url": "https://google.com",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:11.617209Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-12-13T08:11:13.473890Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": "google.com",
+			"is_open": false
+		},
+		{
+			"id": 749,
+			"business": {
+				"id": 12,
+				"name": "Scalpers",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Scalpers es tu tienda de ropa online si buscas las últimas tendencias en moda para hombre, mujer y niño.\n¡Descubre la nueva colección online de Scalpers!",
+				"url": "https://www.scalpers.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_z5KHodR.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1664288041.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_71arDkc.jpg",
+				"sector": {
+					"id": 43,
+					"name": "Tienda de ropa",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/fashion.svg",
+					"created": "2022-09-27T14:17:28.722813Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 80,
+						"name": "estilo",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:18:12.393840Z"
+					},
+					{
+						"id": 79,
+						"name": "moda",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:03.512523Z"
+					},
+					{
+						"id": 78,
+						"name": "ropa",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:17:59.578804Z"
+					},
+					{
+						"id": 77,
+						"name": "ropa hombre",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:17:51.818605Z"
+					},
+					{
+						"id": 81,
+						"name": "ropa mujer",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:16.628726Z"
+					},
+					{
+						"id": 82,
+						"name": "ropa niños",
+						"owner": 12,
+						"sector": null,
+						"created": "2022-09-27T14:18:21.910520Z"
+					}
+				],
+				"return_period": 30,
+				"dynamic_link": "https://app.dev.woowbe.com/share/jdF1",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-06-10T09:23:04.551544Z",
+				"offers_count": 0
+			},
+			"online": true,
+			"url": "https://google.com",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:11.631801Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2022-12-13T08:11:12.685704Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": "google.com",
+			"is_open": false
+		}
+	]
+}

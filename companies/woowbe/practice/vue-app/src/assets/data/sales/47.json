@@ -1,0 +1,806 @@
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=48",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=46",
+	"results": [
+		{
+			"id": 311,
+			"business": {
+				"id": 100,
+				"name": "Juicy Avenue",
+				"country": null,
+				"description": "Somos más que tu tienda de Zumos Naturales favoritos. En Juicy Avenue, encontrarás un espacio ideal para amar la hora de la comida.",
+				"url": "https://www.juicyavenue.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/juicy-avenue-logo-16-9.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634978514.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vNoSs89.jpg",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 28,
+						"name": "batidos",
+						"owner": 100,
+						"sector": null,
+						"created": "2021-10-23T08:39:27.122811Z"
+					},
+					{
+						"id": 26,
+						"name": "detox",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-23T08:39:01.453615Z"
+					},
+					{
+						"id": 27,
+						"name": "zumos",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-23T08:39:21.905307Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/aL7u",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-23T08:39:45.676166Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6775103,
+					40.4241547
+				]
+			},
+			"address": "Calle de Alcalá",
+			"number": "143",
+			"postal_code": "28009",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:21.812774Z",
+			"place_id": "ChIJSyn4VbsoQg0RJ7dJffu7n4M",
+			"formatted_address": "C. de Alcalá, 143, 28009 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-23T08:43:07.850279Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 310,
+			"business": {
+				"id": 100,
+				"name": "Juicy Avenue",
+				"country": null,
+				"description": "Somos más que tu tienda de Zumos Naturales favoritos. En Juicy Avenue, encontrarás un espacio ideal para amar la hora de la comida.",
+				"url": "https://www.juicyavenue.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/juicy-avenue-logo-16-9.png",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634978514.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_vNoSs89.jpg",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 28,
+						"name": "batidos",
+						"owner": 100,
+						"sector": null,
+						"created": "2021-10-23T08:39:27.122811Z"
+					},
+					{
+						"id": 26,
+						"name": "detox",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-23T08:39:01.453615Z"
+					},
+					{
+						"id": 27,
+						"name": "zumos",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-23T08:39:21.905307Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/aL7u",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-23T08:39:45.676166Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6865379,
+					40.437542
+				]
+			},
+			"address": "Calle Serrano",
+			"number": "93",
+			"postal_code": "28006",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:21.908259Z",
+			"place_id": "ChIJgyQ0lesoQg0RHmLj2UVC7yw",
+			"formatted_address": "C. Serrano, 93, 28006 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-23T08:42:51.205102Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 309,
+			"business": {
+				"id": 96,
+				"name": "Mahou",
+				"country": null,
+				"description": "Mahou es una marca española de cervezas elaboradas por el Grupo Mahou-San Miguel. La cartera de la marca contiene una variedad de cervezas que incluyen variedades sin alcohol y mixtas. La cervecería Mahou fue fundada en Madrid en 1890.",
+				"url": "https://www.tiendasolana.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_fLIwzqv.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634848825.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/mahou-solana-portada.jpeg",
+				"sector": {
+					"id": 4,
+					"name": "Bar",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg",
+					"created": "2021-05-25T10:47:46.399740Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 21,
+						"name": "cerveza",
+						"owner": 96,
+						"sector": null,
+						"created": "2021-10-21T20:38:55.791124Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/X1xD",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T20:39:05.710709Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6927118,
+					40.40981379999999
+				]
+			},
+			"address": "Paseo del Prado",
+			"number": "100",
+			"postal_code": "28014",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:21.919947Z",
+			"place_id": "EiVQYXNlbyBkZWwgUHJhZG8sIDEwMCwgTWFkcmlkLCBFc3Bhw7FhIlASTgo0CjIJU_uXKSYmQg0R9eaNxJ86Q0MaHgsQ7sHuoQEaFAoSCU8R1IcnJkINEXDUizP3QAMcDBBkKhQKEgl3Ycm5gihCDRGV5Z_3-ORKNw",
+			"formatted_address": "P.º del Prado, 100, 28014 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-22T19:00:31.579787Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 308,
+			"business": {
+				"id": 96,
+				"name": "Mahou",
+				"country": null,
+				"description": "Mahou es una marca española de cervezas elaboradas por el Grupo Mahou-San Miguel. La cartera de la marca contiene una variedad de cervezas que incluyen variedades sin alcohol y mixtas. La cervecería Mahou fue fundada en Madrid en 1890.",
+				"url": "https://www.tiendasolana.com/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_fLIwzqv.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634848825.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/mahou-solana-portada.jpeg",
+				"sector": {
+					"id": 4,
+					"name": "Bar",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/food.svg",
+					"created": "2021-05-25T10:47:46.399740Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 21,
+						"name": "cerveza",
+						"owner": 96,
+						"sector": null,
+						"created": "2021-10-21T20:38:55.791124Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/X1xD",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T20:39:05.710709Z",
+				"offers_count": 1
+			},
+			"online": true,
+			"url": "https://www.tiendasolana.com",
+			"position": null,
+			"address": null,
+			"number": null,
+			"postal_code": null,
+			"state": null,
+			"city": null,
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:22.143725Z",
+			"place_id": null,
+			"formatted_address": "",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-22T18:57:46.123508Z",
+			"selected_offer": {
+				"id": 195,
+				"reward": "10.00",
+				"reward_type": "percentage",
+				"kind": "A",
+				"instant": false,
+				"name": "oferta",
+				"standalone": false,
+				"purchases": null,
+				"online": true,
+				"applicable": false,
+				"available_percentage": 1,
+				"available_rewards": null,
+				"is_used": false,
+				"finish_date": null
+			},
+			"public_url": "www.tiendasolana.com",
+			"is_open": false
+		},
+		{
+			"id": 303,
+			"business": {
+				"id": 98,
+				"name": "Crusto",
+				"country": null,
+				"description": "Todos nuestros productos se elaboran artesanalmente cada día en el obrador a la vista con una masa madre propia y exclusiva según el método tradicional francés de fermentación lenta y natural y una cuidadosa selección de ingredientes.",
+				"url": "https://crusto.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_QgiYyWD.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634850388.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Ez6WLd2.jpg",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 24,
+						"name": "obrador",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:07.177318Z"
+					},
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/fEv1",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T21:05:29.446198Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6986241,
+					40.423496
+				]
+			},
+			"address": "Calle de Hortaleza",
+			"number": "78",
+			"postal_code": "28004",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:22.397308Z",
+			"place_id": "ChIJt2QgpIgoQg0R0mfjx2jQyow",
+			"formatted_address": "C. de Hortaleza, 78, 28004 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T21:08:17.840054Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 302,
+			"business": {
+				"id": 98,
+				"name": "Crusto",
+				"country": null,
+				"description": "Todos nuestros productos se elaboran artesanalmente cada día en el obrador a la vista con una masa madre propia y exclusiva según el método tradicional francés de fermentación lenta y natural y una cuidadosa selección de ingredientes.",
+				"url": "https://crusto.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_QgiYyWD.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634850388.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Ez6WLd2.jpg",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 24,
+						"name": "obrador",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:07.177318Z"
+					},
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/fEv1",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T21:05:29.446198Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6860746,
+					40.4575473
+				]
+			},
+			"address": "Calle José Lázaro Galdiano",
+			"number": "6",
+			"postal_code": "28036",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:22.502850Z",
+			"place_id": "ChIJBduh7h4pQg0RYLOqcx1-mFE",
+			"formatted_address": "C. José Lázaro Galdiano, 6, 28036 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T21:07:58.300575Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 301,
+			"business": {
+				"id": 98,
+				"name": "Crusto",
+				"country": null,
+				"description": "Todos nuestros productos se elaboran artesanalmente cada día en el obrador a la vista con una masa madre propia y exclusiva según el método tradicional francés de fermentación lenta y natural y una cuidadosa selección de ingredientes.",
+				"url": "https://crusto.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_QgiYyWD.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634850388.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Ez6WLd2.jpg",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 24,
+						"name": "obrador",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:07.177318Z"
+					},
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/fEv1",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T21:05:29.446198Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7159577,
+					40.4310094
+				]
+			},
+			"address": "Calle de Gaztambide",
+			"number": "3",
+			"postal_code": "28015",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:22.620207Z",
+			"place_id": "ChIJG_IjsmkoQg0RBgTVTrHitac",
+			"formatted_address": "C. de Gaztambide, 3, 28015 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T21:07:43.671969Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 300,
+			"business": {
+				"id": 98,
+				"name": "Crusto",
+				"country": null,
+				"description": "Todos nuestros productos se elaboran artesanalmente cada día en el obrador a la vista con una masa madre propia y exclusiva según el método tradicional francés de fermentación lenta y natural y una cuidadosa selección de ingredientes.",
+				"url": "https://crusto.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_QgiYyWD.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634850388.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_Ez6WLd2.jpg",
+				"sector": {
+					"id": 5,
+					"name": "Cafetería",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat.svg",
+					"created": "2021-05-25T10:48:41.547333Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 24,
+						"name": "obrador",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:07.177318Z"
+					},
+					{
+						"id": 25,
+						"name": "pan",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:05:17.331228Z"
+					},
+					{
+						"id": 23,
+						"name": "panadería",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T21:04:59.592984Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/fEv1",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T21:05:29.446198Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.69355,
+					40.4292179
+				]
+			},
+			"address": "Calle de Zurbano",
+			"number": "26",
+			"postal_code": "28010",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:22.710121Z",
+			"place_id": "ChIJQWFU7o0oQg0RmdmXVrl0Wnc",
+			"formatted_address": "Calle de Zurbano, 26, 28010 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T21:07:28.405769Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 298,
+			"business": {
+				"id": 97,
+				"name": "Tuk Tuk",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Los orígenes de Tuk Tuk se remontan a las locas aventuras del ex actor de Hong Kong Ricardo Alexander y el empresario Olivier Blomme en las calles de Asia. Rick y Olivier viajaron por Asia durante muchos años y fue entonces cuando se enamoraron de la auténtica Asian Street Food.\r\n\r\nDespués de mucho degustar y conocer los mejores platos del sudeste asiático, aterrizaron en España para que tú también puedas trasladarte a Tailandia, Filipinas, Hong Kong, Malasia, Indonesia... pero en metro, en coche o a pie. Sin hacer escalas, sin renovar el pasaporte y, por supuesto, sin jet lag.",
+				"url": "https://tuktukstreetfood.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ZHDrOBd.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634849689.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_dwnCJpQ.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 29,
+						"name": "asiatica",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-24T09:41:55.016467Z"
+					},
+					{
+						"id": 22,
+						"name": "asiática",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-21T20:53:02.997177Z"
+					},
+					{
+						"id": 17,
+						"name": "japonesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:13.483887Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/5WrR",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T20:53:45.090171Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.7941799,
+					40.4373726
+				]
+			},
+			"address": "Avenida de Europa",
+			"number": "16",
+			"postal_code": "28224",
+			"state": "Madrid",
+			"city": "Pozuelo de Alarcón",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:22.812509Z",
+			"place_id": "ChIJJ7b6fE-GQQ0Rp-K2en0alBg",
+			"formatted_address": "Av. de Europa, 16, 28224 Pozuelo de Alarcón, Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T20:57:33.157345Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 297,
+			"business": {
+				"id": 97,
+				"name": "Tuk Tuk",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Los orígenes de Tuk Tuk se remontan a las locas aventuras del ex actor de Hong Kong Ricardo Alexander y el empresario Olivier Blomme en las calles de Asia. Rick y Olivier viajaron por Asia durante muchos años y fue entonces cuando se enamoraron de la auténtica Asian Street Food.\r\n\r\nDespués de mucho degustar y conocer los mejores platos del sudeste asiático, aterrizaron en España para que tú también puedas trasladarte a Tailandia, Filipinas, Hong Kong, Malasia, Indonesia... pero en metro, en coche o a pie. Sin hacer escalas, sin renovar el pasaporte y, por supuesto, sin jet lag.",
+				"url": "https://tuktukstreetfood.es/",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_ZHDrOBd.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1634849689.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_dwnCJpQ.jpg",
+				"sector": {
+					"id": 37,
+					"name": "Restaurante temático",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/toeat_T2kMSVS.svg",
+					"created": "2021-10-21T14:32:58.019404Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 29,
+						"name": "asiatica",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-24T09:41:55.016467Z"
+					},
+					{
+						"id": 22,
+						"name": "asiática",
+						"owner": null,
+						"sector": 2,
+						"created": "2021-10-21T20:53:02.997177Z"
+					},
+					{
+						"id": 17,
+						"name": "japonesa",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-21T19:14:13.483887Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/5WrR",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2021-10-21T20:53:45.090171Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.710769,
+					40.4164681
+				]
+			},
+			"address": "Calle de Santiago",
+			"number": "13",
+			"postal_code": "28013",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:02:23.104011Z",
+			"place_id": "EixDYWxsZSBkZSBTYW50aWFnbywgMTMsIDI4MDEzIE1hZHJpZCwgRXNwYcOxYSJQEk4KNAoyCXeCOwt5KEINETffO2YEt9W4Gh4LEO7B7qEBGhQKEglHoIC5eyhCDRGw04sz90ADHAwQDSoUChIJrcfon3koQg0R5ysXoiWl4jg",
+			"formatted_address": "Calle de Santiago, 13, 28013 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2021-10-21T20:57:03.519949Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}

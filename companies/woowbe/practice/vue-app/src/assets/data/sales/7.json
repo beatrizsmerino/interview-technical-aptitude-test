@@ -1,0 +1,832 @@
+{
+	"count": 579,
+	"next": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=8",
+	"previous": "https://backend.dev.woowbe.com/api/v1/points_of_sales/public/?page=6",
+	"results": [
+		{
+			"id": 785,
+			"business": {
+				"id": 248,
+				"name": "Adidas",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "El 18 de agosto de 1949, Adi Dassler fundó adidas con el deseo de ayudar a mejorar el rendimiento de los deportistas. Setenta años después, adidas no solo ha dejado huella en el deporte y en los atletas, sino también en la moda, la cultura, la sostenibilidad y en muchos otros ámbitos. Acompáñanos en un viaje en el tiempo y descubre la historia de adidas y los estilos que han influido en nuestras vidas hasta hoy.",
+				"url": "https://www.adidas.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_mk5CEIv.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1668529037.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_RYgACZk.jpg",
+				"sector": {
+					"id": 10,
+					"name": "Tienda de deporte",
+					"icon": null,
+					"created": "2021-05-25T11:00:54.849631Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 87,
+						"name": "adidas",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:47.536980Z"
+					},
+					{
+						"id": 89,
+						"name": "clothes",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:17:02.079185Z"
+					},
+					{
+						"id": 88,
+						"name": "shoes",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:55.033952Z"
+					},
+					{
+						"id": 86,
+						"name": "sport",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:40.903353Z"
+					}
+				],
+				"return_period": 5,
+				"dynamic_link": "https://app.dev.woowbe.com/share/ej5S",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-11-15T16:08:43.337659Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-0.3488944,
+					39.4720714
+				]
+			},
+			"address": "Carrer del Doctor Manuel Candela",
+			"number": "67",
+			"postal_code": "46021",
+			"state": "Valencia",
+			"city": "València",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:04.412586Z",
+			"place_id": "ChIJCcPjqJFIYA0RrZgppcg_ZPI",
+			"formatted_address": "C/ del Dr. Manuel Candela, 67, 46021 València, Valencia",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2023-01-24T16:05:39.329965Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 784,
+			"business": {
+				"id": 248,
+				"name": "Adidas",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "El 18 de agosto de 1949, Adi Dassler fundó adidas con el deseo de ayudar a mejorar el rendimiento de los deportistas. Setenta años después, adidas no solo ha dejado huella en el deporte y en los atletas, sino también en la moda, la cultura, la sostenibilidad y en muchos otros ámbitos. Acompáñanos en un viaje en el tiempo y descubre la historia de adidas y los estilos que han influido en nuestras vidas hasta hoy.",
+				"url": "https://www.adidas.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_mk5CEIv.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1668529037.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_RYgACZk.jpg",
+				"sector": {
+					"id": 10,
+					"name": "Tienda de deporte",
+					"icon": null,
+					"created": "2021-05-25T11:00:54.849631Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 87,
+						"name": "adidas",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:47.536980Z"
+					},
+					{
+						"id": 89,
+						"name": "clothes",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:17:02.079185Z"
+					},
+					{
+						"id": 88,
+						"name": "shoes",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:55.033952Z"
+					},
+					{
+						"id": 86,
+						"name": "sport",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:40.903353Z"
+					}
+				],
+				"return_period": 5,
+				"dynamic_link": "https://app.dev.woowbe.com/share/ej5S",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-11-15T16:08:43.337659Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.702796,
+					40.4178833
+				]
+			},
+			"address": "Calle de la Montera",
+			"number": "15",
+			"postal_code": "28013",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:04.497782Z",
+			"place_id": "ChIJfTjpqoAoQg0RwF0SJ27aGUs",
+			"formatted_address": "C. de la Montera, 15, 28013 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2023-01-24T16:05:17.682988Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 783,
+			"business": {
+				"id": 248,
+				"name": "Adidas",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "El 18 de agosto de 1949, Adi Dassler fundó adidas con el deseo de ayudar a mejorar el rendimiento de los deportistas. Setenta años después, adidas no solo ha dejado huella en el deporte y en los atletas, sino también en la moda, la cultura, la sostenibilidad y en muchos otros ámbitos. Acompáñanos en un viaje en el tiempo y descubre la historia de adidas y los estilos que han influido en nuestras vidas hasta hoy.",
+				"url": "https://www.adidas.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_mk5CEIv.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1668529037.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_RYgACZk.jpg",
+				"sector": {
+					"id": 10,
+					"name": "Tienda de deporte",
+					"icon": null,
+					"created": "2021-05-25T11:00:54.849631Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 87,
+						"name": "adidas",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:47.536980Z"
+					},
+					{
+						"id": 89,
+						"name": "clothes",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:17:02.079185Z"
+					},
+					{
+						"id": 88,
+						"name": "shoes",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:55.033952Z"
+					},
+					{
+						"id": 86,
+						"name": "sport",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:40.903353Z"
+					}
+				],
+				"return_period": 5,
+				"dynamic_link": "https://app.dev.woowbe.com/share/ej5S",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-11-15T16:08:43.337659Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-0.347947,
+					39.4668789
+				]
+			},
+			"address": "Carrer del Marí Albesa",
+			"number": "1",
+			"postal_code": "46022",
+			"state": "Valencia",
+			"city": "València",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:04.510963Z",
+			"place_id": "ChIJy5Je65JIYA0RTmP1hAeXDJ8",
+			"formatted_address": "C/ del Marí Albesa, 1, 46022 València, Valencia",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2023-01-24T16:05:05.364309Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 782,
+			"business": {
+				"id": 248,
+				"name": "Adidas",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "El 18 de agosto de 1949, Adi Dassler fundó adidas con el deseo de ayudar a mejorar el rendimiento de los deportistas. Setenta años después, adidas no solo ha dejado huella en el deporte y en los atletas, sino también en la moda, la cultura, la sostenibilidad y en muchos otros ámbitos. Acompáñanos en un viaje en el tiempo y descubre la historia de adidas y los estilos que han influido en nuestras vidas hasta hoy.",
+				"url": "https://www.adidas.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_mk5CEIv.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1668529037.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_RYgACZk.jpg",
+				"sector": {
+					"id": 10,
+					"name": "Tienda de deporte",
+					"icon": null,
+					"created": "2021-05-25T11:00:54.849631Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 87,
+						"name": "adidas",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:47.536980Z"
+					},
+					{
+						"id": 89,
+						"name": "clothes",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:17:02.079185Z"
+					},
+					{
+						"id": 88,
+						"name": "shoes",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:55.033952Z"
+					},
+					{
+						"id": 86,
+						"name": "sport",
+						"owner": 248,
+						"sector": null,
+						"created": "2022-11-15T16:16:40.903353Z"
+					}
+				],
+				"return_period": 5,
+				"dynamic_link": "https://app.dev.woowbe.com/share/ej5S",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-11-15T16:08:43.337659Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6840115,
+					40.4600943
+				]
+			},
+			"address": "Calle de Henri Dunant",
+			"number": "17",
+			"postal_code": "28036",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:04.611863Z",
+			"place_id": "ChIJJRMExxgpQg0RBk71eSl0yBM",
+			"formatted_address": "C. de Henri Dunant, 17, 28036 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2023-01-24T16:04:51.454192Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 776,
+			"business": {
+				"id": 260,
+				"name": "Prueba devolucion presupuesto",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "devolucion presupuesto",
+				"url": "https://www.aa.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_wGfyXAX.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1673614842.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_H4n5vL4.jpg",
+				"sector": {
+					"id": 28,
+					"name": "Alquiler de coches",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/mobility.svg",
+					"created": "2021-05-25T11:10:59.951129Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 58,
+						"name": "rotisserie",
+						"owner": null,
+						"sector": null,
+						"created": "2021-11-29T12:57:28.377827Z"
+					}
+				],
+				"return_period": 3,
+				"dynamic_link": "https://app.dev.woowbe.com/share/Qm2j",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2023-01-13T12:58:26.780285Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-0.3988785,
+					39.4707136
+				]
+			},
+			"address": "Carrer de Burgos",
+			"number": "12",
+			"postal_code": "46018",
+			"state": "Valencia",
+			"city": "València",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:06.510104Z",
+			"place_id": "ChIJpTj8tjpPYA0RK9Zt__75HWo",
+			"formatted_address": "Carrer de Burgos, 12, 46018 València, Valencia",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2023-01-13T13:01:17.586867Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 775,
+			"business": {
+				"id": 252,
+				"name": "Cosméticos QA Franquiciado",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "Cosméticos QA descripcion\nadfalsjkfladskjfdas\nhasfasjdfkljasdlkfjasldkfjlsadkfjlsadkjflaskjflsakdjflaskjflsadkjf",
+				"url": "https://cosmeticosqa.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1669720371.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1669720371_Aga8oWX.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_PNbDalT.jpg",
+				"sector": {
+					"id": 44,
+					"name": "Belleza",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/beauty.svg",
+					"created": "2022-10-06T15:45:50.584206Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 43,
+						"name": "barba",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-26T07:38:43.587103Z"
+					},
+					{
+						"id": 26,
+						"name": "detox",
+						"owner": null,
+						"sector": null,
+						"created": "2021-10-23T08:39:01.453615Z"
+					},
+					{
+						"id": 80,
+						"name": "estilo",
+						"owner": null,
+						"sector": 43,
+						"created": "2022-09-27T14:18:12.393840Z"
+					},
+					{
+						"id": 42,
+						"name": "pelo",
+						"owner": null,
+						"sector": 44,
+						"created": "2021-10-25T13:02:49.420892Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/bM5B",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-11-29T11:09:41.636655Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6892205,
+					40.4555108
+				]
+			},
+			"address": "Calle de Manuel de Falla",
+			"number": "65",
+			"postal_code": "28036",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:06.895218Z",
+			"place_id": "EipDYWxsZSBNYW51ZWwgZGUgRmFsbGEsIDY1LCBNYWRyaWQsIEVzcGHDsWEiMBIuChQKEgmPipm-HSlCDRHL4_aFmqtUMhBBKhQKEgm_cnnBHSlCDRF57ei4-lYzoQ",
+			"formatted_address": "C. de Manuel de Falla, 65, 28036 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2023-01-05T16:58:22.115964Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 774,
+			"business": {
+				"id": 246,
+				"name": "Veterinaria QA aaaaaddddddbbbbbbb",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "clinica veterinaria con mucha experiencia en el cuidado de animales. Tratamos a todos los animales como si fuesen parte de nuestra familia.",
+				"url": "http://www.vete.com",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1667842927.jpeg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1669722210.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_0hwbWev.jpg",
+				"sector": {
+					"id": 33,
+					"name": "Veterinario",
+					"icon": null,
+					"created": "2021-05-25T11:17:24.318169Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 84,
+						"name": "perro",
+						"owner": 246,
+						"sector": null,
+						"created": "2022-11-07T17:42:00.446793Z"
+					}
+				],
+				"return_period": 0,
+				"dynamic_link": "https://app.dev.woowbe.com/share/gJuv",
+				"is_franchisee_of": null,
+				"is_favorite": false,
+				"created": "2022-11-07T17:23:35.313746Z",
+				"offers_count": 1
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-6.3306454,
+					38.9309659
+				]
+			},
+			"address": "Calle San Lucas",
+			"number": "96",
+			"postal_code": "06800",
+			"state": "Badajoz",
+			"city": "Mérida",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:07.090610Z",
+			"place_id": "ChIJ4dzHKoUmFA0R3U79F_h9RbU",
+			"formatted_address": "C. San Lucas, 96, 06800 Mérida, Badajoz",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2023-01-05T16:57:26.559101Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 773,
+			"business": {
+				"id": 259,
+				"name": "prueba FRANQUICIAS MARCA iñigo",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "es un test para iñigo",
+				"url": "http://www.iñigo.es",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_re1giyA.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1671614454.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_YpmEHUW.jpg",
+				"sector": {
+					"id": 28,
+					"name": "Alquiler de coches",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/mobility.svg",
+					"created": "2021-05-25T11:10:59.951129Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 94,
+						"name": "coches guapos",
+						"owner": 254,
+						"sector": null,
+						"created": "2022-12-21T09:20:50.342666Z"
+					}
+				],
+				"return_period": 12,
+				"dynamic_link": "https://app.dev.woowbe.com/share/jbiY",
+				"is_franchisee_of": 254,
+				"is_favorite": false,
+				"created": "2023-01-04T11:40:30.129672Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-5.6646852,
+					40.9708625
+				]
+			},
+			"address": "Avenida de Italia",
+			"number": "14",
+			"postal_code": "37006",
+			"state": "Salamanca",
+			"city": "Salamanca",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:07.295906Z",
+			"place_id": "ChIJUxnUhxcmPw0RvOeHirutnsc",
+			"formatted_address": "Av. de Italia, 14, 37006 Salamanca",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2023-01-04T12:10:41.332824Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 772,
+			"business": {
+				"id": 259,
+				"name": "prueba FRANQUICIAS MARCA iñigo",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "es un test para iñigo",
+				"url": "http://www.iñigo.es",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_re1giyA.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1671614454.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_YpmEHUW.jpg",
+				"sector": {
+					"id": 28,
+					"name": "Alquiler de coches",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/mobility.svg",
+					"created": "2021-05-25T11:10:59.951129Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 94,
+						"name": "coches guapos",
+						"owner": 254,
+						"sector": null,
+						"created": "2022-12-21T09:20:50.342666Z"
+					}
+				],
+				"return_period": 12,
+				"dynamic_link": "https://app.dev.woowbe.com/share/jbiY",
+				"is_franchisee_of": 254,
+				"is_favorite": false,
+				"created": "2023-01-04T11:40:30.129672Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.6994398,
+					40.4194367
+				]
+			},
+			"address": "Calle Gran Vía",
+			"number": "11",
+			"postal_code": "28013",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:07.417444Z",
+			"place_id": "ChIJ61Yz6oYoQg0RtROR4RpgMmc",
+			"formatted_address": "C/ Gran Vía, 11, 28013 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2023-01-04T12:09:01.321407Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		},
+		{
+			"id": 770,
+			"business": {
+				"id": 259,
+				"name": "prueba FRANQUICIAS MARCA iñigo",
+				"country": {
+					"id": 3,
+					"name": "España",
+					"code": "es"
+				},
+				"description": "es un test para iñigo",
+				"url": "http://www.iñigo.es",
+				"square_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/square_picture_re1giyA.jpg",
+				"widescreen_picture": "https://woowbe-dev.s3.amazonaws.com/media/pictures/1671614454.jpeg",
+				"cover": "https://woowbe-dev.s3.amazonaws.com/media/covers/cover_YpmEHUW.jpg",
+				"sector": {
+					"id": 28,
+					"name": "Alquiler de coches",
+					"icon": "https://woowbe-dev.s3.amazonaws.com/media/icons/mobility.svg",
+					"created": "2021-05-25T11:10:59.951129Z"
+				},
+				"descriptive_categories": [
+					{
+						"id": 94,
+						"name": "coches guapos",
+						"owner": 254,
+						"sector": null,
+						"created": "2022-12-21T09:20:50.342666Z"
+					}
+				],
+				"return_period": 12,
+				"dynamic_link": "https://app.dev.woowbe.com/share/jbiY",
+				"is_franchisee_of": 254,
+				"is_favorite": false,
+				"created": "2023-01-04T11:40:30.129672Z",
+				"offers_count": 0
+			},
+			"online": false,
+			"url": null,
+			"position": {
+				"type": "Point",
+				"coordinates": [
+					-3.697832,
+					40.4365697
+				]
+			},
+			"address": "Calle de Alonso Cano",
+			"number": "12",
+			"postal_code": "28010",
+			"state": "Madrid",
+			"city": "Madrid",
+			"merchants_count": 0,
+			"modified": "2023-03-17T08:01:07.801184Z",
+			"place_id": "ChIJFSkEePQoQg0RKUJ53yvqvVU",
+			"formatted_address": "C. de Alonso Cano, 12, 28010 Madrid",
+			"deleted": false,
+			"deleted_at": null,
+			"created": "2023-01-04T11:40:30.848676Z",
+			"selected_offer": {
+				"reward": null,
+				"reward_type": null,
+				"kind": null,
+				"instant": false,
+				"name": "",
+				"standalone": false,
+				"purchases": null,
+				"online": false,
+				"finish_date": null
+			},
+			"public_url": null,
+			"is_open": false
+		}
+	]
+}
