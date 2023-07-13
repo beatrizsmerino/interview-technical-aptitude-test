@@ -122,6 +122,21 @@
 
 		&__title {
 			margin: 0 1rem 0 0;
+
+			@include media("xxl") {
+				width: calc(100% - 20px);
+				margin-right: 0;
+			}
+
+			@include media("lg") {
+				width: auto;
+				margin: 0 1rem 0 0;
+			}
+
+			@include media("sm") {
+				width: calc(100% - 20px);
+				margin-right: 0;
+			}
 		}
 	}
 </style>
