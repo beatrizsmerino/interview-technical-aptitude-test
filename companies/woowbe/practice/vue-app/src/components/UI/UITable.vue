@@ -1,6 +1,6 @@
 <template>
-	<div class="table__wrapper">
-		<table class="table">
+	<div class="table">
+		<table class="table__inner">
 			<thead class="table__header">
 				<tr class="table__row table__row--header">
 					<th class="table__cell table__cell--header">
@@ -81,14 +81,14 @@
 
 <style lang="scss" scoped>
 	.table {
-		border-collapse: collapse;
-		border-bottom: 0.3rem solid $color-brand-2;
+		max-width: fit-content;
+		overflow-x: scroll;
+		border-radius: 0.5rem;
+		white-space: nowrap;
 
-		&__wrapper {
-			max-width: fit-content;
-			overflow-x: scroll;
-			border-radius: 0.5rem;
-			white-space: nowrap;
+		&__inner {
+			border-collapse: collapse;
+			border-bottom: 0.3rem solid $color-brand-2;
 		}
 
 		&__cell {
