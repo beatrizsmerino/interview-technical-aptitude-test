@@ -35,12 +35,11 @@
 			>
 		</div>
 
-		<button
-			class="form__button button"
+		<UIButton
+			class="form__button"
+			button-text="Login"
 			type="submit"
-		>
-			Login
-		</button>
+		/>
 
 		<UIMessage
 			:message-text="messageText"
@@ -51,11 +50,13 @@
 
 <script>
 	import { mapMutations } from "vuex";
+	import UIButton from "@/components/UI/UIButton";
 	import UIMessage from "@/components/UI/UIMessage.vue";
 
 	export default {
 		"name": "SectionLogin",
 		"components": {
+			UIButton,
 			UIMessage,
 		},
 		data() {

@@ -2,27 +2,30 @@
 	<div class="navigation">
 		<strong>Navigation:</strong>
 		<span class="navigation__buttons">
-			<button
-				class="button button--xs"
+			<UIButton
+				button-text="Prev"
+				button-size="xs"
 				:disabled="!resultPage.prev"
 				@click="fetchData(resultData.previous)"
-			>
-				Prev
-			</button>
-			<button
-				class="button button--xs"
+			/>
+			<UIButton
+				button-text="Next"
+				button-size="xs"
 				:disabled="!resultPage.next"
 				@click="fetchData(resultData.next)"
-			>
-				Next
-			</button>
+			/>
 		</span>
 	</div>
 </template>
 
 <script>
+	import UIButton from "@/components/UI/UIButton";
+
 	export default {
 		"name": "UISectionNavigation",
+		"components": {
+			UIButton,
+		},
 		"props": {
 			"resultData": {
 				"type": Object,
