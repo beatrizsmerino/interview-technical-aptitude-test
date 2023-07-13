@@ -1,8 +1,9 @@
 <template>
-	<ul>
+	<ul class="content-data">
 		<li
 			v-for="(propertyValueLevel1, propertyNameLevel1) in sortedResultValue"
 			:key="propertyNameLevel1"
+			class="content-data__item"
 		>
 			<template v-if="isListObjectObject(propertyValueLevel1)">
 				<strong>{{ propertyNameLevel1 }}:</strong>
@@ -79,3 +80,13 @@
 		},
 	};
 </script>
+
+<style lang="scss" scoped>
+	.content-data {
+		&__item {
+			&:not(:last-child) {
+				margin-bottom: 0.5rem;
+			}
+		}
+	}
+</style>
