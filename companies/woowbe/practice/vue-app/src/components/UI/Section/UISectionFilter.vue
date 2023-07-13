@@ -1,8 +1,10 @@
 <template>
-	<div>
-		<strong>Filters:</strong>
-		<ul>
-			<li>
+	<div class="filter">
+		<strong class="filter__label">
+			Filters:
+		</strong>
+		<ul class="filter__list">
+			<li class="filter__item">
 				<UISelect
 					:select-name="`${sectionName}Sector`"
 					:select-label="`Select a sector:`"
@@ -12,7 +14,7 @@
 					@update:select-selected="$emit('update:sector-selected', (sectorSelectedSaved = $event))"
 				/>
 			</li>
-			<li>
+			<li class="filter__item">
 				<UICheckbox
 					:checkbox-name="`${sectionName}Favorite`"
 					checkbox-label="Select favorites"
@@ -113,4 +115,12 @@
 	};
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+	.filter {
+		&__item {
+			&:not(:last-child) {
+				margin-bottom: 0.5rem;
+			}
+		}
+	}
+</style>
