@@ -37,7 +37,7 @@
 			</nav>
 
 			<UISectionArticle
-				v-for="(resultValue, resultIndex) in filteredResults"
+				v-for="(resultValue, resultIndex) in getFilteredResults"
 				:key="resultValue.id"
 				:result-value="resultValue"
 				:result-index="resultIndex"
@@ -112,7 +112,7 @@
 			...mapGetters([
 				"getToken",
 			]),
-			filteredResults() {
+			getFilteredResults() {
 				if (this.sectionName === "business") {
 					return this.filterResultsBusiness(this.resultData.results);
 				}

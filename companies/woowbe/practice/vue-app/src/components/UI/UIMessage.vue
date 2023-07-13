@@ -1,7 +1,7 @@
 <template>
 	<div
 		v-if="messageText && showMessage"
-		:class="messageClass"
+		:class="getMessageClass"
 	>
 		<p>
 			{{ messageText }}
@@ -28,7 +28,7 @@
 			};
 		},
 		"computed": {
-			messageClass() {
+			getMessageClass() {
 				return {
 					"message": true,
 					"message--error": this.messageStatus === "error",

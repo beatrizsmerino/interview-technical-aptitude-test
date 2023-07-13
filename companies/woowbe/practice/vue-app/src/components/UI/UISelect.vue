@@ -1,5 +1,5 @@
 <template>
-	<div :class="selectClass">
+	<div :class="getSelectClass">
 		<label
 			class="select__label"
 			:for="selectName"
@@ -63,7 +63,7 @@
 			};
 		},
 		"computed": {
-			selectClass() {
+			getSelectClass() {
 				return {
 					"select": true,
 					"select--xs": this.selectSize === "xs",

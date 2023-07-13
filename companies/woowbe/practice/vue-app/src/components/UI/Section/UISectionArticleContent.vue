@@ -1,7 +1,7 @@
 <template>
 	<ul class="content-data">
 		<li
-			v-for="(propertyValueLevel1, propertyNameLevel1) in sortedResultValue"
+			v-for="(propertyValueLevel1, propertyNameLevel1) in getSortedResultValue"
 			:key="propertyNameLevel1"
 			class="content-data__item"
 		>
@@ -69,7 +69,7 @@
 			};
 		},
 		"computed": {
-			sortedResultValue() {
+			getSortedResultValue() {
 				return this.sortProperties(this.resultValueSaved);
 			},
 		},

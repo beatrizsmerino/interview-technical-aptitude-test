@@ -17,7 +17,7 @@
 			</thead>
 			<tbody class="table__body">
 				<tr
-					v-for="(tableRow, tableIndex) in tableRowList"
+					v-for="(tableRow, tableIndex) in getTableRowList"
 					:key="getRowKey(tableRow, tableIndex)"
 					class="table__row table__row--body"
 				>
@@ -65,7 +65,7 @@
 
 				return [];
 			},
-			tableRowList() {
+			getTableRowList() {
 				return Array.isArray(this.tableData) ? this.tableData : [
 					this.tableData,
 				];

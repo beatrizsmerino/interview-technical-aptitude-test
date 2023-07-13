@@ -1,7 +1,7 @@
 <template>
 	<a
 		:href="linkUrl"
-		:class="linkClass"
+		:class="getLinkClass"
 		target="_blank"
 		rel="noopener noreferrer"
 	>
@@ -27,7 +27,7 @@
 			},
 		},
 		"computed": {
-			linkClass() {
+			getLinkClass() {
 				return {
 					"link": true,
 					"link--vue": this.linkModifier === "vue",

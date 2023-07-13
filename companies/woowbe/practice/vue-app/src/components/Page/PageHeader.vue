@@ -3,7 +3,7 @@
 		<nav class="nav">
 			<ul class="nav__list">
 				<li
-					v-for="link in filteredLinkList"
+					v-for="link in getFilteredLinkList"
 					:key="link.id"
 					class="nav__item"
 				>
@@ -57,7 +57,7 @@
 			getLinkList() {
 				return this.linkList;
 			},
-			filteredLinkList() {
+			getFilteredLinkList() {
 				if (!this.getLoggedIn) {
 					if (this.$route.path == "/account") {
 						this.$router.push("/login");

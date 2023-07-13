@@ -1,6 +1,6 @@
 <template>
 	<footer class="page__footer">
-		{{ copyright }}
+		{{ getCopyright }}
 	</footer>
 </template>
 
@@ -13,7 +13,7 @@
 			};
 		},
 		"computed": {
-			copyright() {
+			getCopyright() {
 				return `© ${this.currentYear} - Todos los derechos reservados`;
 			},
 		},

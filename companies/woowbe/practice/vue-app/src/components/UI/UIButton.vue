@@ -1,6 +1,6 @@
 <template>
 	<button
-		:class="buttonClass"
+		:class="getButtonClass"
 		:disabled="disabled"
 		@click="handleClick"
 	>
@@ -26,7 +26,7 @@
 			},
 		},
 		"computed": {
-			buttonClass() {
+			getButtonClass() {
 				return {
 					"button": true,
 					"button--xs": this.buttonSize === "xs",
