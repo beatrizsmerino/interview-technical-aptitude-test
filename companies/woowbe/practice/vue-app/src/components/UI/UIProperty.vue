@@ -1,10 +1,7 @@
 <template>
 	<component
 		:is="getPropertyHtmlTag"
-		:class="{
-			'property': true,
-			'property--reverse': !propertyParagraph,
-		}"
+		:class="propertyClass"
 	>
 		<strong v-if="propertyName && propertyParagraph">
 			{{ propertyName }}:
@@ -126,6 +123,12 @@
 			},
 			getImageDefault() {
 				return imageDefault;
+			},
+			propertyClass() {
+				return {
+					"property": true,
+					"property--reverse": !this.propertyParagraph,
+				};
 			},
 		},
 	};

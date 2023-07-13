@@ -1,13 +1,7 @@
 <template>
 	<div
 		v-if="messageText && showMessage"
-		:class="{
-			'message': true,
-			'message--error': messageStatus === 'error',
-			'message--success': messageStatus === 'success',
-			'message--info': messageStatus === 'info',
-			'is-animate': showMessage === true,
-		}"
+		:class="messageClass"
 	>
 		<p>
 			{{ messageText }}
@@ -32,6 +26,17 @@
 			return {
 				"showMessage": true,
 			};
+		},
+		"computed": {
+			messageClass() {
+				return {
+					"message": true,
+					"message--error": this.messageStatus === "error",
+					"message--success": this.messageStatus === "success",
+					"message--info": this.messageStatus === "info",
+					"is-animate": this.showMessage === true,
+				};
+			},
 		},
 		mounted() {
 			setTimeout(() => {
