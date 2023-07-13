@@ -31,7 +31,7 @@
 	import UIMessage from "@/components/UI/UIMessage";
 
 	export default {
-		"name": "AccountView",
+		"name": "ViewAccount",
 		"components": {
 			PageTitle,
 			SectionBusiness,

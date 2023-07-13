@@ -10,7 +10,7 @@
 	import SectionLogin from "@/components/Section/SectionLogin";
 
 	export default {
-		"name": "LoginView",
+		"name": "ViewLogin",
 		"components": {
 			PageTitle,
 			SectionLogin,

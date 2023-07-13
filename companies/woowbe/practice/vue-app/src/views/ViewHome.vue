@@ -12,7 +12,7 @@
 	import SectionWelcome from "@/components/Section/SectionWelcome.vue";
 
 	export default {
-		"name": "HomeView",
+		"name": "ViewHome",
 		"components": {
 			SectionWelcome,
 		},

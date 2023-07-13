@@ -8,7 +8,7 @@
 	import PageTitle from "@/components/Page/PageTitle";
 
 	export default {
-		"name": "AboutView",
+		"name": "ViewAbout",
 		"components": {
 			PageTitle,
 		},
