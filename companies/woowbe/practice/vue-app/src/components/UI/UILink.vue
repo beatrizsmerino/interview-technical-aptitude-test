@@ -1,7 +1,7 @@
 <template>
 	<a
 		:href="linkUrl"
-		class="link"
+		:class="linkClass"
 		target="_blank"
 		rel="noopener noreferrer"
 	>
@@ -20,6 +20,18 @@
 			"linkText": {
 				"type": String,
 				"required": true,
+			},
+			"linkModifier": {
+				"type": String,
+				"default": "",
+			},
+		},
+		"computed": {
+			linkClass() {
+				return {
+					"link": true,
+					"link--vue": this.linkModifier === "vue",
+				};
 			},
 		},
 	};
@@ -67,6 +79,21 @@
 				width: 102%;
 				transform: translate(-50%, -50%);
 				background-color: mix($color-white, $color-brand-3, 50%);
+			}
+		}
+
+		&--vue {
+			background-image: linear-gradient(to right, $color-brand-vue-2, $color-brand-vue-1 50%, $color-brand-vue-1 50%);
+			color: $color-brand-vue-1;
+
+			&:after {
+				background-color: $color-brand-vue-4;
+			}
+
+			&:hover {
+				&:after {
+					background-color: mix($color-white, $color-brand-vue-4, 50%);
+				}
 			}
 		}
 	}

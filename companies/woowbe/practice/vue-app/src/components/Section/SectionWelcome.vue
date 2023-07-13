@@ -7,6 +7,7 @@
 			<br >
 			check out the
 			<UILink
+				link-modifier="vue"
 				link-url="https://cli.vuejs.org"
 				link-text="vue-cli documentation"
 			/>
@@ -16,24 +17,28 @@
 		<ul>
 			<li>
 				<UILink
+					link-modifier="vue"
 					link-url="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel"
 					link-text="babel"
 				/>
 			</li>
 			<li>
 				<UILink
+					link-modifier="vue"
 					link-url="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-router"
 					link-text="router"
 				/>
 			</li>
 			<li>
 				<UILink
+					link-modifier="vue"
 					link-url="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-vuex"
 					link-text="vuex"
 				/>
 			</li>
 			<li>
 				<UILink
+					link-modifier="vue"
 					link-url="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint"
 					link-text="eslint"
 				/>
@@ -43,30 +48,35 @@
 		<ul>
 			<li>
 				<UILink
+					link-modifier="vue"
 					link-url="https://vuejs.org"
 					link-text="Core Docs"
 				/>
 			</li>
 			<li>
 				<UILink
+					link-modifier="vue"
 					link-url="https://forum.vuejs.org"
 					link-text="Forum"
 				/>
 			</li>
 			<li>
 				<UILink
+					link-modifier="vue"
 					link-url="https://chat.vuejs.org"
 					link-text="Community Chat"
 				/>
 			</li>
 			<li>
 				<UILink
+					link-modifier="vue"
 					link-url="https://twitter.com/vuejs"
 					link-text="Twitter"
 				/>
 			</li>
 			<li>
 				<UILink
+					link-modifier="vue"
 					link-url="https://news.vuejs.org"
 					link-text="News"
 				/>
@@ -76,30 +86,35 @@
 		<ul>
 			<li>
 				<UILink
+					link-modifier="vue"
 					link-url="https://router.vuejs.org"
 					link-text="vue-router"
 				/>
 			</li>
 			<li>
 				<UILink
+					link-modifier="vue"
 					link-url="https://vuex.vuejs.org"
 					link-text="vuex"
 				/>
 			</li>
 			<li>
 				<UILink
+					link-modifier="vue"
 					link-url="https://github.com/vuejs/vue-devtools#vue-devtools"
 					link-text="vue-devtools"
 				/>
 			</li>
 			<li>
 				<UILink
+					link-modifier="vue"
 					link-url="https://vue-loader.vuejs.org"
 					link-text="vue-loader"
 				/>
 			</li>
 			<li>
 				<UILink
+					link-modifier="vue"
 					link-url="https://github.com/vuejs/awesome-vue"
 					link-text="awesome-vue"
 				/>
