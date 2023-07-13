@@ -40,6 +40,7 @@
 <style lang="scss" scoped>
 	.link {
 		position: relative;
+		z-index: 2;
 		transition: all 0.333s;
 		background-clip: text;
 		background-image: linear-gradient(
