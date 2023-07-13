@@ -82,6 +82,7 @@
 <style lang="scss" scoped>
 	.table {
 		border-collapse: collapse;
+		border-bottom: 0.3rem solid $color-brand-2;
 
 		&__wrapper {
 			max-width: fit-content;
@@ -113,7 +114,7 @@
 				}
 
 				&:nth-child(odd) {
-					background-color: $color-light;
+					background-color: $color-white;
 
 					&:hover {
 						background-color: mix($color-white, $color-brand-1, 10%);
