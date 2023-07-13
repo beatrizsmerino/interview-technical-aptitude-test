@@ -6,148 +6,103 @@
 			For a guide and recipes on how to configure / customize this project,
 			<br >
 			check out the
-			<a
-				href="https://cli.vuejs.org"
-				target="_blank"
-				rel="noopener"
-			>
-				vue-cli documentation
-			</a>
+			<UILink
+				link-url="https://cli.vuejs.org"
+				link-text="vue-cli documentation"
+			/>
 			.
 		</p>
 		<h3>Installed CLI Plugins</h3>
 		<ul>
 			<li>
-				<a
-					href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel"
-					target="_blank"
-					rel="noopener"
-				>
-					babel
-				</a>
+				<UILink
+					link-url="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel"
+					link-text="babel"
+				/>
 			</li>
 			<li>
-				<a
-					href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-router"
-					target="_blank"
-					rel="noopener"
-				>
-					router
-				</a>
+				<UILink
+					link-url="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-router"
+					link-text="router"
+				/>
 			</li>
 			<li>
-				<a
-					href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-vuex"
-					target="_blank"
-					rel="noopener"
-				>
-					vuex
-				</a>
+				<UILink
+					link-url="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-vuex"
+					link-text="vuex"
+				/>
 			</li>
 			<li>
-				<a
-					href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint"
-					target="_blank"
-					rel="noopener"
-				>
-					eslint
-				</a>
+				<UILink
+					link-url="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint"
+					link-text="eslint"
+				/>
 			</li>
 		</ul>
 		<h3>Essential Links</h3>
 		<ul>
 			<li>
-				<a
-					href="https://vuejs.org"
-					target="_blank"
-					rel="noopener"
-				>
-					Core Docs
-				</a>
+				<UILink
+					link-url="https://vuejs.org"
+					link-text="Core Docs"
+				/>
 			</li>
 			<li>
-				<a
-					href="https://forum.vuejs.org"
-					target="_blank"
-					rel="noopener"
-				>
-					Forum
-				</a>
+				<UILink
+					link-url="https://forum.vuejs.org"
+					link-text="Forum"
+				/>
 			</li>
 			<li>
-				<a
-					href="https://chat.vuejs.org"
-					target="_blank"
-					rel="noopener"
-				>
-					Community Chat
-				</a>
+				<UILink
+					link-url="https://chat.vuejs.org"
+					link-text="Community Chat"
+				/>
 			</li>
 			<li>
-				<a
-					href="https://twitter.com/vuejs"
-					target="_blank"
-					rel="noopener"
-				>
-					Twitter
-				</a>
+				<UILink
+					link-url="https://twitter.com/vuejs"
+					link-text="Twitter"
+				/>
 			</li>
 			<li>
-				<a
-					href="https://news.vuejs.org"
-					target="_blank"
-					rel="noopener"
-				>
-					News
-				</a>
+				<UILink
+					link-url="https://news.vuejs.org"
+					link-text="News"
+				/>
 			</li>
 		</ul>
 		<h3>Ecosystem</h3>
 		<ul>
 			<li>
-				<a
-					href="https://router.vuejs.org"
-					target="_blank"
-					rel="noopener"
-				>
-					vue-router
-				</a>
+				<UILink
+					link-url="https://router.vuejs.org"
+					link-text="vue-router"
+				/>
 			</li>
 			<li>
-				<a
-					href="https://vuex.vuejs.org"
-					target="_blank"
-					rel="noopener"
-				>
-					vuex
-				</a>
+				<UILink
+					link-url="https://vuex.vuejs.org"
+					link-text="vuex"
+				/>
 			</li>
 			<li>
-				<a
-					href="https://github.com/vuejs/vue-devtools#vue-devtools"
-					target="_blank"
-					rel="noopener"
-				>
-					vue-devtools
-				</a>
+				<UILink
+					link-url="https://github.com/vuejs/vue-devtools#vue-devtools"
+					link-text="vue-devtools"
+				/>
 			</li>
 			<li>
-				<a
-					href="https://vue-loader.vuejs.org"
-					target="_blank"
-					rel="noopener"
-				>
-					vue-loader
-				</a>
+				<UILink
+					link-url="https://vue-loader.vuejs.org"
+					link-text="vue-loader"
+				/>
 			</li>
 			<li>
-				<a
-					href="https://github.com/vuejs/awesome-vue"
-					target="_blank"
-					rel="noopener"
-				>
-					awesome-vue
-				</a>
+				<UILink
+					link-url="https://github.com/vuejs/awesome-vue"
+					link-text="awesome-vue"
+				/>
 			</li>
 		</ul>
 	</div>
@@ -155,11 +110,13 @@
 
 <script>
 	import PageTitle from "@/components/Page/PageTitle";
+	import UILink from "@/components/UI/UILink";
 
 	export default {
 		"name": "SectionWellcome",
 		"components": {
 			PageTitle,
+			UILink,
 		},
 		"props": {
 			"pageTitle": String,

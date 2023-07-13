@@ -37,10 +37,6 @@
 	//----------------------------------------------------------------------
 	@import "./assets/scss/base/base-reset";
 
-	// COMPONETS
-	//----------------------------------------------------------------------
-	@import "./assets/scss/components/components-link";
-
 	body {
 		margin: 0;
 	}

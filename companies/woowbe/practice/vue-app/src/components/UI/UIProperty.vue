@@ -59,14 +59,12 @@
 				v-else-if="isLink(propertyValue)"
 				class="property__link"
 			>
-				<a
-					class="link"
-					:href="propertyValue"
+				<UILink
+					:link-url="propertyValue"
+					:link-text="propertyValue"
 					target="_blank"
 					rel="noopener noreferrer"
-				>
-					{{ propertyValue }}
-				</a>
+				/>
 			</span>
 			<span v-else>
 				{{ propertyValue }}
@@ -81,9 +79,13 @@
 <script>
 	import iconDefault from "@/assets/icons/icon-default.svg";
 	import imageDefault from "@/assets/images/image-default.jpg";
+	import UILink from "@/components/UI/UILink";
 
 	export default {
 		"name": "UIProperty",
+		"component": {
+			UILink,
+		},
 		"props": {
 			"propertyParagraph": {
 				"type": Boolean,
