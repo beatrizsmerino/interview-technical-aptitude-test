@@ -81,6 +81,7 @@
 <style lang="scss" scoped>
 	.select {
 		display: flex;
+		flex-wrap: wrap;
 		align-items: center;
 
 		&__label {
