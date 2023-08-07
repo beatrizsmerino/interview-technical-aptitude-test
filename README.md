@@ -1,3 +1,10 @@
+![GitHub dependabot](https://img.shields.io/badge/dependabot-enabled-025e8c?logo=Dependabot)
+![GitHub last commit](https://img.shields.io/github/last-commit/beatrizsmerino/interview-technical-aptitude-test)
+![GitHub issues](https://img.shields.io/github/issues/beatrizsmerino/interview-technical-aptitude-test)
+![GitHub forks](https://img.shields.io/github/forks/beatrizsmerino/interview-technical-aptitude-test)
+![GitHub stars](https://img.shields.io/github/stars/beatrizsmerino/interview-technical-aptitude-test)
+![GitHub watchers](https://img.shields.io/github/watchers/beatrizsmerino/interview-technical-aptitude-test)
+
 # Technical aptitude tests for interviews
 
 ![Technical aptitude tests](./README/images/interview-technical-aptitude-test.png)
