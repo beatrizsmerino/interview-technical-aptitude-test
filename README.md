@@ -7,7 +7,7 @@
 
 # Technical aptitude tests for interviews
 
-![Technical aptitude tests](./README/images/interview-technical-aptitude-test.png)
+![Technical aptitude tests](./README/images/interview-technical-aptitude-test.jpg)
 
 ## 🎯 Description
 
